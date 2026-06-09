@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-09T08:37:37.834777+00:00",
+  "scraped_at": "2026-06-09T09:28:51.368954+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,260 +17,295 @@
       "fixtures": [],
       "events": [
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "03:00",
           "name": "PERU - SPAIN",
           "datetime": "2026-06-09 03:00:00",
           "channels": [
-            "FOX SPORTS 2",
-            "SPORT | USA & CANADA",
-            "Sources: R",
-            "DAZN CANADA",
-            "SPORT | DAZN"
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "14:00",
           "name": "GERMANY U19 - USA U19",
           "datetime": "2026-06-09 14:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "14:00",
           "name": "INDONESIA - MOZAMBIQUE",
           "datetime": "2026-06-09 14:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "16:00",
           "name": "LATVIA - FAROE ISLANDS",
           "datetime": "2026-06-09 16:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "17:00",
           "name": "ARMENIA - MOLDOVA",
           "datetime": "2026-06-09 17:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "17:00",
           "name": "SLOVENIA - GERMANY",
           "datetime": "2026-06-09 17:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "17:30",
           "name": "BELARUS - BURKINA FASO",
           "datetime": "2026-06-09 17:30:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "18:00",
           "name": "HUNGARY - KAZAKHSTAN",
           "datetime": "2026-06-09 18:00:00",
           "channels": [
-            "FOX SPORTS 2",
-            "SPORT | USA & CANADA",
-            "Sources: R",
-            "DAZN CANADA",
-            "SPORT | DAZN"
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "19:00",
           "name": "AZERBAIJAN - SAN MARINO",
           "datetime": "2026-06-09 19:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "00:00",
           "name": "ATLéTICO OTTAWA - SUPRA DU QUEBEC",
           "datetime": "2026-06-10 00:00:00",
           "channels": []
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "00:00",
           "name": "PARAGUAY - COLOMBIA",
           "datetime": "2026-06-10 00:00:00",
           "channels": []
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "03:05",
           "name": "ATHLETICS - MILWAUKEE BREWERS",
           "datetime": "2026-06-09 03:05:00",
           "channels": [
-            "FOX",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:35",
           "name": "BALTIMORE ORIOLES - SEATTLE MARINERS",
           "datetime": "2026-06-09 23:35:00",
           "channels": [
-            "MASN",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "CLEVELAND GUARDIANS - NEW YORK YANKEES",
           "datetime": "2026-06-09 23:40:00",
           "channels": [
-            "TBS",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TBS",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "PITTSBURGH PIRATES - LOS ANGELES DODGERS",
           "datetime": "2026-06-09 23:40:00",
           "channels": [
-            "SPORTSNET LA",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "SPORTSNET LA",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "TAMPA BAY RAYS - BOSTON RED SOX",
           "datetime": "2026-06-09 23:40:00",
           "channels": [
-            "NESN",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "00:10",
           "name": "NEW YORK METS - ST. LOUIS CARDINALS",
           "datetime": "2026-06-10 00:10:00",
           "channels": []
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "01:30",
           "name": "NEW YORK KNICKS - SAN ANTONIO SPURS",
           "datetime": "2026-06-09 01:30:00",
           "channels": [
-            "ABC",
-            "TV | USA & CANADA",
-            "Sources: R",
-            "ESPN",
-            "SPORT | USA & CANADA",
-            "TSN 1",
-            "TSN 3",
-            "TSN 4"
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "03:00",
           "name": "LAS VEGAS ACES - SEATTLE STORM",
           "datetime": "2026-06-09 03:00:00",
           "channels": [
-            "USA NETWORK",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "19:00",
           "name": "BARCELONA - TENERIFE",
           "datetime": "2026-06-09 19:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "00:00",
           "name": "CHICAGO SKY - ATLANTA DREAM",
           "datetime": "2026-06-10 00:00:00",
           "channels": []
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "11:00",
           "name": "WTA & ATP TOURNAMENTS",
           "datetime": "2026-06-09 11:00:00",
           "channels": [
-            "TENNIS CHANNEL",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "13:00",
           "name": "THE HSBC CHAMPIONSHIPS",
           "datetime": "2026-06-09 13:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "17:30",
           "name": "THE HSBC CHAMPIONSHIPS",
           "datetime": "2026-06-09 17:30:00",
           "channels": [
-            "TENNIS CHANNEL",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         }
       ]
@@ -283,205 +318,232 @@
       "fixtures": [],
       "events": [
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "01:30",
           "name": "BRAZIL - UNITED STATES",
           "datetime": "2026-06-10 01:30:00",
           "channels": [
-            "TNT US",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TNT US",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "02:00",
           "name": "ARGENTINA - ICELAND",
           "datetime": "2026-06-10 02:00:00",
           "channels": [
-            "ESPN",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "02:30",
           "name": "COSTA RICA - CANADA",
           "datetime": "2026-06-10 02:30:00",
           "channels": [
-            "TSN 1",
-            "SPORT | USA & CANADA",
-            "Sources: R",
-            "TSN 3",
-            "TSN 4",
-            "TSN 5"
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "20:45",
           "name": "PORTUGAL - NIGERIA",
           "datetime": "2026-06-10 20:45:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "21:00",
           "name": "ENGLAND - COSTA RICA",
           "datetime": "2026-06-10 21:00:00",
           "channels": [
-            "FOX SPORTS 2",
-            "SPORT | USA & CANADA",
-            "Sources: R",
-            "DAZN CANADA",
-            "SPORT | DAZN"
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "⚽ FOOTBALL",
+          "sport": "FOOTBALL",
           "time": "00:00",
           "name": "FORGE - HFX WANDERERS",
           "datetime": "2026-06-11 00:00:00",
           "channels": []
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "18:10",
           "name": "CLEVELAND GUARDIANS - NEW YORK YANKEES",
           "datetime": "2026-06-10 18:10:00",
           "channels": [
-            "YES",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "YES",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "18:10",
           "name": "TAMPA BAY RAYS - BOSTON RED SOX",
           "datetime": "2026-06-10 18:10:00",
           "channels": [
-            "NESN",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:35",
           "name": "BALTIMORE ORIOLES - SEATTLE MARINERS",
           "datetime": "2026-06-10 23:35:00",
           "channels": [
-            "MASN",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "PITTSBURGH PIRATES - LOS ANGELES DODGERS",
           "datetime": "2026-06-10 23:40:00",
           "channels": [
-            "SPORTSNET LA",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "SPORTSNET LA",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "⚾ BASEBALL",
+          "sport": "BASEBALL",
           "time": "00:10",
           "name": "NEW YORK METS - ST. LOUIS CARDINALS",
           "datetime": "2026-06-11 00:10:00",
           "channels": []
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "19:00",
           "name": "VALENCIA - JOVENTUT BADALONA",
           "datetime": "2026-06-10 19:00:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "🏀 BASKETBALL",
+          "sport": "BASKETBALL",
           "time": "00:00",
           "name": "TORONTO TEMPO - CONNECTICUT SUN",
           "datetime": "2026-06-11 00:00:00",
           "channels": []
         },
         {
-          "sport": "🏒 ICE HOCKEY",
+          "sport": "ICE HOCKEY",
           "time": "01:00",
           "name": "VEGAS GOLDEN KNIGHTS - CAROLINA HURRICANES",
           "datetime": "2026-06-10 01:00:00",
           "channels": [
-            "ABC",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🥎 SOFTBALL",
+          "sport": "SOFTBALL",
           "time": "23:00",
           "name": "OKLAHOMA CITY SPARK - TEXAS VOLTS",
           "datetime": "2026-06-10 23:00:00",
           "channels": [
-            "YES",
-            "TV | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "YES",
+              "category": "TV | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "10:00",
           "name": "WTA & ATP TOURNAMENTS",
           "datetime": "2026-06-10 10:00:00",
           "channels": [
-            "TENNIS CHANNEL",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "11:00",
           "name": "WTA & ATP TOURNAMENTS",
           "datetime": "2026-06-10 11:00:00",
           "channels": [
-            "TENNIS CHANNEL",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "11:30",
           "name": "THE HSBC CHAMPIONSHIPS",
           "datetime": "2026-06-10 11:30:00",
           "channels": [
-            "DAZN CANADA",
-            "SPORT | DAZN",
-            "Sources: R"
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
           ]
         },
         {
-          "sport": "🎾 TENNIS",
+          "sport": "TENNIS",
           "time": "19:00",
           "name": "WTA & ATP TOURNAMENTS",
           "datetime": "2026-06-10 19:00:00",
           "channels": [
-            "TENNIS CHANNEL",
-            "SPORT | USA & CANADA",
-            "Sources: R"
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
           ]
         }
       ]
