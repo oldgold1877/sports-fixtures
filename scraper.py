@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-CrispFiles Fixtures Scraper - DEBUG v2
-Dumps raw content of first category to diagnose fixture line format
+CrispFiles Fixtures Scraper - DEBUG v3
+Dumps the full HTML/JS of the fixtures list page to find the AJAX handler
 """
 
 import requests
@@ -10,11 +10,10 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
 
 LOGIN_URL     = "https://dashboard.crispfiles.com/index.php"
 FIXTURES_URL  = "https://dashboard.crispfiles.com/fixtures/list.php"
-FIXTURES_BASE = "https://dashboard.crispfiles.com/fixtures/"
+BASE_URL      = "https://dashboard.crispfiles.com"
 
 USERNAME = os.environ.get("CRISPFILES_USERNAME", "")
 PASSWORD = os.environ.get("CRISPFILES_PASSWORD", "")
@@ -47,7 +46,7 @@ def login(session):
             if n:
                 payload[n] = inp.get("value", "")
         if form.get("action"):
-            post_url = "https://dashboard.crispfiles.com/" + form["action"].lstrip("/")
+            post_url = BASE_URL + "/" + form["action"].lstrip("/")
     payload["username"] = USERNAME
     payload["password"] = PASSWORD
     r2 = session.post(post_url, data=payload, timeout=20, allow_redirects=True)
@@ -61,52 +60,27 @@ def main():
     session = make_session()
     login(session)
 
-    # Get category list
     r = session.get(FIXTURES_URL, timeout=20)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    categories = []
-    for el in soup.find_all(onclick=True):
-        match = re.search(r"loadFixtureContent\('(.+?)'\)", el["onclick"])
-        if match:
-            filename = match.group(1)
-            name = el.get_text(strip=True)
-            url = FIXTURES_BASE + requests.utils.quote(filename)
-            categories.append({"name": name, "url": url})
+    # Print ALL script tag contents so we can see loadFixtureContent() definition
+    print("=== ALL <script> BLOCKS ===")
+    for i, script in enumerate(soup.find_all("script")):
+        src = script.get("src")
+        if src:
+            # External script — fetch it
+            full_src = src if src.startswith("http") else BASE_URL + "/" + src.lstrip("/")
+            print(f"\n--- External script {i}: {full_src} ---")
+            try:
+                rs = session.get(full_src, timeout=20)
+                print(rs.text[:5000])
+            except Exception as e:
+                print(f"  Could not fetch: {e}")
+        else:
+            print(f"\n--- Inline script {i} ---")
+            print(script.string or "(empty)")
 
-    print(f"Found {len(categories)} categories\n")
-
-    # Debug: dump raw response for GAA PLUS (we know it has content from your screenshot)
-    # and also LIVE EVENTS
-    for debug_cat in ["GAA PLUS", "LIVE EVENTS"]:
-        cat = next((c for c in categories if c["name"] == debug_cat), None)
-        if not cat:
-            continue
-
-        print(f"{'='*60}")
-        print(f"DEBUG: {cat['name']}")
-        print(f"URL: {cat['url']}")
-        print(f"{'='*60}")
-
-        r = session.get(cat["url"], timeout=20)
-        print(f"Status: {r.status_code}")
-        print(f"Content-Type: {r.headers.get('Content-Type','')}")
-        print(f"Response length: {len(r.text)} chars")
-        print(f"\n--- RAW RESPONSE (first 3000 chars) ---")
-        print(r.text[:3000])
-        print(f"\n--- END RAW ---\n")
-
-        # Also show it as extracted text lines
-        soup2 = BeautifulSoup(r.text, "html.parser")
-        for el in soup2.find_all(["nav","header","footer","script","style"]):
-            el.decompose()
-        lines = [l.strip() for l in soup2.get_text(separator="\n").splitlines() if l.strip()]
-        print(f"--- EXTRACTED TEXT LINES ({len(lines)} lines) ---")
-        for line in lines:
-            print(f"  {repr(line)}")
-        print(f"--- END LINES ---\n")
-
-    print("DEBUG COMPLETE")
+    print("\n=== END SCRIPTS ===")
 
 
 if __name__ == "__main__":
