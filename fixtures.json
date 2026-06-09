@@ -1,9 +1,28 @@
 {
-  "scraped_at": "2026-06-09T07:39:29.622388+00:00",
+  "scraped_at": "2026-06-09T07:49:22.879610+00:00",
   "categories": [
+    {
+      "name": "LIVE EVENTS",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "TODAYS EVENTS",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "TOMORROWS EVENTS",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
     {
       "name": "UHD EVENTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Sky Sports F1 UHD - IndyCar Series Racing - Bommarito Automotive Group 500: Race - Mon 08/06 11:00pm UK // Mon 08/06 6:00pm ET // Mon 08/06 3:00pm PT",
         "Sky Sports Main Event UHD - Live: WNBA Basketball - Commissioner's Cup: Indiana Fever at Washington Mystics - Tue 09/06 12:00am UK // Mon 08/06 7:00pm ET // Mon 08/06 4:00pm PT",
@@ -16,8 +35,39 @@
       ]
     },
     {
+      "name": "BBC RED BUTTON",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "CLUBBER TV",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "DAZN CA",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "DAZN UK",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
+      "name": "ESPN PLUS",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
       "name": "EURO LEAGUE BASKETBALL",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Euro Basketball League 01 : Finals Game 01: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Thu 11/06 07:00pm UK // Thu 11/06 02:00pm ET // Thu 11/06 11:00am PT"
       ]
@@ -25,6 +75,7 @@
     {
       "name": "GAA PLUS",
       "last_updated": "Last Updated: Tue Jun 09, 2026 7:00am BST",
+      "status": "ok",
       "fixtures": [
         "GAA Plus 01: All-Ireland Football Championship Round 2A - MONAGHAN v ROSCOMMON - Sat 13/06 4:30pm UK // Sat 13/06 11:30am ET // Sat 13/06 8:30am",
         "GAA Plus 02: All-Ireland Football Championship Round 2A - DERRY v MEATH - Sat 13/06 7:00pm UK // Sat 13/06 2:00pm ET // Sat 13/06 11:00am",
@@ -37,6 +88,7 @@
     {
       "name": "LOI EVENTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "LOI 1 : Derry City v Bohemians (SSE Airtricity Men's Premier Division) - Fri 12/06 7:30pm UK // Fri 12/06 3:30pm ET // Fri 12/06 12:30pm PT",
         "LOI 2 : Galway United v Dundalk (SSE Airtricity Men's Premier Division) - Fri 12/06 7:30pm UK // Fri 12/06 3:30pm ET // Fri 12/06 12:30pm PT",
@@ -52,6 +104,7 @@
     {
       "name": "MLB EVENTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "MLB 01 : Mariners at Orioles (Home coverage from MASN) - Tue 09/06 11:35pm UK // Tue 09/06 06:35pm ET // Tue 09/06 03:35pm PT",
         "MLB 01 : Mariners at Orioles (Away coverage from SEAM) - Tue 09/06 11:35pm UK // Tue 09/06 06:35pm ET // Tue 09/06 03:35pm PT",
@@ -132,8 +185,33 @@
       ]
     },
     {
+      "name": "MLS EVENTS",
+      "last_updated": "",
+      "status": "unavailable",
+      "fixtures": []
+    },
+    {
+      "name": "NBA EVENTS",
+      "last_updated": "",
+      "status": "unavailable",
+      "fixtures": []
+    },
+    {
+      "name": "NFL EVENTS",
+      "last_updated": "",
+      "status": "unavailable",
+      "fixtures": []
+    },
+    {
+      "name": "NHL TV",
+      "last_updated": "",
+      "status": "unavailable",
+      "fixtures": []
+    },
+    {
       "name": "PDC DARTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "PDC Darts 1 : World Cup of Darts | Day 1 -  Evening Session - World Cup of Darts - Main Feed - Thu 11/06 6:00pm UK // Thu 11/06 1:00pm ET // Thu 11/06 10:00am PT",
         "PDC Darts 1 : World Cup of Darts | Day 2 - Afternoon Session - World Cup of Darts - Main Feed - Fri 12/06 12:00pm UK // Fri 12/06 7:00am ET // Fri 12/06 4:00am PT",
@@ -145,6 +223,7 @@
     {
       "name": "PEACOCK EVENTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Peacock 1 : Tour Auvergne-Rhône-Alpes: Stage 3 (Cycling) - Tue 09/06 2:00pm UK // Tue 09/06 9:00am ET // Tue 09/06 6:00am PT",
         "Peacock 1 : USA vs. Brazil (Español) (Soccer) - Wed 10/06 1:00am UK // Tue 09/06 8:00pm ET // Tue 09/06 5:00pm PT",
@@ -179,6 +258,7 @@
     {
       "name": "PEACOCK 4K",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Peacock4K 1 : México v. Sudáfrica (Soccer) - Thu 11/06 7:30pm UK // Thu 11/06 2:30pm ET // Thu 11/06 11:30am PT"
       ]
@@ -186,6 +266,7 @@
     {
       "name": "RUGBY EVENTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Super League Rugby 1 : St Helens v Warrington Wolves (Round 14  Betfred Super League) - Thu 11/06 8:00pm UK // Thu 11/06 3:00pm ET // Thu 11/06 12:00pm PT",
         "Super League Rugby 1 : Toulouse Olympique v Leeds Rhinos (Round 14  Betfred Super League) - Fri 12/06 6:00pm UK // Fri 12/06 1:00pm ET // Fri 12/06 10:00am PT",
@@ -194,8 +275,15 @@
       ]
     },
     {
+      "name": "SKY SPORTS PLUS",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": []
+    },
+    {
       "name": "STAN SPORTS",
       "last_updated": "",
+      "status": "ok",
       "fixtures": [
         "Stan 01 : London: Day 2 - WTA 500 - Tue 09/06 1:00pm UK // Tue 09/06 8:00am ET // Tue 09/06 5:00am PT",
         "Stan 01 : London: Day 3 - WTA 500 - Wed 10/06 11:30am UK // Wed 10/06 6:30am ET // Wed 10/06 3:30am PT",
@@ -254,6 +342,18 @@
         "Stan 03 : Fijian Drua v Brumbies - Super Rugby Women's Round 3 2026 - Sat 20/06 3:00am UK // Fri 19/06 10:00pm ET // Fri 19/06 7:00pm PT",
         "Stan 04 : Qualifying: Sanya - Formula E 2025/26 - Sat 20/06 3:30am UK // Fri 19/06 10:30pm ET // Fri 19/06 7:30pm PT"
       ]
+    },
+    {
+      "name": "TRILLER TV",
+      "last_updated": "",
+      "status": "unavailable",
+      "fixtures": []
+    },
+    {
+      "name": "UFC EVENTS",
+      "last_updated": "",
+      "status": "timeout",
+      "fixtures": []
     }
   ]
 }
