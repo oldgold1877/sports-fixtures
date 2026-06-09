@@ -1,24 +1,23 @@
 #!/usr/bin/env python3
 """
-CrispFiles Fixtures Scraper - FINAL v3
-- Includes ALL 25 categories in output (empty ones show "no fixtures" message)
-- Handles HTTP 500s, timeouts gracefully
-- Timeout 45s
+CrispFiles Fixtures Scraper - FINAL v4
+Handles two page formats:
+  A) Plain text fixture lines (e.g. GAA PLUS, MLB EVENTS)
+  B) Event-grid format with sport sections + AJAX channel lookup (e.g. TODAYS EVENTS)
 """
 
 import requests
 from bs4 import BeautifulSoup
-import json
-import os
-import re
-import sys
+import json, os, re, sys, base64
 from datetime import datetime, timezone
 from urllib.parse import quote
+import time
 
-LOGIN_URL     = "https://dashboard.crispfiles.com/index.php"
-FIXTURES_URL  = "https://dashboard.crispfiles.com/fixtures/list.php"
-LOADER_URL    = "https://dashboard.crispfiles.com/fixtures/loader.php"
-BASE_URL      = "https://dashboard.crispfiles.com"
+LOGIN_URL    = "https://dashboard.crispfiles.com/index.php"
+FIXTURES_URL = "https://dashboard.crispfiles.com/fixtures/list.php"
+LOADER_URL   = "https://dashboard.crispfiles.com/fixtures/loader.php"
+AJAX_URL     = "https://dashboard.crispfiles.com/fixtures/pages/get_event_channels_ajax.php"
+BASE_URL     = "https://dashboard.crispfiles.com"
 
 USERNAME = os.environ.get("CRISPFILES_USERNAME", "")
 PASSWORD = os.environ.get("CRISPFILES_PASSWORD", "")
@@ -31,9 +30,7 @@ if not USERNAME or not PASSWORD:
 def make_session():
     s = requests.Session()
     s.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/124.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
         "Accept-Language": "en-GB,en;q=0.9",
         "Referer": FIXTURES_URL,
         "X-Requested-With": "XMLHttpRequest",
@@ -51,93 +48,186 @@ def login(session):
     if form:
         for inp in form.find_all("input"):
             n = inp.get("name")
-            if n:
-                payload[n] = inp.get("value", "")
+            if n: payload[n] = inp.get("value", "")
         if form.get("action"):
             post_url = BASE_URL + "/" + form["action"].lstrip("/")
     payload["username"] = USERNAME
     payload["password"] = PASSWORD
     r2 = session.post(post_url, data=payload, timeout=30, allow_redirects=True)
     if "dashboard login" in r2.text.lower() and "index.php" in r2.url:
-        print("      ✗ Login failed")
-        sys.exit(1)
+        print("      ✗ Login failed"); sys.exit(1)
     print("      ✓ Login successful")
 
 
 def get_categories(session):
-    print("[2/4] Reading fixture categories...")
+    print("[2/4] Reading categories...")
     r = session.get(FIXTURES_URL, timeout=30)
     if "dashboard login" in r.text.lower():
-        print("      ✗ Redirected to login")
-        sys.exit(1)
+        print("      ✗ Redirected to login"); sys.exit(1)
     soup = BeautifulSoup(r.text, "html.parser")
     categories = []
     for el in soup.find_all(onclick=True):
         m = re.search(r"loadFixtureContent\('(.+?)'\)", el["onclick"])
         if m:
-            filename = m.group(1)
-            name = el.get_text(strip=True)
-            categories.append({"name": name, "filename": filename})
+            categories.append({"name": el.get_text(strip=True), "filename": m.group(1)})
     print(f"      Found {len(categories)} categories")
     return categories
 
 
-def extract_fixtures(text):
+# ── Format A: plain text fixture lines ─────────────────────────────────────────
+def extract_plain_fixtures(text):
     last_updated = ""
     fixtures = []
     for line in text.splitlines():
         line = line.strip()
-        if not line or len(line) < 10:
-            continue
+        if not line or len(line) < 10: continue
         if "last updated" in line.lower():
-            last_updated = line
-            continue
-        skip = ["back to", "cookie", "privacy", "terms", "©", "all rights",
-                "logout", "loading", "error loading", "fixture content"]
-        if any(s in line.lower() for s in skip):
-            continue
+            last_updated = line; continue
+        skip = ["back to","cookie","privacy","terms","©","all rights","logout","loading","error loading","fixture content"]
+        if any(s in line.lower() for s in skip): continue
         has_match = " v " in line or " V " in line
         has_time  = any(t in line.lower() for t in [
-            "pm uk", "am uk", "pm et", "am et", "pm pt", "am pt",
-            "pm bst", "am bst", "pm gmt", "am gmt", "pm ist", "am ist",
-            "pm cet", "am cet", "pm aet", "am aet", "pm aedt", "am aedt"
+            "pm uk","am uk","pm et","am et","pm pt","am pt",
+            "pm bst","am bst","pm gmt","am gmt","pm ist","am ist",
+            "pm cet","am cet","pm aet","am aet","pm aedt","am aedt"
         ])
         if has_match or has_time:
             fixtures.append(line)
     return fixtures, last_updated
 
 
+# ── Format B: event-grid with sport sections ────────────────────────────────────
+def decode_event_data(b64):
+    """Decode base64 event_data -> ('EVENT NAME', 'YYYY-MM-DD HH:MM:SS')"""
+    try:
+        decoded = base64.b64decode(b64 + "==").decode("utf-8")  # pad for safety
+        parts = decoded.split("|")
+        name = parts[0].strip() if parts else decoded
+        dt   = parts[1].strip() if len(parts) > 1 else ""
+        return name, dt
+    except Exception:
+        return b64, ""
+
+
+def get_channels_for_event(session, event_data_b64):
+    """Call the AJAX endpoint and return a list of channel name strings."""
+    try:
+        r = session.post(
+            AJAX_URL,
+            data={"event_data": event_data_b64},
+            headers={"Content-Type": "application/x-www-form-urlencoded"},
+            timeout=20
+        )
+        if r.status_code != 200 or not r.text.strip():
+            return []
+        soup = BeautifulSoup(r.text, "html.parser")
+        channels = []
+        # Channel items have class="channel-item" or similar
+        for el in soup.find_all(class_=re.compile(r"channel", re.I)):
+            name_el = el.find(class_=re.compile(r"channel.?name", re.I))
+            if name_el:
+                channels.append(name_el.get_text(strip=True))
+            elif el.get_text(strip=True):
+                text = el.get_text(separator=" ", strip=True)
+                if len(text) > 2:
+                    channels.append(text)
+        # Deduplicate preserving order
+        seen = set()
+        unique = []
+        for c in channels:
+            if c not in seen:
+                seen.add(c); unique.append(c)
+        return unique
+    except Exception:
+        return []
+
+
+def extract_event_grid(soup, session):
+    """
+    Parse format-B pages. Returns list of event dicts:
+    { sport, time, name, datetime, channels[] }
+    """
+    events = []
+    current_sport = "Other"
+
+    for el in soup.find_all(["h2", "div"]):
+        # Sport section headers
+        if el.name == "h2":
+            current_sport = el.get_text(strip=True)
+            continue
+
+        if "event-item" not in el.get("class", []):
+            continue
+
+        onclick = el.get("onclick", "")
+        m = re.search(r'loadEventChannels\(\s*\d+\s*,\s*["\'](.+?)["\']\s*\)', onclick)
+        if not m:
+            continue
+
+        b64 = m.group(1)
+        event_name, event_dt = decode_event_data(b64)
+        display_text = el.get_text(strip=True)  # e.g. "03:00 - PERU - SPAIN"
+
+        # Extract time from display text
+        time_match = re.match(r"(\d{2}:\d{2})\s*-\s*(.*)", display_text)
+        event_time = time_match.group(1) if time_match else ""
+        event_label = time_match.group(2).strip() if time_match else display_text
+
+        # Fetch channels for this event
+        channels = get_channels_for_event(session, b64)
+        time.sleep(0.15)  # be polite to the server
+
+        events.append({
+            "sport":    current_sport,
+            "time":     event_time,
+            "name":     event_label,
+            "datetime": event_dt,
+            "channels": channels
+        })
+
+    return events
+
+
+# ── Category scraper ────────────────────────────────────────────────────────────
 def scrape_category(session, cat):
     url = LOADER_URL + "?file=" + quote(cat["filename"])
     try:
         r = session.get(url, timeout=45)
     except requests.exceptions.Timeout:
-        return {"fixtures": [], "last_updated": "", "status": "timeout"}
-    except requests.exceptions.RequestException as e:
-        return {"fixtures": [], "last_updated": "", "status": "error"}
+        return {"type": "plain", "fixtures": [], "events": [], "last_updated": "", "status": "timeout"}
+    except requests.exceptions.RequestException:
+        return {"type": "plain", "fixtures": [], "events": [], "last_updated": "", "status": "error"}
 
     if r.status_code == 500:
-        return {"fixtures": [], "last_updated": "", "status": "unavailable"}
+        return {"type": "plain", "fixtures": [], "events": [], "last_updated": "", "status": "unavailable"}
     if r.status_code != 200:
-        return {"fixtures": [], "last_updated": "", "status": f"http_{r.status_code}"}
+        return {"type": "plain", "fixtures": [], "events": [], "last_updated": "", "status": f"http_{r.status_code}"}
 
     soup = BeautifulSoup(r.text, "html.parser")
-    for el in soup.find_all(["script", "style"]):
-        el.decompose()
+    for el in soup.find_all(["script", "style"]): el.decompose()
+
+    # Detect format B: has event-item divs with loadEventChannels onclick
+    event_items = [el for el in soup.find_all("div", class_="event-item") if el.get("onclick","")]
+    if event_items:
+        print(f" [event-grid, {len(event_items)} events]", end=" ", flush=True)
+        events = extract_event_grid(soup, session)
+        return {"type": "events", "fixtures": [], "events": events, "last_updated": "", "status": "ok"}
+
+    # Format A: plain text
     text = soup.get_text(separator="\n")
-    fixtures, last_updated = extract_fixtures(text)
-    return {"fixtures": fixtures, "last_updated": last_updated, "status": "ok"}
+    fixtures, last_updated = extract_plain_fixtures(text)
+    return {"type": "plain", "fixtures": fixtures, "events": [], "last_updated": last_updated, "status": "ok"}
 
 
+# ── Main ────────────────────────────────────────────────────────────────────────
 def main():
     session = make_session()
     login(session)
     categories = get_categories(session)
     if not categories:
-        print("ERROR: No categories found.")
-        sys.exit(1)
+        print("ERROR: No categories found."); sys.exit(1)
 
-    session.get(FIXTURES_URL, timeout=30)
+    session.get(FIXTURES_URL, timeout=30)  # prime session
 
     print(f"[3/4] Scraping {len(categories)} categories...")
     output = {
@@ -148,31 +238,35 @@ def main():
     for cat in categories:
         print(f"      {cat['name']:<30}", end=" ", flush=True)
         data = scrape_category(session, cat)
-        n = len(data["fixtures"])
         status = data.get("status", "ok")
-        status_labels = {
-            "timeout":     "TIMEOUT",
-            "unavailable": "UNAVAILABLE (500)",
-            "error":       "ERROR",
-        }
-        label = status_labels.get(status, f"{n} fixtures" + (f"  [{data['last_updated']}]" if data["last_updated"] else ""))
-        print(label)
 
-        # Always include every category — UI handles empty ones gracefully
+        if status == "ok":
+            if data["type"] == "events":
+                n = len(data["events"])
+                print(f"{n} events")
+            else:
+                n = len(data["fixtures"])
+                print(f"{n} fixtures" + (f"  [{data['last_updated']}]" if data["last_updated"] else ""))
+        else:
+            labels = {"timeout":"TIMEOUT","unavailable":"UNAVAILABLE (500)","error":"ERROR"}
+            print(labels.get(status, status))
+
         output["categories"].append({
             "name":         cat["name"],
+            "type":         data["type"],
             "last_updated": data["last_updated"],
             "status":       status,
-            "fixtures":     data["fixtures"]
+            "fixtures":     data["fixtures"],
+            "events":       data["events"],
         })
 
     print(f"\n[4/4] Writing fixtures.json...")
     with open("fixtures.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    total = sum(len(c["fixtures"]) for c in output["categories"])
-    with_fixtures = sum(1 for c in output["categories"] if c["fixtures"])
-    print(f"✓ Done — {with_fixtures}/{len(output['categories'])} categories have fixtures, {total} total")
+    total_f = sum(len(c["fixtures"]) for c in output["categories"])
+    total_e = sum(len(c["events"])   for c in output["categories"])
+    print(f"✓ Done — {total_f} plain fixtures + {total_e} events across {len(output['categories'])} categories")
 
 
 if __name__ == "__main__":
