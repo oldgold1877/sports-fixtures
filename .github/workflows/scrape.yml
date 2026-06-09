@@ -2,12 +2,11 @@ name: Scrape Fixtures
 
 on:
   schedule:
-    # Runs every day at 7:00 AM UTC (8am UK / BST in summer)
-    - cron: '0 7 * * *'
-  # Also allows you to trigger it manually from the GitHub website
+    - cron: '0 8 * * *'   # 09:00 UK (BST)
+    - cron: '0 11 * * *'  # 12:00 UK (BST)
+    - cron: '0 17 * * *'  # 18:00 UK (BST)
   workflow_dispatch:
 
-# Grant the workflow permission to write back to the repo
 permissions:
   contents: write
 
