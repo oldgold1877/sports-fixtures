@@ -33,7 +33,7 @@ jobs:
         env:
           CRISPFILES_USERNAME: ${{ secrets.CRISPFILES_USERNAME }}
           CRISPFILES_PASSWORD: ${{ secrets.CRISPFILES_PASSWORD }}
-        run: python scraper.py
+        run: python scraper_debug.py
 
       - name: Commit and push updated fixtures.json
         run: |
