@@ -8,293 +8,111 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg:       #0d0d0d;
-    --surface:  #161616;
-    --border:   #242424;
-    --accent:   #e8ff47;
-    --accent2:  #47c8ff;
-    --text:     #f0f0f0;
-    --muted:    #888;
-    --dim:      #444;
+    --bg:      #0d0d0d;
+    --surface: #161616;
+    --border:  #242424;
+    --accent:  #e8ff47;
+    --accent2: #47c8ff;
+    --text:    #f0f0f0;
+    --muted:   #888;
+    --dim:     #444;
   }
-
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Barlow', sans-serif; font-weight: 300; min-height: 100vh; }
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Barlow', sans-serif;
-    font-weight: 300;
-    min-height: 100vh;
-  }
-
-  /* ── Header ── */
+  /* Header */
   header {
     border-bottom: 1px solid var(--border);
-    padding: 20px 32px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 12px;
-    position: sticky;
-    top: 0;
-    background: rgba(13,13,13,0.95);
-    backdrop-filter: blur(8px);
-    z-index: 100;
+    padding: 18px 32px;
+    display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;
+    position: sticky; top: 0;
+    background: rgba(13,13,13,0.96); backdrop-filter: blur(8px); z-index: 100;
   }
-
-  .logo {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 800;
-    font-size: 1.5rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
+  .logo { font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 1.4rem; letter-spacing: 0.08em; text-transform: uppercase; }
   .logo span { color: var(--accent); }
-
-  #last-scraped {
-    font-size: 0.75rem;
-    color: var(--muted);
-    letter-spacing: 0.04em;
-  }
+  #last-scraped { font-size: 0.75rem; color: var(--muted); }
   #last-scraped b { color: var(--accent2); font-weight: 500; }
 
-  /* ── Filter bar ── */
+  /* Filter bar */
   #filter-bar {
-    padding: 16px 32px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    align-items: center;
+    padding: 12px 32px; border-bottom: 1px solid var(--border);
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
   }
-
   #search {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--text);
-    padding: 8px 14px;
-    font-family: 'Barlow', sans-serif;
-    font-size: 0.85rem;
-    border-radius: 4px;
-    width: 260px;
-    outline: none;
-    transition: border-color 0.2s;
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    padding: 7px 14px; font-family: 'Barlow', sans-serif; font-size: 0.85rem;
+    border-radius: 4px; width: 280px; outline: none; transition: border-color 0.2s;
   }
   #search:focus { border-color: var(--accent); }
   #search::placeholder { color: var(--dim); }
+  #match-count { font-size: 0.75rem; color: var(--muted); letter-spacing: 0.04em; }
 
-  .filter-label {
-    font-size: 0.75rem;
-    color: var(--muted);
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    margin-left: 8px;
-  }
+  /* Layout */
+  #app { display: grid; grid-template-columns: 240px 1fr; min-height: calc(100vh - 104px); }
 
-  /* ── Main layout ── */
-  #app {
-    display: grid;
-    grid-template-columns: 260px 1fr;
-    min-height: calc(100vh - 112px);
-  }
-
-  /* ── Sidebar ── */
+  /* Sidebar */
   #sidebar {
-    border-right: 1px solid var(--border);
-    padding: 20px 0;
-    position: sticky;
-    top: 57px;
-    height: calc(100vh - 57px);
-    overflow-y: auto;
+    border-right: 1px solid var(--border); padding: 16px 0;
+    position: sticky; top: 57px; height: calc(100vh - 57px); overflow-y: auto;
   }
-
-  #sidebar::-webkit-scrollbar { width: 4px; }
-  #sidebar::-webkit-scrollbar-track { background: transparent; }
+  #sidebar::-webkit-scrollbar { width: 3px; }
   #sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
-
-  .sidebar-heading {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 0.7rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--muted);
-    padding: 0 20px 10px;
-  }
+  .sidebar-heading { font-family:'Barlow Condensed',sans-serif; font-size:0.68rem; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--muted); padding: 0 18px 8px; }
 
   .cat-btn {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: var(--text);
-    font-family: 'Barlow', sans-serif;
-    font-size: 0.82rem;
-    padding: 8px 20px;
-    text-align: left;
-    transition: background 0.15s, color 0.15s;
-    border-left: 3px solid transparent;
+    display: flex; align-items: center; justify-content: space-between;
+    width: 100%; background: none; border: none; cursor: pointer;
+    color: var(--text); font-family: 'Barlow', sans-serif; font-size: 0.8rem;
+    padding: 7px 18px; text-align: left;
+    transition: background 0.15s; border-left: 3px solid transparent;
   }
   .cat-btn:hover { background: var(--surface); }
-  .cat-btn.active {
-    background: var(--surface);
-    border-left-color: var(--accent);
-    color: var(--accent);
-    font-weight: 500;
-  }
+  .cat-btn.active { background: var(--surface); border-left-color: var(--accent); color: var(--accent); font-weight: 500; }
+  .cat-btn.empty { color: var(--dim); }
+  .cat-btn.active.empty { color: var(--muted); border-left-color: var(--dim); }
   .cat-count {
-    background: var(--border);
-    color: var(--muted);
-    font-size: 0.68rem;
-    padding: 1px 6px;
-    border-radius: 10px;
-    font-weight: 500;
+    background: var(--border); color: var(--muted);
+    font-size: 0.65rem; padding: 1px 6px; border-radius: 10px; font-weight: 500; flex-shrink: 0;
   }
   .cat-btn.active .cat-count { background: var(--accent); color: #000; }
+  .cat-btn.empty .cat-count { background: transparent; color: var(--dim); }
 
-  /* ── Content area ── */
-  #content {
-    padding: 28px 36px;
-    overflow-y: auto;
-  }
-
-  #category-title {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 2rem;
-    font-weight: 800;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    margin-bottom: 4px;
-  }
-
-  #category-meta {
-    font-size: 0.75rem;
-    color: var(--muted);
-    margin-bottom: 24px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid var(--border);
-  }
+  /* Content */
+  #content { padding: 28px 36px; }
+  #category-title { font-family:'Barlow Condensed',sans-serif; font-size:2rem; font-weight:800; letter-spacing:0.06em; text-transform:uppercase; margin-bottom:4px; }
+  #category-meta { font-size:0.75rem; color:var(--muted); margin-bottom:22px; padding-bottom:18px; border-bottom:1px solid var(--border); }
   #category-meta b { color: var(--accent2); }
 
-  #fixtures-list {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-  }
+  #fixtures-list { display:flex; flex-direction:column; gap:2px; }
 
   .fixture-row {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-left: 3px solid var(--border);
-    padding: 14px 18px;
-    border-radius: 3px;
-    font-size: 0.85rem;
-    line-height: 1.5;
+    background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border);
+    padding: 13px 16px; border-radius: 3px; font-size: 0.84rem; line-height: 1.5;
     transition: border-color 0.15s, background 0.15s;
-    animation: fadeIn 0.25s ease both;
+    animation: fadeIn 0.2s ease both;
   }
-  .fixture-row:hover {
-    border-left-color: var(--accent);
-    background: #1c1c1c;
-  }
+  .fixture-row:hover { border-left-color: var(--accent); background: #1b1b1b; }
+  .fixture-channel { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:0.76rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--accent2); margin-bottom:3px; }
+  .fixture-match { font-weight:500; color:var(--text); font-size:0.88rem; }
+  .fixture-match .vs { color:var(--accent); font-weight:700; }
+  .fixture-times { margin-top:5px; font-size:0.75rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:14px; }
+  .tz-label { color:var(--dim); font-size:0.67rem; text-transform:uppercase; letter-spacing:0.05em; margin-right:3px; }
+  .tz-time { color:var(--text); font-weight:500; }
 
-  /* Parse and highlight parts of fixture text */
-  .fixture-channel {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 700;
-    font-size: 0.78rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--accent2);
-    margin-bottom: 3px;
-  }
-  .fixture-match {
-    font-weight: 500;
-    color: var(--text);
-    font-size: 0.9rem;
-  }
-  .fixture-match .versus {
-    color: var(--accent);
-    font-weight: 700;
-  }
-  .fixture-times {
-    margin-top: 5px;
-    font-size: 0.76rem;
-    color: var(--muted);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-  }
-  .fixture-times .tz {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-  }
-  .fixture-times .tz-label {
-    color: var(--dim);
-    font-size: 0.68rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-  .fixture-times .tz-time {
-    color: var(--text);
-    font-weight: 500;
-  }
+  .state-msg { text-align:center; color:var(--muted); font-size:0.88rem; padding:60px 20px; }
+  .state-msg h2 { font-family:'Barlow Condensed',sans-serif; font-size:1.3rem; font-weight:700; color:var(--dim); margin-bottom:8px; letter-spacing:0.06em; text-transform:uppercase; }
 
-  /* Empty / loading states */
-  .state-msg {
-    text-align: center;
-    color: var(--muted);
-    font-size: 0.9rem;
-    padding: 60px 20px;
-  }
-  .state-msg h2 {
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: var(--dim);
-    margin-bottom: 8px;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-  }
+  @keyframes fadeIn { from { opacity:0; transform:translateY(3px); } to { opacity:1; transform:none; } }
 
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(4px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  /* ── Mobile ── */
-  @media (max-width: 700px) {
+  /* Mobile */
+  @media (max-width:680px) {
     #app { grid-template-columns: 1fr; }
-    #sidebar {
-      position: static;
-      height: auto;
-      border-right: none;
-      border-bottom: 1px solid var(--border);
-      padding: 12px 0;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px;
-      padding: 12px 16px;
-    }
-    .sidebar-heading { display: none; }
-    .cat-btn {
-      width: auto;
-      padding: 6px 12px;
-      border: 1px solid var(--border);
-      border-left: 3px solid transparent;
-      border-radius: 4px;
-      font-size: 0.78rem;
-    }
-    #content { padding: 20px 16px; }
-    header { padding: 14px 16px; }
-    #filter-bar { padding: 10px 16px; }
-    #search { width: 100%; }
+    #sidebar { position:static; height:auto; border-right:none; border-bottom:1px solid var(--border); display:flex; flex-wrap:wrap; gap:4px; padding:10px 14px; }
+    .sidebar-heading { display:none; }
+    .cat-btn { width:auto; padding:5px 10px; border:1px solid var(--border); border-left:3px solid transparent; border-radius:4px; font-size:0.75rem; }
+    #content { padding:18px 16px; }
+    header, #filter-bar { padding-left:16px; padding-right:16px; }
+    #search { width:100%; }
   }
 </style>
 </head>
@@ -302,195 +120,145 @@
 
 <header>
   <div class="logo">Sports <span>Fixtures</span></div>
-  <div id="last-scraped">Loading...</div>
+  <div id="last-scraped">Loading…</div>
 </header>
-
 <div id="filter-bar">
   <input type="text" id="search" placeholder="Search fixtures, teams, competitions…">
-  <span class="filter-label" id="match-count"></span>
+  <span id="match-count"></span>
 </div>
 
 <div id="app">
-  <nav id="sidebar">
-    <div class="sidebar-heading">Categories</div>
-    <div id="cat-list"></div>
-  </nav>
-  <main id="content">
-    <div class="state-msg"><h2>Loading Fixtures…</h2><p>Fetching the latest data.</p></div>
-  </main>
+  <nav id="sidebar"><div class="sidebar-heading">Categories</div><div id="cat-list"></div></nav>
+  <main id="content"><div class="state-msg"><h2>Loading…</h2></div></main>
 </div>
 
 <script>
-const FIXTURES_JSON = "fixtures.json";
-
 let allData = null;
-let activeCategory = 0;
+let activeIdx = 0;
 let searchQuery = "";
 
-// ── Fetch data ──────────────────────────────────────────────────────
 async function loadData() {
   try {
-    const r = await fetch(FIXTURES_JSON + "?t=" + Date.now());
+    const r = await fetch("fixtures.json?t=" + Date.now());
     if (!r.ok) throw new Error("HTTP " + r.status);
     allData = await r.json();
     init();
-  } catch (e) {
-    document.getElementById("content").innerHTML = `
-      <div class="state-msg">
-        <h2>No data yet</h2>
-        <p>Run the scraper to generate fixtures.json, then refresh this page.</p>
-      </div>`;
+  } catch(e) {
+    document.getElementById("content").innerHTML =
+      `<div class="state-msg"><h2>No data yet</h2><p>Run the scraper to generate fixtures.json, then refresh.</p></div>`;
   }
 }
 
-// ── Initialise ──────────────────────────────────────────────────────
 function init() {
   const d = new Date(allData.scraped_at);
   document.getElementById("last-scraped").innerHTML =
-    `Last updated: <b>${d.toLocaleString("en-GB", {dateStyle:"medium", timeStyle:"short"})}</b>`;
-
+    `Last updated: <b>${d.toLocaleString("en-GB",{dateStyle:"medium",timeStyle:"short"})}</b>`;
   buildSidebar();
   renderCategory(0);
 }
 
-// ── Sidebar ─────────────────────────────────────────────────────────
 function buildSidebar() {
   const list = document.getElementById("cat-list");
   list.innerHTML = "";
   allData.categories.forEach((cat, i) => {
+    const n = cat.fixtures.length;
+    const isEmpty = n === 0;
     const btn = document.createElement("button");
-    btn.className = "cat-btn" + (i === activeCategory ? " active" : "");
-    btn.innerHTML = `<span>${cat.name}</span><span class="cat-count">${cat.fixtures.length}</span>`;
-    btn.addEventListener("click", () => {
-      searchQuery = "";
-      document.getElementById("search").value = "";
-      renderCategory(i);
-    });
+    btn.className = "cat-btn" + (isEmpty ? " empty" : "") + (i === activeIdx ? " active" : "");
+    btn.innerHTML = `<span>${cat.name}</span><span class="cat-count">${n > 0 ? n : "–"}</span>`;
+    btn.addEventListener("click", () => { searchQuery = ""; document.getElementById("search").value = ""; renderCategory(i); });
     list.appendChild(btn);
   });
 }
 
-// ── Render a category ────────────────────────────────────────────────
-function renderCategory(index) {
-  activeCategory = index;
-  // Update active state in sidebar
-  document.querySelectorAll(".cat-btn").forEach((b, i) => {
-    b.classList.toggle("active", i === index);
-  });
+function renderCategory(idx) {
+  activeIdx = idx;
+  document.querySelectorAll(".cat-btn").forEach((b,i) => b.classList.toggle("active", i===idx));
+  const cat = allData.categories[idx];
+  const filtered = searchQuery
+    ? cat.fixtures.filter(f => f.toLowerCase().includes(searchQuery.toLowerCase()))
+    : cat.fixtures;
+  document.getElementById("match-count").textContent = filtered.length
+    ? `${filtered.length} fixture${filtered.length!==1?"s":""}`
+    : (cat.fixtures.length ? "No matches" : "");
 
-  const cat = allData.categories[index];
-  const filtered = filterFixtures(cat.fixtures);
-  renderFixtures(cat, filtered);
-}
+  const statusMessages = {
+    unavailable: "This category is currently unavailable (off-season or no data from server).",
+    timeout:     "This category timed out — it may have too many fixtures to load quickly.",
+    error:       "There was an error loading this category.",
+  };
 
-function filterFixtures(fixtures) {
-  if (!searchQuery) return fixtures;
-  const q = searchQuery.toLowerCase();
-  return fixtures.filter(f => f.toLowerCase().includes(q));
-}
-
-// ── Parse a fixture line into structured parts ───────────────────────
-// Lines look like:
-//   "GAA Plus 01: All-Ireland Football Championship Round 2A - MONAGHAN v ROSCOMMON - Sat 13/06 4:30pm UK // Sat 13/06 11:30am ET // Sat 13/06 8:30am PT"
-function parseFixture(line) {
-  // Split on " - " to get parts
-  const parts = line.split(" - ");
-  if (parts.length < 2) return { channel: "", match: line, times: [] };
-
-  const channelPart = parts[0].trim();     // "GAA Plus 01: All-Ireland..."
-  // Competition may be in parts[1], match in parts[2], times in rest
-  let competition = "";
-  let match = "";
-  let timePart = "";
-
-  if (parts.length === 3) {
-    competition = parts[1].trim();
-    // parts[2] contains "TEAMS - times" or just "times"
-    const sub = parts[2].split(" - ");
-    match = sub[0].trim();
-    timePart = sub.slice(1).join(" - ").trim();
-  } else if (parts.length === 2) {
-    // "Channel: Competition - times"
-    match = parts[1].trim();
-    // times after "//"
-    const idx = match.indexOf(" // ");
-    if (idx > -1) {
-      timePart = match.slice(idx + 4);
-      match = match.slice(0, idx).trim();
-    }
+  let body = "";
+  if (cat.fixtures.length === 0) {
+    const msg = statusMessages[cat.status] || "No fixtures are currently listed for this category.";
+    body = `<div class="state-msg"><h2>No Fixtures</h2><p>${msg}</p></div>`;
+  } else if (filtered.length === 0) {
+    body = `<div class="state-msg"><h2>No Results</h2><p>No fixtures match "<em>${searchQuery}</em>".</p></div>`;
   } else {
-    // Merge everything after the first dash as the match/time
-    competition = parts[1].trim();
-    match = parts.slice(2).join(" - ");
-    const idx = match.indexOf(" // ");
-    if (idx > -1) {
-      timePart = match.slice(idx + 4);
-      match = match.slice(0, idx).trim();
-    }
+    body = filtered.map((line, i) => {
+      const f = parseFixture(line);
+      const matchHtml = f.match.replace(/ v /gi, ' <span class="vs">v</span> ');
+      const timesHtml = f.times.map(t =>
+        `<span><span class="tz-label">${t.tz}</span><span class="tz-time">${t.time}</span></span>`
+      ).join("");
+      return `<div class="fixture-row" style="animation-delay:${i*15}ms">
+        <div class="fixture-channel">${f.channel}${f.competition?" · "+f.competition:""}</div>
+        <div class="fixture-match">${matchHtml}</div>
+        ${timesHtml?`<div class="fixture-times">${timesHtml}</div>`:""}
+      </div>`;
+    }).join("");
   }
 
-  // Parse times: "Sat 13/06 4:30pm UK // Sat 13/06 11:30am ET // Sat 13/06 8:30am PT"
-  const rawTimes = (timePart || "").split("//").map(s => s.trim()).filter(Boolean);
+  document.getElementById("content").innerHTML = `
+    <div id="category-title">${cat.name}</div>
+    <div id="category-meta">
+      ${cat.last_updated ? `Last updated: <b>${cat.last_updated}</b> &nbsp;·&nbsp; ` : ""}
+      ${cat.fixtures.length} fixture${cat.fixtures.length!==1?"s":""}
+    </div>
+    <div id="fixtures-list">${body}</div>`;
+}
+
+function parseFixture(line) {
+  // Format: "CHANNEL XX: Competition - TEAM v TEAM - Day DD/MM HH:MMpm TZ // ..."
+  const parts = line.split(" - ");
+  let channel = "", competition = "", match = "", timePart = "";
+
+  if (parts.length >= 3) {
+    channel = parts[0].trim();
+    competition = parts[1].trim();
+    const rest = parts.slice(2).join(" - ");
+    const tzIdx = rest.search(/ (Mon|Tue|Wed|Thu|Fri|Sat|Sun) \d/);
+    if (tzIdx > -1) {
+      match = rest.slice(0, tzIdx).trim();
+      timePart = rest.slice(tzIdx).trim();
+    } else {
+      match = rest;
+    }
+  } else if (parts.length === 2) {
+    channel = parts[0].trim();
+    match = parts[1].trim();
+    const slashIdx = match.indexOf(" // ");
+    if (slashIdx > -1) { timePart = match.slice(slashIdx+4); match = match.slice(0, slashIdx).trim(); }
+  } else {
+    match = line;
+  }
+
+  // Parse "Sat 13/06 4:30pm UK // Sat 13/06 11:30am ET"
+  const rawTimes = timePart.split("//").map(s=>s.trim()).filter(Boolean);
   const times = rawTimes.map(t => {
-    // Extract timezone label (last word)
-    const words = t.split(" ");
+    const words = t.trim().split(" ");
     const tz = words.pop();
     return { tz, time: words.join(" ") };
   });
 
-  return { channel: channelPart, competition, match, times };
+  return { channel, competition, match, times };
 }
 
-// ── Render fixtures ──────────────────────────────────────────────────
-function renderFixtures(cat, fixtures) {
-  const content = document.getElementById("content");
-  const count = fixtures.length;
-  document.getElementById("match-count").textContent =
-    count > 0 ? `${count} fixture${count !== 1 ? "s" : ""}` : "No matches";
-
-  let html = `
-    <div id="category-title">${cat.name}</div>
-    <div id="category-meta">
-      ${cat.last_updated ? `Last updated: <b>${cat.last_updated}</b> &nbsp;·&nbsp; ` : ""}
-      ${count} fixture${count !== 1 ? "s" : ""}
-    </div>
-    <div id="fixtures-list">`;
-
-  if (fixtures.length === 0) {
-    html += `<div class="state-msg"><h2>No Fixtures</h2><p>${searchQuery ? "No results for "" + searchQuery + """ : "No fixtures listed for this category."}</p></div>`;
-  } else {
-    fixtures.forEach((line, idx) => {
-      const f = parseFixture(line);
-      const matchHtml = f.match.replace(/ v /gi, ' <span class="versus">v</span> ');
-      const timesHtml = f.times.map(t => `
-        <span class="tz">
-          <span class="tz-label">${t.tz}</span>
-          <span class="tz-time">${t.time}</span>
-        </span>`).join("");
-
-      html += `<div class="fixture-row" style="animation-delay:${idx * 20}ms">
-        <div class="fixture-channel">${f.channel}${f.competition ? ' · ' + f.competition : ''}</div>
-        <div class="fixture-match">${matchHtml}</div>
-        ${timesHtml ? `<div class="fixture-times">${timesHtml}</div>` : ""}
-      </div>`;
-    });
-  }
-
-  html += "</div>";
-  content.innerHTML = html;
-}
-
-// ── Search ───────────────────────────────────────────────────────────
 document.getElementById("search").addEventListener("input", e => {
   searchQuery = e.target.value.trim();
-  if (allData) {
-    const cat = allData.categories[activeCategory];
-    const filtered = filterFixtures(cat.fixtures);
-    renderFixtures(cat, filtered);
-  }
+  if (allData) renderCategory(activeIdx);
 });
 
-// ── Boot ─────────────────────────────────────────────────────────────
 loadData();
 </script>
 </body>
