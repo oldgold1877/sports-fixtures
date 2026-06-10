@@ -1,12 +1,18 @@
 {
-  "scraped_at": "2026-06-10T14:21:39.199254+00:00",
+  "scraped_at": "2026-06-10T19:34:50.682629+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "SPORTS SCENE 05 - 20:45-22:45 - Friendly: Portugal vs Nigeria",
+        "SPORTS SCENE 06 - 21:00-23:00 - Friendly:  England vs Costa Rica",
+        "World Cup 01 - 20:00 UK - Group A: Mexico v South Africa",
+        "World Cup 02 - 20:00 UK - Group A: Mexico v South Africa",
+        "World Cup 03 - 20:00 UK - Group A: Mexico v South Africa"
+      ],
       "events": []
     },
     {
@@ -446,6 +452,18 @@
           ]
         },
         {
+          "sport": "SOFTBALL",
+          "time": "03:00",
+          "name": "UTAH TALONS - CHICAGO BANDITS",
+          "datetime": "2026-06-11 03:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "TENNIS",
           "time": "10:00",
           "name": "LIBEMA OPEN",
@@ -519,27 +537,17 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 15 - : Springwatch: Multicam - Wed 10/06 9:43am",
-        "BBC RED BUTTON 16 - : Springwatch: In Focus - Wed 10/06 9:47am",
-        "BBC RED BUTTON 04 - : Watch Steve Rotheram in BBC Radio Merseyside's Hot Seat - Wed 10/06 9:51am",
-        "BBC RED BUTTON 14 - : Model Accuses Kanye West of Choking Her on Music Video Set - Wed 10/06 10:25am",
-        "BBC RED BUTTON 14 - : Sick Babies Left to Die at Home for Unmarried Mothers - Wed 10/06 10:46am",
-        "BBC RED BUTTON 17 - : Homes and Bus Set Alight in Belfast After Knife Attack - Wed 10/06 11:05am",
-        "BBC RED BUTTON 04 - : no_episode_title - Wed 10/06 11:14am",
-        "BBC RED BUTTON 05 - : no_episode_title - Wed 10/06 11:14am",
-        "BBC RED BUTTON 06 - : no_episode_title - Wed 10/06 11:14am",
-        "BBC RED BUTTON 07 - : no_episode_title - Wed 10/06 11:14am",
-        "BBC RED BUTTON 01 - : Women's Day 3 - Wed 10/06 11:16am",
-        "BBC RED BUTTON 18 - : MENA LIVE STREAMING - 10/06/2026 عالم الظهيرة - Wed 10/06 11:19am",
-        "BBC RED BUTTON 14 - : MPs Discuss Violence in Belfast - Wed 10/06 11:21am",
-        "BBC RED BUTTON 00 - : Women's Day 3 - Wed 10/06 11:30am",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 1:15pm",
-        "BBC RED BUTTON 17 - : Homes and Bus Set Alight in Belfast After Knife Attack - Wed 10/06 1:16pm",
-        "BBC RED BUTTON 19 - : Belfast Attack Suspect Appears in Court - Wed 10/06 1:19pm",
-        "BBC RED BUTTON 20 - : Report Reveals Shocking 'Bycatch' Toll on Marine Life - Wed 10/06 1:38pm",
-        "BBC RED BUTTON 14 - : New Law Change on Rogue Shops Announced - Wed 10/06 1:50pm",
+        "BBC RED BUTTON 14 - : MENA LIVE STREAMING - 10/06/2026 عالم الظهيرة - Wed 10/06 3:51pm",
         "BBC RED BUTTON 00 - : Women's Day 3 - Wed 10/06 5:45pm",
+        "BBC RED BUTTON 17 - : Pope Leo Holds Mass in Barcelona - Wed 10/06 5:51pm",
+        "BBC RED BUTTON 18 - : Victim's Family Call for Calm on Belfast Streets - Wed 10/06 6:05pm",
+        "BBC RED BUTTON 19 - : England Captain Dropped Following Nightclub Incident - Wed 10/06 6:32pm",
+        "BBC RED BUTTON 20 - : Homeless Women Missed from Official Figures - Wed 10/06 6:32pm",
+        "BBC RED BUTTON 05 - : Kieran McKenna steps down - BBC Suffolk Special - Wed 10/06 6:57pm",
+        "BBC RED BUTTON 18 - : More Police On Streets After Violence In Belfast - Wed 10/06 7:07pm",
+        "BBC RED BUTTON 06 - : Fifa World Cup 2026 news conference - Wed 10/06 7:22pm",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 7:30pm",
+        "BBC RED BUTTON 17 - : The Iran War Today - Wed 10/06 8:05pm",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 12:00am",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 6:00am"
       ],
@@ -678,8 +686,6 @@
       "status": "ok",
       "fixtures": [
         "ESPN+ 00 - 13:55 - 23:05 - 2026 WSL Championship Tour: Surf City El Salvador Pro",
-        "ESPN+ 02 - 14:55 - 17:05 - ESPN Radio",
-        "ESPN+ 01 - 16:55 - 20:05 - Wed, 6/10 - The Rich Eisen Show",
         "ESPN+ 03 - 16:55 - 21:05 - The Pat McAfee Show",
         "ESPN+ 02 - 19:45 - 22:05 - Malaga CF vs. Las Palmas (Semifinal, Leg 2)",
         "ESPN+ 04 - 19:55 - 23:05 - Freddie and Harry",
@@ -999,7 +1005,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Free Practice 1: 24 Hours of Le Mans - WEC 2026 - Wed 10/06 12:45pm",
         "Stan 03 : Qualifying: 24 Hours of Le Mans - WEC 2026 - Wed 10/06 5:30pm",
         "Stan 01 : Portugal v Nigeria - Men's Friendly 2026 - Wed 10/06 8:35pm",
         "Stan 02 : Free Practice 2: 24 Hours of Le Mans - WEC 2026 - Wed 10/06 8:45pm",
