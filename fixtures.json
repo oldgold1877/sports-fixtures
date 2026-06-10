@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-09T19:16:03.229899+00:00",
+  "scraped_at": "2026-06-10T06:27:48.963668+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,307 +11,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "PERU - SPAIN",
-          "datetime": "2026-06-09 03:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "14:00",
-          "name": "GERMANY U19 - USA U19",
-          "datetime": "2026-06-09 14:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "14:00",
-          "name": "INDONESIA - MOZAMBIQUE",
-          "datetime": "2026-06-09 14:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "16:00",
-          "name": "LATVIA - FAROE ISLANDS",
-          "datetime": "2026-06-09 16:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "ARMENIA - MOLDOVA",
-          "datetime": "2026-06-09 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "SLOVENIA - GERMANY",
-          "datetime": "2026-06-09 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:30",
-          "name": "BELARUS - BURKINA FASO",
-          "datetime": "2026-06-09 17:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "HUNGARY - KAZAKHSTAN",
-          "datetime": "2026-06-09 18:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:00",
-          "name": "AZERBAIJAN - SAN MARINO",
-          "datetime": "2026-06-09 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "ATLéTICO OTTAWA - SUPRA DU QUEBEC",
-          "datetime": "2026-06-10 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "PARAGUAY - COLOMBIA",
-          "datetime": "2026-06-10 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "03:05",
-          "name": "ATHLETICS - MILWAUKEE BREWERS",
-          "datetime": "2026-06-09 03:05:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "23:35",
-          "name": "BALTIMORE ORIOLES - SEATTLE MARINERS",
-          "datetime": "2026-06-09 23:35:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "23:40",
-          "name": "CLEVELAND GUARDIANS - NEW YORK YANKEES",
-          "datetime": "2026-06-09 23:40:00",
-          "channels": [
-            {
-              "name": "TBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "23:40",
-          "name": "PITTSBURGH PIRATES - LOS ANGELES DODGERS",
-          "datetime": "2026-06-09 23:40:00",
-          "channels": [
-            {
-              "name": "SPORTSNET LA",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "23:40",
-          "name": "TAMPA BAY RAYS - BOSTON RED SOX",
-          "datetime": "2026-06-09 23:40:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "00:10",
-          "name": "NEW YORK METS - ST. LOUIS CARDINALS",
-          "datetime": "2026-06-10 00:10:00",
-          "channels": []
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:30",
-          "name": "NEW YORK KNICKS - SAN ANTONIO SPURS",
-          "datetime": "2026-06-09 01:30:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "03:00",
-          "name": "LAS VEGAS ACES - SEATTLE STORM",
-          "datetime": "2026-06-09 03:00:00",
-          "channels": [
-            {
-              "name": "USA NETWORK",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "BARCELONA - TENERIFE",
-          "datetime": "2026-06-09 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "CHICAGO SKY - ATLANTA DREAM",
-          "datetime": "2026-06-10 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "TENNIS",
-          "time": "11:00",
-          "name": "WTA & ATP TOURNAMENTS",
-          "datetime": "2026-06-09 11:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "13:00",
-          "name": "THE HSBC CHAMPIONSHIPS",
-          "datetime": "2026-06-09 13:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "17:30",
-          "name": "THE HSBC CHAMPIONSHIPS",
-          "datetime": "2026-06-09 17:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -549,19 +248,268 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "20:00",
+          "name": "MEXICO - SOUTH AFRICA",
+          "datetime": "2026-06-11 20:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ATHLETICS",
+          "time": "01:35",
+          "name": "NCAA DIVISION I OUTDOOR TRACK AND FIELD",
+          "datetime": "2026-06-11 01:35:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "AUSSIE RULES",
+          "time": "10:30",
+          "name": "WESTERN BULLDOGS - ADELAIDE CROWS",
+          "datetime": "2026-06-11 10:30:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "17:05",
+          "name": "NORFOLK TIDES - MEMPHIS REDBIRDS",
+          "datetime": "2026-06-11 17:05:00",
+          "channels": [
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "18:10",
+          "name": "NEW YORK METS - ST. LOUIS CARDINALS",
+          "datetime": "2026-06-11 18:10:00",
+          "channels": [
+            {
+              "name": "SNY",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "23:40",
+          "name": "PITTSBURGH PIRATES - LOS ANGELES DODGERS",
+          "datetime": "2026-06-11 23:40:00",
+          "channels": [
+            {
+              "name": "SPORTSNET LA",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:05",
+          "name": "BALTIMORE ORIOLES - SEATTLE MARINERS",
+          "datetime": "2026-06-12 00:05:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "01:30",
+          "name": "NEW YORK KNICKS - SAN ANTONIO SPURS",
+          "datetime": "2026-06-11 01:30:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "03:00",
+          "name": "SEATTLE STORM - LOS ANGELES SPARKS",
+          "datetime": "2026-06-11 03:00:00",
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "19:00",
+          "name": "BARCELONA - TENERIFE",
+          "datetime": "2026-06-11 19:00:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "18:00",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-06-11 18:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FIGHTING",
+          "time": "01:00",
+          "name": "AEW DYNAMITE",
+          "datetime": "2026-06-11 01:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "12:00",
+          "name": "CANADIAN OPEN",
+          "datetime": "2026-06-11 12:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "16:00",
+          "name": "DOW CHAMPIONSHIP",
+          "datetime": "2026-06-11 16:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "20:00",
+          "name": "CANADIAN OPEN",
+          "datetime": "2026-06-11 20:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "LIBEMA OPEN",
+          "datetime": "2026-06-11 10:00:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "11:00",
+          "name": "WTA & ATP TOURNAMENTS",
+          "datetime": "2026-06-11 11:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "11:30",
+          "name": "THE HSBC CHAMPIONSHIPS",
+          "datetime": "2026-06-11 11:30:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "19:00",
+          "name": "WTA & ATP TOURNAMENTS",
+          "datetime": "2026-06-11 19:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports F1 UHD - IndyCar Series Racing - Bommarito Automotive Group 500: Race - Mon 08/06 11:00pm",
-        "Sky Sports Main Event UHD - Live: WNBA Basketball - Commissioner's Cup: Indiana Fever at Washington Mystics - Tue 09/06 12:00am",
-        "Sky Sports F1 UHD - FIA Formula 2 Championship - Monaco: Sprint Race - Tue 09/06 1:30am",
-        "Sky Sports F1 UHD - FIA Formula 3 Championship - Monaco: Sprint Race - Tue 09/06 2:45am",
-        "Sky Sports Main Event UHD - World Cup Report - Tue 09/06 1:00pm",
-        "Sky Sports UHD 1 - Live: T20 Blast - Essex v Kent Spitfires - Tue 09/06 6:55pm",
-        "Sky Sports F1 UHD - British Kart Championships - Tue 09/06 8:00pm",
-        "Sky Sports Main Event UHD - Live: ICC Women's T20 World Cup - Warm Up: India v England - Wed 10/06 10:00am"
+        "Sky Sports Main Event UHD - Live: ICC Women's T20 World Cup - Warm Up: India v England - Wed 10/06 10:00am",
+        "Sky Sports Main Event UHD - World Cup Report - Wed 10/06 1:30pm",
+        "Sky Sports Main Event UHD - Live: WNBA Basketball - Commissioner's Cup: Los Angeles Sparks at Seattle Storm - Thu 11/06 3:00am",
+        "Sky Sports Main Event UHD - Live: RBC Canadian Open, PGA Tour Golf - Day 1: Featured Groups - Thu 11/06 12:00pm",
+        "Sky Sports F1 UHD - Live: Formula 1 Drivers Press Conference - Barcelona - Thu 11/06 2:00pm",
+        "Sky Sports F1 UHD - Formula 1 Drivers Press Conference - Barcelona - Thu 11/06 4:15pm",
+        "Sky Sports F1 UHD - Formula 1 - Barcelona-Catalunya Grand Prix: Paddock Uncut - Thu 11/06 5:00pm",
+        "Sky Sports UHD 1 - Live: World Cup of Darts - Day 1 - Thu 11/06 6:00pm",
+        "Sky Sports F1 UHD - Live: Ferrari Challenge Europe Motor Racing - Le Mans: Race 1 - Thu 11/06 7:45pm"
       ],
       "events": []
     },
@@ -571,22 +519,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : GCSE Live - Tue 09/06 2:50pm",
-        "BBC RED BUTTON 05 - : Scotland World Cup press conference 9th June - Tue 09/06 2:55pm",
-        "BBC RED BUTTON 20 - : Belfast Attack Victim Has 'Significant' Eye Injuries - Tue 09/06 3:05pm",
-        "BBC RED BUTTON 17 - : Police and Politicians Respond to Belfast Attack - Tue 09/06 3:50pm",
-        "BBC RED BUTTON 14 - : Astronauts Unveiled for Nasa's Next Artemis Mission - Tue 09/06 4:21pm",
-        "BBC RED BUTTON 04 - : Northern Ireland v Switzerland - Tue 09/06 4:57pm",
-        "BBC RED BUTTON 00 - : Women's Day 2 - Tue 09/06 5:45pm",
-        "BBC RED BUTTON 14 - : Israel v Scotland - Tue 09/06 5:51pm",
-        "BBC RED BUTTON 17 - : Astronauts Unveiled for Nasa's Next Moon Mission - Tue 09/06 6:32pm",
-        "BBC RED BUTTON 19 - : Man Charged with Attempted Murder in Belfast Attack - Tue 09/06 6:38pm",
-        "BBC RED BUTTON 17 - : England news conference - Tue 09/06 7:04pm",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Tue 09/06 7:30pm",
-        "BBC RED BUTTON 19 - : Trump Says Iran Shot Down US Helicopter - Tue 09/06 7:36pm",
-        "BBC RED BUTTON 20 - : Man Becomes First Person Sentenced Under New Harassment Law - Tue 09/06 7:54pm",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 12:00am",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 6:00am"
+        "BBC RED BUTTON 13 - : BBC Weather Live - Wed 10/06 4:45am",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 6:00am",
+        "BBC RED BUTTON 14 - : US and Iran Exchange Fire After American Helicopter Downed - Wed 10/06 6:08am",
+        "BBC RED BUTTON 15 - : Belfast Unrest Condemned as ‘Thuggery’ After Homes Set Alight - Wed 10/06 6:22am",
+        "BBC RED BUTTON 14 - : Advanced Radiotherapy for Prostate Cancer to Reduce Sessions - Wed 10/06 6:34am",
+        "BBC RED BUTTON 14 - : Sick Babies Left to Die at Unmarried Mothers’ Home - Wed 10/06 7:00am",
+        "BBC RED BUTTON 00 - : Women's Day 3 - Wed 10/06 11:30am",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 1:15pm",
+        "BBC RED BUTTON 00 - : Women's Day 3 - Wed 10/06 5:45pm",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Wed 10/06 7:30pm",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 12:00am",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 6:00am"
       ],
       "events": []
     },
@@ -721,19 +665,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "ESPN+ 00 - 13:25 - 22:35 - 2026 WSL Championship Tour: Surf City El Salvador Pro",
-        "ESPN+ 03 - 16:55 - 21:05 - The Pat McAfee Show",
-        "ESPN+ 01 - 19:45 - 22:05 - Almeria vs. Castellón (Semifinal, Leg 2)",
-        "ESPN+ 04 - 19:50 - 22:05 - Netherlands vs. Poland (League B, Round 6)",
-        "ESPN+ 05 - 19:55 - 23:05 - Freddie and Harry",
-        "ESPN+ 02 - 21:55 - 23:05 - Tue, 6/9 - ESPN FC",
-        "ESPN+ 00 - 22:55 - 00:05 - The Point Presented by DraftKings Sports",
-        "ESPN+ 01 - 23:25 - 02:35 - Marthas Vineyard Sharks vs. Valley Blue Sox",
-        "ESPN+ 02 - 23:25 - 02:35 - Newport Gulls vs. Danbury Westerners",
-        "ESPN+ 00 - 00:55 - 03:05 - Birmingham Legion FC vs. Corpus Christi FC",
-        "ESPN+ 00 - 03:55 - 04:35 - Tue, 6/9 - In the Crease"
-      ],
+      "fixtures": [],
       "events": []
     },
     {
@@ -742,22 +674,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Euro Basketball League 01 : Finals Game 01: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Thu 11/06 07:00pm"
+        "Euro Basketball League 01 : Finals Game 01: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Thu 11/06 07:00pm",
+        "Euro Basketball League 01 : Finals Game 02: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Sat 13/06 07:00pm"
       ],
       "events": []
     },
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Tue Jun 09, 2026 7:00am BST",
+      "last_updated": "Last Updated: Wed Jun 10, 2026 7:00am BST",
       "status": "ok",
       "fixtures": [
-        "GAA Plus 01: All-Ireland Football Championship Round 2A - MONAGHAN v ROSCOMMON - Sat 13/06 4:30pm",
-        "GAA Plus 02: All-Ireland Football Championship Round 2A - DERRY v MEATH - Sat 13/06 7:00pm",
-        "GAA Plus 03: All-Ireland Football Championship Round 2A - LOUTH v ARMAGH - Sun 14/06 1:00pm",
-        "GAA Plus 04: All-Ireland Football Championship Round 2A - GALWAY v WESTMEATH - Sun 14/06 2:00pm",
-        "GAA Plus 05: All-Ireland Football Championship Round 2A - TYRONE v MAYO - Sun 14/06 3:30pm",
-        "GAA Plus 06: Highlights & Analysis Show - THE SUNDAY GAME 14/06/2026 - Sun 14/06 9:30pm"
+        "GAA Plus 01: Tailteann Cup Quarter-Final - OFFALY v WEXFORD - Sat 13/06 1:00pm",
+        "GAA Plus 02: Tailteann Cup Quarter-Final - LAOIS v DOWN - Sat 13/06 4:00pm",
+        "GAA Plus 03: All-Ireland Football Championship Round 2A - MONAGHAN v ROSCOMMON - Sat 13/06 4:30pm",
+        "GAA Plus 04: All-Ireland Football Championship Round 2A - DERRY v MEATH - Sat 13/06 7:00pm",
+        "GAA Plus 05: All-Ireland Football Championship Round 2A - LOUTH v ARMAGH - Sun 14/06 1:00pm",
+        "GAA Plus 06: All-Ireland Football Championship Round 2A - GALWAY v WESTMEATH - Sun 14/06 2:00pm",
+        "GAA Plus 07: All-Ireland Football Championship Round 2A - TYRONE v MAYO - Sun 14/06 3:30pm",
+        "GAA Plus 08: Highlights & Analysis Show - THE SUNDAY GAME 14/06/2026 - Sun 14/06 9:30pm"
       ],
       "events": []
     },
@@ -775,7 +710,12 @@
         "LOI 6 : Kerry v Athlone Town (SSE Airtricity Men's First Division ) - Fri 12/06 7:35pm",
         "LOI 7 : Treaty United v Bray Wanderers (SSE Airtricity Men's First Division) - Fri 12/06 7:35pm",
         "LOI 8 : Wexford v Cork City (SSE Airtricity Men's First Division) - Fri 12/06 7:35pm",
-        "LOI 9 : Shelbourne v Shamrock Rovers (SSE Airtricity Men's Premier Division) - Fri 12/06 7:45pm"
+        "LOI 9 : Shelbourne v Shamrock Rovers (SSE Airtricity Men's Premier Division) - Fri 12/06 7:45pm",
+        "LOI 1 : Shamrock Rovers v Peamount United FC (Women's All-Island Cup) - Sat 13/06 2:45pm",
+        "LOI 2 : Treaty United v Bohemian FC (Women's All-Island Cup ) - Sat 13/06 2:45pm",
+        "LOI 3 : Shelbourne v Cliftonville Ladies (Women's All-Island Cup) - Sat 13/06 3:45pm",
+        "LOI 4 : Galway United v Linfield Women (Women's All-Island Cup ) - Sat 13/06 4:45pm",
+        "LOI 5 : Longford Town v Cobh Ramblers (SSE Airtricity Men's First Division) - Sat 13/06 7:20pm"
       ],
       "events": []
     },
@@ -902,11 +842,27 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "PDC Darts 1 : World Cup of Darts | Day 1 -  Evening Session - World Cup of Darts - Main Feed - Thu 11/06 6:00pm",
-        "PDC Darts 1 : World Cup of Darts | Day 2 - Afternoon Session - World Cup of Darts - Main Feed - Fri 12/06 12:00pm",
-        "PDC Darts 2 : World Cup of Darts | Day 2 - Evening Session - World Cup of Darts - Main Feed - Fri 12/06 6:00pm",
-        "PDC Darts 1 : World Cup of Darts | Day 3 - Afternoon Session - World Cup of Darts - Main Feed - Sat 13/06 12:00pm",
-        "PDC Darts 2 : World Cup of Darts | Day 3 - Evening Session - World Cup of Darts - Main Feed - Sat 13/06 6:00pm"
+        "PDC Darts 1 : World Cup of Darts | Day 1 -  Evening Session - Main Feed (Italian) - Thu 11/06 6:00pm",
+        "PDC Darts 2 : World Cup of Darts | Day 1 -  Evening Session - Main Feed (Swedish) - Thu 11/06 6:00pm",
+        "PDC Darts 3 : World Cup of Darts | Day 1 -  Evening Session - World Cup of Darts - Main Feed - Thu 11/06 6:00pm",
+        "PDC Darts 1 : World Cup of Darts | Day 2 - Afternoon Session - Main Feed (Italian) - Fri 12/06 12:00pm",
+        "PDC Darts 2 : World Cup of Darts | Day 2 - Afternoon Session - Main Feed (Swedish) - Fri 12/06 12:00pm",
+        "PDC Darts 3 : World Cup of Darts | Day 2 - Afternoon Session - World Cup of Darts - Main Feed - Fri 12/06 12:00pm",
+        "PDC Darts 4 : World Cup of Darts | Day 2 - Evening Session - Main Feed (Italian) - Fri 12/06 6:00pm",
+        "PDC Darts 5 : World Cup of Darts | Day 2 - Evening Session - Main Feed (Swedish) - Fri 12/06 6:00pm",
+        "PDC Darts 6 : World Cup of Darts | Day 2 - Evening Session - World Cup of Darts - Main Feed - Fri 12/06 6:00pm",
+        "PDC Darts 1 : World Cup of Darts | Day 3 - Afternoon Session - Main Feed (Italian) - Sat 13/06 12:00pm",
+        "PDC Darts 2 : World Cup of Darts | Day 3 - Afternoon Session - Main Feed (Swedish) - Sat 13/06 12:00pm",
+        "PDC Darts 3 : World Cup of Darts | Day 3 - Afternoon Session - World Cup of Darts - Main Feed - Sat 13/06 12:00pm",
+        "PDC Darts 4 : World Cup of Darts | Day 3 - Evening Session - Main Feed (Italian) - Sat 13/06 6:00pm",
+        "PDC Darts 5 : World Cup of Darts | Day 3 - Evening Session - Main Feed (Swedish) - Sat 13/06 6:00pm",
+        "PDC Darts 6 : World Cup of Darts | Day 3 - Evening Session - World Cup of Darts - Main Feed - Sat 13/06 6:00pm",
+        "PDC Darts 1 : World Cup of Darts | Day 4 - Afternoon Session - Main Feed (Italian) - Sun 14/06 12:00pm",
+        "PDC Darts 2 : World Cup of Darts | Day 4 - Afternoon Session - Main Feed (Swedish) - Sun 14/06 12:00pm",
+        "PDC Darts 3 : World Cup of Darts | Day 4 - Afternoon Session - World Cup of Darts - Main Feed - Sun 14/06 12:00pm",
+        "PDC Darts 4 : World Cup of Darts | Day 4 - Evening Session - Main Feed (Italian) - Sun 14/06 6:00pm",
+        "PDC Darts 5 : World Cup of Darts | Day 4 - Evening Session - Main Feed (Swedish) - Sun 14/06 6:00pm",
+        "PDC Darts 6 : World Cup of Darts | Day 4 - Evening Session - World Cup of Darts - Main Feed - Sun 14/06 6:00pm"
       ],
       "events": []
     },
