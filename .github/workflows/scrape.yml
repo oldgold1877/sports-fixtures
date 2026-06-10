@@ -2,7 +2,7 @@ name: Scrape Fixtures
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 08:00 UK (BST)
+    - cron: '15 6 * * *'  # 07:15 UK (BST)
     - cron: '0 11 * * *'  # 12:00 UK (BST)
     - cron: '0 17 * * *'  # 18:00 UK (BST)
   workflow_dispatch:
