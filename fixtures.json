@@ -1,21 +1,62 @@
 {
-  "scraped_at": "2026-06-11T10:59:15.050846+00:00",
+  "scraped_at": "2026-06-11T11:31:24.351833+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
-      "type": "plain",
+      "type": "live",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "World Cup 01 - 20:00 UK - Group A: Mexico v South Africa",
-        "World Cup 02 - 20:00 UK - Group A: Mexico v South Africa",
-        "World Cup 03 - 20:00 UK - Group A: Mexico v South Africa",
-        "World Cup 01 - 03:00 UK - Group A: Korea Republic v Czechia",
-        "World Cup 02 - 03:00 UK - Group A: Korea Republic v Czechia",
-        "World Cup 03 - 03:00 UK - Group A: Korea Republic v Czechia",
-        "World Cup 01 - 20:00 UK - Group B: Canada v Bosnia and Herzegovina",
-        "World Cup 02 - 20:00 UK - Group B: Canada v Bosnia and Herzegovina",
-        "World Cup 03 - 20:00 UK - Group B: Canada v Bosnia and Herzegovina"
+      "fixtures": [],
+      "sections": [
+        {
+          "section": "World Cup",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Thursday 11/06/2026"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - 20:00 - Group A: Mexico v South Africa"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - 20:00 - Group A: Mexico v South Africa"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - 20:00 - Group A: Mexico v South Africa"
+            },
+            {
+              "type": "date",
+              "text": "Friday 12/06/2026"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - 03:00 - Group A: Korea Republic v Czechia"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - 03:00 - Group A: Korea Republic v Czechia"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - 03:00 - Group A: Korea Republic v Czechia"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
+            }
+          ]
+        }
       ],
       "events": []
     },
@@ -25,6 +66,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
+      "sections": [],
       "events": [
         {
           "sport": "FOOTBALL",
@@ -285,6 +327,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
+      "sections": [],
       "events": [
         {
           "sport": "FOOTBALL",
@@ -653,6 +696,7 @@
         "TNT Ultimate UHD - Live: PREM Rugby - Play-Off: Northampton Saints v Leicester Tigers - Fri 12/06 7:00pm",
         "Sky Sports Main Event UHD - Live: Curtis Cup Golf - Day 1: Fourballs - Fri 12/06 11:00pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -661,11 +705,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 6:00am",
-        "BBC RED BUTTON 14 - : Water Cannon Fired in Second Night of Belfast Disorder - Thu 11/06 6:07am",
-        "BBC RED BUTTON 15 - : NHS England Highlights Corridor Care - Thu 11/06 6:15am",
-        "BBC RED BUTTON 16 - : Smacking Children Could Lead to Lower GCSE Grades - Thu 11/06 6:16am",
-        "BBC RED BUTTON 05 - : Football World Cup 2026 Begins Tonight - Thu 11/06 6:27am",
         "BBC RED BUTTON 14 - : Report Finds 1 in 5 Patients Treated in Corridors - Thu 11/06 7:05am",
         "BBC RED BUTTON 15 - : Second Night of Disorder in Belfast - Thu 11/06 7:22am",
         "BBC RED BUTTON 05 - : New Only Fools and Horses Tour in Margate - Thu 11/06 7:27am",
@@ -675,13 +714,15 @@
         "BBC RED BUTTON 05 - : Petty, Jealous or Insecure? Olivia Rodrigo on Songwriting - Thu 11/06 9:30am",
         "BBC RED BUTTON 15 - : Springwatch: In Focus - Thu 11/06 9:48am",
         "BBC RED BUTTON 16 - : Springwatch: Multicam - Thu 11/06 9:49am",
-        "BBC RED BUTTON 14 - : Police to Give Statement on Belfast Disorder - Thu 11/06 11:22am",
+        "BBC RED BUTTON 14 - : Police Give Statement on Belfast Disorder - Thu 11/06 11:22am",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 12:00pm",
+        "BBC RED BUTTON 01 - : no_episode_title - Thu 11/06 12:14pm",
         "BBC RED BUTTON 00 - : Women's Day 4 - Thu 11/06 5:45pm",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Thu 11/06 7:30pm",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Fri 12/06 12:00am",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Fri 12/06 6:00am"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -698,6 +739,7 @@
         "Clubber 1 : London V Warwickshire (Britain GAA - Junior 1) - Sun 14/06 2:00pm",
         "Clubber 2 : St. Annes Rathangan V Rathnure St. Annes (Wexford - Senior 1) - Sun 14/06 2:00pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -757,6 +799,7 @@
         "DAZN CA 49 - Inside The Ring June 15 - 19:00 15/06/2026",
         "DAZN CA 50 - Berlin Open: Day 02 - 10:00 16/06/2026"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -816,6 +859,7 @@
         "DAZN GB 49 - KOK Fight Night: Gezius vs. Tryfonos - 18:00 20/06/2026",
         "DAZN GB 50 - Garner vs. Magnesi - 19:00 20/06/2026"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -855,6 +899,7 @@
         "ESPN+ 00 - 03:05 - 05:00 - 2026 NCAA Division I Outdoor Track and Field Championships - Womens Shot Put",
         "ESPN+ 04 - 03:55 - 04:35 - Thu, 6/11 - In the Crease"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -866,6 +911,7 @@
         "Euro Basketball League 01 : Finals Game 01: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Thu 11/06 07:00pm",
         "Euro Basketball League 01 : Finals Game 02: EA7 Emporio Armani Milano vs Umana Reyer Venezia - Sat 13/06 07:00pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -883,6 +929,7 @@
         "GAA Plus 07: All-Ireland Football Championship Round 2A - TYRONE v MAYO - Sun 14/06 3:30pm",
         "GAA Plus 08: Highlights & Analysis Show - THE SUNDAY GAME 14/06/2026 - Sun 14/06 9:30pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -906,6 +953,7 @@
         "LOI 4 : Galway United v Linfield Women (Women's All-Island Cup ) - Sat 13/06 4:45pm",
         "LOI 5 : Longford Town v Cobh Ramblers (SSE Airtricity Men's First Division) - Sat 13/06 7:20pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -991,6 +1039,7 @@
         "MLB 15 : Rays at Angels (Home coverage from ABTV) - Sun 14/06 03:07am",
         "MLB 15 : Rays at Angels (Away coverage from RAYS) - Sun 14/06 03:07am"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -999,6 +1048,7 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1007,6 +1057,7 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1015,6 +1066,7 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1023,6 +1075,7 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1053,6 +1106,7 @@
         "PDC Darts 5 : World Cup of Darts | Day 4 - Evening Session - Main Feed (Swedish) - Sun 14/06 6:00pm",
         "PDC Darts 6 : World Cup of Darts | Day 4 - Evening Session - World Cup of Darts - Main Feed - Sun 14/06 6:00pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -1106,6 +1160,7 @@
         "Peacock 1 : Rangers at Red Sox (MLB) - Mon 15/06 12:00am",
         "Peacock 2 : Rangers vs. Red Sox (Español) (MLB) - Mon 15/06 12:00am"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -1123,6 +1178,7 @@
         "Peacock4K 1 : Haití v. Escocia (Soccer) - Sun 14/06 1:00am",
         "Peacock4K 2 : Australia v. Turquía (Soccer) - Sun 14/06 4:00am"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -1139,6 +1195,7 @@
         "Super League Rugby 2 : Catalans Dragons v Castleford Tigers (Round 14  Betfred Super League) - Sat 13/06 6:00pm",
         "Super League Rugby 1 : Bradford Bulls v Leigh Leopards (Round 14  Betfred Super League) - Sun 14/06 3:00pm"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -1147,6 +1204,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1155,7 +1213,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Hungary Day 1: Morning Session - UIPM Modern Pentathlon 2026 - Thu 11/06 9:00am",
         "Stan 02 : London: Day 4 - WTA 500 - Thu 11/06 11:30am",
         "Stan 03 : Hungary Day 1: Afternoon Session - UIPM Modern Pentathlon 2026 - Thu 11/06 12:30pm",
         "Stan 04 : Free Practice 3: 24 Hours of Le Mans - WEC 2026 - Thu 11/06 1:30pm",
@@ -1215,6 +1272,7 @@
         "Stan 03 : Fijian Drua v Brumbies - Super Rugby Women's Round 3 2026 - Sat 20/06 3:00am",
         "Stan 04 : Qualifying: Sanya - Formula E 2025/26 - Sat 20/06 3:30am"
       ],
+      "sections": [],
       "events": []
     },
     {
@@ -1223,6 +1281,7 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
       "events": []
     },
     {
@@ -1231,6 +1290,7 @@
       "last_updated": "",
       "status": "timeout",
       "fixtures": [],
+      "sections": [],
       "events": []
     }
   ]
