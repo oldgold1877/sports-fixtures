@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T14:09:26.729182+00:00",
+  "scraped_at": "2026-06-12T19:06:18.443728+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,87 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Friday 12/06/2026"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 21:15 GMT - Weekly Racing Stafford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 21:45 GMT - USAC Indiana Midget Week Bloomington"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 22:00 GMT - CMP Boxing Allen v Pasillas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 22:00 GMT - IRA Sprints Outagamie"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 22:15 GMT - World of Outlaws Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 22:15 GMT - NASCAR Weekly Racing Autodrome Granby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 22:30 GMT - NAPA OH Speedweek Attica"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 23:00 GMT - World of Outlaws Sprint Cars Knoxville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 23:00 GMT - Williams Grove Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 23:00 GMT - Appalachian LM Speedweek Bedford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 23:00 GMT - Albany Saratoga Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 23:15 GMT - DIRTcar Summer Nationals Late Models Coles"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 23:15 GMT - Jacksonville Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 23:30 GMT - IMCA Clash the Creek 141"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 23:45 GMT - Diamond Cup Meridian"
+            },
+            {
+              "type": "date",
+              "text": "Saturday 13/06/2026"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 00:45 GMT - NARC Fastest 5 Days Douglas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 01:00 GMT - USAC WS Midgets Plaza"
+            }
+          ]
+        },
         {
           "section": "World Cup",
           "entries": [
@@ -22,18 +103,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup:  Canada vs Bosnia and Herzegovina 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 01 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 02 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 03 - 20:00 - Group B: Canada v Bosnia and Herzegovina"
             },
             {
               "type": "date",
@@ -82,6 +151,83 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - 23:00 - Group C: Brazil v Morocco"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 9:30am ONE Friday Fights 158 Maisangkum v Petnamkhong"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 6pm CMP Boxing Allen v Pasillas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 5:15pm Weekly Racing Stafford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 5:45pm USAC Indiana Midget Week Bloomington"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 6pm IRA Sprints Outagamie"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 6:15pm World of Outlaws Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 6:15pm NASCAR Weekly Racing Autodrome Granby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 6:30pm NAPA OH Speedweek Attica"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 7pm World of Outlaws Sprint Cars Knoxville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 7pm Williams Grove Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 7pm Appalachian LM Speedweek Bedford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 7pm Albany Saratoga Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 7:15pm DIRTcar Summer Nationals Late Models Coles"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 7:15pm Jacksonville Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 7:30pm IMCA Clash the Creek 141"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 7:45pm Diamond Cup Meridian"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 8:45pm NARC Fastest 5 Days Douglas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 9pm USAC WS Midgets Plaza"
             }
           ]
         }
@@ -967,20 +1113,26 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 15 - : Princess Bajrakitiyabha Dies after Three Years in Coma - Fri 12/06 9:34am",
-        "BBC RED BUTTON 01 - : Women's Day 5 - Fri 12/06 10:49am",
-        "BBC RED BUTTON 00 - : Women's Day 5 - Fri 12/06 11:00am",
-        "BBC RED BUTTON 14 - : Artist David Hockney dies aged 88 - Fri 12/06 11:06am",
-        "BBC RED BUTTON 14 - : David Hockney Dies Aged 88 - Fri 12/06 11:37am",
-        "BBC RED BUTTON 14 - : Starmer Defends Defence Spending Decisions - Fri 12/06 12:34pm",
-        "BBC RED BUTTON 15 - : Sir Keir Starmer Speaks to the BBC - Fri 12/06 12:54pm",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Fri 12/06 1:15pm",
-        "BBC RED BUTTON 14 - : no_episode_title - Fri 12/06 1:32pm",
         "BBC RED BUTTON 15 - : MENA LIVE STREAMING - 12/06/2026 عالم الظهيرة - Fri 12/06 2:27pm",
         "BBC RED BUTTON 16 - : One Third of People Paying for Private Dental Treatment - Fri 12/06 2:46pm",
-        "BBC RED BUTTON 17 - : Scotland training 11 June - Fri 12/06 2:59pm",
+        "BBC RED BUTTON 17 - : Scotland training 12 June - Fri 12/06 2:59pm",
+        "BBC RED BUTTON 15 - : Jill Scott To Complete Sport Relief Challenge - Fri 12/06 4:10pm",
+        "BBC RED BUTTON 16 - : Elon Musk's SpaceX Makes $2 Trillion Stock Market Debut - Fri 12/06 4:18pm",
+        "BBC RED BUTTON 17 - : Four Palestine Action Activists to be Sentenced - Fri 12/06 4:32pm",
+        "BBC RED BUTTON 05 - : Scotland World Cup press conference 12th June - Fri 12/06 4:54pm",
+        "BBC RED BUTTON 16 - : MENA LIVE STREAMING - 12/06/2026 عالم الظهيرة - Fri 12/06 5:25pm",
         "BBC RED BUTTON 00 - : Women's Day 5 - Fri 12/06 5:45pm",
-        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Fri 12/06 7:30pm",
+        "BBC RED BUTTON 17 - : Pioneering New Therapy for Lupus Disease - Fri 12/06 6:08pm",
+        "BBC RED BUTTON 02 - : Canada v Bosnia-Herzegovina - Watch with 5 Live - Fri 12/06 6:10pm",
+        "BBC RED BUTTON 03 - : Canada Opening Ceremony - Fri 12/06 6:10pm",
+        "BBC RED BUTTON 16 - : Elon Musk's SpaceX Makes $2 Trillion Stock Market Debut - Fri 12/06 6:14pm",
+        "BBC RED BUTTON 14 - : Scotland Fans Gear Up For Team's First World Cup Match - Fri 12/06 6:26pm",
+        "BBC RED BUTTON 05 - : Derry City v Bohemians - Fri 12/06 6:31pm",
+        "BBC RED BUTTON 18 - : Jill Scott Completes Sport Relief Challenge - Fri 12/06 6:33pm",
+        "BBC RED BUTTON 14 - : Jill Scott Completes Sport Relief Challenge - Fri 12/06 6:57pm",
+        "BBC RED BUTTON 14 - : Jill Scott Completes Sport Relief Challenge - Fri 12/06 7:18pm",
+        "BBC RED BUTTON 14 - : David Hockney Dies Aged 88 - Fri 12/06 7:50pm",
+        "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Fri 12/06 8:30pm",
         "BBC RED BUTTON 00 - : USA v Paraguay - Watch with 5 Live - Sat 13/06 12:25am",
         "BBC RED BUTTON 00 - : The Story So Far: The Best Of, Part 4 - Sat 13/06 4:15am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 13/06 6:40am"
@@ -1134,14 +1286,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN+ 00 - 11:55 - 20:05 - RBC Canadian Open: Main Feed (Second Round)",
-        "ESPN+ 01 - 12:10 - 20:05 - RBC Canadian Open: Featured Holes #4, #7, #11 and #14 (Second Round)",
-        "ESPN+ 02 - 12:25 - 20:05 - RBC Canadian Open: Koepka Marquee Group (Second Round)",
-        "ESPN+ 03 - 12:25 - 20:05 - RBC Canadian Open: Clark and Lowry Featured Groups (Second Round)",
         "ESPN+ 04 - 13:55 - 23:05 - 2026 WSL Championship Tour: Surf City El Salvador Pro",
-        "ESPN+ 05 - 14:55 - 17:05 - ESPN Radio",
-        "ESPN+ 06 - 16:55 - 19:05 - The Pat McAfee Show",
-        "ESPN+ 07 - 16:55 - 20:05 - Fri, 6/12 - The Rich Eisen Show",
         "ESPN+ 05 - 19:40 - 20:20 - 2026 NCAA Division I Outdoor Track and Field Championships - Womens Heptathlon - 100m Hurdles",
         "ESPN+ 06 - 19:55 - 23:05 - RBC Canadian Open: Morikawa Featured Group (Second Round)",
         "ESPN+ 08 - 19:55 - 22:05 - Biloxi Mississippi Open (Day 1)",
@@ -1482,8 +1627,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Hungary Day 2: Afternoon Session 2 - UIPM Modern Pentathlon 2026 - Fri 12/06 3:00pm",
-        "Stan 05 : Cross-country Short Track: Leogang - UCI Mountain Bike World Series 2026 - Fri 12/06 4:15pm",
         "Stan 02 : Northampton v Leicester - PREM Rugby Playoffs 2025/26 - Fri 12/06 7:40pm",
         "Stan 14 : Blues v Hurricanes Poua - Super Rugby Aupiki Round 1 2026 - Sat 13/06 2:30am",
         "Stan 01 : Fijian Drua v Force - Super Rugby Women's Round 2 2026 - Sat 13/06 3:00am",
