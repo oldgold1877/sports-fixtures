@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-13T12:23:38.868859+00:00",
+  "scraped_at": "2026-06-13T18:08:31.785476+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,10 +17,6 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 03 - 14:55-17:00 - F1: Barcelona-Catalunya Grand Prix - Qualifying 1080p"
-            },
-            {
-              "type": "fixture",
               "text": "SPORTS SCENE 09 - 18:00-23:00 - Boxing: Fury vs. Hall 1080p"
             },
             {
@@ -30,6 +26,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup: Qatar vs Switzerland 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 20:00-22:00 - 2026 FIFA World Cup: Qatar vs Switzerland 720p"
             },
             {
               "type": "date",
@@ -50,6 +50,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 04 - 02:00-04:00 - 2026 FIFA World Cup: Haiti vs Scotland 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 02:00-04:00 - 2026 FIFA World Cup: Haiti vs Scotland 720p"
             }
           ]
         },
@@ -163,6 +167,155 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Group F: Sweden v Tunisia - 15 Jun 03:00 // 14 Jun 22:00 ET // 14 Jun 19:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
+            }
+          ]
+        },
+        {
+          "section": "Football",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Saturday 13 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group B: Qatar v Switzerland - 13 Jun 20:00 // 13 Jun 15:00 ET // 13 Jun 12:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group B: Qatar v Switzerland - 13 Jun 20:00 // 13 Jun 15:00 ET // 13 Jun 12:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group B: Qatar v Switzerland - 13 Jun 20:00 // 13 Jun 15:00 ET // 13 Jun 12:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group C: Brazil v Morocco - 13 Jun 23:00 // 13 Jun 18:00 ET // 13 Jun 15:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group C: Brazil v Morocco - 13 Jun 23:00 // 13 Jun 18:00 ET // 13 Jun 15:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group C: Brazil v Morocco - 13 Jun 23:00 // 13 Jun 18:00 ET // 13 Jun 15:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group C: Brazil v Morocco - 13 Jun 23:00 // 13 Jun 18:00 ET // 13 Jun 15:00 PT"
+            },
+            {
+              "type": "date",
+              "text": "Sunday 14 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group C: Haiti v Scotland - 14 Jun 02:00 // 13 Jun 21:00 ET // 13 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group C: Haiti v Scotland - 14 Jun 02:00 // 13 Jun 21:00 ET // 13 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group C: Haiti v Scotland - 14 Jun 02:00 // 13 Jun 21:00 ET // 13 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group C: Haiti v Scotland - 14 Jun 02:00 // 13 Jun 21:00 ET // 13 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 (FS1 UHD): Group D: Australia v Türkiye - 14 Jun 05:00 // 14 Jun 00:00 ET // 13 Jun 21:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group D: Australia v Türkiye - 14 Jun 05:00 // 14 Jun 00:00 ET // 13 Jun 21:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group D: Australia v Türkiye - 14 Jun 05:00 // 14 Jun 00:00 ET // 13 Jun 21:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group E: Germany v Curaçao - 14 Jun 18:00 // 14 Jun 13:00 ET // 14 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group E: Germany v Curaçao - 14 Jun 18:00 // 14 Jun 13:00 ET // 14 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group E: Germany v Curaçao - 14 Jun 18:00 // 14 Jun 13:00 ET // 14 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group F: Netherlands v Japan - 14 Jun 21:00 // 14 Jun 16:00 ET // 14 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group F: Netherlands v Japan - 14 Jun 21:00 // 14 Jun 16:00 ET // 14 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group F: Netherlands v Japan - 14 Jun 21:00 // 14 Jun 16:00 ET // 14 Jun 13:00 PT"
+            },
+            {
+              "type": "date",
+              "text": "Monday 15 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 (FS1 UHD): Group E: Côte d'Ivoire v Ecuador - 15 Jun 00:00 // 14 Jun 19:00 ET // 14 Jun 16:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group E: Côte d'Ivoire v Ecuador - 15 Jun 00:00 // 14 Jun 19:00 ET // 14 Jun 16:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group E: Côte d'Ivoire v Ecuador - 15 Jun 00:00 // 14 Jun 19:00 ET // 14 Jun 16:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group E: Côte d'Ivoire v Ecuador - 15 Jun 00:00 // 14 Jun 19:00 ET // 14 Jun 16:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 (FS1 UHD): Group F: Sweden v Tunisia - 15 Jun 03:00 // 14 Jun 22:00 ET // 14 Jun 19:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group F: Sweden v Tunisia - 15 Jun 03:00 // 14 Jun 22:00 ET // 14 Jun 19:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group F: Sweden v Tunisia - 15 Jun 03:00 // 14 Jun 22:00 ET // 14 Jun 19:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group H: Spain v Cabo Verde - 15 Jun 17:00 // 15 Jun 12:00 ET // 15 Jun 09:00 PT"
             }
           ]
         },
@@ -184,10 +337,6 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 03 - 2am ZFN Origin 04"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 9:30amShuriken Fight Series 24"
             },
             {
               "type": "fixture",
@@ -664,18 +813,6 @@
           ]
         },
         {
-          "sport": "SOFTBALL",
-          "time": "17:00",
-          "name": "CAROLINA BLAZE - TEXAS VOLTS",
-          "datetime": "2026-06-13 17:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
           "sport": "TENNIS",
           "time": "10:00",
           "name": "LIBEMA OPEN",
@@ -754,6 +891,18 @@
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "03:00",
+          "name": "OAKLAND ROOTS - MIAMI FC",
+          "datetime": "2026-06-14 03:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -1307,15 +1456,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : MAFS Stars Say Partners' Criminal Past wasn't Disclosed - Sat 13/06 7:31am",
-        "BBC RED BUTTON 14 - : Makerfield Voters Voice Their Needs - Sat 13/06 9:51am",
-        "BBC RED BUTTON 16 - : Rugby Star Among Those Recognised in King's Birthday Honours - Sat 13/06 10:08am",
-        "BBC RED BUTTON 01 - : No Commentary: 2026 - Trooping the Colour - Sat 13/06 10:09am",
-        "BBC RED BUTTON 00 - : Audio Described: 2026 - The King’s Birthday Parade - Sat 13/06 10:30am",
-        "BBC RED BUTTON 02 - : Women's Day 6 - Sat 13/06 12:05pm",
-        "BBC RED BUTTON 14 - : MENA LIVE STREAMING - 12/06/2026 العالم هذا المساء - Sat 13/06 12:34pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 13/06 1:10pm",
+        "BBC RED BUTTON 15 - : King's Official Birthday Celebrated - Sat 13/06 1:28pm",
         "BBC RED BUTTON 00 - : Women's Day 6 - Sat 13/06 5:00pm",
+        "BBC RED BUTTON 15 - : Trump says Peace Deal with Iran will be Signed on Sunday - Sat 13/06 6:28pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 13/06 7:30pm",
         "BBC RED BUTTON 00 - : Brazil v Morocco – Watch with 5 Live - Sat 13/06 9:55pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 14/06 1:10am",
@@ -1409,56 +1553,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - Dubrovnik Group Stages - 10:50 13/06/2026",
-        "DAZN GB 02 - RWS: Marie Ruumet vs. Roghayeh - 13:10 13/06/2026",
-        "DAZN GB 03 - Dubrovnik Race Off - 13:40 13/06/2026",
-        "DAZN GB 04 - Drift Masters Ireland: Qualifying - 14:25 13/06/2026",
-        "DAZN GB 05 - Glory Collision 09: Prelims - 15:30 13/06/2026",
-        "DAZN GB 06 - Valencia Race 01 - 15:50 13/06/2026",
-        "DAZN GB 07 - St Tropez Longines Global Champions Tour Grand Prix - 16:30 13/06/2026",
-        "DAZN GB 08 - GLORY COLLISION 09 - 17:30 13/06/2026",
-        "DAZN GB 09 - Fury vs. Hall - 18:00 13/06/2026",
-        "DAZN GB 10 - Fury vs. Hall: Free to Watch Fights - 18:00 13/06/2026",
-        "DAZN GB 11 - Kiwitt vs. Arcon - 18:00 13/06/2026",
-        "DAZN GB 12 - MMA Bushido 104: Winter vs. Schuster - 18:00 13/06/2026",
-        "DAZN GB 13 - Tenerife vs. Barcelona - 19:00 13/06/2026",
-        "DAZN GB 14 - Rodriguez vs. Vargas - 01:00 14/06/2026",
-        "DAZN GB 15 - Valencia Race 02 - 10:35 14/06/2026",
-        "DAZN GB 16 - IRONMAN 70.03 Pennsylvania Happy Valley North American Championship - 11:15 14/06/2026",
-        "DAZN GB 17 - Drift Masters Ireland: Top 32 - 11:15 14/06/2026",
-        "DAZN GB 18 - Haddir vs. Diarra - 14:00 14/06/2026",
-        "DAZN GB 19 - Drift Masters Ireland: Top 16 - 15:20 14/06/2026",
-        "DAZN GB 20 - Valencia Race 03 - 15:20 14/06/2026",
-        "DAZN GB 21 - Paris vs. Monaco (Commentaires en français) - 16:00 14/06/2026",
-        "DAZN GB 22 - Paris vs. Monaco - 16:00 14/06/2026",
-        "DAZN GB 23 - Joventut vs. Valencia - 19:00 14/06/2026",
-        "DAZN GB 24 - Gonzalez vs. Perez - 22:00 14/06/2026",
-        "DAZN GB 25 - Stanley Cup Final Game 06: Hurricanes at Golden Knights - 01:00 15/06/2026",
-        "DAZN GB 26 - Inside The Ring June 15 - 19:00 15/06/2026",
-        "DAZN GB 27 - Prague Day 01 - 11:00 16/06/2026",
-        "DAZN GB 28 - Prague Day 02 - 09:00 17/06/2026",
-        "DAZN GB 29 - Paris vs. Monaco - 19:30 17/06/2026",
-        "DAZN GB 30 - FCE5 Day 01: Weigh In - 20:30 17/06/2026",
-        "DAZN GB 31 - Prague Day 03 - 09:00 18/06/2026",
-        "DAZN GB 32 - Garner vs. Magnesi: Press Conference - 13:00 18/06/2026",
-        "DAZN GB 33 - Reserve Cup Day 01 - 16:30 18/06/2026",
-        "DAZN GB 34 - Day 02: FCE5 Fight Sagres Campo - 20:00 18/06/2026",
-        "DAZN GB 35 - Prague Day 04 - 09:00 19/06/2026",
-        "DAZN GB 36 - Garner vs. Magnesi: Weigh In - 13:00 19/06/2026",
-        "DAZN GB 37 - Reserve Cup Day 02 - 16:30 19/06/2026",
-        "DAZN GB 38 - Monaco vs. Paris - 20:00 19/06/2026",
-        "DAZN GB 39 - Sylve vs. Diaz - 01:00 20/06/2026",
-        "DAZN GB 40 - Queensland Race 01 - 06:50 20/06/2026",
-        "DAZN GB 41 - Prague Day 05 - 08:00 20/06/2026",
-        "DAZN GB 42 - Monza Race 01 - 09:30 20/06/2026",
-        "DAZN GB 43 - Lausitzring Race 01 - 10:05 20/06/2026",
-        "DAZN GB 44 - Monza Race 01 - 10:30 20/06/2026",
-        "DAZN GB 45 - RWS: Jaroensook vs. Pangtor - 13:10 20/06/2026",
-        "DAZN GB 46 - Monza Race 02 - 15:30 20/06/2026",
-        "DAZN GB 47 - Reserve Cup Day 03 - 16:30 20/06/2026",
-        "DAZN GB 48 - Monza Race 02 - 16:30 20/06/2026",
-        "DAZN GB 49 - Garner vs. Magnesi: Prelims - 17:00 20/06/2026",
-        "DAZN GB 50 - KOK Fight Night: Gezius vs. Tryfonos - 18:00 20/06/2026"
+        "DAZN GB 01 - St Tropez Longines Global Champions Tour Grand Prix - 16:30 13/06/2026",
+        "DAZN GB 02 - GLORY COLLISION 09 - 17:30 13/06/2026",
+        "DAZN GB 03 - Kiwitt vs. Kasujja - 18:00 13/06/2026",
+        "DAZN GB 04 - MMA Bushido 104: Winter vs. Schuster - 18:00 13/06/2026",
+        "DAZN GB 05 - Fury vs. Hall - 18:30 13/06/2026",
+        "DAZN GB 06 - Fury vs. Hall: Free to Watch Fights - 18:30 13/06/2026",
+        "DAZN GB 07 - Tenerife vs. Barcelona - 19:00 13/06/2026",
+        "DAZN GB 08 - Rodriguez vs. Vargas - 01:00 14/06/2026",
+        "DAZN GB 09 - Valencia Race 02 - 10:35 14/06/2026",
+        "DAZN GB 10 - IRONMAN 70.03 Pennsylvania Happy Valley North American Championship - 11:15 14/06/2026",
+        "DAZN GB 11 - Drift Masters Ireland: Top 32 - 11:15 14/06/2026",
+        "DAZN GB 12 - Mighty Wanderers vs. Creck Sporting FC - 13:30 14/06/2026",
+        "DAZN GB 13 - Silver Strikers vs. Karonga United - 13:30 14/06/2026",
+        "DAZN GB 14 - Haddir vs. Diarra - 14:00 14/06/2026",
+        "DAZN GB 15 - Drift Masters Ireland: Top 16 - 15:20 14/06/2026",
+        "DAZN GB 16 - Valencia Race 03 - 15:20 14/06/2026",
+        "DAZN GB 17 - Paris vs. Monaco (Commentaires en français) - 16:00 14/06/2026",
+        "DAZN GB 18 - Paris vs. Monaco - 16:00 14/06/2026",
+        "DAZN GB 19 - Joventut vs. Valencia - 19:00 14/06/2026",
+        "DAZN GB 20 - Gonzalez vs. Perez - 22:00 14/06/2026",
+        "DAZN GB 21 - Stanley Cup Final Game 06: Hurricanes at Golden Knights - 01:00 15/06/2026",
+        "DAZN GB 22 - Inside The Ring June 15 - 19:00 15/06/2026",
+        "DAZN GB 23 - Prague Day 01 - 11:00 16/06/2026",
+        "DAZN GB 24 - Prague Day 02 - 09:00 17/06/2026",
+        "DAZN GB 25 - Sylve vs. Diaz: Press Conference - 19:00 17/06/2026",
+        "DAZN GB 26 - Paris vs. Monaco - 19:30 17/06/2026",
+        "DAZN GB 27 - FCE5 Day 01: Weigh In - 20:30 17/06/2026",
+        "DAZN GB 28 - Prague Day 03 - 09:00 18/06/2026",
+        "DAZN GB 29 - Garner vs. Magnesi: Press Conference - 13:00 18/06/2026",
+        "DAZN GB 30 - Reserve Cup Day 01 - 16:30 18/06/2026",
+        "DAZN GB 31 - Sylve vs. Diaz: Weigh In - 19:00 18/06/2026",
+        "DAZN GB 32 - Day 02: FCE5 Fight Sagres Campo - 20:00 18/06/2026",
+        "DAZN GB 33 - Prague Day 04 - 09:00 19/06/2026",
+        "DAZN GB 34 - Garner vs. Magnesi: Weigh In - 13:00 19/06/2026",
+        "DAZN GB 35 - Reserve Cup Day 02 - 16:30 19/06/2026",
+        "DAZN GB 36 - Monaco vs. Paris - 20:00 19/06/2026",
+        "DAZN GB 37 - Sylve vs. Diaz - 01:00 20/06/2026",
+        "DAZN GB 38 - Queensland Race 01 - 06:50 20/06/2026",
+        "DAZN GB 39 - Prague Day 05 - 08:00 20/06/2026",
+        "DAZN GB 40 - Monza Race 01 - 09:30 20/06/2026",
+        "DAZN GB 41 - Lausitzring Race 01 - 10:05 20/06/2026",
+        "DAZN GB 42 - Monza Race 01 - 10:30 20/06/2026",
+        "DAZN GB 43 - RWS: Jaroensook vs. Pangtor - 13:10 20/06/2026",
+        "DAZN GB 44 - Monza Race 02 - 15:30 20/06/2026",
+        "DAZN GB 45 - Reserve Cup Day 03 - 16:30 20/06/2026",
+        "DAZN GB 46 - Monza Race 02 - 16:30 20/06/2026",
+        "DAZN GB 47 - Garner vs. Magnesi: Prelims - 17:00 20/06/2026",
+        "DAZN GB 48 - KOK Fight Night: Gezius vs. Tryfonos - 18:00 20/06/2026",
+        "DAZN GB 49 - Garner vs. Magnesi - 19:00 20/06/2026",
+        "DAZN GB 50 - Collazo vs. Canoy - 01:00 21/06/2026"
       ],
       "sections": [],
       "events": []
@@ -1469,10 +1613,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN+ 00 - 12:10 - 18:05 - RBC Canadian Open: Main Feed (Third Round)",
-        "ESPN+ 01 - 12:25 - 18:05 - RBC Canadian Open: Finau Marquee Group (Third Round)",
-        "ESPN+ 02 - 13:10 - 18:05 - RBC Canadian Open: Featured Holes #4, #7, #11 and #14 (Third Round)",
-        "ESPN+ 03 - 13:10 - 18:05 - RBC Canadian Open: Taylor and Clark Featured Groups (Third Round)",
         "ESPN+ 04 - 13:25 - 19:35 - 2026 Warrior Games: Powerlifting",
         "ESPN+ 05 - 13:55 - 20:05 - 2026 APP Vlasic Classic Cincinnati",
         "ESPN+ 06 - 13:55 - 23:05 - 2026 WSL Championship Tour: Surf City El Salvador Pro",
@@ -1771,7 +1911,12 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Peacock4K 1 : Catar v. Suiza (Soccer) - Sat 13/06 7:30pm",
+        "Peacock4K 2 : Brasil v. Marruecos (Soccer) - Sat 13/06 10:00pm",
+        "Peacock4K 1 : Haití v. Escocia (Soccer) - Sun 14/06 1:00am",
+        "Peacock4K 2 : Australia v. Turquía (Soccer) - Sun 14/06 4:00am"
+      ],
       "sections": [],
       "events": []
     },
@@ -1791,6 +1936,102 @@
       "events": []
     },
     {
+      "name": "SKY SPORT NZ",
+      "type": "plain",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [
+        "Sky Sport 5 - LIVE: PGA Champions Tour: R2 - 21:00 13/06/2026",
+        "Sky Sport 9 - LIVE: Boxing: MVPW-04 - 21:45 13/06/2026",
+        "Sky Sport 6 - LIVE: Golf: Curtis Cup Round 2 Evening - 00:00 14/06/2026",
+        "Sky Sport 4 - LIVE: UFC Freedom 250: Weigh-In - 01:30 14/06/2026",
+        "Sky Sport 1 - LIVE: Rapid League: Tuatara v Saints - 03:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: Rapid League: Tuatara v Saints - 03:00 14/06/2026",
+        "Sky Sport Select - LIVE: AFL: Richmond v Brisbane Lion - 04:00 14/06/2026",
+        "Sky Sport 1 - LIVE: Sal's NBL: Tuatara v Saints - 04:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: Sal's NBL: Tuatara v Saints - 04:00 14/06/2026",
+        "Sky Sport 5 - LIVE: Super W: Brumbies v Waratahs - 05:00 14/06/2026",
+        "Sky Sport 4 - LIVE: Bangladesh v Australia: 3rd ODI - 05:20 14/06/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Jets v Whai - 06:00 14/06/2026",
+        "Sky Sport 1 - LIVE: NRL: Wests Tigers v Titans - 06:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Wests Tigers v Titans - 06:00 14/06/2026",
+        "Sky Sport 9 - LIVE: AFL: St Kilda v GWS Giants - 06:00 14/06/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Jets v Whai - 07:00 14/06/2026",
+        "Sky Sport 7 - LIVE: FIA Formula 3: Rd3 Feature Race - 07:35 14/06/2026",
+        "Sky Sport Select - LIVE: ICF: Augsburg Day 3 S1 - 08:30 14/06/2026",
+        "Sky Sport 3 - LIVE: World Rowing Cup: Plovdiv D2 - 09:00 14/06/2026",
+        "Sky Sport 5 - LIVE: Porsche Supercup: Rd2 Race - 09:05 14/06/2026",
+        "Sky Sport 2 - LIVE: ICC T20WC: B'desh v Netherlands - 10:00 14/06/2026",
+        "Sky Sport 5 - LIVE: FIA Formula 2: Rd5 Feature Race - 10:20 14/06/2026",
+        "Sky Sport 5 - LIVE: World Cup Of Darts: D4 Aft session - 12:00 14/06/2026",
+        "Sky Sport 1 - LIVE: FIA Formula 1: Barcelona Pre Race - 12:30 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: FIA Formula 1: Barcelona Pre Race - 12:30 14/06/2026",
+        "Sky Sport Select - LIVE: ICF: Augsburg Day 3 S2 - 13:00 14/06/2026",
+        "Sky Sport 1 - LIVE:FIA Formula 1: Barcelona Grand Prix - 13:55 14/06/2026",
+        "Sky Sport 1 UHD - LIVE:FIA Formula 1: Barcelona Grand Prix - 13:55 14/06/2026",
+        "Sky Sport 6 - LIVE: PWR: Gloucester v Trailfinders SF1 - 13:55 14/06/2026",
+        "Sky Sport 9 - LIVE: UCI BMX Racing World Cup: Rd4 - 14:00 14/06/2026",
+        "Sky Sport 2 - LIVE: ICC T20WC: India v Pakistan - 14:00 14/06/2026",
+        "Sky Sport 3 - LIVE: Tour Auvergne-Rhone-Alpes: S8 - 14:15 14/06/2026",
+        "Sky Sport 1 - LIVE: FIA Formula 1: Chequered Flag - 16:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: FIA Formula 1: Chequered Flag - 16:00 14/06/2026",
+        "Sky Sport 6 - LIVE: PWR: Saracens v Exeter Chiefs SF2 - 16:25 14/06/2026",
+        "Sky Sport 4 - LIVE: LPGA: Round 4 - 17:00 14/06/2026",
+        "Sky Sport 1 - LIVE: Ted's Notebook: Barcelona - 17:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: Ted's Notebook: Barcelona - 17:00 14/06/2026",
+        "Sky Sport 3 - LIVE: World Cup Of Darts: D4 Eve session - 18:00 14/06/2026",
+        "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 18:00 14/06/2026",
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 18:00 14/06/2026",
+        "Sky Sport 6 - LIVE: PGA Champions Tour: R3 - 20:00 14/06/2026",
+        "Sky Sport 6 - LIVE: Golf: Curtis Cup Round 3 - 23:00 14/06/2026",
+        "Sky Sport 1 - LIVE: MLR: Seattle v California SF1 - 03:00 15/06/2026",
+        "Sky Sport 1 UHD - LIVE: MLR: Seattle v California SF1 - 03:00 15/06/2026",
+        "Sky Sport 1 - LIVE: MLR: Chicago v Old Glory DC SF2 - 00:30 16/06/2026",
+        "Sky Sport 1 UHD - LIVE: MLR: Chicago v Old Glory DC SF2 - 00:30 16/06/2026",
+        "Sky Sport 1 - LIVE: ICC T20WC: White Ferns v Sri Lanka - 14:00 16/06/2026",
+        "Sky Sport 1 UHD - LIVE: ICC T20WC: White Ferns v Sri Lanka - 14:00 16/06/2026",
+        "Sky Sport 1 - LIVE: ICC T20WC: England v Ireland - 18:00 16/06/2026",
+        "Sky Sport 1 UHD - LIVE: ICC T20WC: England v Ireland - 18:00 16/06/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Giants v Jets - 07:00 17/06/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Giants v Jets - 08:00 17/06/2026",
+        "Sky Sport 5 - LIVE: Bangladesh v Australia: 1st T20 - 08:20 17/06/2026",
+        "Sky Sport 4 - LIVE: India v Afghanistan: 2nd ODI - 08:50 17/06/2026",
+        "Sky Sport 3 - LIVE: ICC T20WC: Australia v Bangladesh - 10:00 17/06/2026",
+        "Sky Sport 2 - LIVE: State Of Origin: Game 2 - 10:00 17/06/2026",
+        "Sky Sport 1 - LIVE: England v BLACKCAPS: 2nd Test D1 - 10:30 17/06/2026",
+        "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 2nd Test D1 - 10:30 17/06/2026",
+        "Sky Sport 2 - LIVE: ICC T20WC: India v Netherlands - 14:00 17/06/2026",
+        "Sky Sport 2 - LIVE: ICC T20WC: S Africa v Pakistan - 18:00 17/06/2026",
+        "Sky Sport 1 - LIVE: 1st XV: Christs v Nelson Quad - 01:00 18/06/2026",
+        "Sky Sport 1 UHD - LIVE: 1st XV: Christs v Nelson Quad - 01:00 18/06/2026",
+        "Sky Sport 5 - LIVE: Bowls: AUS Open Day 1 - 02:30 18/06/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Sharks v Airs - 07:00 18/06/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Sharks v Airs - 08:00 18/06/2026",
+        "Sky Sport 5 - LIVE: Women's U19 State Of Origin - 08:30 18/06/2026",
+        "Sky Sport 1 - LIVE: England v BLACKCAPS: 2nd Test D2 - 10:30 18/06/2026",
+        "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 2nd Test D2 - 10:30 18/06/2026",
+        "Sky Sport 5 - LIVE: U19 State Of Origin: QLD v NSW - 10:30 18/06/2026",
+        "Sky Sport 2 - LIVE: AFL: Fremantle v Geelong Cats - 11:00 18/06/2026",
+        "Sky Sport 3 - LIVE: U.S. Open: Round 1 - 11:30 18/06/2026",
+        "Sky Sport 5 - LIVE: U.S. Open: Feature Groups R1 - 13:00 18/06/2026",
+        "Sky Sport 7 - LIVE: U.S. Open: Feature Groups R3 - 13:30 18/06/2026",
+        "Sky Sport 6 - LIVE: U.S. Open: Feature Groups R2 - 13:30 18/06/2026",
+        "Sky Sport 2 - LIVE: U.S. Open: Round 1 - 17:00 18/06/2026",
+        "Sky Sport 3 - LIVE: ICC T20WC: West Indies v Scotland - 18:00 18/06/2026",
+        "Sky Sport 1 - LIVE: U.S. Open: Round 1 - 19:00 18/06/2026",
+        "Sky Sport 1 UHD - LIVE: U.S. Open: Round 1 - 19:00 18/06/2026",
+        "Sky Sport 4 - LIVE: LPGA: Round 1 - 20:00 18/06/2026",
+        "Sky Sport 4 - LIVE: Bowls: AUS Open Day 2 - 02:30 19/06/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Rams v Whai - 07:30 19/06/2026",
+        "Sky Sport 9 - LIVE: Amateur Championship QF - 08:00 19/06/2026",
+        "Sky Sport 4 - LIVE: Bangladesh v Australia: 2nd T20 - 08:20 19/06/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Rams v Whai - 08:30 19/06/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd11 P1 - 09:25 19/06/2026"
+      ],
+      "sections": [],
+      "events": []
+    },
+    {
       "name": "SKY SPORTS PLUS",
       "type": "plain",
       "last_updated": "",
@@ -1800,18 +2041,44 @@
       "events": []
     },
     {
+      "name": "SPORTSNET PLUS",
+      "type": "plain",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [
+        "Sportsnet 03 : Catalans Dragons vs. Castleford Tigers - Sat 13/06 5:50pm",
+        "Sportsnet 04 : New York Yankees @ Toronto - Sat 13/06 7:30pm",
+        "Sportsnet 01 : Los Angeles Dodgers @ Chicago White Sox - Sat 13/06 9:00pm",
+        "Sportsnet 02 : Philadelphia @ Milwaukee - Sun 14/06 12:00am",
+        "Sportsnet 03 : UFC Freedom 250 Ceremonial Weigh-Ins - Sun 14/06 1:25am",
+        "Sportsnet 01 : Wests Tigers vs. Titans - Sun 14/06 6:55am",
+        "Sportsnet 02 : Sportsnet Central: June 13 - Sun 14/06 10:00am",
+        "Sportsnet 01 : Bradford Bulls vs. Leigh Leopards - Sun 14/06 2:50pm",
+        "Sportsnet 02 : New York Yankees @ Toronto - Sun 14/06 6:00pm",
+        "Sportsnet 03 : Los Angeles Dodgers @ Chicago White Sox - Sun 14/06 7:00pm",
+        "Sportsnet 01 : UFC Freedom 250 Pre Show - Sun 14/06 11:00pm",
+        "Sportsnet 04 : Carolina @ Vegas - Game 6 - Mon 15/06 12:30am",
+        "Sportsnet 02 : Stanley Cup Final in American Sign Language: Carolina @ Vegas - Game 6 - Mon 15/06 1:00am",
+        "Sportsnet 05 : UFC Freedom 250 PPV - Mon 15/06 1:00am",
+        "Sportsnet 03 : UFC Freedom 250 Post-Fight Press Conference - Mon 15/06 5:00am",
+        "Sportsnet 01 : The Ultimate Fighter: Team Cormier vs. Team Bisping - Eps. 1 - Mon 15/06 7:00am",
+        "Sportsnet 02 : Sportsnet Central: June 14 - Mon 15/06 10:00am",
+        "Sportsnet 02 : Halford & Brough: June 15 - Mon 15/06 2:00pm",
+        "Sportsnet 01 : The JD Bunkis Podcast: June 15 - Mon 15/06 2:00pm",
+        "Sportsnet 03 : Jays Talk Plus: June 15 - Mon 15/06 3:00pm",
+        "Sportsnet 04 : The FAN Hockey Show: June 15 - Mon 15/06 5:00pm",
+        "Sportsnet 01 : Real Kyper & Bourne: June 15 - Mon 15/06 8:00pm",
+        "Sportsnet 02 : Blair & Barker: June 15 - Mon 15/06 9:00pm"
+      ],
+      "sections": [],
+      "events": []
+    },
+    {
       "name": "STAN SPORTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 14 : Hertogenbosch: Day 6 - WTA 250 - Sat 13/06 10:00am",
-        "Stan 01 : Hungary Day 3: Morning Session - UIPM Modern Pentathlon 2026 - Sat 13/06 10:00am",
-        "Stan 15 : Warm Up: 24 Hours of Le Mans - WEC 2026 - Sat 13/06 10:45am",
-        "Stan 16 : Downhill: Leogang - UCI Mountain Bike World Series 2026 - Sat 13/06 11:15am",
-        "Stan 02 : London: Day 6 - WTA 500 - Sat 13/06 1:30pm",
-        "Stan 03 : Race: 24 Hours of Le Mans - WEC 2026 - Sat 13/06 2:00pm",
-        "Stan 04 : Bath v Exeter - PREM Rugby Playoffs 2025/26 - Sat 13/06 2:55pm",
         "Stan 01 : Quarter Final: PFL Africa 2026 - Sat 13/06 6:00pm",
         "Stan 01 : Appin - Australian Motocross Championship 2026 - Sun 14/06 4:00am",
         "Stan 02 : Brumbies v Waratahs - Super Rugby Women's Round 2 2026 - Sun 14/06 5:00am",
@@ -1844,6 +2111,38 @@
       "last_updated": "",
       "status": "unavailable",
       "fixtures": [],
+      "sections": [],
+      "events": []
+    },
+    {
+      "name": "TSN PLUS",
+      "type": "plain",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [
+        "TSN 07 : ATP 250 Tennis: 's-Hertogenbosch - Semifinals - Sat 13/06 11:30am",
+        "TSN 08 : PGA TOUR Live: RBC Canadian Open - Third Round: Main Feed - Sat 13/06 12:15pm",
+        "TSN 09 : PGA TOUR Live: RBC Canadian Open - Third Round: Marquee Group - Sat 13/06 12:30pm",
+        "TSN 17 : PGA TOUR Live: RBC Canadian Open - Third Round: Featured Groups - Sat 13/06 1:15pm",
+        "TSN 02 : PGA TOUR Live: RBC Canadian Open - Third Round: Featured Holes - Sat 13/06 1:15pm",
+        "TSN 01 : NASCAR Cup Series Practice & Qualifying: Great American Getaway 400 - Sat 13/06 6:00pm",
+        "TSN 06 : 2026 Curtis Cup: Day 2 - Sat 13/06 6:30pm",
+        "TSN 03 : Athletes Unlimited Softball League: Spark vs. Bandits - Sat 13/06 7:00pm",
+        "TSN 11 : Arabic Feed: FIFA World Cup 2026: Qatar vs. Switzerland - Sat 13/06 7:45pm",
+        "TSN 12 : German Feed: FIFA World Cup 2026: Qatar vs. Switzerland - Sat 13/06 7:45pm",
+        "TSN 14 : NCAA Men's College World Series: Oklahoma vs. Alabama - Game #3 - Sat 13/06 8:00pm",
+        "TSN 04 : UFL on TSN+: Championship - Defenders vs. Kings - Sat 13/06 8:00pm",
+        "TSN 13 : 2026 NASCAR O'Reilly Auto Parts Series: MillerTech Battery 250 - Sat 13/06 8:30pm",
+        "TSN 15 : NSL on TSN+: Toronto vs. Montreal - Sat 13/06 9:00pm",
+        "TSN 05 : Arabic Feed: FIFA World Cup 2026: Brazil vs. Morocco - Sat 13/06 10:45pm",
+        "TSN 16 : Portuguese Feed: FIFA World Cup 2026: Brazil vs. Morocco - Sat 13/06 10:45pm",
+        "TSN 01 : 2026 Curtis Cup: Day 2 - Sun 14/06 12:00am",
+        "TSN 03 : Banana Ball: Bananas vs. Firefighters - Sun 14/06 1:00am",
+        "TSN 10 : NCAA Men's College World Series: Texas vs. Georgia - Game #4 - Sun 14/06 1:00am",
+        "TSN 06 : NCAA Outdoor Track & Field Championships: Women's Day 2 - Sun 14/06 1:00am",
+        "TSN 11 : Haitian Creole Feed: FIFA World Cup 2026: Haiti vs. Scotland - Sun 14/06 1:45am",
+        "TSN 02 : Turkish Feed: FIFA World Cup 2026: Australia vs. Turkiye - Sun 14/06 4:45am"
+      ],
       "sections": [],
       "events": []
     },
