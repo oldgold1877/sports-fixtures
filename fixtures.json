@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-16T15:51:48.118123+00:00",
+  "scraped_at": "2026-06-16T20:12:55.888188+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,7 +9,7 @@
       "fixtures": [],
       "sections": [
         {
-          "section": "World Cup",
+          "section": "Sports Scene",
           "entries": [
             {
               "type": "date",
@@ -17,15 +17,40 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - 2026 FIFA World Cup: France vs Senegal 1080p"
             },
             {
               "type": "fixture",
-              "text": "World Cup 02 - Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup: France vs Senegal 4K"
             },
             {
               "type": "fixture",
-              "text": "World Cup 03 - Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
+              "text": "SPORTS SCENE 10 - 20:00-22:00 - 2026 FIFA World Cup: France vs Senegal 720p"
+            },
+            {
+              "type": "date",
+              "text": "Wednesday 17 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 02:00-04:00 - 2026 FIFA World Cup: Argentina vs Algeria 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 02:00-04:00 - 2026 FIFA World Cup: Argentina vs Algeria 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 02:00-04:00 - 2026 FIFA World Cup: Argentina vs Algeria 720p"
+            }
+          ]
+        },
+        {
+          "section": "World Cup",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 16 June 2026"
             },
             {
               "type": "fixture",
@@ -66,6 +91,30 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Group J: Austria v Jordan - 17 Jun 05:00 // 17 Jun 00:00 ET // 16 Jun 21:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
             }
           ]
         },
@@ -75,22 +124,6 @@
             {
               "type": "date",
               "text": "Tuesday 16 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 06 (BBC UHD): Group I: France v Senegal - 16 Jun 20:00 // 16 Jun 15:00 ET // 16 Jun 12:00 PT"
             },
             {
               "type": "fixture",
@@ -139,6 +172,34 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 06 (BBC UHD): Group J: Austria v Jordan - 17 Jun 05:00 // 17 Jun 00:00 ET // 16 Jun 21:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group K: Portugal v Congo DR - 17 Jun 18:00 // 17 Jun 13:00 ET // 17 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group L: England v Croatia - 17 Jun 21:00 // 17 Jun 16:00 ET // 17 Jun 13:00 PT"
             }
           ]
         }
@@ -646,25 +707,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 17 - : House of Lords Investigate Defence Strategy - Tue 16/06 10:55am",
-        "BBC RED BUTTON 01 - : Queen's Tennis - Men's Day 2 - Tue 16/06 11:17am",
-        "BBC RED BUTTON 02 - : Nottingham Open - Day 2 - Tue 16/06 11:22am",
-        "BBC RED BUTTON 00 - : Men's Day 2 - Tue 16/06 11:30am",
-        "BBC RED BUTTON 04 - : BBC South Sheep Shearing Special - Tue 16/06 12:03pm",
-        "BBC RED BUTTON 14 - : no_episode_title - Tue 16/06 12:14pm",
-        "BBC RED BUTTON 15 - : Trump: Iran Will 'Never Get a Nuclear Weapon' - Tue 16/06 12:26pm",
-        "BBC RED BUTTON 16 - : Environment Secretary Statement on Thames Water - Tue 16/06 12:26pm",
-        "BBC RED BUTTON 14 - : Trump: Iran Will 'Never Get a Nuclear Weapon' - Tue 16/06 1:13pm",
-        "BBC RED BUTTON 00 - : Day 2 - Tue 16/06 1:15pm",
-        "BBC RED BUTTON 15 - : Cwestiynau i Brif Weinidog Cymru - Tue 16/06 1:18pm",
-        "BBC RED BUTTON 17 - : Welsh First Minister's Questions - Tue 16/06 1:18pm",
-        "BBC RED BUTTON 18 - : Thames Water Moves Step Closer To Nationalisation - Tue 16/06 1:22pm",
-        "BBC RED BUTTON 14 - : Prince George to Attend Eton College - Tue 16/06 1:46pm",
-        "BBC RED BUTTON 05 - : Watch Live: First Minister's Questions - Tue 16/06 1:46pm",
-        "BBC RED BUTTON 14 - : The Traitors Becomes a Stage Play - Tue 16/06 2:36pm",
-        "BBC RED BUTTON 14 - : Healey: Defence Plans Fall 'Well Short' - Tue 16/06 3:09pm",
+        "BBC RED BUTTON 06 - : Watch Live: First Minister's Questions - Tue 16/06 3:14pm",
+        "BBC RED BUTTON 14 - : Reports Russian Warship Fired at Yacht in Channel - Tue 16/06 5:10pm",
+        "BBC RED BUTTON 04 - : Scotland World Cup press conference 16th June - Tue 16/06 5:18pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 16/06 5:30pm",
+        "BBC RED BUTTON 14 - : Communities 'Under Siege' From Catapult Attacks - Tue 16/06 5:34pm",
         "BBC RED BUTTON 00 - : Men's Day 2 - Tue 16/06 5:45pm",
+        "BBC RED BUTTON 14 - : Trump Criticises Netanyahu at G7 - Tue 16/06 6:17pm",
+        "BBC RED BUTTON 15 - : Woman in Court over Fatal Wimbledon School Crash - Tue 16/06 6:21pm",
+        "BBC RED BUTTON 14 - : UK Forces Face Cuts Without More Cash, Defence Chief Warns - Tue 16/06 6:39pm",
+        "BBC RED BUTTON 02 - : France v Senegal - Watch with 5 Live - Tue 16/06 6:40pm",
+        "BBC RED BUTTON 15 - : Two By-Elections in Scotland on Thursday - Tue 16/06 6:43pm",
+        "BBC RED BUTTON 03 - : France v Senegal - Social Stream 16/06 - Tue 16/06 6:55pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 16/06 7:30pm",
         "BBC RED BUTTON 00 - : Iraq v Norway – Watch with 5 Live - Tue 16/06 9:55pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Wed 17/06 1:15am",
@@ -815,34 +869,7 @@
       "status": "ok",
       "fixtures": [
         "ESPN+ 87 : ESPN2: 2026 AKC Diving Dogs Premier Cup (2026 AKC Diving Dogs Premier Cup) - Sun 14/06 7:00pm",
-        "ESPN+ 11 : ESPN+: 2026 Warrior Games (2026 Warrior Games) - Tue 16/06 1:30pm",
-        "ESPN+ 19 : ESPN+: ESPN Radio (ESPN Radio) - Tue 16/06 3:00pm",
-        "ESPN+ 04 : ESPN2: Get Up (Get Up) - Tue 16/06 3:00pm",
-        "ESPN+ 18 : ESPN: First Take (First Take) - Tue 16/06 3:00pm",
-        "ESPN+ 17 : ESPNU: Texas A&M vs. #24 Tennessee (Texas A&M vs. #24 Tennessee) - Tue 16/06 3:00pm",
-        "ESPN+ 05 : ACCN: Louisville Spring Football (Louisville Spring Football) - Tue 16/06 4:00pm",
-        "ESPN+ 21 : ESPN Deportes: La Copa Al DÃ­a (La Copa Al DÃ­a) - Tue 16/06 4:00pm",
-        "ESPN+ 22 : SEC Network: #15 Missouri vs. #10 Vanderbilt (#15 Missouri vs. #10 Vanderbilt) - Tue 16/06 4:00pm",
-        "ESPN+ 03 : ACCN: ACC Huddle: Wake Forest Football Preview (ACC Huddle: Wake Forest Football Preview) - Tue 16/06 5:00pm",
-        "ESPN+ 26 : ESPN+: The Pat McAfee Show (The Pat McAfee Show) - Tue 16/06 5:00pm",
-        "ESPN+ 25 : ESPN+: Tue, 6/16 - The Rich Eisen Show (Tue, 6/16 - The Rich Eisen Show) - Tue 16/06 5:00pm",
-        "ESPN+ 23 : ESPN2: First Take (First Take) - Tue 16/06 5:00pm",
-        "ESPN+ 24 : ESPN: The Pat McAfee Show (The Pat McAfee Show) - Tue 16/06 5:00pm",
-        "ESPN+ 08 : ESPNU: Tennessee vs. #17 Alabama (Tennessee vs. #17 Alabama) - Tue 16/06 5:00pm",
-        "ESPN+ 07 : ESPNews: Get Up (Get Up) - Tue 16/06 5:00pm",
-        "ESPN+ 27 : ACCN: ACC Huddle: Florida State FB Preview (ACC Huddle: Florida State FB Preview) - Tue 16/06 5:30pm",
-        "ESPN+ 09 : ACCN: California Spring Football (California Spring Football) - Tue 16/06 6:00pm",
-        "ESPN+ 06 : ESPN Deportes: SportsCenter (SportsCenter) - Tue 16/06 6:00pm",
-        "ESPN+ 12 : ESPN+: Tue, 6/16 - Futbol W (Tue, 6/16 - Futbol W) - Tue 16/06 6:00pm",
-        "ESPN+ 01 : ACCN: ACC Huddle: California Football Preview (ACC Huddle: California Football Preview) - Tue 16/06 7:00pm",
-        "ESPN+ 13 : ESPNU: Ole Miss vs. #25 Tennessee (Ole Miss vs. #25 Tennessee) - Tue 16/06 7:00pm",
-        "ESPN+ 10 : ESPNews: First Take (First Take) - Tue 16/06 7:00pm",
         "ESPN+ 14 : NCAA Baseball: NCAA Men's College World Series (NCAA Men's College World Series) - Tue 16/06 7:00pm",
-        "ESPN+ 02 : SEC Network: The Juice: Inside Tennessee Football (The Juice: Inside Tennessee Football) - Tue 16/06 7:00pm",
-        "ESPN+ 20 : ACCN: ACC Huddle: North Carolina FB Preview (ACC Huddle: North Carolina FB Preview) - Tue 16/06 7:30pm",
-        "ESPN+ 16 : SEC Network: All-Access: Oklahoma Spring Football (All-Access: Oklahoma Spring Football) - Tue 16/06 7:30pm",
-        "ESPN+ 15 : SEC Network: All-Access: Vanderbilt Spring Football (All-Access: Vanderbilt Spring Football) - Tue 16/06 7:30pm",
-        "ESPN+ 04 : ACCN: Authentic ACC: SMU Spring Football (Authentic ACC: SMU Spring Football) - Tue 16/06 8:00pm",
         "ESPN+ 05 : Basketball: NBA Today (NBA Today) - Tue 16/06 8:00pm",
         "ESPN+ 17 : ESPN+: Freddie & Harry (Freddie & Harry) - Tue 16/06 8:00pm",
         "ESPN+ 18 : SEC Network: The Paul Finebaum Show (The Paul Finebaum Show) - Tue 16/06 8:00pm",
@@ -1453,8 +1480,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: ICC T20WC: England v Ireland - 18:00 16/06/2026",
-        "Sky Sport 1 UHD - LIVE: ICC T20WC: England v Ireland - 18:00 16/06/2026",
         "Sky Sport 3 - LIVE: Rapid League: Giants v Jets - 07:00 17/06/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Giants v Jets - 08:00 17/06/2026",
         "Sky Sport 5 - LIVE: Bangladesh v Australia: 1st T20 - 08:20 17/06/2026",
@@ -1605,10 +1630,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Halford & Brough: June 16 - Tue 16/06 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: June 16 - Tue 16/06 3:00pm",
-        "Sportsnet 04 : The FAN Hockey Show: June 15 - Tue 16/06 5:00pm",
-        "Sportsnet 01 : Real Kyper & Bourne: June 16 - Tue 16/06 8:00pm",
         "Sportsnet 02 : Blair & Barker: June 16 - Tue 16/06 9:00pm",
         "Sportsnet 04 : The FAN Pregame: June 16 - Tue 16/06 11:00pm",
         "Sportsnet 03 : Toronto @ Boston - Tue 16/06 11:00pm",
@@ -1624,12 +1645,15 @@
         "Sportsnet 03 : Tampa Bay @ Los Angeles Dodgers - Wed 17/06 8:00pm",
         "Sportsnet 04 : Blair & Barker: June 17 - Wed 17/06 9:00pm",
         "Sportsnet 05 : The Fan Pregame: June 17 - Wed 17/06 11:00pm",
-        "Sportsnet 02 : Toronto @ Boston - Wed 17/06 11:00pm",
+        "Sportsnet 02 : Toronto @ Boston - Wed 17/06 11:30pm",
         "Sportsnet 01 : Sportsnet Central: June 17 - Thu 18/06 10:00am",
         "Sportsnet 02 : Halford & Brough: June 18 - Thu 18/06 2:00pm",
         "Sportsnet 01 : The JD Bunkis Podcast: June 18 - Thu 18/06 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: June 18 - Thu 18/06 3:00pm",
-        "Sportsnet 04 : The FAN Hockey Show: June 18 - Thu 18/06 5:00pm"
+        "Sportsnet 04 : The FAN Hockey Show: June 18 - Thu 18/06 5:00pm",
+        "Sportsnet 01 : Toronto @ Boston - Thu 18/06 6:00pm",
+        "Sportsnet 05 : Warrington Wolves vs. Leeds Rhinos - Thu 18/06 7:30pm",
+        "Sportsnet 02 : Baltimore @ Seattle - Thu 18/06 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -1671,7 +1695,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 500 Tennis: Halle - Early Round Coverage Day #2 - Tue 16/06 10:30am",
         "TSN 02 : ATP 500 Tennis: London - Early Round Coverage Day #2 - Tue 16/06 11:30am",
         "TSN 03 : NCAA Men's College World Series: Game #9 - Tue 16/06 7:00pm",
         "TSN 05 : Arabic Feed: FIFA World Cup 2026: Iraq vs. Norway - Tue 16/06 10:45pm",
