@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T14:12:43.908744+00:00",
+  "scraped_at": "2026-06-19T18:55:33.893540+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -111,6 +111,18 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Group D: Türkiye v Paraguay - 20 Jun 04:00 // 19 Jun 23:00 ET // 19 Jun 20:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
             }
           ]
         },
@@ -164,20 +176,28 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Group D: Türkiye v Paraguay - 20 Jun 04:00 // 19 Jun 23:00 ET // 19 Jun 20:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group F: Netherlands v Sweden - 20 Jun 18:00 // 20 Jun 13:00 ET // 20 Jun 10:00 PT"
             }
           ]
         },
         {
           "section": "Live Events",
           "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 159 Gonzalez v Chatanan"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 02 - 11:40amACA 204 Shlemenko v Dipchikov"
-            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 03 - 3pm Cage Warriors 206 Unplugged"
@@ -705,6 +725,18 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "01:35",
+          "name": "ALBUQUERQUE ISOTOPES - SUGAR LAND SPACE COWBOYS",
+          "datetime": "2026-06-20 01:35:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "03:10",
           "name": "LOS ANGELES DODGERS - BALTIMORE ORIOLES",
           "datetime": "2026-06-20 03:10:00",
@@ -830,18 +862,6 @@
         },
         {
           "sport": "EQUESTRIAN",
-          "time": "13:30",
-          "name": "ROYAL ASCOT",
-          "datetime": "2026-06-20 13:30:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
           "time": "17:30",
           "name": "AMERICA'S DAY AT THE RACES",
           "datetime": "2026-06-20 17:30:00",
@@ -934,6 +954,10 @@
           "name": "U.S. OPEN",
           "datetime": "2026-06-20 17:00:00",
           "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -1165,7 +1189,6 @@
       "status": "ok",
       "fixtures": [
         "Sky Sports Main Event UHD - Live: Major League Cricket - Texas Super Kings v Seattle Orcas - Fri 19/06 1:30am",
-        "Sky Sports Main Event UHD - World Cup Report - Fri 19/06 6:00am",
         "Sky Sports UHD 1 - Live: Test Cricket - 2nd Test, Day 3: England v New Zealand - Fri 19/06 10:15am",
         "Sky Sports UHD 2 - Live: US Open, PGA Tour Golf - Day 2 - Fri 19/06 12:30pm",
         "Sky Sports F1 UHD - British Kart Championships - Larkhall - Fri 19/06 7:00pm",
@@ -1186,17 +1209,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 15 - : no_episode_title - Fri 19/06 9:41am",
-        "BBC RED BUTTON 16 - : Starmer Says He Will Stand in Any Leadership Contest - Fri 19/06 10:27am",
-        "BBC RED BUTTON 01 - : Nottingham Open - Day 5 - Fri 19/06 10:49am",
-        "BBC RED BUTTON 02 - : Queen's - Men's Day 5 - Fri 19/06 11:21am",
-        "BBC RED BUTTON 00 - : Men's Day 5 - Fri 19/06 11:30am",
-        "BBC RED BUTTON 16 - : Two Men Sentenced over Arson Attacks Targeting PM - Fri 19/06 11:34am",
-        "BBC RED BUTTON 00 - : Day 5 - Fri 19/06 1:15pm",
-        "BBC RED BUTTON 13 - : Watch How Andy Burnham's 'Emphatic' Win Played Out - Fri 19/06 1:21pm",
-        "BBC RED BUTTON 13 - : Makerfield Constituents Share Their Views on New MP - Fri 19/06 1:49pm",
+        "BBC RED BUTTON 13 - : Aberdeen South & Arbroath and Broughty Ferry By-Election Results - Fri 19/06 2:07pm",
         "BBC RED BUTTON 16 - : MENA LIVE STREAMING - 19/05/2026 - شاهد معنا التغطية الرقمية لمستقبل إيران والعالم بعد توقيع الاتفاق التمهيدي - Fri 19/06 2:37pm",
+        "BBC RED BUTTON 17 - : Israel and Hezbollah Agree To Ceasefire - Fri 19/06 3:11pm",
+        "BBC RED BUTTON 18 - : Dartiau: Cwpan Chwe Gwlad 2026 - Fri 19/06 3:32pm",
+        "BBC RED BUTTON 19 - : Darts: Six Nations Cup 2026 - Fri 19/06 3:33pm",
+        "BBC RED BUTTON 20 - : Two Men Jailed over Starmer-linked Arson Attacks - Fri 19/06 3:38pm",
+        "BBC RED BUTTON 21 - : Three-Year-Old Attacked by Crocodile - Fri 19/06 3:41pm",
+        "BBC RED BUTTON 13 - : Matt Chorley Explains How a Leadership Challenge Would Work - Fri 19/06 5:08pm",
         "BBC RED BUTTON 00 - : Doha - Fri 19/06 6:00pm",
+        "BBC RED BUTTON 13 - : Makerfield Constituents Share Their Views on New MP - Fri 19/06 6:13pm",
+        "BBC RED BUTTON 15 - : Andy Burnham Speaks After Makerfield By-Election Win - Fri 19/06 6:23pm",
+        "BBC RED BUTTON 03 - : United States v Australia - Watch with 5 Live - Fri 19/06 6:36pm",
+        "BBC RED BUTTON 01 - : United States v Australia - Fri 19/06 7:15pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Fri 19/06 8:00pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 20/06 12:00am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 20/06 6:00am"
@@ -1356,26 +1381,10 @@
       "fixtures": [
         "ESPN+ 87 : ESPN2: 2026 AKC Diving Dogs Premier Cup (2026 AKC Diving Dogs Premier Cup) - Sun 14/06 7:00pm",
         "ESPN+ 02 : Surfing: 2026 WSL Championship Tour (2026 WSL Championship Tour) - Fri 19/06 11:30am",
-        "ESPN+ 11 : ACCN: #10 Miami vs. #2 Ohio State (#10 Miami vs. #2 Ohio State) - Fri 19/06 2:00pm",
-        "ESPN+ 10 : Soccer: Goool Morning America (Goool Morning America) - Fri 19/06 2:00pm",
-        "ESPN+ 14 : ESPN+: ESPN Radio (ESPN Radio) - Fri 19/06 3:00pm",
-        "ESPN+ 18 : ESPN2: Get Up (Get Up) - Fri 19/06 3:00pm",
-        "ESPN+ 15 : ESPN: First Take (First Take) - Fri 19/06 3:00pm",
-        "ESPN+ 13 : ESPNU: #21 Arkansas vs. Mississippi St (#21 Arkansas vs. Mississippi St) - Fri 19/06 3:00pm",
-        "ESPN+ 12 : SEC Network: SEC Now (SEC Now) - Fri 19/06 3:00pm",
-        "ESPN+ 03 : Soccer: La Copa Al DÃ­a (La Copa Al DÃ­a) - Fri 19/06 4:00pm",
-        "ESPN+ 04 : ACCN: All ACC (All ACC) - Fri 19/06 5:00pm",
         "ESPN+ 19 : ESPN+: Fri, 6/19 - The Rich Eisen Show (Fri, 6/19 - The Rich Eisen Show) - Fri 19/06 5:00pm",
         "ESPN+ 21 : ESPN+: The Pat McAfee Show (The Pat McAfee Show) - Fri 19/06 5:00pm",
-        "ESPN+ 16 : ESPN2: First Take (First Take) - Fri 19/06 5:00pm",
-        "ESPN+ 17 : ESPN: The Pat McAfee Show (The Pat McAfee Show) - Fri 19/06 5:00pm",
-        "ESPN+ 07 : ESPNU: #21 Arkansas vs. LSU (#21 Arkansas vs. LSU) - Fri 19/06 5:00pm",
-        "ESPN+ 06 : ESPNews: Get Up (Get Up) - Fri 19/06 5:00pm",
-        "ESPN+ 05 : SEC Network: SEC Now: MCWS Finals Press Conference (SEC Now: MCWS Finals Press Conference) - Fri 19/06 5:00pm",
         "ESPN+ 20 : Baseball: Blue Jays vs. Cubs (Blue Jays Broadcast) - Fri 19/06 6:00pm",
         "ESPN+ 22 : Baseball: Blue Jays vs. Cubs (Cubs Broadcast) - Fri 19/06 6:00pm",
-        "ESPN+ 08 : ESPN Deportes: SportsCenter (SportsCenter) - Fri 19/06 6:00pm",
-        "ESPN+ 09 : ACCN: ACC Huddle: Georgia Tech FB Preview (ACC Huddle: Georgia Tech FB Preview) - Fri 19/06 7:00pm",
         "ESPN+ 23 : ESPN Deportes: Ahora o Nunca (Ahora o Nunca) - Fri 19/06 7:00pm",
         "ESPN+ 26 : ESPN+: ACL Tri-Cities Open 2026 - Women's, Senior, Junior Open Singles (ACL Tri-Cities Open 2026 - Women's, Senior, Junior Open Singles) - Fri 19/06 7:00pm",
         "ESPN+ 25 : ESPNU: Auburn vs. #21 Arkansas (Auburn vs. #21 Arkansas) - Fri 19/06 7:00pm",
@@ -2545,53 +2554,61 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: U.S. Open: Round 2 - 19:00 19/06/2026",
-        "Sky Sport 1 UHD - LIVE: U.S. Open: Round 2 - 19:00 19/06/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 2 - 20:00 19/06/2026",
-        "Sky Sport 4 - LIVE: INDYCAR: Xpel Grand Prix: P 1 - 21:00 19/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: Support - 00:15 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars:Darwin: Super2 QF Race 3 - 01:30 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: QF Race 18 - 01:55 20/06/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd11 P2 - 01:25 20/06/2026",
         "Sky Sport 1 - LIVE: SRA: Manawa v Blues - 02:45 20/06/2026",
         "Sky Sport 1 UHD - LIVE: SRA: Manawa v Blues - 02:45 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: TTSO Race 18 - 02:50 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: Support - 03:45 20/06/2026",
+        "Sky Sport Select - LIVE: Fijiana Drua v Brumbies - 03:00 20/06/2026",
+        "Sky Sport 7 - LIVE: NSW Cup - Magpies v Sea Eagles - 03:15 20/06/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd11 Qualifying - 03:30 20/06/2026",
+        "Sky Sport 6 - LIVE: AFL: Adelaide Crows v Melbourne - 04:00 20/06/2026",
         "Sky Sport 3 - LIVE: Rapid League: Tuatara v Hawks - 04:00 20/06/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Tuatara v Hawks - 05:00 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: Super2 Race 3 - 05:10 20/06/2026",
-        "Sky Sport 4 - LIVE: Supercars: Darwin: Race 18 - 06:15 20/06/2026",
         "Sky Sport 1 - LIVE: SRP: Hurricanes v Chiefs Final - 06:30 20/06/2026",
         "Sky Sport 1 UHD - LIVE: SRP: Hurricanes v Chiefs Final - 06:30 20/06/2026",
+        "Sky Sport 7 - LIVE: Super W: Force v Reds - 07:00 20/06/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd11 - 07:00 20/06/2026",
+        "Sky Sport 6 - LIVE: AFL: GWS Giants v Carlton - 07:00 20/06/2026",
         "Sky Sport 3 - LIVE: Rapid League: Nuggets v Airs - 07:30 20/06/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Nuggets v Airs - 08:30 20/06/2026",
-        "Sky Sport 4 - LIVE: India v Afghanistan: 3rd ODI - 09:00 20/06/2026",
+        "Sky Sport 5 - LIVE: ICC T20WC: Australia v Netherlands - 10:00 20/06/2026",
+        "Sky Sport 6 - LIVE: AFL: Collingwood v Port Adelaide - 10:30 20/06/2026",
         "Sky Sport 1 - LIVE: England v BLACKCAPS: 2nd Test D4 - 10:45 20/06/2026",
         "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 2nd Test D4 - 10:45 20/06/2026",
+        "Sky Sport 7 - LIVE: Volta a Catalunya Femenina S2 - 11:30 20/06/2026",
+        "Sky Sport 6 - LIVE: South Africa v Barbarians - 13:30 20/06/2026",
+        "Sky Sport Select - LIVE: Amateur Championship F R2 - 13:30 20/06/2026",
+        "Sky Sport 5 - LIVE: ICC T20WC: Pakistan v Bangladesh - 14:00 20/06/2026",
         "Sky Sport 3 - LIVE: GP: Northampton v Exeter Final - 14:50 20/06/2026",
+        "Sky Sport 7 - LIVE: U.S. Open: 3rd Feature Groups R2 - 15:00 20/06/2026",
+        "Sky Sport 6 - LIVE: U.S. Open: 3rd Feature Groups R1 - 16:00 20/06/2026",
+        "Sky Sport 5 - LIVE: ICC T20WC: England v Scotland - 18:00 20/06/2026",
         "Sky Sport 1 - LIVE: U.S. Open: Round 3 - 19:00 20/06/2026",
         "Sky Sport 1 UHD - LIVE: U.S. Open: Round 3 - 19:00 20/06/2026",
-        "Sky Sport 4 - LIVE: PSA Squash Tour Finals: F - 19:00 20/06/2026",
+        "Sky Sport Select - LIVE: INDYCAR: Xpel Grand Prix: Qual - 19:00 20/06/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 3 - 20:00 20/06/2026",
         "Sky Sport 3 - LIVE: Supercars: Darwin: Support - 00:15 21/06/2026",
+        "Sky Sport 7 - LIVE: MLC: Washington v New York - 01:15 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars:Darwin: Super2 QF Race 4 - 01:20 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars: Darwin: QF Race 19 - 01:55 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars: Darwin: TTSO Race 19 - 02:50 21/06/2026",
-        "Sky Sport 4 - LIVE: Rapid League: Bulls v Saints - 03:00 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars: Darwin: Support - 03:45 21/06/2026",
         "Sky Sport 1 - LIVE: NRL: Warriors v Cowboys - 04:00 21/06/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Warriors v Cowboys - 04:00 21/06/2026",
-        "Sky Sport 4 - LIVE: Sal's NBL: Bulls v Saints - 04:00 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars:Darwin: Super2  Race 4 - 04:35 21/06/2026",
         "Sky Sport 3 - LIVE: Supercars: Darwin: Race 19 - 05:45 21/06/2026",
-        "Sky Sport 4 - LIVE: Bangladesh v Australia: 3rd T20 - 08:50 21/06/2026",
+        "Sky Sport Select - LIVE: AFL: St Kilda v Western Bulldogs - 06:00 21/06/2026",
         "Sky Sport 3 - LIVE: ICC T20WC: West Indies v Sri Lanka - 10:00 21/06/2026",
         "Sky Sport 1 - LIVE: England v BLACKCAPS: 2nd Test D5 - 10:15 21/06/2026",
         "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 2nd Test D5 - 10:15 21/06/2026",
+        "Sky Sport 5 - LIVE: Volta a Catalunya Femenina S3 - 11:30 21/06/2026",
         "Sky Sport 3 - LIVE: ICC T20WC: South Africa v India - 14:00 21/06/2026",
-        "Sky Sport 4 - LIVE: U.S. Open: Round 4 - 14:00 21/06/2026",
-        "Sky Sport 3 - LIVE: INDYCAR: Xpel Grand Prix - 19:00 21/06/2026",
+        "Sky Sport 7 - LIVE: U.S. Open: 4th Feature Groups R2 - 15:00 21/06/2026",
+        "Sky Sport 6 - LIVE: U.S. Open: 4th Feature Groups R1 - 15:00 21/06/2026",
+        "Sky Sport 5 - LIVE: INDYCAR: Xpel Grand Prix: Warm up - 16:00 21/06/2026",
         "Sky Sport 1 - LIVE: U.S. Open: Round 4 - 19:00 21/06/2026",
         "Sky Sport 1 UHD - LIVE: U.S. Open: Round 4 - 19:00 21/06/2026",
+        "Sky Sport 3 - LIVE: INDYCAR: Xpel Grand Prix - 19:00 21/06/2026",
         "Sky Sport 3 - LIVE: MLR: Chicago v California Final - 00:30 22/06/2026",
         "Sky Sport 3 - LIVE: Rapid League: Hawks v Sharks - 07:00 22/06/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Hawks v Sharks - 08:00 22/06/2026",
@@ -2606,7 +2623,13 @@
         "Sky Sport 1 - LIVE: ICC T20WC: Australia v Pakistan - 18:00 23/06/2026",
         "Sky Sport 1 UHD - LIVE: ICC T20WC: Australia v Pakistan - 18:00 23/06/2026",
         "Sky Sport 1 - LIVE: ICC T20WC: England v West Indies - 18:00 24/06/2026",
-        "Sky Sport 1 UHD - LIVE: ICC T20WC: England v West Indies - 18:00 24/06/2026"
+        "Sky Sport 1 UHD - LIVE: ICC T20WC: England v West Indies - 18:00 24/06/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Jets v Nuggets - 07:00 25/06/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Jets v Nuggets - 08:00 25/06/2026",
+        "Sky Sport 3 - LIVE: AFL: Brisbane Lions v Sydney Swans - 10:25 25/06/2026",
+        "Sky Sport 1 - LIVE: England v BLACKCAPS: 3rd Test D1 - 10:30 25/06/2026",
+        "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 3rd Test D1 - 10:30 25/06/2026",
+        "Sky Sport 3 - LIVE: LPGA: Round 1 S1 - 16:00 25/06/2026"
       ],
       "sections": [],
       "events": []
@@ -2626,8 +2649,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Jays Talk Plus: June 19 - Fri 19/06 3:00pm",
-        "Sportsnet 04 : The FAN Hockey Show: June 19 - Fri 19/06 5:00pm",
         "Sportsnet 02 : Toronto @ Chicago Cubs - Fri 19/06 6:30pm",
         "Sportsnet 05 : Grand Final - Leinster vs. Vodacom Bulls - Fri 19/06 7:20pm",
         "Sportsnet 06 : Hull KR vs. Leigh Leopards - Fri 19/06 7:30pm",
@@ -2649,7 +2670,10 @@
         "Sportsnet 06 : UFC Fight Night - Kape vs. Horiguchi Prelims + Mains - Sat 20/06 11:00pm",
         "Sportsnet 04 : Cleveland @ Houston - Sun 21/06 12:00am",
         "Sportsnet 07 : UFC Fight Night - Kape vs. Horiguchi - Sun 21/06 1:00am",
-        "Sportsnet 01 : Warriors vs. Cowboys - Sun 21/06 5:00am"
+        "Sportsnet 01 : Warriors vs. Cowboys - Sun 21/06 5:00am",
+        "Sportsnet 02 : Storm vs. Raiders - Sun 21/06 6:55am",
+        "Sportsnet 03 : Roosters vs. Sharks - Sun 21/06 9:05am",
+        "Sportsnet 04 : Sportsnet Central: June 20 - Sun 21/06 10:00am"
       ],
       "sections": [],
       "events": []
@@ -2660,7 +2684,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : PFL MENA 10 2026 - Fri 19/06 3:00pm",
         "Stan 01 : Cross-country Short Track: Lenzerheide - UCI Mountain Bike World Series 2026 - Fri 19/06 4:45pm",
         "Stan 04 : Practice 1: Grand Prix of Road America - Indycar 2026 - Fri 19/06 9:00pm",
         "Stan 02 : Gordon v Easts - Shute Shield Round 10 2026 - Fri 19/06 10:55pm",
@@ -2692,7 +2715,6 @@
         "TSN 04 : 2026 US Open: Second Round - Featured Groups I - Fri 19/06 12:20pm",
         "TSN 05 : 2026 US Open: Second Round - Featured Groups II - Fri 19/06 12:30pm",
         "TSN 06 : 2026 US Open: Second Round - Featured Groups III - Fri 19/06 1:00pm",
-        "TSN 07 : 2026 Men's Amateur Golf Championship - Semifinals - Fri 19/06 1:30pm",
         "TSN 01 : 2026 NASCAR ORAP Series Practice: United Rentals Driven to Serve 250 - Fri 19/06 8:30pm",
         "TSN 07 : IndyCar Practice 1: Xpel Grand Prix at Road America - Fri 19/06 9:00pm",
         "TSN 08 : NASCAR Cup Series Practice: Anduril 250 - Fri 19/06 10:00pm",
