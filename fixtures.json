@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T12:18:40.092217+00:00",
+  "scraped_at": "2026-06-19T14:12:43.908744+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -193,6 +193,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 06 - 8pm GCW Race Against Time"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 1:30amCage Fury FC 155"
             },
             {
               "type": "fixture",
@@ -931,10 +935,6 @@
           "datetime": "2026-06-20 17:00:00",
           "channels": [
             {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
             }
@@ -1186,9 +1186,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 15 - : US Lifts Naval Blockade of Iranian Ports - Fri 19/06 7:25am",
-        "BBC RED BUTTON 15 - : Watch How Andy Burnham's 'Emphatic' Win Played Out - Fri 19/06 8:46am",
-        "BBC RED BUTTON 16 - : Tide of Blue Sea Creatures Appears on Welsh Beaches - Fri 19/06 8:50am",
         "BBC RED BUTTON 15 - : no_episode_title - Fri 19/06 9:41am",
         "BBC RED BUTTON 16 - : Starmer Says He Will Stand in Any Leadership Contest - Fri 19/06 10:27am",
         "BBC RED BUTTON 01 - : Nottingham Open - Day 5 - Fri 19/06 10:49am",
@@ -1196,6 +1193,9 @@
         "BBC RED BUTTON 00 - : Men's Day 5 - Fri 19/06 11:30am",
         "BBC RED BUTTON 16 - : Two Men Sentenced over Arson Attacks Targeting PM - Fri 19/06 11:34am",
         "BBC RED BUTTON 00 - : Day 5 - Fri 19/06 1:15pm",
+        "BBC RED BUTTON 13 - : Watch How Andy Burnham's 'Emphatic' Win Played Out - Fri 19/06 1:21pm",
+        "BBC RED BUTTON 13 - : Makerfield Constituents Share Their Views on New MP - Fri 19/06 1:49pm",
+        "BBC RED BUTTON 16 - : MENA LIVE STREAMING - 19/05/2026 - شاهد معنا التغطية الرقمية لمستقبل إيران والعالم بعد توقيع الاتفاق التمهيدي - Fri 19/06 2:37pm",
         "BBC RED BUTTON 00 - : Doha - Fri 19/06 6:00pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Fri 19/06 8:00pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 20/06 12:00am",
@@ -1355,15 +1355,8 @@
       "status": "ok",
       "fixtures": [
         "ESPN+ 87 : ESPN2: 2026 AKC Diving Dogs Premier Cup (2026 AKC Diving Dogs Premier Cup) - Sun 14/06 7:00pm",
-        "ESPN+ 20 : ESPNU: Unsportsmanlike (Unsportsmanlike) - Fri 19/06 11:00am",
         "ESPN+ 02 : Surfing: 2026 WSL Championship Tour (2026 WSL Championship Tour) - Fri 19/06 11:30am",
-        "ESPN+ 05 : ESPNews: ESPN Films: The Announcement (ESPN Films: The Announcement) - Fri 19/06 12:30pm",
-        "ESPN+ 06 : ESPN2: SportsCenter (SportsCenter) - Fri 19/06 1:00pm",
-        "ESPN+ 08 : ESPN: Get Up (Get Up) - Fri 19/06 1:00pm",
-        "ESPN+ 07 : Soccer: Es AsÃ­ y Punto (Es AsÃ­ y Punto) - Fri 19/06 1:00pm",
         "ESPN+ 11 : ACCN: #10 Miami vs. #2 Ohio State (#10 Miami vs. #2 Ohio State) - Fri 19/06 2:00pm",
-        "ESPN+ 09 : ESPNews: SportsCenter (SportsCenter) - Fri 19/06 2:00pm",
-        "ESPN+ 01 : Soccer: ESPN FC (ESPN FC) - Fri 19/06 2:00pm",
         "ESPN+ 10 : Soccer: Goool Morning America (Goool Morning America) - Fri 19/06 2:00pm",
         "ESPN+ 14 : ESPN+: ESPN Radio (ESPN Radio) - Fri 19/06 3:00pm",
         "ESPN+ 18 : ESPN2: Get Up (Get Up) - Fri 19/06 3:00pm",
@@ -2633,7 +2626,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The JD Bunkis Podcast: June 19 - Fri 19/06 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: June 19 - Fri 19/06 3:00pm",
         "Sportsnet 04 : The FAN Hockey Show: June 19 - Fri 19/06 5:00pm",
         "Sportsnet 02 : Toronto @ Chicago Cubs - Fri 19/06 6:30pm",
@@ -2668,7 +2660,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Berlin: Day 5 - WTA 500 - Fri 19/06 10:00am",
         "Stan 03 : PFL MENA 10 2026 - Fri 19/06 3:00pm",
         "Stan 01 : Cross-country Short Track: Lenzerheide - UCI Mountain Bike World Series 2026 - Fri 19/06 4:45pm",
         "Stan 04 : Practice 1: Grand Prix of Road America - Indycar 2026 - Fri 19/06 9:00pm",
