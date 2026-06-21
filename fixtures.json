@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-21T13:04:09.101054+00:00",
+  "scraped_at": "2026-06-21T18:19:56.970726+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,7 +9,7 @@
       "fixtures": [],
       "sections": [
         {
-          "section": "World Cup",
+          "section": "Sports Scene",
           "entries": [
             {
               "type": "date",
@@ -17,15 +17,40 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - 2026 FIFA World Cup:  Belgium vs Iran 1080p"
             },
             {
               "type": "fixture",
-              "text": "World Cup 02 - Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup:  Belgium vs Iran 4K"
             },
             {
               "type": "fixture",
-              "text": "World Cup 03 - Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
+              "text": "SPORTS SCENE 10 - 20:00-22:00 - 2026 FIFA World Cup:  Belgium vs Iran 720p"
+            },
+            {
+              "type": "date",
+              "text": "Monday 22 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 02:00-04:00 - 2026 FIFA World Cup: New Zealand vs Egypt 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 02:00-04:00 - 2026 FIFA World Cup: New Zealand vs Egypt 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 02:00-04:00 - 2026 FIFA World Cup: New Zealand vs Egypt 720p"
+            }
+          ]
+        },
+        {
+          "section": "World Cup",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Sunday 21 June 2026"
             },
             {
               "type": "fixture",
@@ -66,6 +91,18 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Group G: New Zealand v Egypt - 22 Jun 02:00 // 21 Jun 21:00 ET // 21 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
             }
           ]
         },
@@ -75,22 +112,6 @@
             {
               "type": "date",
               "text": "Sunday 21 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 06 (BBC UHD): Group H: Spain v Saudi Arabia - 21 Jun 17:00 // 21 Jun 12:00 ET // 21 Jun 09:00 PT"
             },
             {
               "type": "fixture",
@@ -135,6 +156,67 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Group G: New Zealand v Egypt - 22 Jun 02:00 // 21 Jun 21:00 ET // 21 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Group J: Argentina v Austria - 22 Jun 18:00 // 22 Jun 13:00 ET // 22 Jun 10:00 PT"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 9am USAC Road Racing VIR"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 2:30pmAMSOIL Championship Off Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 6:30pmMemorial Day Classic Thunder Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 5pm Short Track Super Series Devils Bowl"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 10:30pmASA Stars Slinger"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 11:15pmUSAC Eastern Storm Action Track"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 11:45pmDIRTcar Summer Nationals Late Models Lincoln"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 7pm Love Alive Charity Beast Cup Invitational"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 4pm NASCAR Cup Series Anduril 250"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 4pm NASCAR Feat Drivers Multiview"
             }
           ]
         }
@@ -942,14 +1024,17 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 02 - : Day 2 - Sun 21/06 10:52am",
-        "BBC RED BUTTON 03 - : Day 7 - Sun 21/06 11:32am",
-        "BBC RED BUTTON 00 - : Day 7 - Sun 21/06 12:00pm",
-        "BBC RED BUTTON 13 - : MENA LIVE STREAMING - 21/06/2026 عالم الظهيرة - Sun 21/06 12:25pm",
-        "BBC RED BUTTON 15 - : Growing Signs Starmer to Set Out Plans to Resign - Sun 21/06 1:21pm",
+        "BBC RED BUTTON 15 - : Growing Signs Starmer Will Resign - Sun 21/06 1:21pm",
         "BBC RED BUTTON 15 - : Darts: Six Nations Cup 2026 - Sun 21/06 1:47pm",
+        "BBC RED BUTTON 13 - : MENA LIVE STREAMING - 21/06/2026 برنامج \"فوتبول vibes - Sun 21/06 3:33pm",
+        "BBC RED BUTTON 16 - : UK Temperatures Could Hit 38C - Sun 21/06 4:25pm",
+        "BBC RED BUTTON 17 - : US and Iran Begin Talks on Initial Peace Deal in Switzerland - Sun 21/06 4:41pm",
         "BBC RED BUTTON 00 - : Men's Day 7 - Sun 21/06 5:45pm",
-        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 21/06 7:30pm",
+        "BBC RED BUTTON 04 - : Scotland World Cup news conference 21st June - Sun 21/06 6:00pm",
+        "BBC RED BUTTON 16 - : Shaun Burton Named as Driver Killed in Bedford Train Crash - Sun 21/06 6:22pm",
+        "BBC RED BUTTON 17 - : Darts: Six Nations Cup 2026 - Sun 21/06 6:32pm",
+        "BBC RED BUTTON 18 - : Dartiau: Cwpan Chwe Gwlad 2026 - Sun 21/06 6:32pm",
+        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 21/06 6:50pm",
         "BBC RED BUTTON 00 - : Uruguay v Cape Verde – Watch with 5 Live - Sun 21/06 9:55pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 22/06 1:15am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 22/06 6:00am"
@@ -1102,39 +1187,16 @@
       "status": "ok",
       "fixtures": [
         "ESPN+ 02 : Surfing: 2026 WSL Championship Tour (2026 WSL Championship Tour) - Sun 21/06 11:30am",
-        "ESPN+ 18 : ESPNU: 30 For 30: Requiem For The Big East (30 For 30: Requiem For The Big East) - Sun 21/06 1:00pm",
-        "ESPN+ 13 : ESPN Deportes: Goool Morning America (Goool Morning America) - Sun 21/06 2:00pm",
-        "ESPN+ 09 : ESPN2: ESPN FC (ESPN FC) - Sun 21/06 2:00pm",
-        "ESPN+ 12 : ESPNews: FlingGolf All Star Skills Challenge (FlingGolf All Star Skills Challenge) - Sun 21/06 2:00pm",
-        "ESPN+ 08 : ACCN: ACC Huddle: Pittsburgh Football Preview (ACC Huddle: Pittsburgh Football Preview) - Sun 21/06 3:00pm",
-        "ESPN+ 19 : ESPN2: 30 for 30: Doc & Darryl (30 for 30: Doc & Darryl) - Sun 21/06 3:00pm",
-        "ESPN+ 20 : ESPNU: 30 For 30: Survive And Advance (30 For 30: Survive And Advance) - Sun 21/06 3:00pm",
-        "ESPN+ 14 : ESPNews: 2024 BullShooter Invitational Shootout (2024 BullShooter Invitational Shootout) - Sun 21/06 3:00pm",
-        "ESPN+ 21 : SEC Network: Auburn vs. #16 Vanderbilt (Auburn vs. #16 Vanderbilt) - Sun 21/06 3:00pm",
-        "ESPN+ 10 : ACCN: ACC Huddle: Wake Forest Football Preview (ACC Huddle: Wake Forest Football Preview) - Sun 21/06 3:30pm",
-        "ESPN+ 11 : ESPN Deportes: SportsCenter (Fin de Semana) (SportsCenter (Fin de Semana)) - Sun 21/06 4:00pm",
-        "ESPN+ 16 : ESPN: SportsCenter (SportsCenter) - Sun 21/06 4:00pm",
-        "ESPN+ 15 : ESPNews: OmegaBall (OmegaBall) - Sun 21/06 4:00pm",
-        "ESPN+ 17 : ESPN2: E:60 (E:60) - Sun 21/06 4:30pm",
-        "ESPN+ 07 : ESPN Deportes: La Copa Al DÃ­a (La Copa Al DÃ­a) - Sun 21/06 5:00pm",
-        "ESPN+ 23 : ESPN on ABC: 2026 Special Olympics: Preview Show (2026 Special Olympics: Preview Show) - Sun 21/06 5:00pm",
-        "ESPN+ 22 : ESPNU: 30 For 30: Playing For The Mob (30 For 30: Playing For The Mob) - Sun 21/06 5:00pm",
-        "ESPN+ 06 : ESPNews: Viii Sports 2024 National Championship (Viii Sports 2024 National Championship) - Sun 21/06 5:00pm",
         "ESPN+ 01 : Softball: Spark vs. Cascade (Spark vs. Cascade) - Sun 21/06 5:30pm",
         "ESPN+ 04 : Baseball: Brewers vs. Braves (Braves Broadcast) - Sun 21/06 6:00pm",
         "ESPN+ 05 : Baseball: Brewers vs. Braves (Brewers Broadcast) - Sun 21/06 6:00pm",
         "ESPN+ 03 : Baseball: Brewers vs. Braves (Brewers vs. Braves (ESP)) - Sun 21/06 6:00pm",
-        "ESPN+ 12 : ESPN Deportes: FC Barcelona: soÃ±ar, jugar, ganar (FC Barcelona: soÃ±ar, jugar, ganar) - Sun 21/06 6:00pm",
-        "ESPN+ 24 : ESPN2: Backstory: Serena vs. The Umpire (Backstory: Serena vs. The Umpire) - Sun 21/06 6:00pm",
-        "ESPN+ 18 : ESPNews: 2024 AWA Wiffle Ball All Star Game (2024 AWA Wiffle Ball All Star Game) - Sun 21/06 6:00pm",
         "ESPN+ 25 : MLB: MIL vs. ATL â¢ SF vs. MIA (MIL vs. ATL ) - Sun 21/06 6:00pm",
         "ESPN+ 26 : MLB: MIL vs. ATL â¢ SF vs. MIA â¢ TOR vs. CHC (MIL vs. ATL ) - Sun 21/06 6:00pm",
         "ESPN+ 28 : MLB: MIL vs. ATL â¢ TOR vs. CHC (MIL vs. ATL ) - Sun 21/06 6:00pm",
         "ESPN+ 27 : MLB: SF vs. MIA â¢ TOR vs. CHC (SF vs. MIA ) - Sun 21/06 6:00pm",
-        "ESPN+ 09 : SEC Network: All-Access: Florida Spring Football (All-Access: Florida Spring Football) - Sun 21/06 6:00pm",
         "ESPN+ 29 : ESPNU: 30 For 30: There's No Place Like Home (30 For 30: There's No Place Like Home) - Sun 21/06 6:30pm",
         "ESPN+ 30 : MLB: WSH vs. TB â¢ CLE vs. HOU (WSH vs. TB ) - Sun 21/06 6:30pm",
-        "ESPN+ 08 : SEC Network: The Juice: Inside Tennessee Football (The Juice: Inside Tennessee Football) - Sun 21/06 6:30pm",
         "ESPN+ 33 : MLB: CLE vs. HOU â¢ CIN vs. NYY (CLE vs. HOU ) - Sun 21/06 6:35pm",
         "ESPN+ 32 : MLB: WSH vs. TB â¢ CIN vs. NYY (WSH vs. TB ) - Sun 21/06 6:35pm",
         "ESPN+ 31 : MLB: WSH vs. TB â¢ CLE vs. HOU â¢ CIN vs. NYY (WSH vs. TB ) - Sun 21/06 6:35pm",
@@ -1876,10 +1938,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: LPGA: Round 4 - 18:00 21/06/2026",
-        "Sky Sport 1 - LIVE: U.S. Open: Round 4 - 19:00 21/06/2026",
-        "Sky Sport 1 UHD - LIVE: U.S. Open: Round 4 - 19:00 21/06/2026",
-        "Sky Sport 3 - LIVE: INDYCAR: Xpel Grand Prix - 19:00 21/06/2026",
         "Sky Sport 2 - LIVE: MLC: Seattle v Los Angeles - 21:15 21/06/2026",
         "Sky Sport 3 - LIVE: MLR: Chicago v California Final - 00:30 22/06/2026",
         "Sky Sport 2 - LIVE: MLC: Texas v New York - 01:15 22/06/2026",
@@ -1964,8 +2022,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Grand Prix of Czechia - Sun 21/06 12:15pm",
-        "Sportsnet 02 : St Helens vs. Huddersfield Giants - Sun 21/06 2:50pm",
         "Sportsnet 03 : Cincinnati @ New York Yankees - Sun 21/06 6:30pm",
         "Sportsnet 01 : Toronto @ Chicago Cubs - Sun 21/06 6:30pm",
         "Sportsnet 02 : Baltimore @ Los Angeles Dodgers - Sun 21/06 9:00pm",
@@ -1988,7 +2044,8 @@
         "Sportsnet 04 : The FAN Hockey Show: June 23 - Tue 23/06 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: June 23 - Tue 23/06 8:00pm",
         "Sportsnet 02 : Houston @ Toronto - Tue 23/06 8:30pm",
-        "Sportsnet 03 : New York Yankees @ Detroit - Tue 23/06 11:30pm"
+        "Sportsnet 03 : New York Yankees @ Detroit - Tue 23/06 11:30pm",
+        "Sportsnet 01 : NBA Draft - Round 1 - Wed 24/06 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1999,11 +2056,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Berlin: Day 7 - WTA 500 - Sun 21/06 11:00am",
-        "Stan 03 : Nottingham: Day 7 - WTA 250 - Sun 21/06 12:00pm",
-        "Stan 04 : Race Day Part 1: Italy - MXGP 2026 - Sun 21/06 12:00pm",
-        "Stan 05 : Cross-country Olympic: Lenzerheide - UCI Mountain Bike World Series 2026 - Sun 21/06 12:15pm",
-        "Stan 06 : Race Day Part 2: Italy - MXGP 2026 - Sun 21/06 3:00pm",
+        "Stan 02 : Berlin: Day 7 - WTA 500 - Sun 21/06 4:30pm",
         "Stan 01 : Race: Grand Prix of Road America - Indycar 2026 - Sun 21/06 7:00pm",
         "Stan 02 : Chicago Hounds v California Legion - Major League Rugby Grand Final 2026 - Mon 22/06 12:30am",
         "Stan 01 : Bad Homburg: Day 2 - WTA 500 - Mon 22/06 10:00am",
@@ -2057,7 +2110,12 @@
         "Stan 01 : France v Spain - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
         "Stan 02 : Wales v Uruguay - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
         "Stan 03 : Day 4 - Wimbledon 2026 - Thu 02/07 11:00am",
-        "Stan 04 : Australia v Fiji - Junior World Championship Round 2 2026 - Thu 02/07 12:20pm"
+        "Stan 05 : Argentina v Ireland - Junior World Championship Round 2 2026 - Thu 02/07 12:20pm",
+        "Stan 04 : Australia v Fiji - Junior World Championship Round 2 2026 - Thu 02/07 12:20pm",
+        "Stan 07 : England v USA - Junior World Championship Round 2 2026 - Thu 02/07 2:50pm",
+        "Stan 06 : New Zealand v Scotland - Junior World Championship Round 2 2026 - Thu 02/07 2:50pm",
+        "Stan 01 : Italy v Japan - Junior World Championship Round 2 2026 - Thu 02/07 5:20pm",
+        "Stan 02 : South Africa v Georgia - Junior World Championship Round 2 2026 - Thu 02/07 5:20pm"
       ],
       "sections": [],
       "events": []
@@ -2078,15 +2136,10 @@
       "status": "ok",
       "fixtures": [
         "TSN 01 : ATP 250 Tennis: Mallorca - Day #1 - Sun 21/06 11:30am",
-        "TSN 02 : ATP 500 Tennis: Halle - Doubles Final - Sun 21/06 12:00pm",
-        "TSN 03 : ATP 500 Tennis: London - Final - Sun 21/06 1:30pm",
-        "TSN 04 : ATP 500 Tennis: Halle - Final - Sun 21/06 2:30pm",
         "TSN 05 : ATP 500 Tennis: London - Doubles Final - Sun 21/06 2:30pm",
         "TSN 08 : 2026 US Open: Final Round - Featured Groups I - Sun 21/06 3:00pm",
         "TSN 06 : 2026 US Open: Final Round - Featured Groups II - Sun 21/06 3:00pm",
         "TSN 07 : 2026 US Open: Final Round - Featured Groups III - Sun 21/06 3:00pm",
-        "TSN 10 : Arabic Feed: FIFA World Cup 2026: Spain vs. Saudi Arabia - Sun 21/06 4:45pm",
-        "TSN 09 : Spanish Feed: FIFA World Cup 2026: Spain vs. Saudi Arabia - Sun 21/06 4:45pm",
         "TSN 02 : Athletes Unlimited Softball League: Spark vs. Cascade - Sun 21/06 5:30pm",
         "TSN 11 : 2026 IndyCar Racing: Xpel Grand Prix at Road America - Sun 21/06 7:00pm",
         "TSN 12 : NCAA Men's College World Series Finals: North Carolina vs. Oklahoma - Game #2 - Sun 21/06 7:30pm",
