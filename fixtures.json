@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-25T11:08:47.970760+00:00",
+  "scraped_at": "2026-06-25T13:14:16.810156+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,51 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Thursday 25 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 21:00-23:00 - 2026 FIFA World Cup: Ecuador vs Germany 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 21:00-23:00 - 2026 FIFA World Cup: Ecuador vs Germany 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 21:00-23:00 - 2026 FIFA World Cup: Curacao vs Côte d'Ivoire 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 21:00-23:00 - 2026 FIFA World Cup: Ecuador vs Germany 720p"
+            },
+            {
+              "type": "date",
+              "text": "Friday 26 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 00:00-02:00 - 2026 FIFA World Cup: Tunisia vs Netherlands 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 00:00-02:00 - 2026 FIFA World Cup: Tunisia vs Netherlands 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 00:00-02:00 - 2026 FIFA World Cup: Japan vs Sweden 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 00:00-02:00 - 2026 FIFA World Cup: Tunisia vs Netherlands 720p"
+            }
+          ]
+        },
         {
           "section": "World Cup",
           "entries": [
@@ -893,15 +938,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : Reeves Backs Burnham to Become Next PM - Thu 25/06 7:17am",
-        "BBC RED BUTTON 15 - : Travel Disruptions Expected in Heatwave - Thu 25/06 7:25am",
-        "BBC RED BUTTON 16 - : Venezuela Declares State of Emergency - Thu 25/06 7:27am",
-        "BBC RED BUTTON 14 - : Biggest city in Crimea without power after Ukraine strikes - Thu 25/06 7:46am",
-        "BBC RED BUTTON 14 - : 30-Year 'Brassed Off' Anniversary - Thu 25/06 8:07am",
-        "BBC RED BUTTON 14 - : Liberal Democrat Leader to Make Speech - Thu 25/06 8:52am",
+        "BBC RED BUTTON 14 - : Liberal Democrat Leader Makes Speech - Thu 25/06 8:52am",
         "BBC RED BUTTON 04 - : BBC Weather Live: Red Weather Warning Extended into Friday - Thu 25/06 10:17am",
         "BBC RED BUTTON 00 - : Day 4 - Thu 25/06 11:00am",
         "BBC RED BUTTON 15 - : MENA LIVE STREAMING - 25/05/2026 - شاهد معنا التغطية الرقمية لموجة الحر في أوروبا - Thu 25/06 11:46am",
+        "BBC RED BUTTON 05 - : Watch Live: First Minister's Questions - Thu 25/06 1:28pm",
+        "BBC RED BUTTON 15 - : Red Extreme Heat Warning Extended as Heatwave Grips UK - Thu 25/06 1:46pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Thu 25/06 8:00pm",
         "BBC RED BUTTON 00 - : Japan v Sweden – Watch with 5 Live - Thu 25/06 10:55pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Fri 26/06 2:15am",
@@ -1512,8 +1554,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: DP World Tour: Round 1 - 12:30 25/06/2026",
-        "Sky Sport 2 - LIVE: ICC T20WC: India v Bangladesh - 14:00 25/06/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 1 S1 - 16:00 25/06/2026",
         "Sky Sport 5 - LIVE: CLS Ranking: D4 Eve - 16:30 25/06/2026",
         "Sky Sport 2 - LIVE: ICC T20WC: S Africa v Netherlands - 18:00 25/06/2026",
@@ -1658,7 +1698,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Eels vs. Rabbitohs - Thu 25/06 10:40am",
         "Sportsnet 01 : Halford & Brough: June 25 - Thu 25/06 2:00pm",
         "Sportsnet 03 : The JD Bunkis Podcast: June 25 - Thu 25/06 2:00pm",
         "Sportsnet 04 : Jays Talk Plus: June 25 - Thu 25/06 3:00pm",
@@ -1693,7 +1732,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Bad Homburg: Day 5 - WTA 500 - Thu 25/06 9:59am",
         "Stan 02 : Eastbourne: Day 4 - WTA 250 - Thu 25/06 11:00am",
         "Stan 01 : EKO Athens SSS - WRC Greece 2026 - Thu 25/06 5:00pm",
         "Stan 01 : Hungary Day 1: Morning Session (World Cup Final) - UIPM Modern Pentathlon 2026 - Fri 26/06 9:30am",
