@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T12:08:04.895532+00:00",
+  "scraped_at": "2026-06-27T17:00:44.933308+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,39 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Saturday 27 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 18:00-22:00 - WWE Night of Champions 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Sunday 28 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 00:30-02:30 - 2026 FIFA World Cup: Colombia vs Portugal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 00:30-02:30 - 2026 FIFA World Cup: Colombia vs Portugal 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 00:30-02:30 - 2026 FIFA World Cup: Congo DR vs Uzbekistan 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 00:30-02:30 - 2026 FIFA World Cup: Colombia vs Portugal 720p"
+            }
+          ]
+        },
         {
           "section": "World Cup",
           "entries": [
@@ -255,6 +288,10 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 15 - 4:30amPancrase 363"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 16 - 9am PDRA North v South Shootout"
             },
             {
@@ -272,6 +309,14 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 20 - 10:30pmMillbridge Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 8:00pm-22:00 - Boxing: Sonny Hardy vs Lee Gormley"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 11:30pm-22:30 - BKB: Lee Selby vs Antonio Rizzo"
             }
           ]
         }
@@ -1121,18 +1166,6 @@
         },
         {
           "sport": "️ GOLF",
-          "time": "18:00",
-          "name": "WOMEN'S PGA CHAMPIONSHIP",
-          "datetime": "2026-06-28 18:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
           "time": "19:00",
           "name": "TRAVELERS CHAMPIONSHIP",
           "datetime": "2026-06-28 19:00:00",
@@ -1312,15 +1345,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : June Heat Record Broken for Third Day - Sat 27/06 7:14am",
-        "BBC RED BUTTON 04 - : Watch: Royal Opening of Scottish Parliament - Sat 27/06 10:51am",
-        "BBC RED BUTTON 05 - : Watch: Royal Opening of Scottish Parliament - Sat 27/06 11:06am",
-        "BBC RED BUTTON 06 - : Holyrood Live - Sat 27/06 11:06am",
-        "BBC RED BUTTON 01 - : Glastonbury Experience - Saturday - Sat 27/06 11:46am",
-        "BBC RED BUTTON 07 - : Premier League Kabaddi 2026 - Day 1 - Sat 27/06 11:50am",
-        "BBC RED BUTTON 00 - : Day 6 - Sat 27/06 12:00pm",
         "BBC RED BUTTON 14 - : MENA LIVE STREAMING - 27/06/2026 عالم الظهيرة - Sat 27/06 12:13pm",
         "BBC RED BUTTON 15 - : Vespa Owners Celebrate Scooter's 80th Birthday - Sat 27/06 12:50pm",
+        "BBC RED BUTTON 15 - : Venezuela Earthquakes: At Least 920 People Dead - Sat 27/06 1:10pm",
+        "BBC RED BUTTON 04 - : Countdown to England's Last Group Match - Sat 27/06 1:27pm",
+        "BBC RED BUTTON 05 - : Rugby: Barbarians v Wales - Sat 27/06 1:30pm",
+        "BBC RED BUTTON 04 - : Pencampwriaeth Rygbi dan 20 :  Cymru v Georgia - Sat 27/06 2:37pm",
+        "BBC RED BUTTON 06 - : Women's Rugby: Barbarians v Wales - Sat 27/06 4:13pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sat 27/06 8:00pm",
         "BBC RED BUTTON 00 - : Colombia v Portugal – Watch with 5 Live - Sat 27/06 11:25pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 28/06 2:50am",
@@ -1490,12 +1521,7 @@
       "fixtures": [
         "ESPN+ 03 : Surfing: 2026 WSL Championship Tour (2026 WSL Championship Tour) - Sat 27/06 11:30am",
         "ESPN+ 07 : Golf: PGA TOUR LIVE BetCast (PGA TOUR LIVE BetCast) - Sat 27/06 12:45pm",
-        "ESPN+ 08 : Golf: Travelers Championship: Featured Groups (Travelers Championship: Featured Groups) - Sat 27/06 1:30pm",
-        "ESPN+ 06 : Golf: Travelers Championship: Main Feed (Travelers Championship: Main Feed) - Sat 27/06 1:30pm",
-        "ESPN+ 09 : Golf: Marquee Group (Marquee Group) - Sat 27/06 3:30pm",
-        "ESPN+ 10 : WWE: Countdown to Night of Champions 2026 (Countdown to Night of Champions 2026) - Sat 27/06 4:00pm",
         "ESPN+ 01 : WWE: Night of Champions 2026 (Night of Champions 2026) - Sat 27/06 4:00pm",
-        "ESPN+ 11 : MLB: Baseball Tonight (Baseball Tonight) - Sat 27/06 5:30pm",
         "ESPN+ 17 : Golf: Travelers Championship: Featured Group 1 (Travelers Championship: Featured Group 1) - Sat 27/06 6:00pm",
         "ESPN+ 16 : Golf: Travelers Championship: Featured Group 2 (Travelers Championship: Featured Group 2) - Sat 27/06 6:00pm",
         "ESPN+ 14 : Golf: Travelers Championship: Featured Hole #15 (Travelers Championship: Featured Hole #15) - Sat 27/06 6:00pm",
@@ -1869,19 +1895,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: FIA Formula 2: Rd6 Sprint Race - 13:15 27/06/2026",
-        "Sky Sport 6 - LIVE: Women's Amateur Championship F R2 - 14:00 27/06/2026",
-        "Sky Sport 2 - LIVE: ICC T20WC: West Indies v Ireland - 14:00 27/06/2026",
-        "Sky Sport 4 - LIVE: FIA Formula 1: Austria GP Qual - 14:15 27/06/2026",
-        "Sky Sport Select - LIVE: JWC: Wales v Georgia - 14:50 27/06/2026",
-        "Sky Sport 3 - LIVE: JWC: France v Fiji - 14:50 27/06/2026",
-        "Sky Sport 5 - LIVE: LPGA: Round 3 - 15:00 27/06/2026",
-        "Sky Sport 9 - LIVE: CLS Ranking: D6 Eve - 17:00 27/06/2026",
-        "Sky Sport 4 - LIVE: Ted's Notebook: Austria Quali - 17:00 27/06/2026",
-        "Sky Sport 7 - LIVE: JWC: South Africa v Uruguay - 17:20 27/06/2026",
-        "Sky Sport Select - LIVE: JWC: Australia v Spain - 17:20 27/06/2026",
-        "Sky Sport 2 - LIVE: ICC T20WC: England v White Ferns - 18:00 27/06/2026",
-        "Sky Sport 3 - LIVE: PGA Tour: Round 3 - 18:00 27/06/2026",
         "Sky Sport 7 - LIVE: PGA Champions Tour: R2 - 20:00 27/06/2026",
         "Sky Sport 2 - LIVE: MLC: New York v Los Angeles - 22:15 27/06/2026",
         "Sky Sport 4 - LIVE: PFL San Diego - 01:00 28/06/2026",
@@ -1951,7 +1964,17 @@
         "Sky Sport 1 - LIVE: ICC T20WC: Semifinal 2 - 18:00 02/07/2026",
         "Sky Sport 1 UHD - LIVE: ICC T20WC: Semifinal 2 - 18:00 02/07/2026",
         "Sky Sport 3 - LIVE: Us Senior Open Round 1 - Afternoon - 22:30 02/07/2026",
-        "Sky Sport 9 - LIVE: AFL: Geelong Cats v Brisbane Lions - 00:00 03/07/2026"
+        "Sky Sport 9 - LIVE: AFL: Geelong Cats v Brisbane Lions - 00:00 03/07/2026",
+        "Sky Sport 1 - LIVE: MLC: Seattle v New York - 02:15 03/07/2026",
+        "Sky Sport 1 UHD - LIVE: MLC: Seattle v New York - 02:15 03/07/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd12 P1 - 08:40 03/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 3: Rd5 Practice - 08:50 03/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd7 Practice - 10:00 03/07/2026",
+        "Sky Sport 1 - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
+        "Sky Sport 5 - LIVE: AFL:Sydney Swans v Western Bulldog - 10:30 03/07/2026",
+        "Sky Sport 3 - LIVE: CLS Ranking: D11 Aft - 11:00 03/07/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 11:30 03/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1971,8 +1994,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Tissot Sprint - Grand Prix of the Netherlands - Sat 27/06 1:30pm",
-        "Sportsnet 02 : Hull FC vs. Wigan Warriors - Sat 27/06 2:50pm",
         "Sportsnet 03 : Toulouse Olympique vs. Leigh Leopards - Sat 27/06 3:50pm",
         "Sportsnet 04 : NHL Draft - Rounds 2 - 7 - Sat 27/06 4:00pm",
         "Sportsnet 05 : New York Yankees @ Boston - Sat 27/06 6:00pm",
@@ -1995,7 +2016,8 @@
         "Sportsnet 02 : Blair & Barker: June 29 - Mon 29/06 9:00pm",
         "Sportsnet 03 : The FAN Pregame: June 29 - Mon 29/06 11:00pm",
         "Sportsnet 04 : New York Mets @ Toronto - Mon 29/06 11:30pm",
-        "Sportsnet 01 : Detroit @ New York Yankees - Tue 30/06 12:00am"
+        "Sportsnet 01 : Detroit @ New York Yankees - Tue 30/06 12:00am",
+        "Sportsnet 02 : Los Angeles Dodgers @ Athletics - Tue 30/06 2:30am"
       ],
       "sections": [],
       "events": []
@@ -2006,16 +2028,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 14 : Italy v Scotland - Junior World Championship Round 1 2026 - Sat 27/06 9:49am",
-        "Stan 15 : Argentina v USA - Junior World Championship Round 1 2026 - Sat 27/06 9:50am",
-        "Stan 17 : Bad Homburg: Day 7 - WTA 500 - Sat 27/06 9:59am",
-        "Stan 02 : Eastbourne: Day 6 - WTA 250 - Sat 27/06 12:00pm",
-        "Stan 16 : England v Ireland - Junior World Championship Round 1 2026 - Sat 27/06 12:20pm",
-        "Stan 03 : New Zealand v Japan - Junior World Championship Round 1 2026 - Sat 27/06 12:20pm",
-        "Stan 05 : Barbarians v Wales - Men's International 2026 - Sat 27/06 1:30pm",
-        "Stan 04 : Hungary Day 2: Afternoon Session (World Cup Final) - UIPM Modern Pentathlon 2026 - Sat 27/06 1:30pm",
-        "Stan 06 : France v Fiji - Junior World Championship Round 1 2026 - Sat 27/06 2:50pm",
         "Stan 01 : Wales v Georgia - Junior World Championship Round 1 2026 - Sat 27/06 2:50pm",
+        "Stan 06 : France v Fiji - Junior World Championship Round 1 2026 - Sat 27/06 3:10pm",
         "Stan 07 : SS13 Menalo Mt 2 - WRC Greece 2026 - Sat 27/06 5:00pm",
         "Stan 09 : Australia v Spain - Junior World Championship Round 1 2026 - Sat 27/06 5:20pm",
         "Stan 08 : South Africa v Uruguay - Junior World Championship Round 1 2026 - Sat 27/06 5:20pm",
@@ -2064,7 +2078,14 @@
         "Stan 02 : Australia v Ireland - Nations Championship Round 1 2026 - Sat 04/07 10:30am",
         "Stan 04 : Day 6 - Wimbledon 2026 - Sat 04/07 11:00am",
         "Stan 17 : Daejeon v Bucheon - K League 2026 - Sat 04/07 11:25am",
-        "Stan 18 : Downhill: La Thuile - UCI Mountain Bike World Series 2026 - Sat 04/07 11:45am"
+        "Stan 18 : Downhill: La Thuile - UCI Mountain Bike World Series 2026 - Sat 04/07 11:45am",
+        "Stan 05 : Fiji v Wales - Nations Championship Round 1 2026 - Sat 04/07 2:00pm",
+        "Stan 01 : Practice 2: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 3:00pm",
+        "Stan 03 : South Africa v England - Nations Championship Round 1 2026 - Sat 04/07 4:30pm",
+        "Stan 02 : Uruguay v Georgia - Nations Cup Round 1 2026 - Sat 04/07 5:50pm",
+        "Stan 04 : Qualifying: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 7:30pm",
+        "Stan 06 : Samoa v Hong Kong China - Nations Cup Round 1 2026 - Sat 04/07 7:50pm",
+        "Stan 07 : Argentina v Scotland - Nations Championship Round 1 2026 - Sat 04/07 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -2086,16 +2107,10 @@
       "fixtures": [
         "TSN 02 : 2026 Rugby World Junior Championship: Pool Play - Kutaisi - Sat 27/06 9:50am",
         "TSN 01 : 2026 Rugby World Junior Championship: Pool Play - Tbilisi - Sat 27/06 9:50am",
-        "TSN 07 : WTA 250 Tennis: Eastbourne - Final - Sat 27/06 12:00pm",
         "TSN 08 : PGA TOUR Live: Travelers Championship - Third Round: Main Feed - Sat 27/06 12:45pm",
         "TSN 05 : PGA TOUR Live: Travelers Championship - Third Round: Featured Groups - Sat 27/06 1:00pm",
-        "TSN 09 : Formula 2 Sprint Race: Spielberg - Sat 27/06 1:10pm",
-        "TSN 10 : 2026 Women's Amateur Golf Championship - Final - Sat 27/06 1:30pm",
         "TSN 11 : PGA TOUR Live: Travelers Championship - Third Round: Marquee Group - Sat 27/06 1:30pm",
-        "TSN 12 : ATP 250 Tennis: Mallorca - Final - Sat 27/06 2:00pm",
         "TSN 13 : ATP 250 Tennis: Eastbourne - Final - Sat 27/06 2:30pm",
-        "TSN 15 : Formula 1 Driver Tracker: Austrian Grand Prix Qualifying - Sat 27/06 2:50pm",
-        "TSN 14 : Formula 1 Mixed On-Board Camera: Austrian Grand Prix Qualifying - Sat 27/06 2:50pm",
         "TSN 03 : Athletes Unlimited Softball League: Talons vs. Blaze - Sat 27/06 7:00pm",
         "TSN 04 : NASCAR Cup Series Practice & Qualifying: Toyota/Save Mart 350 - Sat 27/06 7:00pm",
         "TSN 06 : Premier Lacrosse League: Maryland Whipsnakes vs. Denver Outlaws - Sat 27/06 9:00pm",
@@ -2122,7 +2137,16 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "UFC FIGHT NIGHT: FIZIEV VS TORRES - Sat 27/06 5:00pm",
+        "CAGE WARRIORS 208 PRELIMS - Sat 27/06 6:00pm",
+        "CAGE WARRIORS 208 - Sat 27/06 7:30pm",
+        "UFC BAKU: POST-FIGHT PRESS CONFERENCE - Sat 27/06 8:15pm",
+        "(ESPAÑOL) MMA MEXICO 8 - Sun 28/06 3:00am",
+        "MMA MEXICO 8 - Sun 28/06 3:00am",
+        "URIJAH FABER'S A-1 COMBAT 36 - Sun 28/06 3:00am",
+        "PANCRASE 363 - Sun 28/06 4:30am"
+      ],
       "sections": [],
       "events": []
     }
