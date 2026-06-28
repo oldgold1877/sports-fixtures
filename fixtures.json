@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T09:55:21.151966+00:00",
+  "scraped_at": "2026-06-28T11:01:11.454231+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -67,6 +67,10 @@
             {
               "type": "fixture",
               "text": "World Cup 02 - Knockout: South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
             }
           ]
         },
@@ -88,95 +92,6 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 9am UFC Fight Night Fiziev v Torres Prelims"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 12pm UFC Fight Night Fiziev v Torres"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 02 - 1pm WWE Night of Champions"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 03 - 1pm WWE Night of Champions SD"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 6:30pmCage Warriors 208 Prelims"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 8:30pmCage Warriors 208"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 06 - 7pm PFI 19 The Return of the Masters"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 07 - 7pm XCB Bolden v Calabro"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 08 - 8pm Fight to Win 319"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 09 - 8pm PFL McKee v Isbulaev Prelims"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 09 - 10pm PFL McKee v Isbulaev"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 10 - 8pm BKB 55 Carnage in Cardiff"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 11 - 10pm Urijah Fabers A1 Combat 36"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 12 - 10pm MMA Mexico 8"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 13 - 10pm Armored MMA Medieval Cage FC"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 14 - 11pm GCW Amerikaz Most Wanted"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 16 - 9am PDRA North v South Shootout"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 17 - 12pm MotoAmerica Superbikes Ridge Motorsports"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 18 - 12pm Monster Energy Mammoth Motocross"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 19 - 3pm Thunder Road Harley-Davidson 200 SOBO"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 20 - 10:30pmMillbridge Sprint Cars"
             }
           ]
         }
@@ -846,14 +761,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 13 - : BBC Weather Live - Sun 28/06 4:56am",
-        "BBC RED BUTTON 14 - : US and Iran Carry Out Retaliatory Attacks - Sun 28/06 5:42am",
-        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 28/06 6:00am",
         "BBC RED BUTTON 14 - : Search for Thousands Missing After Venezuela Quakes - Sun 28/06 6:16am",
         "BBC RED BUTTON 15 - : Burnham Will Need 'Moscow Test', Says Ex-Military Chief - Sun 28/06 6:24am",
         "BBC RED BUTTON 14 - : Harry Reconsiders Bringing Meghan & Children on UK Trip - Sun 28/06 6:36am",
         "BBC RED BUTTON 04 - : Clarke Steps Down as Scotland Boss After World Cup Exit - Sun 28/06 8:26am",
         "BBC RED BUTTON 01 - : Finals, Part 2 - Sun 28/06 10:44am",
+        "BBC RED BUTTON 04 - : Premier League Kabaddi 2026 - Day 2 - Sun 28/06 11:30am",
+        "BBC RED BUTTON 02 - : The Glastonbury Channel - Sunday - Sun 28/06 11:44am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 28/06 12:00pm",
         "BBC RED BUTTON 00 - : Saracens v Trailfinders - Sun 28/06 2:45pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 28/06 5:15pm",
@@ -1011,7 +925,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN+ 01 : Fishing: The Fish Guyz (The Fish Guyz) - Sun 28/06 11:00am",
         "ESPN+ 03 : Golf: PGA TOUR LIVE BetCast (PGA TOUR LIVE BetCast) - Sun 28/06 1:45pm",
         "ESPN+ 05 : Golf: Marquee Group (Marquee Group) - Sun 28/06 3:45pm",
         "ESPN+ 04 : Golf: Travelers Championship: Main Feed (Travelers Championship: Main Feed) - Sun 28/06 3:45pm",
@@ -1444,7 +1357,9 @@
         "Sportsnet 03 : Jays Talk Plus: June 30 - Tue 30/06 3:00pm",
         "Sportsnet 04 : The FAN Hockey Show: June 30 - Tue 30/06 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: June 30 - Tue 30/06 8:00pm",
-        "Sportsnet 02 : Blair & Barker: June 30 - Tue 30/06 9:00pm"
+        "Sportsnet 02 : Blair & Barker: June 30 - Tue 30/06 9:00pm",
+        "Sportsnet 03 : The FAN Pregame: June 30 - Tue 30/06 11:00pm",
+        "Sportsnet 04 : New York Mets @ Toronto - Tue 30/06 11:30pm"
       ],
       "sections": [],
       "events": []
@@ -1455,7 +1370,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : SS15 Loutraki 1 - WRC Greece 2026 - Sun 28/06 7:30am",
         "Stan 03 : Hungary Day 3: Morning Session (World Cup Final) - UIPM Modern Pentathlon 2026 - Sun 28/06 9:30am",
         "Stan 02 : SS17 Loutraki 2 (Wolf Power Stage) - WRC Greece 2026 - Sun 28/06 12:00pm",
         "Stan 04 : Race Day Part 1: Portugal - MXGP 2026 - Sun 28/06 1:00pm",
@@ -1513,6 +1427,8 @@
         "Stan 50 : Sabalenka v Kostovic - Women's Singles R1 Wimbledon 2026 - Mon 29/06 3:30pm",
         "Stan 51 : Nakashima v Pinnington Jones - Men's Singles R1 Wimbledon 2026 - Mon 29/06 4:00pm",
         "Stan 52 : de Jong v Hijikata - Men's Singles R1 Wimbledon 2026 - Mon 29/06 4:00pm",
+        "Stan 55 : Fernandez v Tjen - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
+        "Stan 54 : Linette v Andreeva - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 53 : Siniakova v Zheng - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 01 : Day 2 - Wimbledon 2026 - Tue 30/06 11:00am",
         "Stan 01 : Day 3 - Wimbledon 2026 - Wed 01/07 11:00am",
