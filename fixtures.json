@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T14:46:33.472044+00:00",
+  "scraped_at": "2026-06-29T17:00:43.880096+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -50,18 +50,6 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Knockout: Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 02 - Knockout: Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 03 - Knockout: Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
               "text": "World Cup 01 - Knockout: Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
             },
             {
@@ -87,6 +75,18 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Knockout: Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
             }
           ]
         },
@@ -96,18 +96,6 @@
             {
               "type": "date",
               "text": "Monday 29 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
             },
             {
               "type": "fixture",
@@ -136,6 +124,18 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
             }
           ]
         }
@@ -527,16 +527,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : Conservative Party Leader Speech on Economy - Mon 29/06 9:49am",
-        "BBC RED BUTTON 15 - : Andy Burnham's Plans for the Country - Mon 29/06 9:59am",
-        "BBC RED BUTTON 01 - : No.2 Court:  Zheng v GB's Cameron Norrie - Mon 29/06 10:44am",
-        "BBC RED BUTTON 02 - : No.3 Court: Jacquemot v Osaka - Mon 29/06 10:45am",
-        "BBC RED BUTTON 03 - : Court 12: Rinderknech v Tarvet - Mon 29/06 10:45am",
-        "BBC RED BUTTON 00 - : Extra: Day 1 - Mon 29/06 11:00am",
-        "BBC RED BUTTON 14 - : ICC EVENT - Mon 29/06 11:57am",
         "BBC RED BUTTON 16 - : Dame Penelope Keith Dies Aged 86 - Mon 29/06 12:16pm",
         "BBC RED BUTTON 15 - : Burnham Pledges to 'Rewire Britain' in Major Policy Speech - Mon 29/06 1:26pm",
         "BBC RED BUTTON 15 - : Sentencing of 18-year-old Jagger Strang - Mon 29/06 1:43pm",
+        "BBC RED BUTTON 14 - : no_episode_title - Mon 29/06 1:58pm",
+        "BBC RED BUTTON 16 - : MENA LIVE STREAMING - 28/06/2026 العالم هذا المساء - Mon 29/06 2:01pm",
         "BBC RED BUTTON 17 - : How Painless Blood Tests Changed Teenager's Life - Mon 29/06 2:28pm",
         "BBC RED BUTTON 17 - : Venezuelans Search Through Rubble for Loved Ones - Mon 29/06 3:12pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 9:00pm",
@@ -976,7 +971,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: CLS Ranking: D7 Eve - 16:30 29/06/2026",
         "Sky Sport 2 - LIVE: CLS Ranking: D8 Aft - 11:00 30/06/2026",
         "Sky Sport 1 - LIVE: ICC T20WC: Australia v Windies SF1 - 14:00 30/06/2026",
         "Sky Sport 1 UHD - LIVE: ICC T20WC: Australia v Windies SF1 - 14:00 30/06/2026",
@@ -1099,8 +1093,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Halford & Brough: June 29 - Mon 29/06 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: June 29 - Mon 29/06 3:00pm",
         "Sportsnet 04 : The FAN Hockey Show: June 29 - Mon 29/06 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: June 29 - Mon 29/06 7:00pm",
         "Sportsnet 02 : Blair & Barker: June 29 - Mon 29/06 9:00pm",
@@ -1122,7 +1114,8 @@
         "Sportsnet 03 : The Ultimate Fighter: Team Cormier vs. Team Bisping - Eps. 4 - Wed 01/07 3:00am",
         "Sportsnet 01 : Sportsnet Central: June 30 - Wed 01/07 10:00am",
         "Sportsnet 01 : Halford & Brough: July 1 - Wed 01/07 2:00pm",
-        "Sportsnet 02 : The JD Bunkis Podcast: July 1 - Wed 01/07 2:00pm"
+        "Sportsnet 02 : The JD Bunkis Podcast: July 1 - Wed 01/07 2:00pm",
+        "Sportsnet 03 : The FAN Hockey Show: July 1 - Wed 01/07 4:00pm"
       ],
       "sections": [],
       "events": []
@@ -1133,22 +1126,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 18 : Muller v Paul - Men's Singles R1 Wimbledon 2026 - Mon 29/06 12:26pm",
-        "Stan 19 : Zheng v Norrie - Men's Singles R1 Wimbledon 2026 - Mon 29/06 12:42pm",
-        "Stan 26 : Ugo Carabelli v Merida - Men's Singles R1 Wimbledon 2026 - Mon 29/06 12:42pm",
-        "Stan 17 : Wang v Cocciaretto - Women's Singles R1 Wimbledon 2026 - Mon 29/06 12:43pm",
-        "Stan 21 : Li v Sonmez - Women's Singles R1 Wimbledon 2026 - Mon 29/06 12:51pm",
-        "Stan 27 : Ostapenko v Dart - Women's Singles R1 Wimbledon 2026 - Mon 29/06 1:00pm",
-        "Stan 29 : Putintseva v Maria - Women's Singles R1 Wimbledon 2026 - Mon 29/06 1:07pm",
-        "Stan 22 : Medjedovic v Ofner - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:13pm",
-        "Stan 25 : Ruud v Hurkacz - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:14pm",
-        "Stan 33 : Sinner v Kecmanovic - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:30pm",
-        "Stan 23 : Andreescu v Zhang - Women's Singles R1 Wimbledon 2026 - Mon 29/06 1:49pm",
-        "Stan 44 : Bautista Agut v Fonseca - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:59pm",
-        "Stan 30 : Parks v Dudeney - Women's Singles R1 Wimbledon 2026 - Mon 29/06 2:05pm",
-        "Stan 24 : Borges v Boyer - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:07pm",
-        "Stan 20 : Rinderknech v Tarvet - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:09pm",
-        "Stan 32 : Ruzic v Semenistaja - Women's Singles R1 Wimbledon 2026 - Mon 29/06 2:15pm",
         "Stan 34 : Walton v Prizmic - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:55pm",
         "Stan 31 : Kwon v Landaluce - Men's Singles R1 Wimbledon 2026 - Mon 29/06 3:00pm",
         "Stan 39 : Vallejo v Mejia - Men's Singles R1 Wimbledon 2026 - Mon 29/06 3:15pm",
