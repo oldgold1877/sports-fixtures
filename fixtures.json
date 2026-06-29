@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T18:05:47.265386+00:00",
+  "scraped_at": "2026-06-29T07:15:24.299765+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,65 +9,8 @@
       "fixtures": [],
       "sections": [
         {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Sunday 28 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 20:00-22:00 - 2026 FIFA World Cup: South Africa vs Canada 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup: South Africa vs Canada 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 10 - 20:00-22:00 - 2026 FIFA World Cup: South Africa vs Canada 720p"
-            },
-            {
-              "type": "date",
-              "text": "Monday 29 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 00:00-01:00 - AEW: Forbidden Door 2026 - Pre-Show 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 10 - 00:00-01:00 - AEW: Forbidden Door 2026 - Pre-Show 720p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 01:00-04:00 - AEW: Forbidden Door 2026 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 10 - 01:00-04:00 - AEW: Forbidden Door 2026 720p"
-            }
-          ]
-        },
-        {
           "section": "World Cup",
           "entries": [
-            {
-              "type": "date",
-              "text": "Sunday 28 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 01 - Knockout: South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 02 - Knockout: South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 03 - Knockout: South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
             {
               "type": "date",
               "text": "Monday 29 June 2026"
@@ -83,28 +26,40 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Knockout: Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Knockout: Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Knockout: Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "date",
+              "text": "Tuesday 30 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Knockout: Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Knockout: Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
             }
           ]
         },
         {
           "section": "Football",
           "entries": [
-            {
-              "type": "date",
-              "text": "Sunday 28 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): South Africa v Canada - 28 Jun 20:00 // 28 Jun 15:00 ET // 28 Jun 12:00 PT"
-            },
             {
               "type": "date",
               "text": "Monday 29 June 2026"
@@ -120,6 +75,34 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Brazil v Japan - 29 Jun 18:00 // 29 Jun 13:00 ET // 29 Jun 10:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Germany v Paraguay - 29 Jun 21:30 // 29 Jun 16:30 ET // 29 Jun 13:30 PT"
+            },
+            {
+              "type": "date",
+              "text": "Tuesday 30 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Netherlands v Morocco - 30 Jun 02:00 // 29 Jun 21:00 ET // 29 Jun 18:00 PT"
             }
           ]
         }
@@ -128,459 +111,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "ALGERIA - AUSTRIA",
-          "datetime": "2026-06-28 03:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "JORDAN - ARGENTINA",
-          "datetime": "2026-06-28 03:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "SOUTH AFRICA - CANADA",
-          "datetime": "2026-06-28 20:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "CAVALRY - SUPRA DU QUEBEC",
-          "datetime": "2026-06-29 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "MONTREAL ALOUETTES - OTTAWA REDBLACKS",
-          "datetime": "2026-06-29 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "08:10",
-          "name": "FREMANTLE DOCKERS - GOLD COAST SUNS",
-          "datetime": "2026-06-28 08:10:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "01:00",
-          "name": "SAVANNAH BANANAS - THE PARTY ANIMALS",
-          "datetime": "2026-06-28 01:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "01:40",
-          "name": "SAN DIEGO PADRES - LOS ANGELES DODGERS",
-          "datetime": "2026-06-28 01:40:00",
-          "channels": [
-            {
-              "name": "SPORTSNET LA",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "18:05",
-          "name": "WORCESTER - TOLEDO MUD HENS",
-          "datetime": "2026-06-28 18:05:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "18:35",
-          "name": "BALTIMORE ORIOLES - WASHINGTON NATIONALS",
-          "datetime": "2026-06-28 18:35:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "18:40",
-          "name": "NEW YORK METS - PHILADELPHIA PHILLIES",
-          "datetime": "2026-06-28 18:40:00",
-          "channels": [
-            {
-              "name": "SNY",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "21:00",
-          "name": "THE PARTY ANIMALS - SAVANNAH BANANAS",
-          "datetime": "2026-06-28 21:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "21:10",
-          "name": "SAN DIEGO PADRES - LOS ANGELES DODGERS",
-          "datetime": "2026-06-28 21:10:00",
-          "channels": [
-            {
-              "name": "SPORTSNET LA",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "00:20",
-          "name": "BOSTON RED SOX - NEW YORK YANKEES",
-          "datetime": "2026-06-29 00:20:00",
-          "channels": []
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:00",
-          "name": "INDIANA FEVER - LOS ANGELES SPARKS",
-          "datetime": "2026-06-28 01:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "DALLAS WINGS - MINNESOTA LYNX",
-          "datetime": "2026-06-28 19:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "21:00",
-          "name": "CHICAGO SKY - LAS VEGAS ACES",
-          "datetime": "2026-06-28 21:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "GOLDEN STATE VALKYRIES - NEW YORK LIBERTY",
-          "datetime": "2026-06-29 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "17:30",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-06-28 17:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "19:00",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-06-28 19:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FIGHTING",
-          "time": "00:00",
-          "name": "AEW FORBIDDEN DOOR",
-          "datetime": "2026-06-29 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "09:30",
-          "name": "ITALIAN OPEN",
-          "datetime": "2026-06-28 09:30:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "11:00",
-          "name": "ITALIAN OPEN",
-          "datetime": "2026-06-28 11:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "18:00",
-          "name": "WOMEN'S PGA CHAMPIONSHIP",
-          "datetime": "2026-06-28 18:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "19:00",
-          "name": "TRAVELERS CHAMPIONSHIP",
-          "datetime": "2026-06-28 19:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "21:00",
-          "name": "DICK'S OPEN",
-          "datetime": "2026-06-28 21:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "21:00",
-          "name": "TRAVELERS CHAMPIONSHIP",
-          "datetime": "2026-06-28 21:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "02:00",
-          "name": "SHORE LUNCH 250",
-          "datetime": "2026-06-28 02:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "05:35",
-          "name": "FERRARI CHALLENGE JAPAN",
-          "datetime": "2026-06-28 05:35:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "06:28",
-          "name": "RALLY GREECE",
-          "datetime": "2026-06-28 06:28:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "10:10",
-          "name": "RALLY GREECE",
-          "datetime": "2026-06-28 10:10:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "13:00",
-          "name": "DUTCH GRAND PRIX",
-          "datetime": "2026-06-28 13:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "14:00",
-          "name": "AUSTRIA GRAND PRIX",
-          "datetime": "2026-06-28 14:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "20:30",
-          "name": "TOYOTA / SAVE MART 350",
-          "datetime": "2026-06-28 20:30:00",
-          "channels": [
-            {
-              "name": "TNT US",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "22:30",
-          "name": "SUMMIT RACING EQUIPMENT NATIONALS",
-          "datetime": "2026-06-28 22:30:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "SOFTBALL",
-          "time": "18:00",
-          "name": "PORTLAND CASCADE - TEXAS VOLTS",
-          "datetime": "2026-06-28 18:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -740,10 +270,184 @@
           ]
         },
         {
+          "sport": "️ GOLF",
+          "time": "14:00",
+          "name": "TRAVELERS CHAMPIONSHIP",
+          "datetime": "2026-06-29 14:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "TENNIS",
           "time": "11:00",
           "name": "WIMBLEDON",
           "datetime": "2026-06-29 11:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "02:00",
+          "name": "NETHERLANDS - MOROCCO",
+          "datetime": "2026-06-30 02:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "IVORY COAST - NORWAY",
+          "datetime": "2026-06-30 18:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "22:00",
+          "name": "FRANCE - SWEDEN",
+          "datetime": "2026-06-30 22:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "02:40",
+          "name": "ATHLETICS - LOS ANGELES DODGERS",
+          "datetime": "2026-06-30 02:40:00",
+          "channels": [
+            {
+              "name": "SPORTSNET LA",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "23:35",
+          "name": "BALTIMORE ORIOLES - CHICAGO WHITE SOX",
+          "datetime": "2026-06-30 23:35:00",
+          "channels": [
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:05",
+          "name": "NEW YORK YANKEES - DETROIT TIGERS",
+          "datetime": "2026-07-01 00:05:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:07",
+          "name": "TORONTO BLUE JAYS - NEW YORK METS",
+          "datetime": "2026-07-01 00:07:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:10",
+          "name": "BOSTON RED SOX - WASHINGTON NATIONALS",
+          "datetime": "2026-07-01 00:10:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:10",
+          "name": "VENEZUELA - COLOMBIA",
+          "datetime": "2026-07-01 00:10:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "11:00",
+          "name": "WIMBLEDON",
+          "datetime": "2026-06-30 11:00:00",
           "channels": [
             {
               "name": "ESPN",
@@ -767,18 +471,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Main Event UHD - Live: Major League Cricket - MI New York v Los Angeles Knight Riders - Sat 27/06 11:00pm",
-        "Sky Sports F1 UHD - FIA Formula 2 Championship - Austria: Sprint Race - Sun 28/06 1:00am",
-        "Sky Sports F1 UHD - FIA Formula 3 Championship - Austria: Sprint Race - Sun 28/06 2:15am",
-        "Sky Sports F1 UHD - Formula 1 - Austrian Grand Prix: 3rd Practice - Sun 28/06 3:30am",
-        "Sky Sports UHD 1 - Live: Test Cricket - 3rd Test, Day 4: England v New Zealand - Sun 28/06 10:15am",
-        "Sky Sports F1 UHD - Live: Formula 1 - Austrian Grand Prix: Grand Prix Sunday - Sun 28/06 12:30pm",
-        "Sky Sports F1 UHD - Ted's Notebook - Austrian Grand Prix: Race - Sun 28/06 5:00pm",
-        "Sky Sports Main Event UHD - Live: KPMG Women's PGA Championship Golf - Day 4 - Sun 28/06 7:00pm",
-        "Sky Sports Main Event UHD - Live: Travelers Championship, PGA Tour Golf - Day 4 - Sun 28/06 9:00pm",
+        "Sky Sports F1 UHD - FIA Formula 2 Championship - Austria: Feature Race - Mon 29/06 12:00am",
         "Sky Sports Main Event UHD - Live: Zuffa Boxing - Edwin De Los Santos v Jose Valenzuela 2 - Mon 29/06 1:00am",
+        "Sky Sports F1 UHD - FIA Formula 3 Championship - Austria: Feature Race - Mon 29/06 1:30am",
         "Sky Sports Main Event UHD - World Cup Report - Mon 29/06 4:30am",
-        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Spa: Highlights - Mon 29/06 10:00pm"
+        "Sky Sports F1 UHD - Formula 1 - Austrian Grand Prix: Grand Prix Sunday - Mon 29/06 6:00am",
+        "Sky Sports UHD 1 - Live: Test Cricket - 3rd Test, Day 5: England v New Zealand - Mon 29/06 10:15am",
+        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Spa: Highlights - Mon 29/06 10:00pm",
+        "Sky Sports Main Event UHD - World Cup Matchday - Tue 30/06 1:00pm",
+        "Sky Sports Main Event UHD - Live: ICC Women's T20 World Cup - Semi-Final: TBA v TBA - Tue 30/06 2:00pm"
       ],
       "sections": [],
       "events": []
@@ -789,17 +490,22 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 00 - : Saracens v Trailfinders - Sun 28/06 2:45pm",
-        "BBC RED BUTTON 14 - : 11 Killed as Plane Carrying Skydivers Crashes in France - Sun 28/06 3:15pm",
-        "BBC RED BUTTON 15 - : England Captain Ben Stokes Retires from International Cricket - Sun 28/06 4:26pm",
-        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Sun 28/06 5:05pm",
-        "BBC RED BUTTON 05 - : UEFA Under 19: Wales v Spain - Sun 28/06 5:15pm",
-        "BBC RED BUTTON 06 - : UEFA Dan 19: Cymru v Sbaen - Sun 28/06 5:15pm",
-        "BBC RED BUTTON 15 - : 11 Killed as Plane Carrying Skydivers Crashes in France - Sun 28/06 6:05pm",
-        "BBC RED BUTTON 00 - : Review - Sun 28/06 7:00pm",
-        "BBC RED BUTTON 00 - : Review - Mon 29/06 12:00am",
+        "BBC RED BUTTON 13 - : BBC Weather Live - Mon 29/06 3:53am",
+        "BBC RED BUTTON 14 - : Injured Raducanu Withdraws from Wimbledon - Mon 29/06 4:13am",
+        "BBC RED BUTTON 14 - : Andy Burnham to Deliver First Speech as Labour Contender - Mon 29/06 4:37am",
+        "BBC RED BUTTON 14 - : Catherine Completes Three Peaks Challenge - Mon 29/06 5:08am",
+        "BBC RED BUTTON 14 - : White Working-Class Children Failed by Education System - Mon 29/06 5:36am",
         "BBC RED BUTTON 00 - : Review - Mon 29/06 6:00am",
-        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 8:55am"
+        "BBC RED BUTTON 14 - : Venezuelans Search Through Rubble for Loved Ones - Mon 29/06 6:18am",
+        "BBC RED BUTTON 15 - : Hinge Boss on Her Green and Red Flags in Life - Mon 29/06 6:30am",
+        "BBC RED BUTTON 14 - : Fossil Identified as First Dinosaur Ever Found in Antarctica - Mon 29/06 6:36am",
+        "BBC RED BUTTON 14 - : Venezuelans Displaced in the Wake of Twin Earthquakes - Mon 29/06 7:02am",
+        "BBC RED BUTTON 14 - : Barbie Exhibition to Open in Scotland for the First Time - Mon 29/06 7:41am",
+        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 8:55am",
+        "BBC RED BUTTON 00 - : Extra: Day 1 - Mon 29/06 11:00am",
+        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 9:00pm",
+        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 30/06 12:00am",
+        "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 30/06 6:00am"
       ],
       "sections": [],
       "events": []
@@ -810,16 +516,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Clubber 1 : Holycross-Ballycahill V Drom & Inch (Tipperary GAA - Senior 1) - Sun 28/06 11:00am",
-        "Clubber 2 : The Harps V Camross (Laois GAA - Senior 1) - Sun 28/06 11:30am",
-        "Clubber 3 : Sean Treacys V Éire Óg Annacarty (Tipperary GAA - Intermediate 1) - Sun 28/06 12:00pm",
-        "Clubber 4 : Causeway V Ballyheigue (Kerry GAA - Senior 1) - Sun 28/06 1:00pm",
-        "Clubber 5 : Naomh Moling V Ballinkillen HC (Carlow GAA - Senior 1) - Sun 28/06 1:00pm",
-        "Clubber 6 : Thurles Sarsfields V Upperchurch-Drombane (Tipperary GAA - Senior 1) - Sun 28/06 1:00pm",
-        "Clubber 7 : Ballyduff V Lixnaw (Kerry GAA - Senior 1) - Sun 28/06 3:00pm",
         "Clubber 1 : Mid Kerry V Austin Stacks (Kerry GAA - Underage 20/21) - Tue 30/06 6:30pm",
         "Clubber 2 : Thomastown V Dicksboro (Kilkenny GAA - Senior 1) - Tue 30/06 6:30pm",
-        "Clubber 3 : West Kerry V St. Brendan's Board (Kerry GAA - Underage 20/21) - Tue 30/06 6:30pm"
+        "Clubber 3 : West Kerry V St. Brendan's Board (Kerry GAA - Underage 20/21) - Tue 30/06 6:30pm",
+        "Clubber 1 : Faythe Harriers V Naomh Eanna (Wexford - Senior 1) - Thu 02/07 7:00pm"
       ],
       "sections": [],
       "events": []
@@ -950,22 +650,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN+ 03 : Golf: PGA TOUR LIVE BetCast (PGA TOUR LIVE BetCast) - Sun 28/06 1:45pm",
-        "ESPN+ 10 : Golf: Travelers Championship: Featured Group 1 (Travelers Championship: Featured Group 1) - Sun 28/06 6:00pm",
-        "ESPN+ 11 : Golf: Travelers Championship: Featured Group 2 (Travelers Championship: Featured Group 2) - Sun 28/06 6:00pm",
-        "ESPN+ 09 : Golf: Travelers Championship: Featured Hole #15 (Travelers Championship: Featured Hole #15) - Sun 28/06 6:00pm",
-        "ESPN+ 08 : Golf: Travelers Championship: Featured Hole #16 (Travelers Championship: Featured Hole #16) - Sun 28/06 6:00pm",
-        "ESPN+ 12 : MLB: Phillies vs. Mets (Mets Broadcast) - Sun 28/06 6:00pm",
-        "ESPN+ 13 : MLB: Phillies vs. Mets (Phillies Broadcast) - Sun 28/06 6:00pm",
-        "ESPN+ 07 : MLB: Phillies vs. Mets (Phillies vs. Mets (ESP)) - Sun 28/06 6:00pm",
-        "ESPN+ 01 : Softball: Cascade vs. Volts (Cascade vs. Volts) - Sun 28/06 6:00pm",
-        "ESPN+ 02 : Softball: Cascade vs. Volts (ESP) (Cascade vs. Volts (ESP)) - Sun 28/06 6:00pm",
-        "ESPN+ 04 : Lacrosse: Waterdogs vs. Archers (Waterdogs vs. Archers) - Sun 28/06 9:00pm",
-        "ESPN+ 02 : Basketball: WNBA Countdown (WNBA Countdown) - Sun 28/06 11:30pm",
-        "ESPN+ 05 : Lacrosse: Chaos vs. Redwoods (Chaos vs. Redwoods) - Sun 28/06 11:30pm",
-        "ESPN+ 06 : Basketball: Liberty vs. Valkyries (Liberty vs. Valkyries (ESP)) - Mon 29/06 12:00am",
-        "ESPN+ 07 : Basketball: Liberty vs. Valkyries (Liberty vs. Valkyries) - Mon 29/06 12:00am",
-        "ESPN+ 01 : Surfing: WSL: Corona Cero New Zealand Pro (WSL: Corona Cero New Zealand Pro) - Mon 29/06 1:30am",
         "ESPN+ 01 : Football: College Football Spring Game (College Football Spring Game) - Mon 29/06 8:00am",
         "ESPN+ 02 : Basketball: NBA Today (NBA Today) - Mon 29/06 8:00pm",
         "ESPN+ 01 : Football: NFL Live (NFL Live) - Mon 29/06 9:00pm",
@@ -1036,13 +720,9 @@
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Sun Jun 28, 2026 7:00am BST",
+      "last_updated": "Last Updated: Mon Jun 29, 2026 7:00am BST",
       "status": "ok",
-      "fixtures": [
-        "GAA Plus 01: All-Ireland Football Quarter-Final - LOUTH v MONAGHAN - Sun 28/06 1:45pm",
-        "GAA Plus 02: All-Ireland Football Quarter-Final - DUBLIN v GALWAY - Sun 28/06 4:00pm",
-        "GAA Plus 03: Highlights & Analysis Show - THE SUNDAY GAME 28/06/2026 - Sun 28/06 9:30pm"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1063,36 +743,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "MLB 01 : Nationals at Orioles (Home coverage from MASN) - Sun 28/06 06:35pm",
-        "MLB 01 : Nationals at Orioles (Away coverage from NATS) - Sun 28/06 06:35pm",
-        "MLB 02 : Reds at Pirates (Home coverage from SNP) - Sun 28/06 06:35pm",
-        "MLB 02 : Reds at Pirates (Away coverage from CINR) - Sun 28/06 06:35pm",
-        "MLB 03 : Rangers at Blue Jays (Home coverage from Sportsnet) - Sun 28/06 06:37pm",
-        "MLB 03 : Rangers at Blue Jays (Away coverage from RSN) - Sun 28/06 06:37pm",
-        "MLB 04 : Astros at Tigers (Home coverage from DSN) - Sun 28/06 06:40pm",
-        "MLB 04 : Astros at Tigers (Away coverage from SCHN) - Sun 28/06 06:40pm",
-        "MLB 05 : D-backs at Rays (Home coverage from RAYS) - Sun 28/06 06:40pm",
-        "MLB 05 : D-backs at Rays (Away coverage from ARID) - Sun 28/06 06:40pm",
-        "MLB 06 : Mariners at Guardians (Home coverage from CLEG) - Sun 28/06 06:40pm",
-        "MLB 06 : Mariners at Guardians (Away coverage from SEAM) - Sun 28/06 06:40pm",
-        "MLB 07 : Phillies at Mets (Home coverage from SNY) - Sun 28/06 06:40pm",
-        "MLB 07 : Phillies at Mets (Away coverage from NBCSP) - Sun 28/06 06:40pm",
-        "MLB 08 : Cubs at Brewers (Home coverage from BREW) - Sun 28/06 07:10pm",
-        "MLB 08 : Cubs at Brewers (Away coverage from MARQ) - Sun 28/06 07:10pm",
-        "MLB 09 : Rockies at Twins (Home coverage from MNNT) - Sun 28/06 07:10pm",
-        "MLB 09 : Rockies at Twins (Away coverage from COLR) - Sun 28/06 07:10pm",
-        "MLB 10 : Royals at White Sox (Home coverage from CHSN) - Sun 28/06 07:10pm",
-        "MLB 10 : Royals at White Sox (Away coverage from ROYL) - Sun 28/06 07:10pm",
-        "MLB 11 : Marlins at Cardinals (Home coverage from CARD) - Sun 28/06 07:15pm",
-        "MLB 11 : Marlins at Cardinals (Away coverage from MIAM) - Sun 28/06 07:15pm",
-        "MLB 12 : Athletics at Angels (Home coverage from Peacock) - Sun 28/06 08:15pm",
-        "MLB 12 : Athletics at Angels (Away coverage from Peacock) - Sun 28/06 08:15pm",
-        "MLB 13 : Braves at Giants (Home coverage from NBCSBA) - Sun 28/06 09:05pm",
-        "MLB 13 : Braves at Giants (Away coverage from BravesVsn) - Sun 28/06 09:05pm",
-        "MLB 14 : Dodgers at Padres (Home coverage from SDPA) - Sun 28/06 09:10pm",
-        "MLB 14 : Dodgers at Padres (Away coverage from SNLA) - Sun 28/06 09:10pm",
-        "MLB 15 : Yankees at Red Sox (Home coverage from NBC) - Mon 29/06 12:20am",
-        "MLB 15 : Yankees at Red Sox (Away coverage from NBC) - Mon 29/06 12:20am",
         "MLB 01 : White Sox at Orioles (Home coverage from MASN) - Mon 29/06 11:35pm",
         "MLB 01 : White Sox at Orioles (Away coverage from CHSN) - Mon 29/06 11:35pm",
         "MLB 02 : Pirates at Phillies (Home coverage from NBCSP) - Mon 29/06 11:40pm",
@@ -1148,7 +798,35 @@
         "MLB 14 : Dodgers at Athletics (Home coverage from NBCSCA) - Wed 01/07 02:40am",
         "MLB 14 : Dodgers at Athletics (Away coverage from SNLA) - Wed 01/07 02:40am",
         "MLB 15 : Giants at D-backs (Home coverage from ARID) - Wed 01/07 02:40am",
-        "MLB 15 : Giants at D-backs (Away coverage from NBCSBA) - Wed 01/07 02:40am"
+        "MLB 15 : Giants at D-backs (Away coverage from NBCSBA) - Wed 01/07 02:40am",
+        "MLB 01 : White Sox at Orioles (Home coverage from MASN) - Wed 01/07 05:35pm",
+        "MLB 01 : White Sox at Orioles (Away coverage from CHSN) - Wed 01/07 05:35pm",
+        "MLB 02 : Rangers at Guardians (Home coverage from CLEG) - Wed 01/07 06:10pm",
+        "MLB 02 : Rangers at Guardians (Away coverage from RSN) - Wed 01/07 06:10pm",
+        "MLB 03 : Nationals at Red Sox (Home coverage from NESN) - Wed 01/07 06:35pm",
+        "MLB 03 : Nationals at Red Sox (Away coverage from NATS) - Wed 01/07 06:35pm",
+        "MLB 04 : Tigers at Yankees (Home coverage from YES) - Wed 01/07 06:35pm",
+        "MLB 04 : Tigers at Yankees (Away coverage from DSN) - Wed 01/07 06:35pm",
+        "MLB 05 : Padres at Cubs (Home coverage from MARQ) - Wed 01/07 07:20pm",
+        "MLB 05 : Padres at Cubs (Away coverage from SDPA) - Wed 01/07 07:20pm",
+        "MLB 06 : Mets at Blue Jays (Home coverage from Sportsnet) - Wed 01/07 08:07pm",
+        "MLB 06 : Mets at Blue Jays (Away coverage from SNY) - Wed 01/07 08:07pm",
+        "MLB 07 : Pirates at Phillies (Home coverage from NBCSP) - Wed 01/07 11:40pm",
+        "MLB 07 : Pirates at Phillies (Away coverage from SNP) - Wed 01/07 11:40pm",
+        "MLB 08 : Cardinals at Braves (Home coverage from BravesVsn) - Thu 02/07 12:15am",
+        "MLB 08 : Cardinals at Braves (Away coverage from CARD) - Thu 02/07 12:15am",
+        "MLB 09 : Rays at Royals (Home coverage from ROYL) - Thu 02/07 12:40am",
+        "MLB 09 : Rays at Royals (Away coverage from RAYS) - Thu 02/07 12:40am",
+        "MLB 10 : Reds at Brewers (Home coverage from ESPN) - Thu 02/07 01:10am",
+        "MLB 10 : Reds at Brewers (Away coverage from ESPN) - Thu 02/07 01:10am",
+        "MLB 11 : Twins at Astros (Home coverage from SCHN) - Thu 02/07 01:10am",
+        "MLB 11 : Twins at Astros (Away coverage from MNNT) - Thu 02/07 01:10am",
+        "MLB 12 : Marlins at Rockies (Home coverage from COLR) - Thu 02/07 01:40am",
+        "MLB 12 : Marlins at Rockies (Away coverage from MIAM) - Thu 02/07 01:40am",
+        "MLB 13 : Dodgers at Athletics (Home coverage from NBCSCA) - Thu 02/07 02:40am",
+        "MLB 13 : Dodgers at Athletics (Away coverage from SNLA) - Thu 02/07 02:40am",
+        "MLB 14 : Giants at D-backs (Home coverage from ARID) - Thu 02/07 02:40am",
+        "MLB 14 : Giants at D-backs (Away coverage from NBCSBA) - Thu 02/07 02:40am"
       ],
       "sections": [],
       "events": []
@@ -1225,21 +903,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : Women's PGA Champ: Feat. Group AM (Golf) - Sun 28/06 12:00pm",
-        "Peacock 2 : Women's PGA Champ: Rd. 4 (Golf) - Sun 28/06 2:00pm",
-        "Peacock 3 : Women's PGA Champ: Feat. Group PM (Golf) - Sun 28/06 3:30pm",
-        "Peacock 1 : IMSA Watkins Glen 6 Hour (Motor Sports) - Sun 28/06 5:00pm",
-        "Peacock 4 : Away Feed: HOU at DET (MLB) - Sun 28/06 6:30pm",
-        "Peacock 5 : Home Feed: HOU at DET (MLB) - Sun 28/06 6:30pm",
-        "Peacock 6 : Athletics at Angels (MLB) - Sun 28/06 8:00pm",
-        "Peacock 7 : Athletics vs. Angels (Español) (MLB) - Sun 28/06 8:00pm",
-        "Peacock 2 : Travelers Championship: Rd. 4 (Golf) - Sun 28/06 9:00pm",
-        "Peacock 3 : MLB Sunday Stretch: 6.28.26 (MLB) - Sun 28/06 10:45pm",
-        "Peacock 1 : Yankees at Red Sox (MLB) - Mon 29/06 12:00am",
+        "Peacock 3 : Travelers Championship: Playoff (Golf) - Mon 29/06 2:00pm",
         "Peacock 1 : Away Feed: LAD at ATH (MLB) - Tue 30/06 2:30am",
         "Peacock 2 : Home Feed: LAD at ATH (MLB) - Tue 30/06 2:30am",
         "Peacock 1 : Away Feed: SF at AZ (MLB) - Wed 01/07 2:30am",
-        "Peacock 2 : Home Feed: SF at AZ (MLB) - Wed 01/07 2:30am"
+        "Peacock 2 : Home Feed: SF at AZ (MLB) - Wed 01/07 2:30am",
+        "Peacock 1 : Home Feed: DET at NYY (MLB) - Wed 01/07 6:30pm",
+        "Peacock 2 : Away Feed: DET at NYY (MLB) - Wed 01/07 6:30pm",
+        "Peacock 1 : U.S. Senior Open: Rd. 1 (Golf) - Thu 02/07 10:30pm",
+        "Peacock 2 : Home Feed: STL at ATL (MLB) - Fri 03/07 12:00am",
+        "Peacock 3 : Away Feed: STL at ATL (MLB) - Fri 03/07 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1258,9 +931,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "Super League Rugby 1 : Wakefield Trinity v Huddersfield Giants (Round 16  Betfred Super League) - Sun 28/06 3:00pm"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1270,16 +941,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: PGA Champions Tour: R3 - 20:00 28/06/2026",
-        "Sky Sport 3 - LIVE: MLC: Los Angeles v Seattle - 22:15 28/06/2026",
-        "Sky Sport 2 - LIVE: MLC: San Francisco v Washington - 02:15 29/06/2026",
         "Sky Sport 1 - LIVE: England v BLACKCAPS: 3rd Test D5 - 10:15 29/06/2026",
         "Sky Sport 1 UHD - LIVE: England v BLACKCAPS: 3rd Test D5 - 10:15 29/06/2026",
         "Sky Sport 2 - LIVE: CLS Ranking: D7 Aft - 11:00 29/06/2026",
+        "Sky Sport 3 - LIVE: PGA Tour: Round 4 Play Off - 14:00 29/06/2026",
         "Sky Sport 2 - LIVE: CLS Ranking: D7 Eve - 16:30 29/06/2026",
         "Sky Sport 2 - LIVE: CLS Ranking: D8 Aft - 11:00 30/06/2026",
-        "Sky Sport 1 - LIVE: ICC T20WC: Semifinal 1 - 14:00 30/06/2026",
-        "Sky Sport 1 UHD - LIVE: ICC T20WC: Semifinal 1 - 14:00 30/06/2026",
+        "Sky Sport 1 - LIVE: ICC T20WC: Australia v Windies SF1 - 14:00 30/06/2026",
+        "Sky Sport 1 UHD - LIVE: ICC T20WC: Australia v Windies SF1 - 14:00 30/06/2026",
         "Sky Sport 2 - LIVE: CLS Ranking: D8 Eve - 16:30 30/06/2026",
         "Sky Sport 2 - LIVE: Rapid League: Sharks v Rams - 07:00 01/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Sharks v Rams - 08:00 01/07/2026",
@@ -1289,33 +958,33 @@
         "Sky Sport 1 UHD - LIVE: England v India: 1st T20 - 17:00 01/07/2026",
         "Sky Sport 1 - LIVE: MLC: Los Angeles v Washington - 02:15 02/07/2026",
         "Sky Sport 1 UHD - LIVE: MLC: Los Angeles v Washington - 02:15 02/07/2026",
-        "Sky Sport 4 - LIVE: JWC: Wales v Uruguay - 09:50 02/07/2026",
         "Sky Sport 3 - LIVE: JWC: France v Sapin - 09:50 02/07/2026",
+        "Sky Sport 4 - LIVE: JWC: Wales v Uruguay - 09:50 02/07/2026",
         "Sky Sport Select - LIVE: AFL: Geelong Cats v Brisbane Lions - 10:25 02/07/2026",
         "Sky Sport 1 - LIVE: NRLW: Sharks v Knights R1 - 10:30 02/07/2026",
         "Sky Sport 1 UHD - LIVE: NRLW: Sharks v Knights R1 - 10:30 02/07/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 1 - 11:30 02/07/2026",
-        "Sky Sport 4 - LIVE: JWC: Argentina v Ireland - 12:20 02/07/2026",
         "Sky Sport 3 - LIVE: JWC: Australia v Fiji - 12:20 02/07/2026",
+        "Sky Sport 4 - LIVE: JWC: Argentina v Ireland - 12:20 02/07/2026",
+        "Sky Sport 3 - LIVE: JWC: England v USA - 14:50 02/07/2026",
         "Sky Sport 1 - LIVE: JWC: New Zealand v Scotland - 14:50 02/07/2026",
         "Sky Sport 1 UHD - LIVE: JWC: New Zealand v Scotland - 14:50 02/07/2026",
-        "Sky Sport 3 - LIVE: JWC: England v USA - 14:50 02/07/2026",
         "Sky Sport 6 - LIVE: Us Senior Open Round 1 - Morning - 16:00 02/07/2026",
         "Sky Sport 7 - LIVE: CLS Ranking: D10 Eve - 16:30 02/07/2026",
-        "Sky Sport 4 - LIVE: JWC: Italy v Japan - 17:20 02/07/2026",
         "Sky Sport 3 - LIVE: JWC: South Africa v Georgia - 17:20 02/07/2026",
-        "Sky Sport 1 - LIVE: ICC T20WC: Semifinal 2 - 18:00 02/07/2026",
-        "Sky Sport 1 UHD - LIVE: ICC T20WC: Semifinal 2 - 18:00 02/07/2026",
+        "Sky Sport 4 - LIVE: JWC: Italy v Japan - 17:20 02/07/2026",
         "Sky Sport Select - LIVE: The F1 Show: British Grand Prix - 18:00 02/07/2026",
+        "Sky Sport 1 - LIVE: ICC T20WC: England v S Africa SF2 - 18:00 02/07/2026",
+        "Sky Sport 1 UHD - LIVE: ICC T20WC: England v S Africa SF2 - 18:00 02/07/2026",
         "Sky Sport 3 - LIVE: Us Senior Open Round 1 - Afternoon - 22:30 02/07/2026",
         "Sky Sport 9 - LIVE: AFL: Geelong Cats v Brisbane Lions - 00:00 03/07/2026",
         "Sky Sport 1 - LIVE: MLC: Seattle v New York - 02:15 03/07/2026",
         "Sky Sport 1 UHD - LIVE: MLC: Seattle v New York - 02:15 03/07/2026",
         "Sky Sport 5 - LIVE: FIA Formula E: Rd12 P1 - 08:40 03/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd5 Practice - 08:50 03/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd7 Practice - 10:00 03/07/2026",
         "Sky Sport 1 - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd7 Practice - 10:00 03/07/2026",
         "Sky Sport 5 - LIVE: AFL:Sydney Swans v Western Bulldog - 10:30 03/07/2026",
         "Sky Sport 3 - LIVE: CLS Ranking: D11 Aft - 11:00 03/07/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 11:30 03/07/2026",
@@ -1326,13 +995,12 @@
         "Sky Sport 5 - LIVE: T20 Blast: Outlaws v Lightning - 18:15 03/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 21:00 03/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 21:00 03/07/2026",
-        "Sky Sport 1 - LIVE: SRA: Manawa v Matatu - 01:00 04/07/2026",
-        "Sky Sport 1 UHD - LIVE: SRA: Manawa v Matatu - 01:00 04/07/2026",
         "Sky Sport 5 - LIVE: FIA Formula E: Rd12 P2 - 01:25 04/07/2026",
         "Sky Sport 5 - LIVE: MLC: Los Angeles v Texas - 02:20 04/07/2026",
-        "Sky Sport 1 - LIVE: SRA: Poua v Blues - 03:15 04/07/2026",
-        "Sky Sport 1 UHD - LIVE: SRA: Poua v Blues - 03:15 04/07/2026",
+        "Sky Sport Select - LIVE: NRLW: Titans v Roosters R1 - 03:30 04/07/2026",
         "Sky Sport 4 - LIVE: FIA Formula E: Rd12 Qualifying - 03:30 04/07/2026",
+        "Sky Sport 1 - LIVE: SRA: Manawa v Matatu - 03:45 04/07/2026",
+        "Sky Sport 1 UHD - LIVE: SRA: Manawa v Matatu - 03:45 04/07/2026",
         "Sky Sport 3 - LIVE: Rapid League: Whai v Tuatara - 04:00 04/07/2026",
         "Sky Sport 6 - LIVE: AFL: Hawthorn v Melbourne - 04:00 04/07/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Whai v Tuatara - 05:00 04/07/2026",
@@ -1352,13 +1020,35 @@
         "Sky Sport 6 - LIVE: CLS Ranking: D12 Aft - 11:00 04/07/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 3 - 12:00 04/07/2026",
         "Sky Sport 7 - LIVE: FIA Formula 2: Rd7 Sprint Race - 13:40 04/07/2026",
+        "Sky Sport 3 - LIVE: England v India: 2nd T20 - 14:00 04/07/2026",
         "Sky Sport 1 - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
         "Sky Sport 1 UHD - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
-        "Sky Sport 3 - LIVE: England v India: 2nd T20 - 14:00 04/07/2026",
         "Sky Sport 7 - LIVE: Indycar: Indy 200 : P 2 - 15:00 04/07/2026",
         "Sky Sport 4 - LIVE: Tour de France Stage 1 - 15:55 04/07/2026",
         "Sky Sport 1 - LIVE: NC: South Africa v England - 16:20 04/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: South Africa v England - 16:20 04/07/2026"
+        "Sky Sport 1 UHD - LIVE: NC: South Africa v England - 16:20 04/07/2026",
+        "Sky Sport 6 - LIVE: CLS Ranking: D12 Eve - 16:30 04/07/2026",
+        "Sky Sport 5 - LIVE: Us Senior Open Round 3 - 17:00 04/07/2026",
+        "Sky Sport Select - LIVE: NC: Uruguay v Georgia - 17:50 04/07/2026",
+        "Sky Sport 7 - LIVE: Ted's Notebook: Britain Quali - 18:45 04/07/2026",
+        "Sky Sport 9 - LIVE: T20 Blast: Gloucester v Surrey - 18:45 04/07/2026",
+        "Sky Sport 7 - LIVE: Indycar: Indy 200 : Qual - 19:30 04/07/2026",
+        "Sky Sport Select - LIVE: NC: Samoa v Hong Kong - 20:00 04/07/2026",
+        "Sky Sport 1 - LIVE: NC: Argentina v Scotland - 20:00 04/07/2026",
+        "Sky Sport 1 UHD - LIVE: NC: Argentina v Scotland - 20:00 04/07/2026",
+        "Sky Sport Select - LIVE: MLC: Washington v San Francisco - 22:15 04/07/2026",
+        "Sky Sport 3 - LIVE: NC: Chile v Romania - 22:50 04/07/2026",
+        "Sky Sport 4 - LIVE: FIA Formula E: Rd13 P3 - 01:25 05/07/2026",
+        "Sky Sport 6 - LIVE: NC: Canada v Spain - 01:50 05/07/2026",
+        "Sky Sport 7 - LIVE: NC: USA v Portugal - 01:50 05/07/2026",
+        "Sky Sport Select - LIVE: MLC: Los Angeles v New York - 02:15 05/07/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Giants v Bulls - 03:00 05/07/2026",
+        "Sky Sport 5 - LIVE: Super W: Brumbies v Force - 03:00 05/07/2026",
+        "Sky Sport 4 - LIVE: FIA Formula E: Rd13 Qualifying - 03:30 05/07/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Giants v Bulls - 04:00 05/07/2026",
+        "Sky Sport 1 - LIVE: NRLW: Warriors v Bulldogs R1 - 04:00 05/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRLW: Warriors v Bulldogs R1 - 04:00 05/07/2026",
+        "Sky Sport 5 - LIVE: Super W: Waratahs v Reds - 05:00 05/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1378,9 +1068,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Texas @ Toronto - Sun 28/06 6:00pm",
-        "Sportsnet 03 : Chicago Cubs @ Milwaukee - Sun 28/06 7:00pm",
-        "Sportsnet 01 : Los Angeles Dodgers @ San Diego - Sun 28/06 9:00pm",
         "Sportsnet 01 : Sportsnet Central: June 28 - Mon 29/06 10:00am",
         "Sportsnet 02 : Halford & Brough: June 29 - Mon 29/06 2:00pm",
         "Sportsnet 01 : The JD Bunkis Podcast: June 29 - Mon 29/06 2:00pm",
@@ -1401,7 +1088,11 @@
         "Sportsnet 02 : Blair & Barker: June 30 - Tue 30/06 9:00pm",
         "Sportsnet 03 : The FAN Pregame: June 30 - Tue 30/06 11:00pm",
         "Sportsnet 04 : New York Mets @ Toronto - Tue 30/06 11:30pm",
-        "Sportsnet 01 : Detroit @ New York Yankees - Wed 01/07 12:00am"
+        "Sportsnet 01 : Detroit @ New York Yankees - Wed 01/07 12:00am",
+        "Sportsnet 02 : Los Angeles Dodgers @ Athletics - Wed 01/07 2:30am",
+        "Sportsnet 03 : The Ultimate Fighter: Team Cormier vs. Team Bisping - Eps. 4 - Wed 01/07 3:00am",
+        "Sportsnet 01 : Sportsnet Central: June 30 - Wed 01/07 10:00am",
+        "Sportsnet 01 : Halford & Brough: July 1 - Wed 01/07 2:00pm"
       ],
       "sections": [],
       "events": []
@@ -1412,10 +1103,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Race Day Part 2: Portugal - MXGP 2026 - Sun 28/06 4:00pm",
         "Stan 14 : Bencic v Stojsavljevic - Women's Singles R1 Wimbledon 2026 - Mon 29/06 11:00am",
+        "Stan 01 : Courtside: Day 1 - Wimbledon 2026 - Mon 29/06 11:00am",
         "Stan 04 : Cristian v Jovic - Women's Singles R1 Wimbledon 2026 - Mon 29/06 11:00am",
-        "Stan 01 : Day 1 - Wimbledon 2026 - Mon 29/06 11:00am",
         "Stan 10 : Jodar v Gill - Men's Singles R1 Wimbledon 2026 - Mon 29/06 11:00am",
         "Stan 02 : Kovacevic v Van De Zandschulp - Men's Singles R1 Wimbledon 2026 - Mon 29/06 11:00am",
         "Stan 07 : Mochizuki v Basing - Men's Singles R1 Wimbledon 2026 - Mon 29/06 11:00am",
@@ -1447,16 +1137,16 @@
         "Stan 26 : Ugo Carabelli v Merida - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:00pm",
         "Stan 33 : Sinner v Kecmanovic - Men's Singles R1 Wimbledon 2026 - Mon 29/06 1:30pm",
         "Stan 34 : Walton v Prizmic - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:00pm",
-        "Stan 40 : Agustin Tirante v Marozsan - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 36 : Auger-Aliassime v Shevchenko - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 44 : Bautista Agut v Fonseca - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 38 : Cilic v Medvedev - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
-        "Stan 39 : Daniel Vallejo v Mejia - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
-        "Stan 35 : Davidovich Fokina v Manuel Cerundolo - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
+        "Stan 35 : Davidovich Fokina v Cerundolo - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 37 : Jacquemot v Osaka - Women's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 42 : Muchova v Zakharova - Women's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 41 : Quinn v Darderi - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 43 : Struff v Baez - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
+        "Stan 40 : Tirante v Marozsan - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
+        "Stan 39 : Vallejo v Mejia - Men's Singles R1 Wimbledon 2026 - Mon 29/06 2:30pm",
         "Stan 46 : Liu v Vandewinkel - Women's Singles R1 Wimbledon 2026 - Mon 29/06 3:00pm",
         "Stan 48 : Oliynykova v Kessler - Women's Singles R1 Wimbledon 2026 - Mon 29/06 3:00pm",
         "Stan 49 : Stearns v Bartunkova - Women's Singles R1 Wimbledon 2026 - Mon 29/06 3:00pm",
@@ -1468,6 +1158,9 @@
         "Stan 58 : Alexandrova v Udvardy - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 55 : Fernandez v Tjen - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 57 : Frech v Kalinskaya - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
+        "Stan 60 : Gasanova v Arango - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
+        "Stan 59 : Jones v Parry - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
+        "Stan 61 : Korpatsch v Gauff - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 56 : Krejcikova v Klugman - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 54 : Linette v Andreeva - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
         "Stan 53 : Siniakova v Zheng - Women's Singles R1 Wimbledon 2026 - Mon 29/06 4:30pm",
@@ -1541,15 +1234,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 04 : PGA TOUR Live: Travelers Championship - Final Round: Main Feed - Sun 28/06 2:00pm",
-        "TSN 05 : PGA TOUR Live: Travelers Championship - Final Round: Featured Groups - Sun 28/06 2:15pm",
-        "TSN 09 : PGA TOUR Live: Travelers Championship - Final Round: Marquee Group - Sun 28/06 3:45pm",
-        "TSN 06 : Athletes Unlimited Softball League: Cascade vs. Volts - Sun 28/06 6:00pm",
-        "TSN 01 : NASCAR Cup Series On-Board Camera: Toyota/Save Mart 350 - Kyle Larson - Sun 28/06 8:30pm",
-        "TSN 02 : NASCAR Cup Series On-Board Camera: Toyota/Save Mart 350 - Shane van Gisbergen - Sun 28/06 8:30pm",
-        "TSN 08 : Banana Ball: Bananas vs. Party Animals - Sun 28/06 9:00pm",
-        "TSN 07 : Premier Lacrosse League: Philadelphia Waterdogs vs. Utah Archers - Sun 28/06 9:00pm",
-        "TSN 06 : Premier Lacrosse League: Carolina Chaos vs. California Redwoods - Sun 28/06 11:30pm"
+        "TSN 01 : Wimbledon: Day #1 - Court TBD - Mon 29/06 11:00am",
+        "TSN 02 : Wimbledon: Day #1 - Court TBD - Mon 29/06 1:00pm",
+        "TSN 03 : Wimbledon: Day #1 - Court TBD - Mon 29/06 1:30pm",
+        "TSN 05 : Japanese Feed: FIFA World Cup 2026 - Round of 32: Brazil vs. Japan - Mon 29/06 5:45pm",
+        "TSN 04 : Portuguese Feed: FIFA World Cup 2026 - Round of 32: Brazil vs. Japan - Mon 29/06 5:45pm",
+        "TSN 06 : German Feed: FIFA World Cup 2026 - Round of 32: Germany vs. TBD - Mon 29/06 9:15pm",
+        "TSN 04 : Athletes Unlimited Softball League: Blaze vs. Spark - Tue 30/06 12:00am",
+        "TSN 07 : Arabic Feed: FIFA World Cup 2026 - Round of 32: Netherlands vs. Morocco - Tue 30/06 1:45am",
+        "TSN 05 : Dutch Feed: FIFA World Cup 2026 - Round of 32: Netherlands vs. Morocco - Tue 30/06 1:45am"
       ],
       "sections": [],
       "events": []
