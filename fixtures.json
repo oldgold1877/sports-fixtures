@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T11:00:47.045939+00:00",
+  "scraped_at": "2026-06-29T11:54:47.876366+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,39 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Monday 29 June 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 18:00-20:00 - 2026 FIFA World Cup:  Brazil vs Japan 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 18:00-20:00 - 2026 FIFA World Cup:  Brazil vs Japan 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 18:00-20:00 - 2026 FIFA World Cup:  Brazil vs Japan 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 21:30-23:30 - 2026 FIFA World Cup:  Germany vs Paraguay 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 21:30-23:30 - 2026 FIFA World Cup:  Germany vs Paraguay 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 21:30-23:30 - 2026 FIFA World Cup:  Germany vs Paraguay 720p"
+            }
+          ]
+        },
         {
           "section": "World Cup",
           "entries": [
@@ -483,7 +516,7 @@
         "Sky Sports UHD 1 - Live: Test Cricket - 3rd Test, Day 5: England v New Zealand - Mon 29/06 10:15am",
         "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Spa: Highlights - Mon 29/06 10:00pm",
         "Sky Sports Main Event UHD - World Cup Matchday - Tue 30/06 1:00pm",
-        "Sky Sports Main Event UHD - Live: ICC Women's T20 World Cup - Semi-Final: TBA v TBA - Tue 30/06 2:00pm"
+        "Sky Sports Main Event UHD - Live: ICC Women's T20 World Cup - Semi-Final: Australia v West Indies - Tue 30/06 2:00pm"
       ],
       "sections": [],
       "events": []
@@ -494,18 +527,17 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC RED BUTTON 14 - : Venezuelans Search Through Rubble for Loved Ones - Mon 29/06 6:18am",
-        "BBC RED BUTTON 15 - : Hinge Boss on Her Green and Red Flags in Life - Mon 29/06 6:30am",
-        "BBC RED BUTTON 14 - : Fossil Identified as First Dinosaur Ever Found in Antarctica - Mon 29/06 6:36am",
         "BBC RED BUTTON 14 - : Venezuelans Displaced in the Wake of Twin Earthquakes - Mon 29/06 7:02am",
         "BBC RED BUTTON 14 - : Barbie Exhibition to Open in Scotland for the First Time - Mon 29/06 7:41am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 8:55am",
         "BBC RED BUTTON 14 - : Conservative Party Leader Speech on Economy - Mon 29/06 9:49am",
         "BBC RED BUTTON 15 - : Andy Burnham's Plans for the Country - Mon 29/06 9:59am",
-        "BBC RED BUTTON 01 - : No.2 Court: Pegula v Vidmanova - Mon 29/06 10:44am",
-        "BBC RED BUTTON 02 - : No.3 Court: Jodar v Gill - Mon 29/06 10:45am",
+        "BBC RED BUTTON 01 - : No.2 Court:  Zheng v GB's Cameron Norrie - Mon 29/06 10:44am",
+        "BBC RED BUTTON 02 - : No.3 Court: Jodar v GB's Gill - Mon 29/06 10:45am",
         "BBC RED BUTTON 03 - : Court 12: Sawangkaew v Chwalinska - Mon 29/06 10:45am",
         "BBC RED BUTTON 00 - : Extra: Day 1 - Mon 29/06 11:00am",
+        "BBC RED BUTTON 14 - : ICC EVENT - Mon 29/06 11:57am",
+        "BBC RED BUTTON 16 - : Dame Penelope Keith Dies Aged 86 - Mon 29/06 12:16pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Mon 29/06 9:00pm",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 30/06 12:00am",
         "BBC RED BUTTON 00 - : Northern Ireland: Wild Stories - Tue 30/06 6:00am"
