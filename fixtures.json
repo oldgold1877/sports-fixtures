@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-30T13:08:43.857366+00:00",
+  "scraped_at": "2026-06-30T17:00:48.701896+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,7 +9,7 @@
       "fixtures": [],
       "sections": [
         {
-          "section": "World Cup",
+          "section": "Sports Scene",
           "entries": [
             {
               "type": "date",
@@ -17,15 +17,44 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+              "text": "SPORTS SCENE 03 - 18:00-20:00 - 2026 FIFA World Cup: Côte d'Ivoire vs Norway 1080p"
             },
             {
               "type": "fixture",
-              "text": "World Cup 02 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+              "text": "SPORTS SCENE 04 - 18:00-20:00 - 2026 FIFA World Cup: Côte d'Ivoire vs Norway 4K"
             },
             {
               "type": "fixture",
-              "text": "World Cup 03 - Knockout: Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
+              "text": "SPORTS SCENE 10 - 18:00-20:00 - 2026 FIFA World Cup: Côte d'Ivoire vs Norway 720p"
+            },
+            {
+              "type": "date",
+              "text": "Wednesday 1 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 01:00-03:00 - AEW Dynamite 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 02:00-04:00 - 2026 FIFA World Cup: Mexico vs Ecuador 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 02:00-04:00 - 2026 FIFA World Cup: Mexico vs Ecuador 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 02:00-04:00 - 2026 FIFA World Cup: Mexico vs Ecuador 720p"
+            }
+          ]
+        },
+        {
+          "section": "World Cup",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 30 June 2026"
             },
             {
               "type": "fixture",
@@ -54,6 +83,18 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Knockout: Mexico v Ecuador - 01 Jul 02:00 // 30 Jun 21:00 ET // 30 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Knockout: England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Knockout: England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
             }
           ]
         },
@@ -63,22 +104,6 @@
             {
               "type": "date",
               "text": "Tuesday 30 June 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 06 (BBC UHD): Côte d'Ivoire v Norway - 30 Jun 18:00 // 30 Jun 13:00 ET // 30 Jun 10:00 PT"
             },
             {
               "type": "fixture",
@@ -107,6 +132,22 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Mexico v Ecuador - 01 Jul 02:00 // 30 Jun 21:00 ET // 30 Jun 18:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): England v Congo DR - 01 Jul 17:00 // 01 Jul 12:00 ET // 01 Jul 09:00 PT"
             }
           ]
         }
@@ -536,7 +577,9 @@
         "BBC Events 17 - Wimbledon: Court 10 - 30/06/2026 12:12 - 22:00",
         "BBC Events 18 - Wimbledon: No.1 Court - 30/06/2026 12:36 - 22:00",
         "BBC Events 19 - Wimbledon: Centre Court - 30/06/2026 13:17 - 23:00",
-        "BBC Events 20 - Wimbledon: Day 2 - Inclusive Feed - 30/06/2026 13:23 - 23:00"
+        "BBC Events 20 - Wimbledon: Day 2 - Inclusive Feed - 30/06/2026 13:23 - 23:00",
+        "BBC Events 21 - FIFA World Cup 2026: Ivory Coast v Norway – Watch with 5 Live - 30/06/2026 16:40 - 20:30",
+        "BBC Events 22 - FIFA World Cup 2026: Ivory Coast v Norway - 30/06/2026 17:15 - 20:45"
       ],
       "sections": [],
       "events": []
@@ -935,7 +978,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: CLS Ranking: D8 Eve - 16:30 30/06/2026",
         "Sky Sport 2 - LIVE: Rapid League: Sharks v Rams - 07:00 01/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Sharks v Rams - 08:00 01/07/2026",
         "Sky Sport 1 - LIVE: CLS Ranking: D9 Aft - 11:30 01/07/2026",
@@ -1070,9 +1112,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Halford & Brough: June 30 - Tue 30/06 2:00pm",
-        "Sportsnet 02 : The JD Bunkis Podcast: June 30 - Tue 30/06 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: June 30 - Tue 30/06 3:00pm",
         "Sportsnet 04 : The FAN Hockey Show: June 30 - Tue 30/06 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: June 30 - Tue 30/06 8:00pm",
         "Sportsnet 02 : Blair & Barker: June 30 - Tue 30/06 9:00pm",
@@ -1094,7 +1133,8 @@
         "Sportsnet 01 : Sportsnet Central: July 1 - Thu 02/07 10:00am",
         "Sportsnet 02 : Women's NRL - Sharks vs. Knights - Thu 02/07 10:35am",
         "Sportsnet 01 : Halford & Brough: July 2 - Thu 02/07 2:00pm",
-        "Sportsnet 03 : The JD Bunkis Podcast: July 2 - Thu 02/07 2:00pm"
+        "Sportsnet 03 : The JD Bunkis Podcast: July 2 - Thu 02/07 2:00pm",
+        "Sportsnet 04 : Jays Talk Plus: July 2 - Thu 02/07 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -1105,69 +1145,39 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Begu v Swan - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:55am",
-        "Stan 06 : Royer v Wendelken - Men's Singles R1 Wimbledon 2026 - Tue 30/06 10:55am",
-        "Stan 16 : Anisimova v Gjorcheska - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:55am",
-        "Stan 15 : Boulter v Caterina Grant - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:55am",
-        "Stan 14 : Paolini v Montgomery - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:56am",
-        "Stan 12 : Kalinina v Rakhimova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:57am",
-        "Stan 05 : Sakkari v Tauson - Women's Singles R1 Wimbledon 2026 - Tue 30/06 10:58am",
-        "Stan 01 : Courtside: Day 2 - Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 13 : Day v Keys - Women's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 03 : Gibson v Bouzkova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 08 : Hanfmann v Mpetshi Perricard - Men's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 10 : Majchrzak v Tabilo - Men's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 09 : Mannarino v Droguet - Men's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 02 : Marcinko v Kenin - Women's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 07 : Shimabukuro v Faria - Men's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 11 : Valentova v Pliskova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 11:00am",
-        "Stan 21 : Arnaldi v Halys - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 18 : Dzumhur v Fery - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 20 : Jacquet v Gaubas - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 23 : Kokkinakis v Bublik - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 17 : Llamas Ruiz v Svajda - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 19 : Michelsen v Fearnley - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 62 : Nakashima v Pinnington Jones - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 25 : Virtanen v Shelton - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 61 : de Jong v Hijikata - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 24 : de Minaur v Andres Burruchaga - Men's Singles R1 Wimbledon 2026 - Tue 30/06 12:30pm",
-        "Stan 29 : Birrell v Korneeva - Women's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 30 : Bonzi v Diallo - Men's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 32 : Fritz v Lajovic - Men's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 28 : Haddad Maia v Timofeeva - Women's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 26 : Humbert v Bergs - Men's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 27 : Munar v Cerundolo - Men's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 31 : Shymanovich v Golubic - Women's Singles R1 Wimbledon 2026 - Tue 30/06 1:00pm",
-        "Stan 33 : Townsend v Swiatek - Women's Singles R1 Wimbledon 2026 - Tue 30/06 1:30pm",
-        "Stan 39 : Collignon v Fils - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 35 : Eala v Zarazua - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 42 : Erjavec v Jeanjean - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 22 : Khachanov v Harris - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 38 : Kypson v McDonald - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 36 : Mensik v Samuel - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 41 : Moutet v Giron - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 40 : Navarro v Badosa - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 43 : Selekhmeteva v Kraus - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 45 : Sonego v Martin Etcheverry - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 44 : Starodubtseva v Blinkova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 37 : Svitolina v Snigur - Women's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 34 : Sweeny v Dimitrov - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:30pm",
-        "Stan 50 : Blockx v Zverev - Men's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
-        "Stan 49 : Boisson v Rybakina - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
-        "Stan 46 : Cirstea v Bejlek - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
-        "Stan 47 : Mertens v Siegemund - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
-        "Stan 48 : Ruse v McNally - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
+        "Stan 22 : Khachanov v Harris - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:34pm",
+        "Stan 36 : Mensik v Samuel - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:34pm",
+        "Stan 38 : Kypson v McDonald - Men's Singles R1 Wimbledon 2026 - Tue 30/06 2:43pm",
+        "Stan 42 : Erjavec v Jeanjean - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:00pm",
+        "Stan 50 : Blockx v Zverev - Men's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 49 : Boisson v Rybakina - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 35 : Eala v Zarazua - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 41 : Moutet v Giron - Men's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 48 : Ruse v McNally - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 45 : Sonego v Martin Etcheverry - Men's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 44 : Starodubtseva v Blinkova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 3:30pm",
+        "Stan 39 : Collignon v Fils - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
         "Stan 54 : Griekspoor v Duckworth - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
-        "Stan 51 : Kopriva v Choinski - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
-        "Stan 52 : Molcan v Altmaier - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
-        "Stan 55 : Navone v Cobolli - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
-        "Stan 53 : Tiafoe v Atmane - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
-        "Stan 58 : Kudermetova v Samsonova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
-        "Stan 57 : Lehecka v Popyrin - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
-        "Stan 60 : Osorio v Waltert - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
-        "Stan 59 : Shnaider v Lys - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
-        "Stan 56 : Tomljanovic v Bolkvadze - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
-        "Stan 63 : Wawrinka v Berrettini - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
+        "Stan 40 : Navarro v Badosa - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
+        "Stan 43 : Selekhmeteva v Kraus - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:00pm",
+        "Stan 37 : Svitolina v Snigur - Women's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
+        "Stan 34 : Sweeny v Dimitrov - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
+        "Stan 53 : Tiafoe v Atmane - Men's Singles R1 Wimbledon 2026 - Tue 30/06 4:30pm",
+        "Stan 46 : Cirstea v Bejlek - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 58 : Kudermetova v Samsonova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 47 : Mertens v Siegemund - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 60 : Osorio v Waltert - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 02 : Podoroska v Kostyuk - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 56 : Tomljanovic v Bolkvadze - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 01 : Williams v Joint - Women's Singles R1 Wimbledon 2026 - Tue 30/06 5:00pm",
+        "Stan 52 : Molcan v Altmaier - Men's Singles R1 Wimbledon 2026 - Tue 30/06 5:30pm",
+        "Stan 55 : Navone v Cobolli - Men's Singles R1 Wimbledon 2026 - Tue 30/06 5:30pm",
+        "Stan 63 : Wawrinka v Berrettini - Men's Singles R1 Wimbledon 2026 - Tue 30/06 5:30pm",
+        "Stan 51 : Kopriva v Choinski - Men's Singles R1 Wimbledon 2026 - Tue 30/06 6:30pm",
+        "Stan 57 : Lehecka v Popyrin - Men's Singles R1 Wimbledon 2026 - Tue 30/06 6:30pm",
+        "Stan 03 : Seidel v Noskova - Women's Singles R1 Wimbledon 2026 - Tue 30/06 6:30pm",
+        "Stan 59 : Shnaider v Lys - Women's Singles R1 Wimbledon 2026 - Tue 30/06 6:30pm",
+        "Stan 04 : Krueger v Vekic - Women's Singles R1 Wimbledon 2026 - Tue 30/06 7:00pm",
         "Stan 01 : Courtside: Day 3 - Wimbledon 2026 - Wed 01/07 11:00am",
         "Stan 01 : France v Spain - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
         "Stan 02 : Wales v Uruguay - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
