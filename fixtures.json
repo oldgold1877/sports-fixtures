@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T17:00:53.583757+00:00",
+  "scraped_at": "2026-07-02T18:25:39.817661+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -103,6 +103,18 @@
             {
               "type": "fixture",
               "text": "World Cup 03 - Knockout: Switzerland v Algeria - 03 Jul 04:00 // 02 Jul 23:00 ET // 02 Jul 20:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 01 - Knockout: Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 02 - Knockout: Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
             }
           ]
         },
@@ -164,6 +176,22 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 06 (BBC UHD): Switzerland v Algeria - 03 Jul 04:00 // 02 Jul 23:00 ET // 02 Jul 20:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 (Fox UHD): Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 (TSN UHD): Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 (NowHK UHD 1): Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 (BBC UHD): Australia v Egypt - 03 Jul 19:00 // 03 Jul 14:00 ET // 03 Jul 11:00 PT"
             }
           ]
         }
@@ -977,6 +1005,13 @@
           "channels": []
         },
         {
+          "sport": "BASKETBALL",
+          "time": "00:30",
+          "name": "COLOMBIA - CHILE",
+          "datetime": "2026-07-04 00:30:00",
+          "channels": []
+        },
+        {
           "sport": "EQUESTRIAN",
           "time": "18:00",
           "name": "SARATOGA LIVE",
@@ -1754,7 +1789,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: July 2 - Thu 02/07 5:00pm",
         "Sportsnet 05 : Pittsburgh @ Philadelphia - Thu 02/07 5:30pm",
         "Sportsnet 03 : Cincinnati @ Milwaukee - Thu 02/07 7:00pm",
         "Sportsnet 06 : Real Kyper & Bourne: July 2 - Thu 02/07 7:00pm",
@@ -1787,41 +1821,26 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 06 : New Zealand v Scotland - Junior World Championship Round 2 2026 - Thu 02/07 2:49pm",
-        "Stan 07 : England v USA - Junior World Championship Round 2 2026 - Thu 02/07 2:51pm",
-        "Stan 25 : Fearnley v Munar - Men's Singles R2 Wimbledon 2026 - Thu 02/07 2:56pm",
-        "Stan 54 : Anisimova v Kenin - Women's Singles R2 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 42 : Arends/Pel v Griekspoor/Van De Zandschulp - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 46 : Dudeney/Xu v Hsieh/Wang - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 48 : Kempen/Panova v Jovic/Linette - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 50 : Royer v Zverev - Men's Singles R2 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 44 : Burruchaga/Tirante v Collignon/Prizmic - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 3:00pm",
-        "Stan 57 : Berrettini v Fils - Men's Singles R2 Wimbledon 2026 - Thu 02/07 3:30pm",
-        "Stan 53 : Dart/Lumsden v Sutjiadi/Tjen - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 3:30pm",
-        "Stan 52 : Duckworth v Cobolli - Men's Singles R2 Wimbledon 2026 - Thu 02/07 3:30pm",
-        "Stan 59 : Neel/Olmos v Hozumi/Wu - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 3:30pm",
-        "Stan 36 : Khachanov v Hanfmann - Men's Singles R2 Wimbledon 2026 - Thu 02/07 3:45pm",
-        "Stan 49 : Lehecka v Molcan - Men's Singles R2 Wimbledon 2026 - Thu 02/07 4:00pm",
-        "Stan 03 : Potapova/Tagger v Bouzkova/Sorribes Tormo - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:00pm",
-        "Stan 61 : Siniakova/Townsend v Chan/Tauson - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:00pm",
-        "Stan 56 : Rakhimova v Sakkari - Women's Singles R2 Wimbledon 2026 - Thu 02/07 4:15pm",
-        "Stan 62 : Bartunkova/Eala v Kenin/Ostapenko - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 09 : Carreno Busta/Munar v Andreozzi/Guinard - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 60 : Hanfmann/Struff v Kopriva/Pieczonka - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 10 : Mensik v Dimitrov - Men's Singles R2 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 11 : Osorio v Noskova - Women's Singles R2 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 08 : Skoch/Maleckova v Mihalikova/Nicholls - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 51 : Tiafoe v Choinski - Men's Singles R2 Wimbledon 2026 - Thu 02/07 4:30pm",
-        "Stan 12 : Alexandrova/Joint v Erjavec/Marcinko - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 5:00pm",
-        "Stan 55 : Cirstea v Birrell - Women's Singles R2 Wimbledon 2026 - Thu 02/07 5:00pm",
-        "Stan 14 : McNally v Rybakina - Women's Singles R2 Wimbledon 2026 - Thu 02/07 5:00pm",
-        "Stan 58 : Mertens v Timofeeva - Women's Singles R2 Wimbledon 2026 - Thu 02/07 5:00pm",
-        "Stan 13 : Piter/Siskova v Boulter/Watson - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 5:00pm",
-        "Stan 01 : Italy v Japan - Junior World Championship Round 2 2026 - Thu 02/07 5:20pm",
+        "Stan 08 : Skoch/Maleckova v Mihalikova/Nicholls - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 3:59pm",
+        "Stan 03 : Dart/Lumsden v Sutjiadi/Tjen - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:14pm",
+        "Stan 61 : Siniakova/Townsend v Chan/Tauson - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:28pm",
+        "Stan 15 : Brooks/Rajecki v Siegemund/Zvonareva - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 4:30pm",
+        "Stan 60 : Hanfmann/Struff v Kopriva/Pieczonka - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 5:00pm",
+        "Stan 58 : Mertens v Timofeeva - Women's Singles R2 Wimbledon 2026 - Thu 02/07 5:04pm",
+        "Stan 49 : Lehecka v Molcan - Men's Singles R2 Wimbledon 2026 - Thu 02/07 5:05pm",
+        "Stan 12 : Alexandrova/Joint v Erjavec/Marcinko - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 5:06pm",
         "Stan 02 : South Africa v Georgia - Junior World Championship Round 2 2026 - Thu 02/07 5:20pm",
-        "Stan 15 : Brooks/Rajecki v Siegemund/Zvonareva - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 5:30pm",
-        "Stan 16 : Jacquet v Bublik - Men's Singles R2 Wimbledon 2026 - Thu 02/07 6:00pm",
-        "Stan 17 : Paolini v Golubic - Women's Singles R2 Wimbledon 2026 - Thu 02/07 6:00pm",
+        "Stan 01 : Italy v Japan - Junior World Championship Round 2 2026 - Thu 02/07 5:20pm",
+        "Stan 13 : Piter/Siskova v Boulter/Watson - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 5:23pm",
+        "Stan 51 : Tiafoe v Choinski - Men's Singles R2 Wimbledon 2026 - Thu 02/07 5:29pm",
+        "Stan 10 : Mensik v Dimitrov - Men's Singles R2 Wimbledon 2026 - Thu 02/07 5:33pm",
+        "Stan 16 : Jacquet v Bublik - Men's Singles R2 Wimbledon 2026 - Thu 02/07 6:01pm",
+        "Stan 17 : Paolini v Golubic - Women's Singles R2 Wimbledon 2026 - Thu 02/07 6:01pm",
+        "Stan 55 : Cirstea v Birrell - Women's Singles R2 Wimbledon 2026 - Thu 02/07 6:04pm",
+        "Stan 14 : McNally v Rybakina - Women's Singles R2 Wimbledon 2026 - Thu 02/07 6:23pm",
+        "Stan 62 : Bartunkova/Eala v Kenin/Ostapenko - Women's Doubles R1 Wimbledon 2026 - Thu 02/07 6:34pm",
+        "Stan 11 : Osorio v Noskova - Women's Singles R2 Wimbledon 2026 - Thu 02/07 6:38pm",
+        "Stan 09 : Carreno Busta/Munar v Andreozzi/Guinard - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 7:00pm",
         "Stan 01 : Free Practice 1: Shanghai - Formula E 2025/26 - Fri 03/07 8:50am",
         "Stan 02 : Courtside: Day 5 - Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 01 : Cross-country Short Track: La Thuile - UCI Mountain Bike World Series 2026 - Fri 03/07 4:15pm",
@@ -1851,7 +1870,7 @@
         "Stan 05 : Fiji v Wales - Nations Championship Round 1 2026 - Sat 04/07 2:00pm",
         "Stan 01 : Practice 2: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 3:00pm",
         "Stan 03 : South Africa v England - Nations Championship Round 1 2026 - Sat 04/07 4:30pm",
-        "Stan 02 : Uruguay v Georgia - Nations Cup Round 1 2026 - Sat 04/07 5:50pm",
+        "Stan 02 : Uruguay v Georgia - Nations Cup Round 1 2026 - Sat 04/07 5:55pm",
         "Stan 04 : Qualifying: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 7:30pm",
         "Stan 06 : Samoa v Hong Kong China - Nations Cup Round 1 2026 - Sat 04/07 7:50pm",
         "Stan 07 : Argentina v Scotland - Nations Championship Round 1 2026 - Sat 04/07 8:00pm",
@@ -1859,9 +1878,9 @@
         "Stan 03 : Tonga v Zimbabwe - Nations Cup Round 1 2026 - Sat 04/07 11:05pm",
         "Stan 05 : North Carolina Courage vs. Seattle Reign - NWSL 2026 - Sat 04/07 11:30pm",
         "Stan 02 : San Diego Wave v Gotham FC - NWSL 2026 - Sun 05/07 1:45am",
-        "Stan 08 : Canada v Spain - Nations Cup Round 1 2026 - Sun 05/07 1:50am",
         "Stan 09 : USA v Portugal - Nations Cup Round 1 2026 - Sun 05/07 1:50am",
-        "Stan 04 : Brumbies v Force - Super Rugby Women's Round 5 2026 - Sun 05/07 5:00am",
+        "Stan 08 : Canada v Spain - Nations Cup Round 1 2026 - Sun 05/07 2:00am",
+        "Stan 04 : Brumbies v Force - Super Rugby Women's Round 5 2026 - Sun 05/07 4:30am",
         "Stan 01 : Waratahs v Reds - Super Rugby Women's Round 5 2026 - Sun 05/07 7:00am",
         "Stan 02 : Courtside: Day 7 - Wimbledon 2026 - Sun 05/07 11:00am",
         "Stan 03 : Gwangju v Ulsan - K League 2026 - Sun 05/07 11:25am",
