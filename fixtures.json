@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T09:56:28.304723+00:00",
+  "scraped_at": "2026-07-02T11:00:50.821434+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -816,6 +816,18 @@
         {
           "sport": "BASKETBALL",
           "time": "11:30",
+          "name": "AUSTRALIA - GUAM",
+          "datetime": "2026-07-03 11:30:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "11:30",
           "name": "SOUTH KOREA - CHINESE TAIPEI",
           "datetime": "2026-07-03 11:30:00",
           "channels": [
@@ -1150,7 +1162,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 02/07/2026 06:00 - 11:00",
+        "BBC Events 01 - Wimbledon: Extra - 02/07/2026 11:00 - 20:59",
         "BBC Events 02 - Wimbledon: No.2 Court - 02/07/2026 10:30 - 22:00",
         "BBC Events 03 - Wimbledon: No.3 Court - 02/07/2026 10:30 - 22:00",
         "BBC Events 04 - Wimbledon: Court 12 - 02/07/2026 10:31 - 22:00",
@@ -1616,7 +1628,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: DP World Tour: Round 1 - 11:30 02/07/2026",
         "Sky Sport 3 - LIVE: JWC: Australia v Fiji - 12:20 02/07/2026",
         "Sky Sport 4 - LIVE: JWC: Argentina v Ireland - 12:20 02/07/2026",
         "Sky Sport 3 - LIVE: JWC: England v USA - 14:50 02/07/2026",
@@ -1775,7 +1786,8 @@
         "Sportsnet 03 : Calgary Stampede: Rodeo - Fri 03/07 8:30pm",
         "Sportsnet 04 : Blair & Barker: July 3 - Fri 03/07 9:00pm",
         "Sportsnet 02 : The FAN Pregame: July 3 - Fri 03/07 11:00pm",
-        "Sportsnet 01 : Minnesota @ New York Yankees - Sat 04/07 12:00am"
+        "Sportsnet 01 : Minnesota @ New York Yankees - Sat 04/07 12:00am",
+        "Sportsnet 04 : Toronto @ Seattle - Sat 04/07 2:30am"
       ],
       "sections": [],
       "events": []
@@ -1786,8 +1798,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : France v Spain - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
         "Stan 02 : Wales v Uruguay - Junior World Championship Round 2 2026 - Thu 02/07 9:50am",
+        "Stan 01 : France v Spain - Junior World Championship Round 2 2026 - Thu 02/07 9:51am",
         "Stan 19 : Arribage/Olivetti v Luz/Matos - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 11:00am",
         "Stan 20 : Balaji/Demoliner v Gille/Verbeek - Men's Doubles R1 Wimbledon 2026 - Thu 02/07 11:00am",
         "Stan 03 : Courtside: Day 4 - Wimbledon 2026 - Thu 02/07 11:00am",
