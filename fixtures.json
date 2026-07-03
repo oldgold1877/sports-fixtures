@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T11:00:50.978258+00:00",
+  "scraped_at": "2026-07-03T12:54:49.552558+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -256,6 +256,18 @@
           "name": "OTTAWA REDBLACKS - SASKATCHEWAN ROUGHRIDERS",
           "datetime": "2026-07-04 00:30:00",
           "channels": []
+        },
+        {
+          "sport": "ATHLETICS",
+          "time": "22:00",
+          "name": "DIAMOND LEAGUE EUGENE",
+          "datetime": "2026-07-03 22:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "AUSSIE RULES",
@@ -802,18 +814,6 @@
           "name": "VANCOUVER FC - INTER TORONTO FC",
           "datetime": "2026-07-05 00:00:00",
           "channels": []
-        },
-        {
-          "sport": "ATHLETICS",
-          "time": "22:00",
-          "name": "DIAMOND LEAGUE EUGENE",
-          "datetime": "2026-07-04 22:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
         },
         {
           "sport": "AUSSIE RULES",
@@ -1458,7 +1458,11 @@
         "BBC Events 10 - Wimbledon: Court 17 - 03/07/2026 10:40 - 22:00",
         "BBC Events 11 - Wimbledon: Court 4 - 03/07/2026 10:41 - 22:00",
         "BBC Events 12 - Wimbledon: Court 5 - 03/07/2026 10:41 - 22:00",
-        "BBC Events 13 - Wimbledon: Court 6 - 03/07/2026 10:42 - 22:00"
+        "BBC Events 13 - Wimbledon: Court 6 - 03/07/2026 10:42 - 22:00",
+        "BBC Events 14 - Wimbledon: Court 11 - 03/07/2026 12:19 - 22:00",
+        "BBC Events 15 - Wimbledon: No.1 Court - 03/07/2026 12:43 - 23:00",
+        "BBC Events 16 - Wimbledon: Centre Court - 03/07/2026 13:19 - 23:00",
+        "BBC Events 17 - Wimbledon: Day 5 - Inclusive Feed - 03/07/2026 13:19 - 23:00"
       ],
       "sections": [],
       "events": []
@@ -2084,7 +2088,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Panthers vs. Rabbitohs - Fri 03/07 10:50am",
         "Sportsnet 03 : Halford & Brough: July 3 - Fri 03/07 2:00pm",
         "Sportsnet 01 : The JD Bunkis Podcast: July 3 - Fri 03/07 2:00pm",
         "Sportsnet 04 : Jays Talk Plus: July 3 - Fri 03/07 3:00pm",
@@ -2119,7 +2122,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Free Practice 1: Shanghai - Formula E 2025/26 - Fri 03/07 8:50am",
         "Stan 06 : Moutet/Reymond v Cash/Glasspool - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 10:55am",
         "Stan 09 : Arevalo/Pavic v Stevenson/Willis - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 13 : Bencic v Kalinskaya - Women's Singles R3 Wimbledon 2026 - Fri 03/07 11:00am",
@@ -2240,8 +2242,6 @@
       "fixtures": [
         "TSN 02 : Wimbledon: Day #5 - Court 17 (ft. Dabrowski Doubles) - Fri 03/07 11:00am",
         "TSN 01 : Wimbledon: Day #5 - No. 2 Court (ft. Fonseca, Pegula) - Fri 03/07 11:00am",
-        "TSN 04 : Formula 1 Driver Tracker - British Grand Prix Practice #1 - Fri 03/07 12:20pm",
-        "TSN 03 : Formula 1 Pit Lane - British Grand Prix Practice #1 - Fri 03/07 12:20pm",
         "TSN 05 : PGA TOUR Live: Main Feed + Poston/Bridgeman/Cole (4pm) - Fri 03/07 12:30pm",
         "TSN 06 : PGA TOUR Live: Featured Groups - Feat. Finau & Homa - Fri 03/07 1:00pm",
         "TSN 07 : Wimbledon: Day #5 - No. 1 Court (ft. Sinner, Gauff) - Fri 03/07 1:00pm",
