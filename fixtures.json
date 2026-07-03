@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T09:52:46.178508+00:00",
+  "scraped_at": "2026-07-03T11:00:50.978258+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -919,6 +919,10 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -929,7 +933,15 @@
           "datetime": "2026-07-04 03:30:00",
           "channels": [
             {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
               "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "NBA TV",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1033,11 +1045,43 @@
         {
           "sport": "BASKETBALL",
           "time": "20:00",
+          "name": "GOLDEN STATE WARRIORS - MILWAUKEE BUCKS",
+          "datetime": "2026-07-04 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:00",
           "name": "OKLAHOMA CITY THUNDER - MEMPHIS GRIZZLIES",
           "datetime": "2026-07-04 20:00:00",
           "channels": [
             {
               "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "22:00",
+          "name": "SACRAMENTO KINGS - BROOKLYN NETS",
+          "datetime": "2026-07-04 22:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "NBA TV",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1402,10 +1446,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 03/07/2026 06:15 - 11:00",
+        "BBC Events 01 - Wimbledon: Extra - 03/07/2026 11:00 - 20:59",
         "BBC Events 02 - Wimbledon: No.2 Court - 03/07/2026 10:24 - 22:00",
         "BBC Events 03 - Wimbledon: No.3 Court - 03/07/2026 10:25 - 22:00",
-        "BBC Events 04 - Wimbledon: Court 12 - 03/07/2026 10:26 - 22:00"
+        "BBC Events 04 - Wimbledon: Court 12 - 03/07/2026 10:26 - 22:00",
+        "BBC Events 05 - Wimbledon: Court 18 - 03/07/2026 10:28 - 22:00",
+        "BBC Events 06 - Wimbledon: Court 8 - 03/07/2026 10:32 - 22:00",
+        "BBC Events 07 - Wimbledon: Court 14 - 03/07/2026 10:33 - 22:00",
+        "BBC Events 08 - Wimbledon: Court 15 - 03/07/2026 10:33 - 22:00",
+        "BBC Events 09 - Wimbledon: Court 16 - 03/07/2026 10:34 - 22:00",
+        "BBC Events 10 - Wimbledon: Court 17 - 03/07/2026 10:40 - 22:00",
+        "BBC Events 11 - Wimbledon: Court 4 - 03/07/2026 10:41 - 22:00",
+        "BBC Events 12 - Wimbledon: Court 5 - 03/07/2026 10:41 - 22:00",
+        "BBC Events 13 - Wimbledon: Court 6 - 03/07/2026 10:42 - 22:00"
       ],
       "sections": [],
       "events": []
@@ -1510,56 +1563,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - HOKA Val d`Aran by UTMB Day 01 - 07:45 02/07/2026",
-        "DAZN GB 02 - Guinea vs. Rwanda - 10:00 02/07/2026",
-        "DAZN GB 03 - Tunisia vs. Nigeria - 13:00 02/07/2026",
-        "DAZN GB 04 - India vs. Qatar - 13:30 02/07/2026",
-        "DAZN GB 05 - Syria vs. Iraq - 14:30 02/07/2026",
-        "DAZN GB 06 - Libya vs. South Sudan - 15:00 02/07/2026",
-        "DAZN GB 07 - Egypt vs. Mali - 16:00 02/07/2026",
-        "DAZN GB 08 - Madagascar vs. Congo DR - 16:00 02/07/2026",
-        "DAZN GB 09 - Lithuania vs. Great Britain - 16:30 02/07/2026",
-        "DAZN GB 10 - Ukraine vs. Georgia - 16:30 02/07/2026",
-        "DAZN GB 11 - Romania vs. Greece - 17:00 02/07/2026",
-        "DAZN GB 12 - Jordan vs. Iran - 17:30 02/07/2026",
-        "DAZN GB 13 - Saudi Arabia vs. Lebanon - 18:00 02/07/2026",
-        "DAZN GB 14 - Spain vs. Denmark - 18:00 02/07/2026",
-        "DAZN GB 15 - Cape Verde vs. Cameroon - 18:00 02/07/2026",
-        "DAZN GB 16 - Monaco GCL Round 01 - 18:00 02/07/2026",
-        "DAZN GB 17 - EFC135: Jacobs vs. Walker - 18:00 02/07/2026",
-        "DAZN GB 18 - Mason vs. Bell: Press Conference - 19:00 02/07/2026",
-        "DAZN GB 19 - Switzerland vs. Serbia - 19:00 02/07/2026",
-        "DAZN GB 20 - Bosnia Herzegovina vs. Türkiye - 19:00 02/07/2026",
-        "DAZN GB 21 - Portugal vs. Montenegro - 19:00 02/07/2026",
-        "DAZN GB 22 - Uganda vs. Angola - 19:00 02/07/2026",
-        "DAZN GB 23 - Côte d`Ivoire vs. Senegal - 19:00 02/07/2026",
-        "DAZN GB 24 - Monaco GCL Round 02 - 20:35 02/07/2026",
-        "DAZN GB 25 - Iceland vs. Italy - 20:45 02/07/2026",
-        "DAZN GB 26 - Trout vs. Bonner: Weigh In - 00:00 03/07/2026",
-        "DAZN GB 27 - Uruguay vs. Argentina - 02:10 03/07/2026",
-        "DAZN GB 28 - Panama vs. Cuba - 02:40 03/07/2026",
-        "DAZN GB 29 - New Zealand vs. Philippines - 08:00 03/07/2026",
-        "DAZN GB 30 - Australia vs. Guam - 11:30 03/07/2026",
-        "DAZN GB 31 - Korea Republic vs. Chinese Taipei - 11:30 03/07/2026",
-        "DAZN GB 32 - HOKA Val d`Aran by UTMB Day 02 - 12:20 03/07/2026",
-        "DAZN GB 33 - China PR vs. Japan - 12:30 03/07/2026",
-        "DAZN GB 34 - Scull vs. Castillo - 16:00 03/07/2026",
-        "DAZN GB 35 - Nigeria vs. Guinea - 16:00 03/07/2026",
-        "DAZN GB 36 - Finland vs. Hungary - 16:30 03/07/2026",
-        "DAZN GB 37 - Austria vs. Poland - 17:00 03/07/2026",
-        "DAZN GB 38 - Estonia vs. Slovenia - 17:00 03/07/2026",
-        "DAZN GB 39 - Mason vs. Bell: Weigh In - 18:00 03/07/2026",
-        "DAZN GB 40 - Cyprus vs. Croatia - 18:00 03/07/2026",
-        "DAZN GB 41 - Israel vs. Germany - 18:00 03/07/2026",
-        "DAZN GB 42 - Sweden vs. Czechia - 18:00 03/07/2026",
-        "DAZN GB 43 - Netherlands vs. Latvia - 18:30 03/07/2026",
-        "DAZN GB 44 - Rwanda vs. Tunisia - 19:00 03/07/2026",
-        "DAZN GB 45 - Rally di Roma Capitale: Stage 01 - 19:05 03/07/2026",
-        "DAZN GB 46 - Belgium vs. France - 19:30 03/07/2026",
-        "DAZN GB 47 - Trout vs. Bonner - 00:00 04/07/2026",
-        "DAZN GB 48 - Canada vs. Puerto Rico - 00:10 04/07/2026",
-        "DAZN GB 49 - Colombia vs. Chile - 00:30 04/07/2026",
-        "DAZN GB 50 - Dominican Republic vs. United States - 01:00 04/07/2026"
+        "DAZN GB 01 - New Zealand vs. Philippines - 08:00 03/07/2026",
+        "DAZN GB 02 - Canada vs. Australia - 10:30 03/07/2026",
+        "DAZN GB 03 - Australia vs. Guam - 11:30 03/07/2026",
+        "DAZN GB 04 - Korea Republic vs. Chinese Taipei - 11:30 03/07/2026",
+        "DAZN GB 05 - HOKA Val d`Aran by UTMB Day 02 - 12:20 03/07/2026",
+        "DAZN GB 06 - China PR vs. Japan - 12:30 03/07/2026",
+        "DAZN GB 07 - United States vs. Puerto Rico - 13:15 03/07/2026",
+        "DAZN GB 08 - Lithuania vs. Serbia - 16:00 03/07/2026",
+        "DAZN GB 09 - Scull vs. Castillo - 16:00 03/07/2026",
+        "DAZN GB 10 - Nigeria vs. Guinea - 16:00 03/07/2026",
+        "DAZN GB 11 - Finland vs. Hungary - 16:30 03/07/2026",
+        "DAZN GB 12 - Austria vs. Poland - 17:00 03/07/2026",
+        "DAZN GB 13 - Estonia vs. Slovenia - 17:00 03/07/2026",
+        "DAZN GB 14 - Mason vs. Bell: Weigh In - 18:00 03/07/2026",
+        "DAZN GB 15 - Cyprus vs. Croatia - 18:00 03/07/2026",
+        "DAZN GB 16 - Israel vs. Germany - 18:00 03/07/2026",
+        "DAZN GB 17 - Sweden vs. Czechia - 18:00 03/07/2026",
+        "DAZN GB 18 - Netherlands vs. Latvia - 18:30 03/07/2026",
+        "DAZN GB 19 - France vs.Turkiye - 18:45 03/07/2026",
+        "DAZN GB 20 - Rwanda vs. Tunisia - 19:00 03/07/2026",
+        "DAZN GB 21 - Rally di Roma Capitale: Stage 01 - 19:05 03/07/2026",
+        "DAZN GB 22 - Belgium vs. France - 19:30 03/07/2026",
+        "DAZN GB 23 - Trout vs. Bonner - 00:00 04/07/2026",
+        "DAZN GB 24 - Canada vs. Puerto Rico - 00:10 04/07/2026",
+        "DAZN GB 25 - Colombia vs. Chile - 00:30 04/07/2026",
+        "DAZN GB 26 - Dominican Republic vs. United States - 01:00 04/07/2026",
+        "DAZN GB 27 - Bahamas vs. Jamaica - 01:00 04/07/2026",
+        "DAZN GB 28 - Venezuela vs. Brazil - 01:10 04/07/2026",
+        "DAZN GB 29 - Mexico vs. Nicaragua - 03:30 04/07/2026",
+        "DAZN GB 30 - Rally di Roma Capitale: Stage 02 - 07:05 04/07/2026",
+        "DAZN GB 31 - HOKA Val d`Aran by UTMB Day 03 - 08:00 04/07/2026",
+        "DAZN GB 32 - Beatdown MMA: Toby Tsang vs. Mashin Machine - 08:15 04/07/2026",
+        "DAZN GB 33 - Rally di Roma Capitale: Stage 03 - 08:28 04/07/2026",
+        "DAZN GB 34 - Imola Race 01 - 08:40 04/07/2026",
+        "DAZN GB 35 - Rally di Roma Capitale: Stage 04 - 10:05 04/07/2026",
+        "DAZN GB 36 - Norisring Race 01 - 10:20 04/07/2026",
+        "DAZN GB 37 - RWS: Pangtor vs. Saotho - 13:10 04/07/2026",
+        "DAZN GB 38 - Hungaroring Race 01 - 13:20 04/07/2026",
+        "DAZN GB 39 - Blue Eagles vs. Moyale Barracks - 13:30 04/07/2026",
+        "DAZN GB 40 - FCB Nyasa Big Bullets vs. Creck Sporting FC - 13:30 04/07/2026",
+        "DAZN GB 41 - Karonga United vs. Dedza Dynamos FC - 13:30 04/07/2026",
+        "DAZN GB 42 - Vallelunga Race 01 - 13:40 04/07/2026",
+        "DAZN GB 43 - France Qualifying - 13:55 04/07/2026",
+        "DAZN GB 44 - Rally di Roma Capitale: Stage 05 - 14:45 04/07/2026",
+        "DAZN GB 45 - South Sudan vs. Cape Verde - 15:00 04/07/2026",
+        "DAZN GB 46 - Hungaroring Race 01 - 15:10 04/07/2026",
+        "DAZN GB 47 - Imola Sprint Race - 15:30 04/07/2026",
+        "DAZN GB 48 - Mali vs. Uganda - 16:00 04/07/2026",
+        "DAZN GB 49 - Congo DR vs. Côte d`Ivoire - 16:00 04/07/2026",
+        "DAZN GB 50 - Rally di Roma Capitale: Stage 06 - 16:08 04/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1875,9 +1928,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: CLS Ranking: D11 Aft - 11:00 03/07/2026",
-        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 11:30 03/07/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 1: GB Practice - 12:00 03/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 3: Rd5 Qualifying - 14:00 03/07/2026",
         "Sky Sport 5 - LIVE: T20 Blast W: Blaze v Surrey - 14:25 03/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 2: Rd7 Qualifying - 14:55 03/07/2026",
@@ -1930,7 +1980,7 @@
         "Sky Sport 1 - LIVE: NC: South Africa v England - 16:30 04/07/2026",
         "Sky Sport 1 UHD - LIVE: NC: South Africa v England - 16:30 04/07/2026",
         "Sky Sport 5 - LIVE: Us Senior Open Round 3 - 17:00 04/07/2026",
-        "Sky Sport Select - LIVE: NC: Uruguay v Georgia - 17:50 04/07/2026",
+        "Sky Sport Select - LIVE: NC: Uruguay v Georgia - 17:55 04/07/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 04/07/2026",
         "Sky Sport 9 - LIVE: T20 Blast: Gloucester v Surrey - 18:45 04/07/2026",
         "Sky Sport 7 - LIVE: Ted's Notebook: Britain Quali - 18:45 04/07/2026",
@@ -2003,7 +2053,18 @@
         "Sky Sport 1 UHD - LIVE: T20 Blast W: Surrey v Warwickshire - 14:10 08/07/2026",
         "Sky Sport 3 - LIVE: CLS Ranking: D15 Eve - 16:30 08/07/2026",
         "Sky Sport 1 - LIVE: T20 Blast: Surrey v Sussex - 18:15 08/07/2026",
-        "Sky Sport 1 UHD - LIVE: T20 Blast: Surrey v Sussex - 18:15 08/07/2026"
+        "Sky Sport 1 UHD - LIVE: T20 Blast: Surrey v Sussex - 18:15 08/07/2026",
+        "Sky Sport 1 - LIVE: MLC: New York v San Francisco - 01:15 09/07/2026",
+        "Sky Sport 1 UHD - LIVE: MLC: New York v San Francisco - 01:15 09/07/2026",
+        "Sky Sport 2 - LIVE: Rapid League: Rams v Airs - 07:00 09/07/2026",
+        "Sky Sport 2 - LIVE: Sal's NBL: Rams V Airs - 08:00 09/07/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 1 - 08:00 09/07/2026",
+        "Sky Sport 1 - LIVE: NRLW: Sharks v Broncos R2 - 10:00 09/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRLW: Sharks v Broncos R2 - 10:00 09/07/2026",
+        "Sky Sport 2 - LIVE: LPGA: Round 1 - 11:00 09/07/2026",
+        "Sky Sport 7 - LIVE: AFL: Fremantle v Sydney Swans - 11:00 09/07/2026",
+        "Sky Sport 5 - LIVE: CLS Ranking: D16 Aft - 11:00 09/07/2026",
+        "Sky Sport 3 - LIVE: Tour de France Stage 6 - 11:15 09/07/2026"
       ],
       "sections": [],
       "events": []
@@ -2046,7 +2107,8 @@
         "Sportsnet 03 : Catalans Dragons vs. Toulouse Olympique - Sat 04/07 7:50pm",
         "Sportsnet 04 : California Classic - Milwaukee vs. Warriors Blue - Sat 04/07 8:00pm",
         "Sportsnet 05 : Calgary Stampede: Rodeo - Sat 04/07 8:30pm",
-        "Sportsnet 06 : Toronto @ Seattle - Sat 04/07 8:30pm"
+        "Sportsnet 06 : Toronto @ Seattle - Sat 04/07 8:30pm",
+        "Sportsnet 01 : California Classic - Brooklyn vs. Sacramento - Sat 04/07 10:00pm"
       ],
       "sections": [],
       "events": []
@@ -2058,19 +2120,19 @@
       "status": "ok",
       "fixtures": [
         "Stan 01 : Free Practice 1: Shanghai - Formula E 2025/26 - Fri 03/07 8:50am",
+        "Stan 06 : Moutet/Reymond v Cash/Glasspool - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 10:55am",
         "Stan 09 : Arevalo/Pavic v Stevenson/Willis - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 13 : Bencic v Kalinskaya - Women's Singles R3 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 08 : Buse/Trungelliti v Cabral/Miedler - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
-        "Stan 02 : Courtside: Day 5 - Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 10 : Guarachi/Rosolska v Dabrowski/Stefani - Women's Doubles R1 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 11 : Heliovaara/Patten v Kiger/Trhac - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 04 : Kessler/Shnaider v Detiuc/Khromacheva - Women's Doubles R1 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 14 : Kichenok/Ninomiya v Muhammad/Stollar - Women's Doubles R1 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 05 : Krawietz/Puetz v Burruchaga/Tirante - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 03 : Liutarevich/Reyes-Varela v Krajicek/Mektic - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
-        "Stan 06 : Moutet/Reymond v Cash/Glasspool - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 07 : Paul/Seggerman v Harrison/Skupski - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 12 : Safiullin v Fonseca - Men's Singles R3 Wimbledon 2026 - Fri 03/07 11:00am",
+        "Stan 02 : Courtside: Day 5 - Wimbledon 2026 - Fri 03/07 11:00am",
         "Stan 18 : Alexandrova v Jovic - Women's Singles R3 Wimbledon 2026 - Fri 03/07 12:30pm",
         "Stan 21 : Dolehide/Parks v Pridankina/Tang - Women's Doubles R1 Wimbledon 2026 - Fri 03/07 12:30pm",
         "Stan 16 : Griekspoor/Van De Zandschulp v Nouza/Oberleitner - Men's Doubles R2 Wimbledon 2026 - Fri 03/07 12:30pm",
@@ -2176,16 +2238,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : Wimbledon: Day #5 -  No. 2 Court (ft. - Fri 03/07 11:00am",
         "TSN 02 : Wimbledon: Day #5 - Court 17 (ft. Dabrowski Doubles) - Fri 03/07 11:00am",
+        "TSN 01 : Wimbledon: Day #5 - No. 2 Court (ft. Fonseca, Pegula) - Fri 03/07 11:00am",
         "TSN 04 : Formula 1 Driver Tracker - British Grand Prix Practice #1 - Fri 03/07 12:20pm",
         "TSN 03 : Formula 1 Pit Lane - British Grand Prix Practice #1 - Fri 03/07 12:20pm",
         "TSN 05 : PGA TOUR Live: Main Feed + Poston/Bridgeman/Cole (4pm) - Fri 03/07 12:30pm",
         "TSN 06 : PGA TOUR Live: Featured Groups - Feat. Finau & Homa - Fri 03/07 1:00pm",
-        "TSN 07 : Wimbledon: Day #5 -  No. 1 Court (ft. - Fri 03/07 1:00pm",
+        "TSN 07 : Wimbledon: Day #5 - No. 1 Court (ft. Sinner, Gauff) - Fri 03/07 1:00pm",
         "TSN 08 : PGA TOUR Live: Featured Holes - Holes 3, 12, 14, & 16 - Fri 03/07 1:15pm",
         "TSN 09 : PGA TOUR Live: Marquee Group - Feat. Fowler & Spieth - Fri 03/07 1:15pm",
-        "TSN 10 : Wimbledon: Day #5 - Centre Court (ft. - Fri 03/07 1:30pm",
+        "TSN 10 : Wimbledon: Day #5 - Centre Court (ft. Djokovic, Sabalenka, Auger-Aliassime) - Fri 03/07 1:30pm",
         "TSN 11 : Formula 3 Qualifying: Silverstone - Fri 03/07 1:58pm",
         "TSN 12 : Formula 2 Qualifying: Silverstone - Fri 03/07 2:50pm",
         "TSN 14 : Formula 1 Driver Tracker: British Grand Prix Sprint Qualifying - Fri 03/07 4:20pm",
