@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T08:19:43.666362+00:00",
+  "scraped_at": "2026-07-03T09:52:46.178508+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -919,10 +919,6 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -933,15 +929,7 @@
           "datetime": "2026-07-04 03:30:00",
           "channels": [
             {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
               "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "NBA TV",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1045,43 +1033,11 @@
         {
           "sport": "BASKETBALL",
           "time": "20:00",
-          "name": "GOLDEN STATE WARRIORS - MILWAUKEE BUCKS",
-          "datetime": "2026-07-04 20:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "20:00",
           "name": "OKLAHOMA CITY THUNDER - MEMPHIS GRIZZLIES",
           "datetime": "2026-07-04 20:00:00",
           "channels": [
             {
               "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "22:00",
-          "name": "SACRAMENTO KINGS - BROOKLYN NETS",
-          "datetime": "2026-07-04 22:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "NBA TV",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1446,7 +1402,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 03/07/2026 06:15 - 11:00"
+        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 03/07/2026 06:15 - 11:00",
+        "BBC Events 02 - Wimbledon: No.2 Court - 03/07/2026 10:24 - 22:00",
+        "BBC Events 03 - Wimbledon: No.3 Court - 03/07/2026 10:25 - 22:00",
+        "BBC Events 04 - Wimbledon: Court 12 - 03/07/2026 10:26 - 22:00"
       ],
       "sections": [],
       "events": []
@@ -1491,56 +1450,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Guinea vs. Rwanda - 10:00 02/07/2026",
-        "DAZN CA 02 - Tunisia vs. Nigeria - 13:00 02/07/2026",
-        "DAZN CA 03 - India vs. Qatar - 13:30 02/07/2026",
-        "DAZN CA 04 - Syria vs. Iraq - 14:30 02/07/2026",
-        "DAZN CA 05 - Libya vs. South Sudan - 15:00 02/07/2026",
-        "DAZN CA 06 - Egypt vs. Mali - 16:00 02/07/2026",
-        "DAZN CA 07 - Madagascar vs. Congo DR - 16:00 02/07/2026",
-        "DAZN CA 08 - Ukraine vs. Georgia - 16:30 02/07/2026",
-        "DAZN CA 09 - Lithuania vs. Great Britain - 16:30 02/07/2026",
-        "DAZN CA 10 - Romania vs. Greece - 17:00 02/07/2026",
-        "DAZN CA 11 - Jordan vs. Iran - 17:30 02/07/2026",
-        "DAZN CA 12 - Saudi Arabia vs. Lebanon - 18:00 02/07/2026",
-        "DAZN CA 13 - Spain vs. Denmark - 18:00 02/07/2026",
-        "DAZN CA 14 - Cape Verde vs. Cameroon - 18:00 02/07/2026",
-        "DAZN CA 15 - Monaco GCL Round 01 - 18:00 02/07/2026",
-        "DAZN CA 16 - EFC135: Jacobs vs. Walker - 18:00 02/07/2026",
-        "DAZN CA 17 - Switzerland vs. Serbia - 19:00 02/07/2026",
-        "DAZN CA 18 - Bosnia Herzegovina vs. Türkiye - 19:00 02/07/2026",
-        "DAZN CA 19 - Portugal vs. Montenegro - 19:00 02/07/2026",
-        "DAZN CA 20 - Uganda vs. Angola - 19:00 02/07/2026",
-        "DAZN CA 21 - Côte d`Ivoire vs. Senegal - 19:00 02/07/2026",
-        "DAZN CA 22 - Mason vs. Bell: Press Conference - 19:00 02/07/2026",
-        "DAZN CA 23 - Monaco GCL Round 02 - 20:35 02/07/2026",
-        "DAZN CA 24 - Iceland vs. Italy - 20:45 02/07/2026",
-        "DAZN CA 25 - Trout vs. Bonner: Weigh In - 00:00 03/07/2026",
-        "DAZN CA 26 - Uruguay vs. Argentina - 02:10 03/07/2026",
-        "DAZN CA 27 - Panama vs. Cuba - 02:40 03/07/2026",
-        "DAZN CA 28 - New Zealand vs. Philippines - 08:00 03/07/2026",
-        "DAZN CA 29 - Australia vs. Guam - 11:30 03/07/2026",
-        "DAZN CA 30 - Korea Republic vs. Chinese Taipei - 11:30 03/07/2026",
-        "DAZN CA 31 - China PR vs. Japan - 12:30 03/07/2026",
-        "DAZN CA 32 - Scull vs. Castillo - 16:00 03/07/2026",
-        "DAZN CA 33 - Nigeria vs. Guinea - 16:00 03/07/2026",
-        "DAZN CA 34 - Finland vs. Hungary - 16:30 03/07/2026",
-        "DAZN CA 35 - Austria vs. Poland - 17:00 03/07/2026",
-        "DAZN CA 36 - Estonia vs. Slovenia - 17:00 03/07/2026",
-        "DAZN CA 37 - Cyprus vs. Croatia - 18:00 03/07/2026",
-        "DAZN CA 38 - Israel vs. Germany - 18:00 03/07/2026",
-        "DAZN CA 39 - Sweden vs. Czechia - 18:00 03/07/2026",
-        "DAZN CA 40 - Mason vs. Bell: Weigh In - 18:00 03/07/2026",
-        "DAZN CA 41 - Netherlands vs. Latvia - 18:30 03/07/2026",
-        "DAZN CA 42 - Rwanda vs. Tunisia - 19:00 03/07/2026",
-        "DAZN CA 43 - Rally di Roma Capitale: Stage 01 - 19:05 03/07/2026",
-        "DAZN CA 44 - Belgium vs. France - 19:30 03/07/2026",
-        "DAZN CA 45 - Trout vs. Bonner - 00:00 04/07/2026",
-        "DAZN CA 46 - Colombia vs. Chile - 00:30 04/07/2026",
-        "DAZN CA 47 - Dominican Republic vs. United States - 01:00 04/07/2026",
-        "DAZN CA 48 - Bahamas vs. Jamaica - 01:00 04/07/2026",
-        "DAZN CA 49 - Mexico vs. Nicaragua - 03:30 04/07/2026",
-        "DAZN CA 50 - Rally di Roma Capitale: Stage 02 - 07:05 04/07/2026"
+        "DAZN CA 01 - New Zealand vs. Philippines - 08:00 03/07/2026",
+        "DAZN CA 02 - Canada vs. Australia - 10:30 03/07/2026",
+        "DAZN CA 03 - Australia vs. Guam - 11:30 03/07/2026",
+        "DAZN CA 04 - Korea Republic vs. Chinese Taipei - 11:30 03/07/2026",
+        "DAZN CA 05 - China PR vs. Japan - 12:30 03/07/2026",
+        "DAZN CA 06 - United States vs. Puerto Rico - 13:15 03/07/2026",
+        "DAZN CA 07 - Lithuania vs. Serbia - 16:00 03/07/2026",
+        "DAZN CA 08 - Scull vs. Castillo - 16:00 03/07/2026",
+        "DAZN CA 09 - Nigeria vs. Guinea - 16:00 03/07/2026",
+        "DAZN CA 10 - Finland vs. Hungary - 16:30 03/07/2026",
+        "DAZN CA 11 - Austria vs. Poland - 17:00 03/07/2026",
+        "DAZN CA 12 - Estonia vs. Slovenia - 17:00 03/07/2026",
+        "DAZN CA 13 - Cyprus vs. Croatia - 18:00 03/07/2026",
+        "DAZN CA 14 - Israel vs. Germany - 18:00 03/07/2026",
+        "DAZN CA 15 - Sweden vs. Czechia - 18:00 03/07/2026",
+        "DAZN CA 16 - Mason vs. Bell: Weigh In - 18:00 03/07/2026",
+        "DAZN CA 17 - Netherlands vs. Latvia - 18:30 03/07/2026",
+        "DAZN CA 18 - France vs.Turkiye - 18:45 03/07/2026",
+        "DAZN CA 19 - Rwanda vs. Tunisia - 19:00 03/07/2026",
+        "DAZN CA 20 - Rally di Roma Capitale: Stage 01 - 19:05 03/07/2026",
+        "DAZN CA 21 - Belgium vs. France - 19:30 03/07/2026",
+        "DAZN CA 22 - Trout vs. Bonner - 00:00 04/07/2026",
+        "DAZN CA 23 - Colombia vs. Chile - 00:30 04/07/2026",
+        "DAZN CA 24 - Dominican Republic vs. United States - 01:00 04/07/2026",
+        "DAZN CA 25 - Bahamas vs. Jamaica - 01:00 04/07/2026",
+        "DAZN CA 26 - Venezuela vs. Brazil - 01:10 04/07/2026",
+        "DAZN CA 27 - Mexico vs. Nicaragua - 03:30 04/07/2026",
+        "DAZN CA 28 - Rally di Roma Capitale: Stage 02 - 07:05 04/07/2026",
+        "DAZN CA 29 - Beatdown MMA: Toby Tsang vs. Mashin Machine - 08:15 04/07/2026",
+        "DAZN CA 30 - Rally di Roma Capitale: Stage 03 - 08:28 04/07/2026",
+        "DAZN CA 31 - Rally di Roma Capitale: Stage 04 - 10:05 04/07/2026",
+        "DAZN CA 32 - Norisring Race 01 - 10:20 04/07/2026",
+        "DAZN CA 33 - RWS: Pangtor vs. Saotho - 13:10 04/07/2026",
+        "DAZN CA 34 - Hungaroring Race 01 - 13:20 04/07/2026",
+        "DAZN CA 35 - Vallelunga Race 01 - 13:40 04/07/2026",
+        "DAZN CA 36 - France Qualifying - 13:55 04/07/2026",
+        "DAZN CA 37 - Rally di Roma Capitale: Stage 05 - 14:45 04/07/2026",
+        "DAZN CA 38 - South Sudan vs. Cape Verde - 15:00 04/07/2026",
+        "DAZN CA 39 - Hungaroring Race 01 - 15:10 04/07/2026",
+        "DAZN CA 40 - Mali vs. Uganda - 16:00 04/07/2026",
+        "DAZN CA 41 - Congo DR vs. Côte d`Ivoire - 16:00 04/07/2026",
+        "DAZN CA 42 - Rally di Roma Capitale: Stage 06 - 16:08 04/07/2026",
+        "DAZN CA 43 - Hungaroring Race 01 - 16:10 04/07/2026",
+        "DAZN CA 44 - Rally di Roma Capitale : Stage 07 - 17:45 04/07/2026",
+        "DAZN CA 45 - Cameroon vs. Libya - 18:00 04/07/2026",
+        "DAZN CA 46 - Angola vs. Egypt - 19:00 04/07/2026",
+        "DAZN CA 47 - Senegal vs. Madagascar - 19:00 04/07/2026",
+        "DAZN CA 48 - Monaco Longines Global Champions Tour Grand Prix - 19:15 04/07/2026",
+        "DAZN CA 49 - 3ICE World Cup Day 01 - 20:00 04/07/2026",
+        "DAZN CA 50 - Mason vs. Bell: Prelims - 00:00 05/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1916,10 +1875,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd7 Practice - 10:00 03/07/2026",
-        "Sky Sport 1 - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Panthers v Rabbitohs - 10:00 03/07/2026",
-        "Sky Sport 5 - LIVE: AFL:Sydney Swans v Western Bulldog - 10:25 03/07/2026",
         "Sky Sport 3 - LIVE: CLS Ranking: D11 Aft - 11:00 03/07/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 11:30 03/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: GB Practice - 12:00 03/07/2026",
@@ -2068,7 +2023,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: July 2 - Fri 03/07 10:00am",
         "Sportsnet 02 : Panthers vs. Rabbitohs - Fri 03/07 10:50am",
         "Sportsnet 03 : Halford & Brough: July 3 - Fri 03/07 2:00pm",
         "Sportsnet 01 : The JD Bunkis Podcast: July 3 - Fri 03/07 2:00pm",
