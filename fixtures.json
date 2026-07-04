@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T12:05:28.473463+00:00",
+  "scraped_at": "2026-07-04T17:00:57.099373+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,14 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 05 - 11:00-22:00 - 2026 Wimbledon: Day 6 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 11:55-13:30 - F1: British GP - Sprint Race 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 15:55-18:00 - F1: British GP - Qualifying 1080p"
             },
             {
               "type": "fixture",
@@ -58,14 +50,6 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Knockout: Canada v Morocco - 04 Jul 18:00 // 04 Jul 13:00 ET // 04 Jul 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 02 - Knockout: Canada v Morocco - 04 Jul 18:00 // 04 Jul 13:00 ET // 04 Jul 10:00 PT"
-            },
-            {
-              "type": "fixture",
               "text": "World Cup 01 - Knockout: Paraguay v France - 04 Jul 22:00 // 04 Jul 17:00 ET // 04 Jul 14:00 PT"
             },
             {
@@ -84,18 +68,6 @@
             {
               "type": "date",
               "text": "Saturday 4 July 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Canada v Morocco - 04 Jul 18:00 // 04 Jul 13:00 ET // 04 Jul 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Canada v Morocco - 04 Jul 18:00 // 04 Jul 13:00 ET // 04 Jul 10:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Canada v Morocco - 04 Jul 18:00 // 04 Jul 13:00 ET // 04 Jul 10:00 PT"
             },
             {
               "type": "fixture",
@@ -185,6 +157,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 16 - 12:30amKnoxville Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 8:00pm-17:00 - Friendly: FC Halifax vs Sheffield United"
             }
           ]
         }
@@ -303,6 +279,18 @@
           "name": "VANCOUVER FC - INTER TORONTO FC",
           "datetime": "2026-07-05 00:00:00",
           "channels": []
+        },
+        {
+          "sport": "ATHLETICS",
+          "time": "22:00",
+          "name": "DIAMOND LEAGUE EUGENE",
+          "datetime": "2026-07-04 22:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "AUSSIE RULES",
@@ -554,6 +542,10 @@
           "datetime": "2026-07-04 20:00:00",
           "channels": [
             {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
               "name": "ESPNU",
               "category": "SPORT | USA & CANADA"
             }
@@ -581,6 +573,10 @@
           "name": "UTAH JAZZ - ATLANTA HAWKS",
           "datetime": "2026-07-04 22:00:00",
           "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "ESPNU",
               "category": "SPORT | USA & CANADA"
@@ -682,6 +678,18 @@
             {
               "name": "GOLF CHANNEL",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "19:00",
+          "name": "U.S. SENIOR OPEN",
+          "datetime": "2026-07-04 19:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -861,6 +869,18 @@
           "channels": [
             {
               "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
+          "time": "23:00",
+          "name": "MONTMAGNY",
+          "datetime": "2026-07-04 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -2237,19 +2257,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: FIA Formula 2: Rd7 Sprint Race - 13:40 04/07/2026",
-        "Sky Sport 3 - LIVE: England v India: 2nd T20 - 14:00 04/07/2026",
-        "Sky Sport 9 - LIVE: Us Senior Open Round 3 - 14:00 04/07/2026",
-        "Sky Sport 1 - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 1: GB Qualifying - 14:50 04/07/2026",
-        "Sky Sport 7 - LIVE: Indycar: Indy 200 : P 2 - 15:00 04/07/2026",
-        "Sky Sport 4 - LIVE: Tour de France Stage 1 - 15:55 04/07/2026",
-        "Sky Sport 6 - LIVE: CLS Ranking: D12 Eve - 16:30 04/07/2026",
-        "Sky Sport 1 - LIVE: NC: South Africa v England - 16:30 04/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: South Africa v England - 16:30 04/07/2026",
-        "Sky Sport Select - LIVE: NC: Uruguay v Georgia - 17:55 04/07/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 04/07/2026",
         "Sky Sport 7 - LIVE: Ted's Notebook: Britain Quali - 18:45 04/07/2026",
         "Sky Sport 5 - LIVE: T20 Blast: Gloucester v Surrey - 18:45 04/07/2026",
         "Sky Sport 7 - LIVE: Indycar: Indy 200 : Qual - 19:30 04/07/2026",
@@ -2372,9 +2379,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Broncos vs. Sharks - Sat 04/07 10:25am",
-        "Sportsnet 04 : Huddersfield Giants vs. York Knights - Sat 04/07 12:20pm",
-        "Sportsnet 01 : Hull KR vs. Hull FC - Sat 04/07 2:50pm",
         "Sportsnet 02 : Leigh Leopards vs. Warrington Wolves - Sat 04/07 5:20pm",
         "Sportsnet 03 : Catalans Dragons vs. Toulouse Olympique - Sat 04/07 7:50pm",
         "Sportsnet 05 : Calgary Stampede: Rodeo, July 4 - Sat 04/07 8:30pm",
@@ -2396,7 +2400,9 @@
         "Sportsnet 02 : Jays Talk Plus: July 6 - Mon 06/07 3:00pm",
         "Sportsnet 01 : Calgary Stampede: Rodeo, July 6 - Mon 06/07 8:30pm",
         "Sportsnet 02 : Blair & Barker: July 6 - Mon 06/07 9:00pm",
-        "Sportsnet 03 : New York Yankees @ Tampa Bay - Mon 06/07 11:30pm"
+        "Sportsnet 03 : New York Yankees @ Tampa Bay - Mon 06/07 11:30pm",
+        "Sportsnet 02 : Toronto @ San Francisco - Tue 07/07 2:00am",
+        "Sportsnet 01 : Calgary Stampede - Rangeland Derby, July 6 - Tue 07/07 3:30am"
       ],
       "sections": [],
       "events": []
@@ -2407,54 +2413,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Australia v Ireland - Nations Championship Round 1 2026 - Sat 04/07 10:00am",
-        "Stan 22 : Arribage/Olivetti v Ho/Jebens - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 25 : Bolelli/Vavassori v de Jong/Royer - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 28 : Cash/Tracy v Kokkinakis/Kovacevic - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 27 : Chong/Tikhonova v Siegemund/Zvonareva - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 23 : Gille/Verbeek v Granollers/Zeballos - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 20 : Navarro v Kostyuk - Women's Singles R3 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 26 : Rojer/Winegar v Nys/Roger-Vasselin - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 24 : Routliffe/Goransson v Harrison/Zhang - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 19 : Samsonova v Bouzkova - Women's Singles R3 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 29 : Schuurs/Cash v Salisbury/Fernandez - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 21 : de Minaur v Svajda - Men's Singles R3 Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 04 : Courtside: Day 6 - Wimbledon 2026 - Sat 04/07 11:00am",
-        "Stan 17 : Daejeon v Bucheon - K League 2026 - Sat 04/07 11:25am",
-        "Stan 18 : Downhill: La Thuile - UCI Mountain Bike World Series 2026 - Sat 04/07 11:45am",
-        "Stan 39 : Detiuc/Khromacheva v Kenin/Ostapenko - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 38 : Dolehide/Parks v Dabrowski/Stefani - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 35 : Guo/Mladenovic v Alexandrova/Joint - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 36 : Hunter/McNally v Kempen/Panova - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 37 : Jones/Lumsden v Paris/Silva - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 32 : Khachanov v Cobolli - Men's Singles R3 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 34 : Kichenok/Krawczyk v Jiang/Xu - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 30 : Lehecka v Munar - Men's Singles R3 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 33 : Romboli/Smith v Andreozzi/Guinard - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 31 : Snigur v Krueger - Women's Singles R3 Wimbledon 2026 - Sat 04/07 12:30pm",
-        "Stan 06 : Mertens v Rybakina - Women's Singles R3 Wimbledon 2026 - Sat 04/07 1:00pm",
-        "Stan 07 : Paolini v Sakkari - Women's Singles R3 Wimbledon 2026 - Sat 04/07 1:00pm",
-        "Stan 08 : Eala v Swiatek - Women's Singles R3 Wimbledon 2026 - Sat 04/07 1:30pm",
-        "Stan 09 : Bergs v Fery - Men's Singles R3 Wimbledon 2026 - Sat 04/07 2:00pm",
-        "Stan 13 : Doumbia/Reboul v Kopriva/Pieczonka - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 2:00pm",
-        "Stan 05 : Fiji v Wales - Nations Championship Round 1 2026 - Sat 04/07 2:00pm",
-        "Stan 12 : Kostyuk/Ruse v Sutjiadi/Tjen - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 2:00pm",
-        "Stan 11 : Nys/Gleason v Pavic/Stollar - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 2:00pm",
-        "Stan 10 : Vavassori/Errani v Stevenson/Burrage - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 2:00pm",
-        "Stan 16 : Cirstea v Noskova - Women's Singles R3 Wimbledon 2026 - Sat 04/07 2:30pm",
-        "Stan 15 : Fritz v Sonego - Men's Singles R3 Wimbledon 2026 - Sat 04/07 2:30pm",
-        "Stan 14 : Giron v Zverev - Men's Singles R3 Wimbledon 2026 - Sat 04/07 2:30pm",
-        "Stan 40 : Siniakova/Townsend v Bouzkova/Sorribes Tormo - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 2:30pm",
-        "Stan 41 : Anisimova v Keys - Women's Singles R3 Wimbledon 2026 - Sat 04/07 3:00pm",
+        "Stan 30 : Lehecka v Munar - Men's Singles R3 Wimbledon 2026 - Sat 04/07 2:52pm",
+        "Stan 10 : Vavassori/Errani v Stevenson/Burrage - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 2:53pm",
+        "Stan 12 : Kostyuk/Ruse v Sutjiadi/Tjen - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 3:00pm",
         "Stan 01 : Practice 2: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 3:00pm",
-        "Stan 43 : Danilina/Krunic v Kalinina/Yastremska - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 3:30pm",
-        "Stan 44 : Harris/Christie v Skupski/Krawczyk - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 3:30pm",
-        "Stan 42 : Hunter/Polmans v Melichar-Martinez/Arribage - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 3:30pm",
+        "Stan 13 : Doumbia/Reboul v Kopriva/Pieczonka - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 3:15pm",
+        "Stan 14 : Giron v Zverev - Men's Singles R3 Wimbledon 2026 - Sat 04/07 3:15pm",
+        "Stan 41 : Anisimova v Keys - Women's Singles R3 Wimbledon 2026 - Sat 04/07 3:30pm",
+        "Stan 16 : Cirstea v Noskova - Women's Singles R3 Wimbledon 2026 - Sat 04/07 3:30pm",
         "Stan 03 : South Africa v England - Nations Championship Round 1 2026 - Sat 04/07 3:30pm",
-        "Stan 45 : Zvonareva/Olivetti v Arevalo/Ostapenko - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 3:30pm",
+        "Stan 11 : Nys/Gleason v Pavic/Stollar - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 3:45pm",
+        "Stan 15 : Fritz v Sonego - Men's Singles R3 Wimbledon 2026 - Sat 04/07 4:00pm",
+        "Stan 42 : Hunter/Polmans v Melichar-Martinez/Arribage - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 4:15pm",
+        "Stan 45 : Zvonareva/Olivetti v Arevalo/Ostapenko - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 4:15pm",
         "Stan 46 : Dimitrov v Berrettini - Men's Singles R3 Wimbledon 2026 - Sat 04/07 4:30pm",
+        "Stan 44 : Harris/Christie v Skupski/Krawczyk - Mixed Doubles R1 Wimbledon 2026 - Sat 04/07 4:30pm",
         "Stan 47 : Osorio/Sierra v S.Williams/V.Williams - Women's Doubles R1 Wimbledon 2026 - Sat 04/07 4:30pm",
-        "Stan 48 : Tiafoe v Bublik - Men's Singles R3 Wimbledon 2026 - Sat 04/07 4:30pm",
+        "Stan 40 : Siniakova/Townsend v Bouzkova/Sorribes Tormo - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 4:30pm",
+        "Stan 43 : Danilina/Krunic v Kalinina/Yastremska - Women's Doubles R2 Wimbledon 2026 - Sat 04/07 4:45pm",
+        "Stan 48 : Tiafoe v Bublik - Men's Singles R3 Wimbledon 2026 - Sat 04/07 5:00pm",
         "Stan 02 : Uruguay v Georgia - Nations Cup Round 1 2026 - Sat 04/07 5:55pm",
         "Stan 04 : Qualifying: Grand Prix of Mid-Ohio - Indycar 2026 - Sat 04/07 7:30pm",
         "Stan 06 : Samoa v Hong Kong China - Nations Cup Round 1 2026 - Sat 04/07 7:50pm",
@@ -2467,14 +2444,14 @@
         "Stan 02 : San Diego Wave v Gotham FC - NWSL 2026 - Sun 05/07 1:45am",
         "Stan 09 : USA v Portugal - Nations Cup Round 1 2026 - Sun 05/07 1:50am",
         "Stan 08 : Canada v Spain - Nations Cup Round 1 2026 - Sun 05/07 2:00am",
+        "Stan 07 : Race 2: Shanghai - Formula E 2025/26 - Sun 05/07 4:00am",
         "Stan 04 : Brumbies v Force - Super Rugby Women's Round 5 2026 - Sun 05/07 4:30am",
-        "Stan 07 : Race 2: Shanghai - Formula E 2025/26 - Sun 05/07 7:00am",
         "Stan 01 : Waratahs v Reds - Super Rugby Women's Round 5 2026 - Sun 05/07 7:00am",
+        "Stan 05 : Race Day Part 1: South Africa - MXGP 2026 - Sun 05/07 10:00am",
         "Stan 02 : Courtside: Day 7 - Wimbledon 2026 - Sun 05/07 11:00am",
-        "Stan 05 : Race Day Part 1: South Africa - MXGP 2026 - Sun 05/07 11:00am",
         "Stan 03 : Gwangju v Ulsan - K League 2026 - Sun 05/07 11:25am",
         "Stan 04 : Cross-country Olympic: La Thuile - UCI Mountain Bike World Series 2026 - Sun 05/07 12:15pm",
-        "Stan 01 : Race Day Part 2: South Africa - MXGP 2026 - Sun 05/07 2:00pm",
+        "Stan 01 : Race Day Part 2: South Africa - MXGP 2026 - Sun 05/07 1:00pm",
         "Stan 02 : Race: Grand Prix of Mid-Ohio - Indycar 2026 - Sun 05/07 5:30pm",
         "Stan 03 : Chicago Stars v Utah Royals - NWSL 2026 - Sun 05/07 10:00pm",
         "Stan 01 : Portland Thorns v Racing Louisville - NWSL 2026 - Mon 06/07 12:00am",
@@ -2516,19 +2493,12 @@
       "fixtures": [
         "TSN 02 : 2026 Wimbledon Tennis: Early Round Coverage Day #6 - Sat 04/07 11:00am",
         "TSN 03 : Wimbledon: Day #6 - Court 18, Court 16, No. 2 Court (ft. Fernandez Doubles) - Sat 04/07 11:00am",
-        "TSN 05 : Formula 1 Driver Tracker - British Grand Prix Sprint Race - Sat 04/07 11:50am",
-        "TSN 04 : Formula 1 Pit Lane - British Grand Prix Sprint Race - Sat 04/07 11:50am",
         "TSN 06 : PGA TOUR Live: John Deere Classic - Third Round: Main Feed - Sat 04/07 12:30pm",
         "TSN 07 : PGA TOUR Live: John Deere Classic - Third Round: Marquee Group - Sat 04/07 12:45pm",
         "TSN 08 : Wimbledon: Day #6 - No. 1 Court (ft. Rybakina, Zverev) - Sat 04/07 1:00pm",
         "TSN 01 : PGA TOUR Live: John Deere Classic - Third Round: Featured Groups - Sat 04/07 1:30pm",
         "TSN 09 : Wimbledon: Day #6 - Centre Court (ft. Swiatek, Anisimova, Berrettini) - Sat 04/07 1:30pm",
-        "TSN 10 : Formula 2 Sprint Race: Silverstone - Sat 04/07 1:40pm",
         "TSN 11 : 2026 US Senior Open: Third Round - Sat 04/07 2:00pm",
-        "TSN 12 : IndyCar Practice 2: Honda Indy 200 at Mid-Ohio - Sat 04/07 3:00pm",
-        "TSN 14 : Formula 1 Driver Tracker: British Grand Prix Qualifying - Sat 04/07 3:50pm",
-        "TSN 13 : Formula 1 Pit Lane: British Grand Prix Qualifying - Sat 04/07 3:50pm",
-        "TSN 04 : 2026 Nathan's Famous Hot Dog Eating Contest - Sat 04/07 5:00pm",
         "TSN 05 : Arabic Feed: FIFA World Cup 2026 - Round of 16: Canada vs. Morocco - Sat 04/07 5:45pm",
         "TSN 10 : F1 Academy: Silverstone - Race 1 - Sat 04/07 6:00pm",
         "TSN 15 : 2026 NASCAR ORAP Series Qualifying: Cuervo 300 - Sat 04/07 7:00pm",
