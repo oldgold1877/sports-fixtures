@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T11:00:53.735520+00:00",
+  "scraped_at": "2026-07-04T12:05:28.473463+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -128,6 +128,10 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 03 - 12:30amMason v Bell"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 04 - 10am AMA Supercross Championship Buchanan"
             },
             {
@@ -173,6 +177,14 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 14 - 7pm Virginia Sprint Cars Langely"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 12:30amUSAC CRA WS Midgets Santa Maria"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 12:30amKnoxville Sprints"
             }
           ]
         }
@@ -1129,6 +1141,18 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "01:10",
+          "name": "VENEZUELA - BRAZIL",
+          "datetime": "2026-07-05 01:10:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "10:00",
           "name": "RWANDA - NIGERIA",
           "datetime": "2026-07-05 10:00:00",
@@ -1732,7 +1756,10 @@
         "BBC Events 14 - Wimbledon: Court 7 - 04/07/2026 10:38 - 22:00",
         "BBC Events 15 - Wimbledon: Court 9 - 04/07/2026 10:38 - 22:00",
         "BBC Events 16 - Wimbledon: Court 10 - 04/07/2026 10:39 - 22:00",
-        "BBC Events 17 - Wimbledon: Court 11 - 04/07/2026 10:39 - 22:00"
+        "BBC Events 17 - Wimbledon: Court 11 - 04/07/2026 10:39 - 22:00",
+        "BBC Events 18 - Wimbledon: No.1 Court - 04/07/2026 12:40 - 23:00",
+        "BBC Events 19 - Wimbledon: Day 6 - Inclusive Feed - 04/07/2026 12:40 - 23:00",
+        "BBC Events 20 - Wimbledon: Centre Court - 04/07/2026 12:45 - 23:00"
       ],
       "sections": [],
       "events": []
@@ -2212,6 +2239,7 @@
       "fixtures": [
         "Sky Sport 7 - LIVE: FIA Formula 2: Rd7 Sprint Race - 13:40 04/07/2026",
         "Sky Sport 3 - LIVE: England v India: 2nd T20 - 14:00 04/07/2026",
+        "Sky Sport 9 - LIVE: Us Senior Open Round 3 - 14:00 04/07/2026",
         "Sky Sport 1 - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
         "Sky Sport 1 UHD - LIVE: NC: Fiji v Wales - 14:00 04/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: GB Qualifying - 14:50 04/07/2026",
@@ -2220,33 +2248,32 @@
         "Sky Sport 6 - LIVE: CLS Ranking: D12 Eve - 16:30 04/07/2026",
         "Sky Sport 1 - LIVE: NC: South Africa v England - 16:30 04/07/2026",
         "Sky Sport 1 UHD - LIVE: NC: South Africa v England - 16:30 04/07/2026",
-        "Sky Sport 5 - LIVE: Us Senior Open Round 3 - 17:00 04/07/2026",
         "Sky Sport Select - LIVE: NC: Uruguay v Georgia - 17:55 04/07/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 04/07/2026",
         "Sky Sport 7 - LIVE: Ted's Notebook: Britain Quali - 18:45 04/07/2026",
-        "Sky Sport 9 - LIVE: T20 Blast: Gloucester v Surrey - 18:45 04/07/2026",
+        "Sky Sport 5 - LIVE: T20 Blast: Gloucester v Surrey - 18:45 04/07/2026",
         "Sky Sport 7 - LIVE: Indycar: Indy 200 : Qual - 19:30 04/07/2026",
         "Sky Sport Select - LIVE: NC: Samoa v Hong Kong - 20:00 04/07/2026",
         "Sky Sport 1 - LIVE: NC: Argentina v Scotland - 20:00 04/07/2026",
         "Sky Sport 1 UHD - LIVE: NC: Argentina v Scotland - 20:00 04/07/2026",
         "Sky Sport Select - LIVE: MLC: Washington v San Francisco - 22:15 04/07/2026",
         "Sky Sport 3 - LIVE: NC: Chile v Romania - 22:50 04/07/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd13 P3 - 22:55 04/07/2026",
         "Sky Sport 6 - LIVE: NC: Tonga v Zimbabwe - 23:05 04/07/2026",
-        "Sky Sport 4 - LIVE: FIA Formula E: Rd13 P3 - 01:25 05/07/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Rd13 Qualifying - 00:50 05/07/2026",
         "Sky Sport 7 - LIVE: NC: USA v Portugal - 01:50 05/07/2026",
         "Sky Sport 6 - LIVE: NC: Canada v Spain - 01:50 05/07/2026",
         "Sky Sport Select - LIVE: MLC: Los Angeles v New York - 02:15 05/07/2026",
         "Sky Sport 2 - LIVE: NRLW: Eels v Wests Tigers R1 - 02:45 05/07/2026",
         "Sky Sport 3 - LIVE: Rapid League: Giants v Bulls - 03:00 05/07/2026",
-        "Sky Sport 4 - LIVE: FIA Formula E: Rd13 Qualifying - 03:30 05/07/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Giants v Bulls - 04:00 05/07/2026",
         "Sky Sport 1 - LIVE: NRLW: Warriors v Bulldogs R1 - 04:00 05/07/2026",
         "Sky Sport 1 UHD - LIVE: NRLW: Warriors v Bulldogs R1 - 04:00 05/07/2026",
+        "Sky Sport 5 - LIVE: FIA Formula E: Round 13 - 04:00 05/07/2026",
+        "Sky Sport 2 - LIVE: NRL: Eels v Sea Eagles - 04:30 05/07/2026",
         "Sky Sport 6 - LIVE: Super W: Brumbies v Force - 04:30 05/07/2026",
-        "Sky Sport 2 - LIVE: NRL: Eels v Sea Eagles - 05:00 05/07/2026",
         "Sky Sport 2 - LIVE: NRL: Knights v Dolphins - 06:55 05/07/2026",
         "Sky Sport 6 - LIVE: Super W: Waratahs v Reds - 07:00 05/07/2026",
-        "Sky Sport 4 - LIVE: FIA Formula E: Round 13 - 07:00 05/07/2026",
         "Sky Sport 5 - LIVE:AFL:Port Adelaide v North Melbourne - 07:30 05/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd5 Feature Race - 08:20 05/07/2026",
         "Sky Sport 1 - LIVE: FIA Formula 2: Rd7 Feature Race - 11:10 05/07/2026",
@@ -2260,8 +2287,8 @@
         "Sky Sport 2 - LIVE: FIA Formula 1: GB Grand Prix - 14:55 05/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: GB Chequered Flag - 17:00 05/07/2026",
         "Sky Sport 5 - LIVE: Indycar: Indy 200 - 17:30 05/07/2026",
-        "Sky Sport 2 - LIVE: Ted's Notebook: Britain - 18:00 05/07/2026",
         "Sky Sport 3 - LIVE: PGA Tour: Round 4 - 18:00 05/07/2026",
+        "Sky Sport 2 - LIVE: Ted's Notebook: Britain - 18:00 05/07/2026",
         "Sky Sport 4 - LIVE: Us Senior Open Round 4 - 18:00 05/07/2026",
         "Sky Sport 9 - LIVE: AFL: Geelong Cats v Brisbane Lions - 21:00 05/07/2026",
         "Sky Sport 5 - LIVE: MLC: Seattle v Texas - 22:15 05/07/2026",
@@ -2277,15 +2304,15 @@
         "Sky Sport 4 - LIVE: CLS Ranking: D14 Aft - 11:00 07/07/2026",
         "Sky Sport 1 - LIVE: Tour de France Stage 4 - 12:00 07/07/2026",
         "Sky Sport 1 UHD - LIVE: Tour de France Stage 4 - 12:00 07/07/2026",
-        "Sky Sport 2 - LIVE: JWC: Argentina v England - 12:20 07/07/2026",
         "Sky Sport 3 - LIVE: JWC: Scotland v Japan - 12:20 07/07/2026",
-        "Sky Sport 2 - LIVE: JWC: France v Australia - 14:50 07/07/2026",
+        "Sky Sport 2 - LIVE: JWC: Argentina v England - 12:20 07/07/2026",
         "Sky Sport 3 - LIVE: JWC: South Africa v Wales - 14:50 07/07/2026",
+        "Sky Sport 2 - LIVE: JWC: France v Australia - 14:50 07/07/2026",
         "Sky Sport 4 - LIVE: CLS Ranking: D14 Eve - 16:30 07/07/2026",
         "Sky Sport 1 - LIVE: England v India: 3rd T20 - 17:00 07/07/2026",
         "Sky Sport 1 UHD - LIVE: England v India: 3rd T20 - 17:00 07/07/2026",
-        "Sky Sport 2 - LIVE: JWC: Georgia v Uruguay - 17:20 07/07/2026",
         "Sky Sport 3 - LIVE: JWC: Spain v Fiji - 17:20 07/07/2026",
+        "Sky Sport 2 - LIVE: JWC: Georgia v Uruguay - 17:20 07/07/2026",
         "Sky Sport 1 - LIVE: State Of Origin: Game 3 - 10:00 08/07/2026",
         "Sky Sport 1 UHD - LIVE: State Of Origin: Game 3 - 10:00 08/07/2026",
         "Sky Sport 3 - LIVE: CLS Ranking: D15 Aft - 11:00 08/07/2026",
@@ -2310,7 +2337,22 @@
         "Sky Sport 1 - LIVE: England v India: 4th T20 - 17:00 09/07/2026",
         "Sky Sport 1 UHD - LIVE: England v India: 4th T20 - 17:00 09/07/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 18:00 09/07/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 21:00 09/07/2026"
+        "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 21:00 09/07/2026",
+        "Sky Sport 4 - LIVE: MLC: Washington v Los Angeles - 01:15 10/07/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Bulls v Nuggets - 04:00 10/07/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Bulls v Nuggets - 05:00 10/07/2026",
+        "Sky Sport 1 - LIVE: SRA: Blues v Manawa - 05:15 10/07/2026",
+        "Sky Sport 1 UHD - LIVE: SRA: Blues v Manawa - 05:15 10/07/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Whai v Saints - 07:30 10/07/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 08:00 10/07/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Whai v Saints - 08:30 10/07/2026",
+        "Sky Sport 3 - LIVE: England W v India W: Test D1 - 10:30 10/07/2026",
+        "Sky Sport 6 - LIVE: AFL: Collingwood v North Melbourne - 10:30 10/07/2026",
+        "Sky Sport 1 - LIVE: NRL: Wests Tigers v Warriors - 10:30 10/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Wests Tigers v Warriors - 10:30 10/07/2026",
+        "Sky Sport Select - LIVE: CLS Ranking: D17 Aft - 11:00 10/07/2026",
+        "Sky Sport 2 - LIVE: LPGA: Round 2 - 11:00 10/07/2026",
+        "Sky Sport 5 - LIVE: Tour de France Stage 7 - 12:05 10/07/2026"
       ],
       "sections": [],
       "events": []
@@ -2365,7 +2407,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Japan v Italy - Nations Championship Round 1 2026 - Sat 04/07 9:29am",
         "Stan 02 : Australia v Ireland - Nations Championship Round 1 2026 - Sat 04/07 10:00am",
         "Stan 22 : Arribage/Olivetti v Ho/Jebens - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
         "Stan 25 : Bolelli/Vavassori v de Jong/Royer - Men's Doubles R2 Wimbledon 2026 - Sat 04/07 11:00am",
