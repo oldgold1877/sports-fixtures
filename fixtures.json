@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T07:15:21.789428+00:00",
+  "scraped_at": "2026-07-05T09:38:42.116437+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -140,6 +140,10 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 01 - 8:30pmCage Warriors 209"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 02 - 6pm GCW Bash at the Ballpark"
             },
             {
@@ -149,6 +153,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 04 - 1pm AMA Supercross Championship Buchanan"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 10:30pmSMART Modifieds Caraway"
             },
             {
               "type": "fixture",
@@ -654,6 +662,18 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "20:00",
+          "name": "TORONTO TEMPO - DALLAS WINGS",
+          "datetime": "2026-07-05 20:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "21:30",
           "name": "LOS ANGELES LAKERS - MIAMI HEAT",
           "datetime": "2026-07-05 21:30:00",
@@ -716,6 +736,18 @@
         },
         {
           "sport": "️ GOLF",
+          "time": "09:00",
+          "name": "BMW INTERNATIONAL OPEN",
+          "datetime": "2026-07-05 09:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
           "time": "12:00",
           "name": "BMW INTERNATIONAL OPEN",
           "datetime": "2026-07-05 12:00:00",
@@ -747,6 +779,30 @@
             {
               "name": "CBS",
               "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "20:00",
+          "name": "U.S. SENIOR OPEN",
+          "datetime": "2026-07-05 20:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "22:00",
+          "name": "JOHN DEERE CLASSIC",
+          "datetime": "2026-07-05 22:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -1334,7 +1390,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 05/07/2026 06:00 - 11:00"
+        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 05/07/2026 06:00 - 11:00",
+        "BBC Events 02 - Wimbledon: No.2 Court - 05/07/2026 10:28 - 22:00",
+        "BBC Events 03 - Wimbledon: No.3 Court - 05/07/2026 10:28 - 22:00",
+        "BBC Events 04 - Wimbledon: Court 12 - 05/07/2026 10:29 - 22:00",
+        "BBC Events 05 - Wimbledon: Court 18 - 05/07/2026 10:29 - 22:00"
       ],
       "sections": [],
       "events": []
@@ -1379,56 +1439,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Beatdown MMA: Toby Tsang vs. Mashin Machine - 08:15 04/07/2026",
-        "DAZN CA 02 - Rally di Roma Capitale: Stage 03 - 08:28 04/07/2026",
-        "DAZN CA 03 - Rally di Roma Capitale: Stage 04 - 10:05 04/07/2026",
-        "DAZN CA 04 - Norisring Race 01 - 10:20 04/07/2026",
-        "DAZN CA 05 - RWS: Pangtor vs. Saotho - 13:10 04/07/2026",
-        "DAZN CA 06 - Hungaroring Race 01 - 13:20 04/07/2026",
-        "DAZN CA 07 - Vallelunga Race 01 - 13:40 04/07/2026",
-        "DAZN CA 08 - France Qualifying - 13:55 04/07/2026",
-        "DAZN CA 09 - Rally di Roma Capitale: Stage 05 - 14:45 04/07/2026",
-        "DAZN CA 10 - South Sudan vs. Cape Verde - 15:00 04/07/2026",
-        "DAZN CA 11 - Hungaroring Race 01 - 15:10 04/07/2026",
-        "DAZN CA 12 - USA vs. Australia - 16:00 04/07/2026",
-        "DAZN CA 13 - Mali vs. Uganda - 16:00 04/07/2026",
-        "DAZN CA 14 - Congo DR vs. Côte d`Ivoire - 16:00 04/07/2026",
-        "DAZN CA 15 - Rally di Roma Capitale: Stage 06 - 16:08 04/07/2026",
-        "DAZN CA 16 - Hungaroring Race 01 - 16:10 04/07/2026",
-        "DAZN CA 17 - Rally di Roma Capitale : Stage 07 - 17:45 04/07/2026",
-        "DAZN CA 18 - Cameroon vs. Libya - 18:00 04/07/2026",
-        "DAZN CA 19 - Angola vs. Egypt - 19:00 04/07/2026",
-        "DAZN CA 20 - Senegal vs. Madagascar - 19:00 04/07/2026",
-        "DAZN CA 21 - Türkiye vs. Serbia - 19:00 04/07/2026",
-        "DAZN CA 22 - Monaco Longines Global Champions Tour Grand Prix - 19:15 04/07/2026",
-        "DAZN CA 23 - 3ICE World Cup Day 01 - 20:00 04/07/2026",
-        "DAZN CA 24 - Mason vs. Bell: Prelims - 00:00 05/07/2026",
-        "DAZN CA 25 - Mason vs. Bell (Contains US Ad Content) - 00:30 05/07/2026",
-        "DAZN CA 26 - Venezuela vs. Brazil - 01:10 05/07/2026",
-        "DAZN CA 27 - Rally di Roma Capitale: Stage 08 - 08:05 05/07/2026",
-        "DAZN CA 28 - Hungaroring Race 01 - 08:50 05/07/2026",
-        "DAZN CA 29 - Rally di Roma Capitale: Stage 09 - 09:00 05/07/2026",
-        "DAZN CA 30 - Vallelunga Race 02 - 09:00 05/07/2026",
-        "DAZN CA 31 - Rwanda vs. Nigeria - 10:00 05/07/2026",
-        "DAZN CA 32 - Norisring Race 02 - 10:25 05/07/2026",
-        "DAZN CA 33 - France Race 01 - 11:20 05/07/2026",
-        "DAZN CA 34 - Hungaroring Race 02 - 11:45 05/07/2026",
-        "DAZN CA 35 - Hungaroring Race 02 - 12:40 05/07/2026",
-        "DAZN CA 36 - Tunisia vs. Guinea - 13:00 05/07/2026",
-        "DAZN CA 37 - Rally di Roma Capitale: Stage 10 - 13:15 05/07/2026",
-        "DAZN CA 38 - Denmark vs. Ukraine - 14:00 05/07/2026",
-        "DAZN CA 39 - Syria vs. Iran - 14:30 05/07/2026",
-        "DAZN CA 40 - Rally di Roma Capitale: Stage 11 - 15:00 05/07/2026",
-        "DAZN CA 41 - Cape Verde vs. Libya - 15:00 05/07/2026",
-        "DAZN CA 42 - Great Britain vs. Iceland - 15:00 05/07/2026",
-        "DAZN CA 43 - France Race 02 - 15:15 05/07/2026",
-        "DAZN CA 44 - Hungaroring Race 03 - 15:40 05/07/2026",
-        "DAZN CA 45 - Vallelunga Race 03 - 16:00 05/07/2026",
-        "DAZN CA 46 - India vs. Lebanon - 16:00 05/07/2026",
-        "DAZN CA 47 - Saudi Arabia vs. Qatar - 16:00 05/07/2026",
-        "DAZN CA 48 - Egypt vs. Uganda - 16:00 05/07/2026",
-        "DAZN CA 49 - Côte d`Ivoire vs. Madagascar - 16:00 05/07/2026",
-        "DAZN CA 50 - Georgia vs. Spain - 16:30 05/07/2026"
+        "DAZN CA 01 - Hungaroring Race 01 - 08:50 05/07/2026",
+        "DAZN CA 02 - Rally di Roma Capitale: Stage 09 - 09:00 05/07/2026",
+        "DAZN CA 03 - Vallelunga Race 02 - 09:00 05/07/2026",
+        "DAZN CA 04 - Rwanda vs. Nigeria - 10:00 05/07/2026",
+        "DAZN CA 05 - Norisring Race 02 - 10:25 05/07/2026",
+        "DAZN CA 06 - France Race 01 - 11:20 05/07/2026",
+        "DAZN CA 07 - Hungaroring Race 02 - 11:45 05/07/2026",
+        "DAZN CA 08 - Hungaroring Race 02 - 12:40 05/07/2026",
+        "DAZN CA 09 - Tunisia vs. Guinea - 13:00 05/07/2026",
+        "DAZN CA 10 - Rally di Roma Capitale: Stage 10 - 13:15 05/07/2026",
+        "DAZN CA 11 - Denmark vs. Ukraine - 14:00 05/07/2026",
+        "DAZN CA 12 - Syria vs. Iran - 14:30 05/07/2026",
+        "DAZN CA 13 - Rally di Roma Capitale: Stage 11 - 15:00 05/07/2026",
+        "DAZN CA 14 - Cape Verde vs. Libya - 15:00 05/07/2026",
+        "DAZN CA 15 - Great Britain vs. Iceland - 15:00 05/07/2026",
+        "DAZN CA 16 - Australia vs. Türkiye - 15:15 05/07/2026",
+        "DAZN CA 17 - France Race 02 - 15:15 05/07/2026",
+        "DAZN CA 18 - Hungaroring Race 03 - 15:40 05/07/2026",
+        "DAZN CA 19 - Vallelunga Race 03 - 16:00 05/07/2026",
+        "DAZN CA 20 - India vs. Lebanon - 16:00 05/07/2026",
+        "DAZN CA 21 - Saudi Arabia vs. Qatar - 16:00 05/07/2026",
+        "DAZN CA 22 - Egypt vs. Uganda - 16:00 05/07/2026",
+        "DAZN CA 23 - Côte d`Ivoire vs. Madagascar - 16:00 05/07/2026",
+        "DAZN CA 24 - Georgia vs. Spain - 16:30 05/07/2026",
+        "DAZN CA 25 - Greece vs. Portugal - 17:30 05/07/2026",
+        "DAZN CA 26 - Jordan vs. Iraq - 17:30 05/07/2026",
+        "DAZN CA 27 - South Sudan vs. Cameroon - 18:00 05/07/2026",
+        "DAZN CA 28 - USA vs. Serbia - 18:15 05/07/2026",
+        "DAZN CA 29 - Angola vs. Mali - 19:00 05/07/2026",
+        "DAZN CA 30 - Congo DR vs. Senegal - 19:00 05/07/2026",
+        "DAZN CA 31 - Italy vs. Lithuania - 19:00 05/07/2026",
+        "DAZN CA 32 - Montenegro vs. Romania - 19:30 05/07/2026",
+        "DAZN CA 33 - 3ICE World Cup Day 02 - 20:00 05/07/2026",
+        "DAZN CA 34 - Uruguay vs. Cuba - 22:40 05/07/2026",
+        "DAZN CA 35 - Panama vs. Argentina - 01:10 06/07/2026",
+        "DAZN CA 36 - China PR vs. Chinese Taipei - 07:00 06/07/2026",
+        "DAZN CA 37 - New Zealand vs. Guam - 08:00 06/07/2026",
+        "DAZN CA 38 - Australia vs. Philippines - 11:30 06/07/2026",
+        "DAZN CA 39 - Korea Republic vs. Japan - 11:30 06/07/2026",
+        "DAZN CA 40 - EWC Valorant Day 05 - 12:00 06/07/2026",
+        "DAZN CA 41 - Czechia vs. Estonia - 16:00 06/07/2026",
+        "DAZN CA 42 - Poland vs. Netherlands - 17:00 06/07/2026",
+        "DAZN CA 43 - Hungary vs. Belgium - 17:00 06/07/2026",
+        "DAZN CA 44 - Türkiye vs. Switzerland - 17:00 06/07/2026",
+        "DAZN CA 45 - Latvia vs. Austria - 17:30 06/07/2026",
+        "DAZN CA 46 - Germany vs. Cyprus - 18:00 06/07/2026",
+        "DAZN CA 47 - Inside The Ring July 06 - 19:00 06/07/2026",
+        "DAZN CA 48 - Croatia vs. Israel - 19:00 06/07/2026",
+        "DAZN CA 49 - Serbia vs. Bosnia Herzegovina - 19:00 06/07/2026",
+        "DAZN CA 50 - Slovenia vs. Sweden - 19:00 06/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1800,8 +1860,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: FIA Formula 3: Rd5 Feature Race - 08:20 05/07/2026",
-        "Sky Sport 4 - LIVE: DP World Tour: Round 4 - 09:00 05/07/2026",
         "Sky Sport 1 - LIVE: FIA Formula 2: Rd7 Feature Race - 11:10 05/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 2: Rd7 Feature Race - 11:10 05/07/2026",
         "Sky Sport 3 - LIVE: Tour de France Stage 2 - 12:35 05/07/2026",
@@ -1906,8 +1964,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Knights vs. Dolphins - Sun 05/07 6:55am",
-        "Sportsnet 01 : Sportsnet Central: July 4 - Sun 05/07 10:00am",
         "Sportsnet 02 : Wakefield Trinity vs. Castleford Tigers - Sun 05/07 12:20pm",
         "Sportsnet 01 : Leeds Rhinos vs. Bradford Bulls - Sun 05/07 2:50pm",
         "Sportsnet 03 : Wigan Warriors vs. St Helens - Sun 05/07 5:20pm",
@@ -1941,7 +1997,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Waratahs v Reds - Super Rugby Women's Round 5 2026 - Sun 05/07 6:55am",
         "Stan 05 : Race Day Part 1: South Africa - MXGP 2026 - Sun 05/07 10:00am",
         "Stan 10 : Aoyama/Liang v Birrell/Gibson - Women's Doubles R2 Wimbledon 2026 - Sun 05/07 11:00am",
         "Stan 02 : Courtside: Day 7 - Wimbledon 2026 - Sun 05/07 11:00am",
@@ -2037,8 +2092,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : Formula 3 Feature Race: Silverstone - Sun 05/07 8:20am",
-        "TSN 02 : F1 Academy: Silverstone - Race 2 - Sun 05/07 9:55am",
         "TSN 04 : Wimbledon: Day #7 - Court 6 & Court 14 (ft. Lagaev, Dabrowski Doubles) - Sun 05/07 11:00am",
         "TSN 03 : Wimbledon: Day #7 - No. 2 Court & Court 18 (ft. Fernandez Doubles) - Sun 05/07 11:00am",
         "TSN 05 : Formula 2 Feature Race: Silverstone - Sun 05/07 11:10am",
