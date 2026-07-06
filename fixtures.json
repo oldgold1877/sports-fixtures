@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T17:01:02.473212+00:00",
+  "scraped_at": "2026-07-06T18:55:43.668845+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -891,7 +891,8 @@
         "BBC Events 13 - Wimbledon: Court 7 - 06/07/2026 10:44 - 22:00",
         "BBC Events 14 - Wimbledon: No.1 Court - 06/07/2026 12:28 - 23:00",
         "BBC Events 15 - Wimbledon: Day 8 - Inclusive Feed - 06/07/2026 12:44 - 23:00",
-        "BBC Events 16 - Wimbledon: Centre Court - 06/07/2026 13:16 - 23:00"
+        "BBC Events 16 - Wimbledon: Centre Court - 06/07/2026 13:16 - 23:00",
+        "BBC Events 17 - FIFA World Cup 2026: Portugal v Spain - 06/07/2026 19:15 - 22:45"
       ],
       "sections": [],
       "events": []
@@ -1470,7 +1471,9 @@
         "Sportsnet 04 : Jays Talk Plus: July 8 - Wed 08/07 3:00pm",
         "Sportsnet 01 : Toronto @ San Francisco - Wed 08/07 8:00pm",
         "Sportsnet 02 : Calgary Stampede: Rodeo, July 8 - Wed 08/07 8:30pm",
-        "Sportsnet 03 : New York Yankees @ Tampa Bay - Wed 08/07 11:30pm"
+        "Sportsnet 03 : New York Yankees @ Tampa Bay - Wed 08/07 11:30pm",
+        "Sportsnet 04 : Philadelphia @ Cincinnati - Thu 09/07 12:00am",
+        "Sportsnet 01 : Calgary Stampede: Rangeland Derby, July 8 - Thu 09/07 3:30am"
       ],
       "sections": [],
       "events": []
@@ -1481,17 +1484,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 15 : Dimitrov v Fery - Men's Singles R4 Wimbledon 2026 - Mon 06/07 3:30pm",
-        "Stan 13 : Kostyuk/Ruse v Perez/Schuurs - Women's Doubles R3 Wimbledon 2026 - Mon 06/07 3:30pm",
-        "Stan 14 : Nouza/Oberleitner v Cash/Glasspool - Men's Doubles R3 Wimbledon 2026 - Mon 06/07 3:30pm",
-        "Stan 11 : Bolelli/Vavassori v Krajicek/Mektic - Men's Doubles R3 Wimbledon 2026 - Mon 06/07 3:45pm",
-        "Stan 12 : Hunter/Polmans v Andreozzi/Sutjiadi - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 3:45pm",
-        "Stan 16 : Keys v Noskova - Women's Singles R4 Wimbledon 2026 - Mon 06/07 4:00pm",
-        "Stan 18 : Salisbury/Fernandez v Harrison/Zhang - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 4:30pm",
-        "Stan 17 : Siegemund/Roger-Vasselin v Arevalo/Ostapenko - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 4:30pm",
-        "Stan 21 : Lehecka v Zverev - Men's Singles R4 Wimbledon 2026 - Mon 06/07 5:00pm",
-        "Stan 19 : Pavic/Stollar v Skupski/Krawczyk - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 5:00pm",
-        "Stan 20 : Fritz v Bublik - Men's Singles R4 Wimbledon 2026 - Mon 06/07 6:00pm",
+        "Stan 18 : Salisbury/Fernandez v Harrison/Zhang - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 5:35pm",
+        "Stan 19 : Pavic/Stollar v Skupski/Krawczyk - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 5:42pm",
+        "Stan 20 : Fritz v Bublik - Men's Singles R4 Wimbledon 2026 - Mon 06/07 6:04pm",
+        "Stan 17 : Siegemund/Roger-Vasselin v Arevalo/Ostapenko - Mixed Doubles Quarter Final Wimbledon 2026 - Mon 06/07 6:22pm",
+        "Stan 21 : Lehecka v Zverev - Men's Singles R4 Wimbledon 2026 - Mon 06/07 7:20pm",
         "Stan 02 : Ireland v USA - Junior World Championship Round 3 2026 - Tue 07/07 9:50am",
         "Stan 01 : New Zealand v Italy - Junior World Championship Round 3 2026 - Tue 07/07 9:50am",
         "Stan 03 : Argentina v England - Junior World Championship Round 3 2026 - Tue 07/07 12:20pm",
