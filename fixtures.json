@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T17:01:03.412014+00:00",
+  "scraped_at": "2026-07-07T19:03:28.452494+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,22 +14,6 @@
             {
               "type": "date",
               "text": "Tuesday 7 July 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 13:00-20:00 - 2026 Wimbledon: Quarterfinals 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 17:00-19:00 - 2026 FIFA World Cup - Round of 16: Argentina vs Egypt 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 17:00-19:00 - 2026 FIFA World Cup - Round of 16: Argentina vs Egypt 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 10 - 17:00-19:00 - 2026 FIFA World Cup - Round of 16: Argentina vs Egypt 720p"
             },
             {
               "type": "fixture",
@@ -1208,7 +1192,6 @@
         "Sportsnet 01 : Calgary Stampede: Rangeland Derby, July 7 - Wed 08/07 3:30am",
         "Sportsnet 01 : Sportsnet Central: July 7 - Wed 08/07 10:00am",
         "Sportsnet 02 : State of Origin III - Maroons vs. Blues - Wed 08/07 10:55am",
-        "Sportsnet 03 : Halford & Brough: July 8 - Wed 08/07 2:00pm",
         "Sportsnet 01 : The JD Bunkis Podcast: July 8 - Wed 08/07 2:00pm",
         "Sportsnet 04 : Jays Talk Plus: July 8 - Wed 08/07 3:00pm",
         "Sportsnet 01 : Toronto @ San Francisco - Wed 08/07 8:00pm",
@@ -1218,12 +1201,14 @@
         "Sportsnet 01 : Calgary Stampede: Rangeland Derby, July 8 - Thu 09/07 3:30am",
         "Sportsnet 01 : Sportsnet Central: July 8 - Thu 09/07 10:00am",
         "Sportsnet 02 : Women's NRL - Sharks vs. Broncos - Thu 09/07 10:35am",
-        "Sportsnet 01 : Halford & Brough: July 9 - Thu 09/07 2:00pm",
         "Sportsnet 03 : The JD Bunkis Podcast: July 9 - Thu 09/07 2:00pm",
         "Sportsnet 04 : Jays Talk Plus: July 9 - Thu 09/07 3:00pm",
         "Sportsnet 02 : New York Yankees @ Tampa Bay - Thu 09/07 6:00pm",
         "Sportsnet 03 : York Knights vs. Hull FC - Thu 09/07 7:50pm",
-        "Sportsnet 01 : Calgary Stampede: Rodeo, July 9 - Thu 09/07 8:30pm"
+        "Sportsnet 01 : Calgary Stampede: Rodeo, July 9 - Thu 09/07 8:30pm",
+        "Sportsnet 04 : Blair & Barker: July 9 - Thu 09/07 9:00pm",
+        "Sportsnet 05 : The FAN Pregame: July 9 - Thu 09/07 11:00pm",
+        "Sportsnet 06 : Chicago Cubs @ Baltimore - Thu 09/07 11:30pm"
       ],
       "sections": [],
       "events": []
@@ -1234,18 +1219,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 15 : Heliovaara/Patten v Andreozzi/Guinard - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:33pm",
-        "Stan 14 : Krajicek/Mektic v Kokkinakis/Kovacevic - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:39pm",
-        "Stan 05 : South Africa v Wales - Junior World Championship Round 3 2026 - Tue 07/07 2:50pm",
-        "Stan 06 : France v Australia - Junior World Championship Round 3 2026 - Tue 07/07 2:50pm",
-        "Stan 17 : Osaka v Muchova - Women's Singles Quarter Final Wimbledon 2026 - Tue 07/07 3:30pm",
-        "Stan 20 : Auger-Aliassime v Djokovic - Men's Singles Quarter Final Wimbledon 2026 - Tue 07/07 4:00pm",
-        "Stan 19 : Harrison/Zhang v Arevalo/Ostapenko - Mixed Doubles Semi Final Wimbledon 2026 - Tue 07/07 4:00pm",
-        "Stan 18 : Hunter/Polmans v Pavic/Stollar - Mixed Doubles Semi Final Wimbledon 2026 - Tue 07/07 4:00pm",
-        "Stan 16 : Lehecka v Zverev - Men's Singles R4 Wimbledon 2026 - Tue 07/07 4:00pm",
-        "Stan 13 : Jovanovski v Nurlanuly - Boys' Singles R2 Wimbledon 2026 - Tue 07/07 4:30pm",
+        "Stan 19 : Harrison/Zhang v Arevalo/Ostapenko - Mixed Doubles Semi Final Wimbledon 2026 - Tue 07/07 5:04pm",
+        "Stan 01 : Spain v Fiji - Junior World Championship Round 3 2026 - Tue 07/07 5:19pm",
         "Stan 02 : Georgia v Uruguay - Junior World Championship Round 3 2026 - Tue 07/07 5:20pm",
-        "Stan 01 : Spain v Fiji - Junior World Championship Round 3 2026 - Tue 07/07 5:20pm",
+        "Stan 20 : Auger-Aliassime v Djokovic - Men's Singles Quarter Final Wimbledon 2026 - Tue 07/07 5:30pm",
         "Stan 01 : Weigh-in: The Money Show - Thu 09/07 5:00am",
         "Stan 01 : Blues v Chiefs Manawa - Super Rugby Aupiki Round 5 2026 - Fri 10/07 5:15am",
         "Stan 02 : The Money Show 2026 - Fri 10/07 9:30am",
@@ -1297,6 +1274,9 @@
         "Stan 03 : MatatÅ« v Blues - Super Rugby Aupiki Round 6 2026 - Sat 18/07 3:30am",
         "Stan 04 : Brothers v Norths - Hospital Cup Round 15 2026 - Sat 18/07 6:00am",
         "Stan 07 : Easts v Manly - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
+        "Stan 09 : Gordon v Sydney University - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
+        "Stan 10 : Hunter Wildfires v Randwick - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
+        "Stan 08 : Racing Day 1: Australia - UCI BMX World Championships 2026 - Sat 18/07 6:00am",
         "Stan 06 : Souths v Warringah - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
         "Stan 05 : Two Blues v Eastwood - Shute Shield Round 14 2026 - Sat 18/07 6:00am"
       ],
@@ -1318,14 +1298,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : 2026 Rugby World Junior Championship: Pool Play - Kutaisi - Tue 07/07 9:50am",
-        "TSN 01 : 2026 Rugby World Junior Championship: Pool Play - Tbilisi - Tue 07/07 9:50am",
         "TSN 03 : Wimbledon: Day #9 - Court 12 (ft. Dabrowski Doubles) - Tue 07/07 11:00am",
         "TSN 04 : Wimbledon: Day #9 - Court 5 (ft. Lagaev Doubles) - Tue 07/07 11:00am",
         "TSN 05 : Wimbledon: Day #9 - No. 1 Court (ft. Sinner, Osaka) - Tue 07/07 1:00pm",
         "TSN 06 : Wimbledon: Day #9 - Centre Court (ft. Gauff, Auger-Aliassime, Djokovic) - Tue 07/07 1:30pm",
-        "TSN 07 : Arabic Feed: FIFA World Cup 2026 - Round of 16: Argentina vs. Egypt - Tue 07/07 4:45pm",
-        "TSN 08 : Spanish Feed: FIFA World Cup 2026 - Round of 16: Argentina vs. Egypt - Tue 07/07 4:45pm",
         "TSN 09 : German Feed: FIFA World Cup 2026 - Round of 16: Switzerland vs. Colombia - Tue 07/07 8:45pm",
         "TSN 10 : Spanish Feed: FIFA World Cup 2026 - Round of 16: Switzerland vs. Colombia - Tue 07/07 8:45pm",
         "TSN 02 : 2026 World Series of Poker: Main Event - Wed 08/07 1:00am",
