@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T13:17:51.565509+00:00",
+  "scraped_at": "2026-07-07T17:01:03.412014+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -54,18 +54,6 @@
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Knockout: Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 02 - Knockout: Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "World Cup 03 - Knockout: Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
               "text": "World Cup 01 - Knockout: Switzerland v Colombia - 07 Jul 21:00 // 07 Jul 16:00 ET // 07 Jul 13:00 PT"
             },
             {
@@ -87,18 +75,6 @@
             },
             {
               "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): Argentina v Egypt - 07 Jul 17:00 // 07 Jul 12:00 ET // 07 Jul 09:00 PT"
-            },
-            {
-              "type": "fixture",
               "text": "FOOTBALL 01 (Fox UHD): Switzerland v Colombia - 07 Jul 21:00 // 07 Jul 16:00 ET // 07 Jul 13:00 PT"
             },
             {
@@ -108,6 +84,15 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): Switzerland v Colombia - 07 Jul 21:00 // 07 Jul 16:00 ET // 07 Jul 13:00 PT"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 11:00pm-20:00 - Friendly: Shelbourne vs Celtic (Celtic TV)"
             }
           ]
         }
@@ -1053,13 +1038,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: JWC: France v Australia - 14:50 07/07/2026",
-        "Sky Sport 3 - LIVE: JWC: South Africa v Wales - 14:50 07/07/2026",
-        "Sky Sport 4 - LIVE: CLS Ranking: D14 Eve - 16:30 07/07/2026",
-        "Sky Sport 1 - LIVE: England v India: 3rd T20 - 17:00 07/07/2026",
-        "Sky Sport 1 UHD - LIVE: England v India: 3rd T20 - 17:00 07/07/2026",
-        "Sky Sport 2 - LIVE: JWC: Georgia v Uruguay - 17:20 07/07/2026",
-        "Sky Sport 3 - LIVE: JWC: Spain v Fiji - 17:20 07/07/2026",
         "Sky Sport 1 - LIVE: State Of Origin: Game 3 - 10:00 08/07/2026",
         "Sky Sport 1 UHD - LIVE: State Of Origin: Game 3 - 10:00 08/07/2026",
         "Sky Sport 3 - LIVE: CLS Ranking: D15 Aft - 11:00 08/07/2026",
@@ -1222,9 +1200,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Halford & Brough: July 7 - Tue 07/07 2:00pm",
-        "Sportsnet 02 : The JD Bunkis Podcast: July 7 - Tue 07/07 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: July 7 - Tue 07/07 3:00pm",
         "Sportsnet 01 : Calgary Stampede: Rodeo, July 7 - Tue 07/07 8:30pm",
         "Sportsnet 02 : Blair & Barker: July 7 - Tue 07/07 9:00pm",
         "Sportsnet 03 : The FAN Pregame: July 7 - Tue 07/07 11:00pm",
@@ -1246,7 +1221,9 @@
         "Sportsnet 01 : Halford & Brough: July 9 - Thu 09/07 2:00pm",
         "Sportsnet 03 : The JD Bunkis Podcast: July 9 - Thu 09/07 2:00pm",
         "Sportsnet 04 : Jays Talk Plus: July 9 - Thu 09/07 3:00pm",
-        "Sportsnet 02 : New York Yankees @ Tampa Bay - Thu 09/07 6:00pm"
+        "Sportsnet 02 : New York Yankees @ Tampa Bay - Thu 09/07 6:00pm",
+        "Sportsnet 03 : York Knights vs. Hull FC - Thu 09/07 7:50pm",
+        "Sportsnet 01 : Calgary Stampede: Rodeo, July 9 - Thu 09/07 8:30pm"
       ],
       "sections": [],
       "events": []
@@ -1257,24 +1234,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Argentina v England - Junior World Championship Round 3 2026 - Tue 07/07 12:20pm",
-        "Stan 04 : Scotland v Japan - Junior World Championship Round 3 2026 - Tue 07/07 12:20pm",
-        "Stan 07 : Domenc v Hewitt - Boys' Singles R2 Wimbledon 2026 - Tue 07/07 12:30pm",
-        "Stan 09 : Hunter/McNally v Dabrowski/Stefani - Women's Doubles R3 Wimbledon 2026 - Tue 07/07 1:00pm",
-        "Stan 10 : Noskova/Sramkova v Piter/Siskova - Women's Doubles R3 Wimbledon 2026 - Tue 07/07 1:00pm",
-        "Stan 11 : Siniakova/Townsend v Muhammad/Stollar - Women's Doubles R3 Wimbledon 2026 - Tue 07/07 1:00pm",
-        "Stan 08 : Sinner v Struff - Men's Singles Quarter Final Wimbledon 2026 - Tue 07/07 1:00pm",
-        "Stan 12 : Pegula v Gauff - Women's Singles Quarter Final Wimbledon 2026 - Tue 07/07 1:30pm",
-        "Stan 13 : Jovanovski v Nurlanuly - Boys' Singles R2 Wimbledon 2026 - Tue 07/07 2:00pm",
-        "Stan 15 : Heliovaara/Patten v Andreozzi/Guinard - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:30pm",
-        "Stan 14 : Krajicek/Mektic v Kokkinakis/Kovacevic - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:30pm",
-        "Stan 06 : France v Australia - Junior World Championship Round 3 2026 - Tue 07/07 2:50pm",
+        "Stan 15 : Heliovaara/Patten v Andreozzi/Guinard - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:33pm",
+        "Stan 14 : Krajicek/Mektic v Kokkinakis/Kovacevic - Men's Doubles Quarter Final Wimbledon 2026 - Tue 07/07 2:39pm",
         "Stan 05 : South Africa v Wales - Junior World Championship Round 3 2026 - Tue 07/07 2:50pm",
-        "Stan 16 : Lehecka v Zverev - Men's Singles R4 Wimbledon 2026 - Tue 07/07 3:00pm",
-        "Stan 17 : Osaka v Muchova - Women's Singles Quarter Final Wimbledon 2026 - Tue 07/07 3:00pm",
+        "Stan 06 : France v Australia - Junior World Championship Round 3 2026 - Tue 07/07 2:50pm",
+        "Stan 17 : Osaka v Muchova - Women's Singles Quarter Final Wimbledon 2026 - Tue 07/07 3:30pm",
         "Stan 20 : Auger-Aliassime v Djokovic - Men's Singles Quarter Final Wimbledon 2026 - Tue 07/07 4:00pm",
         "Stan 19 : Harrison/Zhang v Arevalo/Ostapenko - Mixed Doubles Semi Final Wimbledon 2026 - Tue 07/07 4:00pm",
         "Stan 18 : Hunter/Polmans v Pavic/Stollar - Mixed Doubles Semi Final Wimbledon 2026 - Tue 07/07 4:00pm",
+        "Stan 16 : Lehecka v Zverev - Men's Singles R4 Wimbledon 2026 - Tue 07/07 4:00pm",
+        "Stan 13 : Jovanovski v Nurlanuly - Boys' Singles R2 Wimbledon 2026 - Tue 07/07 4:30pm",
         "Stan 02 : Georgia v Uruguay - Junior World Championship Round 3 2026 - Tue 07/07 5:20pm",
         "Stan 01 : Spain v Fiji - Junior World Championship Round 3 2026 - Tue 07/07 5:20pm",
         "Stan 01 : Weigh-in: The Money Show - Thu 09/07 5:00am",
