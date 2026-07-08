@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T12:19:15.790553+00:00",
+  "scraped_at": "2026-07-08T17:01:11.534399+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,29 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 8 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 13:00-20:00 - 2026 Wimbledon - Quarterfinals 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Thursday 9 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW Dynamite 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -994,9 +1016,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: T20 Blast W: Surrey v Warwickshire - 14:00 08/07/2026",
-        "Sky Sport 1 UHD - LIVE: T20 Blast W: Surrey v Warwickshire - 14:00 08/07/2026",
-        "Sky Sport 3 - LIVE: CLS Ranking: D15 Eve - 16:30 08/07/2026",
         "Sky Sport 1 - LIVE: T20 Blast: Surrey v Sussex - 18:15 08/07/2026",
         "Sky Sport 1 UHD - LIVE: T20 Blast: Surrey v Sussex - 18:15 08/07/2026",
         "Sky Sport 1 - LIVE: MLC: New York v San Francisco - 01:15 09/07/2026",
@@ -1166,9 +1185,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : State of Origin III - Maroons vs. Blues - Wed 08/07 10:55am",
-        "Sportsnet 01 : The JD Bunkis Podcast: July 8 - Wed 08/07 2:00pm",
-        "Sportsnet 04 : Jays Talk Plus: July 8 - Wed 08/07 3:00pm",
         "Sportsnet 01 : Toronto @ San Francisco - Wed 08/07 8:00pm",
         "Sportsnet 02 : Calgary Stampede: Rodeo, July 8 - Wed 08/07 8:30pm",
         "Sportsnet 03 : New York Yankees @ Tampa Bay - Wed 08/07 11:30pm",
@@ -1184,13 +1200,15 @@
         "Sportsnet 04 : Blair & Barker: July 9 - Thu 09/07 9:00pm",
         "Sportsnet 05 : The FAN Pregame: July 9 - Thu 09/07 11:00pm",
         "Sportsnet 06 : Chicago Cubs @ Baltimore - Thu 09/07 11:30pm",
-        "Sportsnet 07 : UFC 329 Pre-Fight Press Conference - Thu 09/07 11:55pm",
         "Sportsnet 02 : TNA iMPACT! - Fri 10/07 1:00am",
+        "Sportsnet 07 : UFC 329 Pre-Fight Press Conference - Fri 10/07 2:55am",
         "Sportsnet 01 : Calgary Stampede - Rangeland Derby, July 9 - Fri 10/07 3:30am",
         "Sportsnet 01 : Sportsnet Central: July 9 - Fri 10/07 10:00am",
         "Sportsnet 02 : Wests Tigers vs. Warriors - Fri 10/07 10:50am",
         "Sportsnet 01 : The JD Bunkis Podcast: July 10 - Fri 10/07 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: July 10 - Fri 10/07 3:00pm"
+        "Sportsnet 03 : Jays Talk Plus: July 10 - Fri 10/07 3:00pm",
+        "Sportsnet 01 : Huddersfield Giants vs. Bradford Bulls - Fri 10/07 7:50pm",
+        "Sportsnet 02 : Wigan Warriors vs. Warrington Wolves - Fri 10/07 7:50pm"
       ],
       "sections": [],
       "events": []
@@ -1201,26 +1219,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Hewett/Reid v Egberink/Ter Hofte - Men's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 11:00am",
-        "Stan 02 : Kaplan v Schroder - Quad Wheelchair Singles QF Wimbledon 2026 - Wed 08/07 11:00am",
-        "Stan 01 : Lazarte v Lapthorne - Quad Wheelchair Singles QF Wimbledon 2026 - Wed 08/07 11:00am",
-        "Stan 03 : Vink v Slade - Quad Wheelchair Singles QF Wimbledon 2026 - Wed 08/07 11:00am",
-        "Stan 05 : Bartram/Miki v Houdet/Ji - Men's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 12:30pm",
-        "Stan 08 : Fernandez/Oda v Lysov/Penney - Men's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 12:30pm",
-        "Stan 06 : Hewitt v Mackenzie - Boys' Singles R3 Wimbledon 2026 - Wed 08/07 12:30pm",
-        "Stan 09 : Krawietz/Puetz v Doumbia/Reboul - Men's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 12:30pm",
-        "Stan 07 : Sasson v Woodman - Quad Wheelchair Singles QF Wimbledon 2026 - Wed 08/07 12:30pm",
-        "Stan 11 : Arevalo/Pavic v Cash/Glasspool - Men's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 1:00pm",
-        "Stan 10 : Noskova v Mertens - Women's Singles Quarter Final Wimbledon 2026 - Wed 08/07 1:00pm",
-        "Stan 12 : Kostyuk v Paolini - Women's Singles Quarter Final Wimbledon 2026 - Wed 08/07 1:30pm",
-        "Stan 15 : Caverzaschi/Ratzlaff v De La Puente/Spaargaren - Men's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 2:00pm",
-        "Stan 14 : Kamiji/Zhu v Bos/De Greef - Women's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 2:00pm",
-        "Stan 13 : Montjane/Shuker v Chasteau/Griffioen - Women's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 2:00pm",
-        "Stan 16 : Perez/Schuurs v Aoyama/Liang - Women's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 2:00pm",
-        "Stan 17 : Fritz v Zverev - Men's Singles Quarter Final Wimbledon 2026 - Wed 08/07 2:30pm",
-        "Stan 18 : Piter/Siskova v Dabrowski/Stefani - Women's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 2:30pm",
-        "Stan 21 : Cobolli v Fery - Men's Singles Quarter Final Wimbledon 2026 - Wed 08/07 3:00pm",
+        "Stan 16 : Perez/Schuurs v Aoyama/Liang - Women's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 2:45pm",
+        "Stan 18 : Piter/Siskova v Dabrowski/Stefani - Women's Doubles Quarter Final Wimbledon 2026 - Wed 08/07 2:47pm",
+        "Stan 17 : Fritz v Zverev - Men's Singles Quarter Final Wimbledon 2026 - Wed 08/07 3:00pm",
         "Stan 19 : Bernal/Oosthuizen v Li/Wang - Women's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 3:30pm",
+        "Stan 21 : Cobolli v Fery - Men's Singles Quarter Final Wimbledon 2026 - Wed 08/07 3:30pm",
         "Stan 20 : De Groot/Van Koot v Guo/Ohtani - Women's Wheelchair Doubles QF Wimbledon 2026 - Wed 08/07 3:30pm",
         "Stan 01 : Weigh-in: The Money Show - Thu 09/07 5:00am",
         "Stan 01 : Blues v Chiefs Manawa - Super Rugby Aupiki Round 5 2026 - Fri 10/07 5:15am",
@@ -1263,8 +1266,15 @@
         "Stan 06 : Traralgon - Australian Motocross Championship 2026 - Sun 12/07 4:30am",
         "Stan 01 : Seoul v Gangwon - K League 2026 - Sun 12/07 11:25am",
         "Stan 02 : Cross-country Olympic: Pal Arinsal - UCI Mountain Bike World Series 2026 - Sun 12/07 12:15pm",
+        "Stan 05 : Argentina v Scotland - Junior World Championship 5th Place SF 2026 - Sun 12/07 2:50pm",
+        "Stan 04 : Japan v USA - Junior World Championship 13th Place SF 2026 - Sun 12/07 2:50pm",
         "Stan 03 : Race: 6 Hours of Sao Paulo - WEC 2026 - Sun 12/07 3:00pm",
+        "Stan 07 : Australia v Wales - Junior World Championship 5th Place SF 2026 - Sun 12/07 5:20pm",
+        "Stan 06 : Spain v Uruguay - Junior World Championship 13th Place SF 2026 - Sun 12/07 5:20pm",
         "Stan 01 : Seattle Reign v Portland Thorns - NWSL 2026 - Sun 12/07 9:00pm",
+        "Stan 01 : France v New Zealand - Junior World Championship Semi Final 2026 - Mon 13/07 2:50pm",
+        "Stan 02 : Georgia v Italy - Junior World Championship 9th Place SF 2026 - Mon 13/07 2:50pm",
+        "Stan 03 : Ireland v Fiji - Junior World Championship 9th Place SF 2026 - Mon 13/07 5:20pm",
         "Stan 01 : Orlando Pride v Boston Legacy - NWSL 2026 - Thu 16/07 12:00am",
         "Stan 02 : Gotham FC v Washington Spirit - NWSL 2026 - Thu 16/07 1:00am",
         "Stan 01 : Athens: Day 5 - WTA 250 - Fri 17/07 3:30pm",
