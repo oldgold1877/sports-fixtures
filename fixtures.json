@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T17:00:49.899931+00:00",
+  "scraped_at": "2026-07-09T18:50:33.982578+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -544,6 +544,18 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "CYCLING",
+          "time": "12:15",
+          "name": "HAGETMAU - BORDEAUX",
+          "datetime": "2026-07-10 12:15:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -1122,7 +1134,45 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Peacock 1 : Tour de France: Stage 6 (Cycling) - Thu 09/07 11:00am",
+        "Peacock 1 : THEMOVE: Stage 6 (Cycling) - Thu 09/07 5:00pm",
+        "Peacock 1 : Home Feed: MIL at STL (MLB) - Fri 10/07 12:30am",
+        "Peacock 2 : Away Feed: MIL at STL (MLB) - Fri 10/07 12:30am",
+        "Peacock 1 : Tour de France: Stage 7 (Cycling) - Fri 10/07 11:30am",
+        "Peacock 1 : THEMOVE: Stage 7 (Cycling) - Fri 10/07 5:00pm",
+        "Peacock 1 : American Century Champ: Rd. 1 (Golf) - Fri 10/07 8:00pm",
+        "Peacock 1 : Home Feed: KC at BAL (MLB) - Sat 11/07 12:00am",
+        "Peacock 2 : Away Feed: KC at BAL (MLB) - Sat 11/07 12:00am",
+        "Peacock 1 : Away Feed: AZ at LAD (MLB) - Sat 11/07 3:00am",
+        "Peacock 2 : Home Feed: AZ at LAD (MLB) - Sat 11/07 3:00am",
+        "Peacock 1 : High Diving World Cup: Italy 1 (Diving) - Sat 11/07 10:02am",
+        "Peacock 2 : Tour de France: Stage 8 (Cycling) - Sat 11/07 11:30am",
+        "Peacock 1 : IMSA VPRC at CTMP | R1 (Motor Sports) - Sat 11/07 1:45pm",
+        "Peacock 1 : Race Day Live: Southwick (Pro Motocross) - Sat 11/07 3:00pm",
+        "Peacock 1 : THEMOVE: Stage 8 (Cycling) - Sat 11/07 5:00pm",
+        "Peacock 1 : Motocross Rd. 23: Southwick (Pro Motocross) - Sat 11/07 6:00pm",
+        "Peacock 2 : 2026 MLB Draft (MLB) - Sat 11/07 6:00pm",
+        "Peacock 3 : IMSA MPC at CTMP (Motor Sports) - Sat 11/07 6:18pm",
+        "Peacock 4 : American Century Champ: Rd. 2 (Golf) - Sat 11/07 7:30pm",
+        "Peacock 3 : IMSA CTMP Qualifying (Motor Sports) - Sat 11/07 8:55pm",
+        "Peacock 1 : Mercury vs. Aces (Basketball) - Sat 11/07 11:00pm",
+        "Peacock 2 : Away Feed: HOU at TEX (MLB) - Sun 12/07 12:00am",
+        "Peacock 3 : Home Feed: HOU at TEX (MLB) - Sun 12/07 12:00am",
+        "Peacock 1 : High Diving World Cup: Italy 2 (Diving) - Sun 12/07 10:00am",
+        "Peacock 2 : Tour de France: Stage 9 (Cycling) - Sun 12/07 11:30am",
+        "Peacock 1 : IMSA VPRC at CTMP | R2 (Motor Sports) - Sun 12/07 4:05pm",
+        "Peacock 1 : Brewers at Pirates (MLB) - Sun 12/07 5:00pm",
+        "Peacock 3 : All-Star Futures Game (MLB) - Sun 12/07 5:00pm",
+        "Peacock 2 : THEMOVE: Stage 9 (Cycling) - Sun 12/07 5:30pm",
+        "Peacock 2 : IMSA CTMP Grand Prix (Motor Sports) - Sun 12/07 7:00pm",
+        "Peacock 3 : MLB Sunday Stretch: 7.12.26 (MLB) - Sun 12/07 7:30pm",
+        "Peacock 4 : American Century Champ: Rd. 3 (Golf) - Sun 12/07 7:30pm",
+        "Peacock 1 : MLBx (MLB) - Sun 12/07 8:00pm",
+        "Peacock 5 : Away Feed: COL at SF (MLB) - Sun 12/07 9:00pm",
+        "Peacock 6 : Home Feed: COL at SF (MLB) - Sun 12/07 9:00pm",
+        "Peacock 1 : Fever vs. Aces (Basketball) - Mon 13/07 1:30am"
+      ],
       "sections": [],
       "events": []
     },
@@ -1353,12 +1403,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 17 : Heliovaara/Patten v Kokkinakis/Kovacevic - Men's Doubles Semi Final Wimbledon 2026 - Thu 09/07 3:00pm",
-        "Stan 20 : De Groot/Van Koot v Li/Wang - Women's Wheelchair Doubles SF Wimbledon 2026 - Thu 09/07 3:30pm",
-        "Stan 19 : Kamiji/Zhu v Montjane/Shuker - Women's Wheelchair Doubles SF Wimbledon 2026 - Thu 09/07 3:30pm",
-        "Stan 18 : Kostyuk v Noskova - Women's Singles Semi Final Wimbledon 2026 - Thu 09/07 3:30pm",
-        "Stan 21 : Hewett/Reid v Houdet/Ji - Men's Wheelchair Doubles SF Wimbledon 2026 - Thu 09/07 4:00pm",
-        "Stan 22 : Hunter/Polmans v Arevalo/Ostapenko - Mixed Doubles Final Wimbledon 2026 - Thu 09/07 4:30pm",
+        "Stan 01 : De Groot/Van Koot v Li/Wang - Women's Wheelchair Doubles SF Wimbledon 2026 - Thu 09/07 4:35pm",
+        "Stan 02 : Kostyuk v Noskova - Women's Singles Semi Final Wimbledon 2026 - Thu 09/07 4:43pm",
+        "Stan 21 : Hewett/Reid v Houdet/Ji - Men's Wheelchair Doubles SF Wimbledon 2026 - Thu 09/07 5:45pm",
+        "Stan 22 : Hunter/Polmans v Arevalo/Ostapenko - Mixed Doubles Final Wimbledon 2026 - Thu 09/07 6:29pm",
         "Stan 01 : Blues v Chiefs Manawa - Super Rugby Aupiki Round 5 2026 - Fri 10/07 5:15am",
         "Stan 02 : The Money Show 2026 - Fri 10/07 9:30am",
         "Stan 01 : PFL MENA 10 2026 - Fri 10/07 3:00pm",
