@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T11:57:25.730711+00:00",
+  "scraped_at": "2026-07-12T17:00:55.391473+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,6 +18,55 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 16:00-20:00 - 2026 Wimbledon: Men's Final 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 2:00am-23:00 - Friendly: Columbus Crew vs Burnley"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 3:45pmAMSOIL Championship Off Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 12pm MotoAmerica Superbike Monterey"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 12pm Redstall v Courney"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 3pm RoC Modifieds Shangri La"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 9:15pmZenith Racing Series Road America"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 5pm GCW Melee in Manchester"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 10:45pmDIRTcar Summer Nationals Late Models Wayne County"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 11:30pmPrelude to Nationals Slinger"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 7pm Southern Nationals Wythe"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 12:25amHusets Late Models"
             }
           ]
         }
@@ -621,12 +670,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Wimbledon: Extra - 12/07/2026 11:00 - 17:59",
         "BBC Events 02 - Wimbledon: No.1 Court - 12/07/2026 10:32 - 23:00",
         "BBC Events 03 - Wimbledon: No.3 Court - 12/07/2026 10:32 - 22:00",
         "BBC Events 04 - Wimbledon: Court 18 - 12/07/2026 10:32 - 22:00",
         "BBC Events 05 - Wimbledon: Court 12 - 12/07/2026 10:36 - 22:00",
-        "BBC Events 06 - no_brand_title: Premier League Kabaddi 2026 - Day 4 - 12/07/2026 11:47 - 18:30"
+        "BBC Events 06 - no_brand_title: Premier League Kabaddi 2026 - Day 4 - 12/07/2026 11:47 - 18:30",
+        "BBC Events 07 - Wimbledon: Day 14 - Inclusive Feed - 12/07/2026 12:35 - 23:00",
+        "BBC Events 08 - Wimbledon: Centre Court - 12/07/2026 12:35 - 23:00"
       ],
       "sections": [],
       "events": []
@@ -984,12 +1034,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: ICF: Montreal Sunday S1 - 14:00 12/07/2026",
-        "Sky Sport 7 - LIVE: JWC: Argentina v Scotland 5th SF - 14:50 12/07/2026",
-        "Sky Sport Select - LIVE: JWC: Japan v USA 13th SF - 14:50 12/07/2026",
-        "Sky Sport 6 - LIVE: PGA Champions Tour: R4 - 17:00 12/07/2026",
-        "Sky Sport 7 - LIVE: JWC: Australia v Wales 5th SF - 17:20 12/07/2026",
-        "Sky Sport Select - LIVE: JWC: Spain v Uruguay 13th SF - 17:20 12/07/2026",
         "Sky Sport 4 - LIVE: T20 Blast: Somerset v Rapids - 18:20 12/07/2026",
         "Sky Sport 2 - LIVE: ICF: Montreal Sunday S2 - 19:00 12/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 21:00 12/07/2026",
@@ -1098,8 +1142,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : MotoGP - Grand Prix of Germany - Sun 12/07 12:15pm",
-        "Sportsnet 01 : St Helens vs. Toulouse Olympique - Sun 12/07 2:50pm",
         "Sportsnet 02 : Boston @ New York Mets - Sun 12/07 6:30pm",
         "Sportsnet 04 : Calgary Stampede: Rodeo, July 12 - Sun 12/07 8:30pm",
         "Sportsnet 03 : Toronto @ San Diego - Sun 12/07 8:30pm",
@@ -1122,7 +1164,8 @@
         "Sportsnet 01 : Sportsnet Central: July 15 - Thu 16/07 10:00am",
         "Sportsnet 02 : Panthers vs. Broncos - Thu 16/07 10:40am",
         "Sportsnet 01 : The JD Bunkis Podcast: July 16 - Thu 16/07 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: July 16 - Thu 16/07 3:00pm"
+        "Sportsnet 03 : Jays Talk Plus: July 16 - Thu 16/07 3:00pm",
+        "Sportsnet 01 : Bradford Bulls vs. Wakefield Trinity - Thu 16/07 7:50pm"
       ],
       "sections": [],
       "events": []
@@ -1133,15 +1176,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 09 : Vink v Schroder - Quad Wheelchair Singles Final Wimbledon 2026 - Sun 12/07 10:55am",
-        "Stan 08 : Oda v Hewett - Men's Wheelchair Singles Final Wimbledon 2026 - Sun 12/07 11:00am",
-        "Stan 01 : Seoul v Gangwon - K League 2026 - Sun 12/07 11:25am",
-        "Stan 02 : Cross-country Olympic: Pal Arinsal - UCI Mountain Bike World Series 2026 - Sun 12/07 12:15pm",
-        "Stan 11 : Kamiji/Zhu v Li/Wang - Women's Wheelchair Doubles Final Wimbledon 2026 - Sun 12/07 12:30pm",
-        "Stan 10 : Lee v Hewitt - Boys' Singles Final Wimbledon 2026 - Sun 12/07 12:30pm",
-        "Stan 12 : Guo/Mladenovic v Dabrowski/Stefani - Women's Doubles Final Wimbledon 2026 - Sun 12/07 1:00pm",
         "Stan 05 : Argentina v Scotland - Junior World Championship 5th Place SF 2026 - Sun 12/07 2:50pm",
-        "Stan 04 : Japan v USA - Junior World Championship 13th Place SF 2026 - Sun 12/07 2:50pm",
+        "Stan 04 : Japan v USA - Junior World Championship 13th Place SF 2026 - Sun 12/07 2:51pm",
         "Stan 03 : Race: 6 Hours of Sao Paulo - WEC 2026 - Sun 12/07 3:00pm",
         "Stan 13 : Sinner v Zverev - Men's Singles Final Wimbledon 2026 - Sun 12/07 4:00pm",
         "Stan 07 : Australia v Wales - Junior World Championship 5th Place SF 2026 - Sun 12/07 5:20pm",
@@ -1192,7 +1228,11 @@
         "Stan 01 : Final Practice: Grand Prix of Nashville - Indycar 2026 - Sun 19/07 12:00am",
         "Stan 02 : USA v Spain - Nations Cup Round 3 2026 - Sun 19/07 12:20am",
         "Stan 06 : Canada v Zimbabwe - Nations Cup Round 3 2026 - Sun 19/07 12:50am",
-        "Stan 07 : Utah Royals v Orlando Pride - NWSL 2026 - Sun 19/07 1:45am"
+        "Stan 07 : Utah Royals v Orlando Pride - NWSL 2026 - Sun 19/07 1:45am",
+        "Stan 03 : Racing Day 2: Australia - UCI BMX World Championships 2026 - Sun 19/07 2:50am",
+        "Stan 01 : Live Stage 4 - WRC Estonia 2026 - Sun 19/07 7:00am",
+        "Stan 02 : Live Stage 5 - WRC Estonia 2026 - Sun 19/07 11:00am",
+        "Stan 03 : Bucheon v Seoul - K League 2026 - Sun 19/07 11:25am"
       ],
       "sections": [],
       "events": []
