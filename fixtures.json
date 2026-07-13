@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-13T17:01:07.204210+00:00",
+  "scraped_at": "2026-07-13T18:44:00.941101+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -179,7 +179,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 13/07/2026 18:00 - 00:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -683,10 +685,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : France v New Zealand - Junior World Championship Semi Final 2026 - Mon 13/07 2:48pm",
-        "Stan 02 : Georgia v Italy - Junior World Championship 9th Place SF 2026 - Mon 13/07 2:50pm",
-        "Stan 03 : Ireland v Fiji - Junior World Championship 9th Place SF 2026 - Mon 13/07 5:20pm",
         "Stan 04 : South Africa v England - Junior World Championship Semi Final 2026 - Mon 13/07 5:20pm",
+        "Stan 03 : Ireland v Fiji - Junior World Championship 9th Place SF 2026 - Mon 13/07 5:20pm",
         "Stan 01 : Orlando Pride v Boston Legacy - NWSL 2026 - Thu 16/07 12:00am",
         "Stan 02 : Gotham FC v Washington Spirit - NWSL 2026 - Thu 16/07 1:00am",
         "Stan 02 : Iasi: Day 5 - WTA 250 - Fri 17/07 11:00am",
@@ -767,7 +767,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Gstaad - Day #1 - Mon 13/07 9:30am",
         "TSN 02 : ATP 250 Tennis: Bastad - Day #1 - Mon 13/07 12:30pm",
         "TSN 03 : 2026 Rugby World Junior Championship: Semifinals - Mon 13/07 2:50pm",
         "TSN 04 : ATP 250 Tennis: Umag - Day #1 - Mon 13/07 3:00pm",
