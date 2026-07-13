@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-13T11:00:56.711855+00:00",
+  "scraped_at": "2026-07-13T13:21:25.382172+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,10 @@
         {
           "section": "Live Events",
           "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 2:00am-23:00 - Friendly: Columbus Crew vs Burnley"
+            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 01 - 3:45pmAMSOIL Championship Off Road"
@@ -46,6 +50,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 09 - 7pm Southern Nationals Wythe"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 12:25amHusets Late Models"
             }
           ]
         }
@@ -221,7 +229,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 13/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
