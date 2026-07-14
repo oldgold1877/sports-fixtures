@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T17:01:01.252048+00:00",
+  "scraped_at": "2026-07-14T18:04:00.417014+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -81,6 +81,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 02 - 10:30pm-19:30 - Friendly: Celtic vs Sporting CP (Portuguese Feed)"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 12:00am-21:00 - Friendly: Bristol Rovers vs Leicester City"
             }
           ]
         }
@@ -381,7 +385,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 14/07/2026 18:00 - 00:00"
+      ],
       "sections": [],
       "events": []
     },
