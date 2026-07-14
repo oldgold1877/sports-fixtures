@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T09:01:29.068323+00:00",
+  "scraped_at": "2026-07-14T11:00:56.514151+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -147,6 +147,30 @@
           "name": "TORONTO TEMPO - WASHINGTON MYSTICS",
           "datetime": "2026-07-15 00:00:00",
           "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "SWEDISH OPEN",
+          "datetime": "2026-07-14 10:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "20:00",
+          "name": "CROATIA OPEN",
+          "datetime": "2026-07-14 20:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -269,6 +293,42 @@
               "category": "TV | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "09:30",
+          "name": "SWISS OPEN GSTAAD",
+          "datetime": "2026-07-15 09:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "SWEDISH OPEN",
+          "datetime": "2026-07-15 10:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "20:00",
+          "name": "CROATIA OPEN",
+          "datetime": "2026-07-15 20:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -296,9 +356,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 14/07/2026 06:00 - 12:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -390,68 +448,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - IRONMAN 70.03 Swansea - 06:30 12/07/2026",
-        "DAZN GB 02 - EWC Dota 02 Week 01 Day 06 Stream B - 10:00 12/07/2026",
-        "DAZN GB 02 - ML:BB Women Day 01 Stream B - 11:00 14/07/2026",
-        "DAZN GB 03 - EWC Dota 02 Week 01 Day 06 Stream C - 10:00 12/07/2026",
-        "DAZN GB 03 - ML:BB Women Day 01: Stream A - 11:00 14/07/2026",
-        "DAZN GB 04 - EWC Dota 02 Week 01 Day 06 Stream A - 10:00 12/07/2026",
-        "DAZN GB 04 - EWC Dota 02 Week 02 Day 01 Stream B - 12:00 14/07/2026",
-        "DAZN GB 05 - Nürburgring Race 03 - 10:50 12/07/2026",
-        "DAZN GB 05 - EWC Dota 02 Week 02 Day 01 Stream A - 12:00 14/07/2026",
-        "DAZN GB 06 - Portugal Race 01 - 11:40 12/07/2026",
-        "DAZN GB 06 - Lima Day 01 - 17:00 14/07/2026",
-        "DAZN GB 07 - EWC Valorant Day 10 - 12:00 12/07/2026",
-        "DAZN GB 07 - EWC League of Legends Day 01 - 10:00 15/07/2026",
-        "DAZN GB 08 - Karonga United vs. Silver Strikers - 13:30 12/07/2026",
-        "DAZN GB 09 - Nürburgring Race 04 - 15:00 12/07/2026",
-        "DAZN GB 10 - Portugal Race 02 - 16:45 12/07/2026",
-        "DAZN GB 10 - ML:BB Women Day 02: Stream A - 11:00 15/07/2026",
-        "DAZN GB 11 - Redstall vs. Courtney - 17:00 12/07/2026",
-        "DAZN GB 11 - EWC ML:BB Women Day 02 Stream B - 11:00 15/07/2026",
-        "DAZN GB 12 - Inside The Ring July 13 - 19:00 13/07/2026",
-        "DAZN GB 14 - Lima Day 02 - 17:00 15/07/2026",
-        "DAZN GB 15 - EWC League of Legends Day 01 Stream B - 10:00 15/07/2026",
-        "DAZN GB 16 - EWC Week 02 Day 06 - 11:00 15/07/2026",
-        "DAZN GB 16 - EWC ML:BB Women Day 03 Stream B - 10:00 16/07/2026",
-        "DAZN GB 17 - EWC Dota 02 Week 02 Day 02 Stream B - 12:00 15/07/2026",
-        "DAZN GB 17 - ML:BB Women Day 03: Stream A - 10:00 16/07/2026",
-        "DAZN GB 18 - EWC Dota 02 Week 02 Day 02 Stream A - 12:00 15/07/2026",
-        "DAZN GB 19 - EWC League of Legends Day 02 - 10:00 16/07/2026",
-        "DAZN GB 19 - EWC Free Fire Day 02 - 11:00 16/07/2026",
-        "DAZN GB 20 - EWC League of Legends Day 02 Stream B - 10:00 16/07/2026",
-        "DAZN GB 20 - EWC Dota 02 Week 02 Day 03 - 12:00 16/07/2026",
-        "DAZN GB 21 - Delfi Rally Estonia: Opening Ceremony & Start from Tartu - 16:30 16/07/2026",
+        "DAZN GB 01 - ML:BB Women Day 01 Stream B - 11:00 14/07/2026",
+        "DAZN GB 02 - ML:BB Women Day 01: Stream A - 11:00 14/07/2026",
+        "DAZN GB 03 - EWC Dota 02 Week 02 Day 01 Stream B - 12:00 14/07/2026",
+        "DAZN GB 04 - EWC Dota 02 Week 02 Day 01 Stream A - 12:00 14/07/2026",
+        "DAZN GB 05 - Lima Day 01 - 17:00 14/07/2026",
+        "DAZN GB 06 - EWC League of Legends Day 01 - 10:00 15/07/2026",
+        "DAZN GB 07 - EWC League of Legends Day 01 Stream B - 10:00 15/07/2026",
+        "DAZN GB 08 - EWC Free Fire Day 01 - 11:00 15/07/2026",
+        "DAZN GB 09 - ML:BB Women Day 02: Stream A - 11:00 15/07/2026",
+        "DAZN GB 10 - EWC ML:BB Women Day 02 Stream B - 11:00 15/07/2026",
+        "DAZN GB 11 - EWC Dota 02 Week 02 Day 02 Stream B - 12:00 15/07/2026",
+        "DAZN GB 12 - EWC Dota 02 Week 02 Day 02 Stream A - 12:00 15/07/2026",
+        "DAZN GB 13 - Lima Day 02 - 17:00 15/07/2026",
+        "DAZN GB 14 - EWC League of Legends Day 02 - 10:00 16/07/2026",
+        "DAZN GB 15 - EWC ML:BB Women Day 03 Stream B - 10:00 16/07/2026",
+        "DAZN GB 16 - ML:BB Women Day 03: Stream A - 10:00 16/07/2026",
+        "DAZN GB 17 - EWC League of Legends Day 02 Stream B - 10:00 16/07/2026",
+        "DAZN GB 18 - EWC Free Fire Day 02 - 11:00 16/07/2026",
+        "DAZN GB 19 - EWC Dota 02 Week 02 Day 03 - 12:00 16/07/2026",
+        "DAZN GB 20 - Delfi Rally Estonia: Opening Ceremony & Start from Tartu - 16:30 16/07/2026",
+        "DAZN GB 21 - Eubank vs. Papot: Press Conference - 17:00 16/07/2026",
         "DAZN GB 22 - Lima Day 03 - 17:00 16/07/2026",
-        "DAZN GB 23 - Delfi Rally Estonia: Shakedown Kastre P1 & P2 - 07:00 17/07/2026",
-        "DAZN GB 24 - Monaco Qualifying Time Trials - 09:25 17/07/2026",
-        "DAZN GB 24 - EWC Free Fire Day 03 - 11:00 17/07/2026",
-        "DAZN GB 25 - Monaco Qualifying Sessions and Pole Shootout - 11:55 17/07/2026",
-        "DAZN GB 26 - EWC ML:BB Women Day 04 - 11:00 17/07/2026",
-        "DAZN GB 27 - Delfi Rally Estonia: Stage 01 - 11:03 17/07/2026",
-        "DAZN GB 27 - EWC Dota 02 Week 02 Day 04 - 12:00 17/07/2026",
-        "DAZN GB 29 - Delfi Rally Estonia: Stage 02 - 11:56 17/07/2026",
-        "DAZN GB 30 - EWC League of Legends Day 03 Stream B - 12:00 17/07/2026",
-        "DAZN GB 32 - EWC League of Legends Day 03 - 12:00 17/07/2026",
-        "DAZN GB 33 - Delfi Rally Estonia: Stage 03 - 12:49 17/07/2026",
-        "DAZN GB 33 - Monaco Race Off - 13:10 18/07/2026",
-        "DAZN GB 34 - Delfi Rally Estonia: Stage 04 - 14:46 17/07/2026",
-        "DAZN GB 35 - Delfi Rally Estonia: Stage 05 - 15:39 17/07/2026",
-        "DAZN GB 36 - Delfi Rally Estonia: Stage 06 - 16:32 17/07/2026",
-        "DAZN GB 36 - Pacheco vs. Aleem - 01:00 19/07/2026",
-        "DAZN GB 37 - Lima Day 04 - 17:00 17/07/2026",
-        "DAZN GB 38 - Monte Rosa WalserWaeg by UTMB Day 01 - 17:00 17/07/2026",
-        "DAZN GB 39 - Delfi Rally Estonia: Stage 07 - 17:30 17/07/2026",
-        "DAZN GB 40 - Monte Rosa WalserWaeg by UTMB Day 02 - 07:45 18/07/2026",
-        "DAZN GB 41 - Delfi Rally Estonia: Stage 08 - 07:56 18/07/2026",
-        "DAZN GB 42 - Delfi Rally Estonia: Stage 09 - 08:49 18/07/2026",
-        "DAZN GB 43 - EWC ML:BB Women Day 05 - 10:00 18/07/2026",
-        "DAZN GB 44 - Delfi Rally Estonia: Stage 10 - 10:10 18/07/2026",
-        "DAZN GB 45 - Monaco Group Stages - 10:30 18/07/2026",
-        "DAZN GB 46 - Delfi Rally Estonia: Stage 11 - 11:03 18/07/2026",
-        "DAZN GB 47 - EWC Dota 02 Week 02 Day 05 - 12:00 18/07/2026",
-        "DAZN GB 48 - EWC League of Legends Day 04 - 12:00 18/07/2026",
-        "DAZN GB 49 - EWC Free Fire Day 04 - 13:00 18/07/2026"
+        "DAZN GB 23 - Pacheco vs. Aleem: Press Conference - 21:00 16/07/2026",
+        "DAZN GB 24 - Delfi Rally Estonia: Shakedown Kastre P1 & P2 - 07:00 17/07/2026",
+        "DAZN GB 25 - Monaco Qualifying Time Trials - 09:25 17/07/2026",
+        "DAZN GB 26 - EWC Free Fire Day 03 - 11:00 17/07/2026",
+        "DAZN GB 27 - EWC ML:BB Women Day 04 - 11:00 17/07/2026",
+        "DAZN GB 28 - Delfi Rally Estonia: Stage 01 - 11:03 17/07/2026",
+        "DAZN GB 29 - Monaco Qualifying Sessions and Pole Shootout - 11:55 17/07/2026",
+        "DAZN GB 30 - Delfi Rally Estonia: Stage 02 - 11:56 17/07/2026",
+        "DAZN GB 31 - EWC League of Legends Day 03 Stream B - 12:00 17/07/2026",
+        "DAZN GB 32 - EWC Dota 02 Week 02 Day 04 - 12:00 17/07/2026",
+        "DAZN GB 33 - EWC League of Legends Day 03 - 12:00 17/07/2026",
+        "DAZN GB 34 - Delfi Rally Estonia: Stage 03 - 12:49 17/07/2026",
+        "DAZN GB 35 - Delfi Rally Estonia: Stage 04 - 14:46 17/07/2026",
+        "DAZN GB 36 - Delfi Rally Estonia: Stage 05 - 15:39 17/07/2026",
+        "DAZN GB 37 - Delfi Rally Estonia: Stage 06 - 16:32 17/07/2026",
+        "DAZN GB 38 - Eubank vs. Papot: Weigh In - 17:00 17/07/2026",
+        "DAZN GB 39 - Lima Day 04 - 17:00 17/07/2026",
+        "DAZN GB 40 - Monte Rosa WalserWaeg by UTMB Day 01 - 17:00 17/07/2026",
+        "DAZN GB 41 - Delfi Rally Estonia: Stage 07 - 17:30 17/07/2026",
+        "DAZN GB 42 - Pacheco vs. Aleem: Weigh In - 00:00 18/07/2026",
+        "DAZN GB 43 - Monte Rosa WalserWaeg by UTMB Day 02 - 07:45 18/07/2026",
+        "DAZN GB 44 - Delfi Rally Estonia: Stage 08 - 07:56 18/07/2026",
+        "DAZN GB 45 - Delfi Rally Estonia: Stage 09 - 08:49 18/07/2026",
+        "DAZN GB 46 - EWC ML:BB Women Day 05 - 10:00 18/07/2026",
+        "DAZN GB 47 - Delfi Rally Estonia: Stage 10 - 10:10 18/07/2026",
+        "DAZN GB 48 - Monaco Group Stages - 10:30 18/07/2026",
+        "DAZN GB 49 - Delfi Rally Estonia: Stage 11 - 11:03 18/07/2026",
+        "DAZN GB 50 - EWC Dota 02 Week 02 Day 05 - 12:00 18/07/2026"
       ],
       "sections": [],
       "events": []
@@ -659,10 +705,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: England V India: 1st ODI - 10:30 14/07/2026",
-        "Sky Sport 1 UHD - LIVE: England V India: 1st ODI - 10:30 14/07/2026",
-        "Sky Sport 4 - LIVE: CLS Ranking: D20 Aft - 11:00 14/07/2026",
-        "Sky Sport 2 - LIVE: Tour de France Stage 10 - 12:00 14/07/2026",
         "Sky Sport 4 - LIVE: CLS Ranking: D20 Eve - 16:30 14/07/2026",
         "Sky Sport 2 - LIVE: Rapid League: Airs v Giants - 07:00 15/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Airs v Giants - 08:00 15/07/2026",
@@ -822,7 +864,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: July 13 - Tue 14/07 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: July 14 - Tue 14/07 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: July 14 - Tue 14/07 3:00pm",
         "Sportsnet 01 : The FAN Pregame: July 14 - Tue 14/07 10:00pm",
@@ -846,7 +887,8 @@
         "Sportsnet 01 : The JD Bunkis Podcast: July 17 - Fri 17/07 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: July 17 - Fri 17/07 3:00pm",
         "Sportsnet 01 : Tampa Bay @ Boston - Fri 17/07 6:30pm",
-        "Sportsnet 02 : Huddersfield Giants vs. Wigan Warriors - Fri 17/07 7:50pm"
+        "Sportsnet 02 : Huddersfield Giants vs. Wigan Warriors - Fri 17/07 7:50pm",
+        "Sportsnet 04 : St Helens vs. Catalans Dragons - Fri 17/07 7:50pm"
       ],
       "sections": [],
       "events": []
@@ -860,8 +902,12 @@
         "Stan 01 : Orlando Pride v Boston Legacy - NWSL 2026 - Thu 16/07 12:00am",
         "Stan 02 : Gotham FC v Washington Spirit - NWSL 2026 - Thu 16/07 1:00am",
         "Stan 02 : Iasi: Day 5 - WTA 250 - Fri 17/07 11:00am",
+        "Stan 06 : Argentina v Australia - Junior World Championship Play-off 2026 - Fri 17/07 2:50pm",
+        "Stan 05 : USA v Uruguay - Junior World Championship Play-off 2026 - Fri 17/07 2:50pm",
         "Stan 01 : Athens: Day 5 - WTA 250 - Fri 17/07 3:30pm",
         "Stan 03 : Pumas v Sharks - Currie Cup Round 1 2026 - Fri 17/07 3:55pm",
+        "Stan 07 : Japan v Spain - Junior World Championship Play-off 2026 - Fri 17/07 5:20pm",
+        "Stan 08 : Scotland v Wales - Junior World Championship Play-off 2026 - Fri 17/07 5:20pm",
         "Stan 02 : Live Stage 1 - WRC Estonia 2026 - Fri 17/07 5:30pm",
         "Stan 04 : Stormers v Griquas - Currie Cup Round 1 2026 - Fri 17/07 6:00pm",
         "Stan 01 : Kansas City Current v San Diego Wave - NWSL 2026 - Sat 18/07 1:00am",
@@ -879,12 +925,14 @@
         "Stan 05 : Two Blues v Eastwood - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
         "Stan 11 : West Harbour v Norths - Shute Shield Round 14 2026 - Sat 18/07 6:00am",
         "Stan 12 : Wests v Souths - Hospital Cup Round 15 2026 - Sat 18/07 6:00am",
+        "Stan 15 : New Zealand v Ireland - Nations Championship Round 3 2026 - Sat 18/07 6:30am",
         "Stan 17 : Force v Waratahs - Super Rugby Women's Semi Final 2026 - Sat 18/07 7:00am",
-        "Stan 15 : New Zealand v Ireland - Nations Championship Round 3 2026 - Sat 18/07 7:30am",
         "Stan 01 : Japan v France - Nations Championship Round 3 2026 - Sat 18/07 9:30am",
-        "Stan 02 : Australia v Italy - Nations Championship Round 3 2026 - Sat 18/07 10:30am",
+        "Stan 02 : Australia v Italy - Nations Championship Round 3 2026 - Sat 18/07 10:00am",
         "Stan 03 : Incheon v Jeonbuk - K League 2026 - Sat 18/07 11:25am",
         "Stan 04 : Fiji v Scotland - Nations Championship Round 3 2026 - Sat 18/07 2:00pm",
+        "Stan 14 : Georgia v Fiji - Junior World Championship Play-off 2026 - Sat 18/07 2:50pm",
+        "Stan 15 : New Zealand v England - Junior World Championship Play-off 2026 - Sat 18/07 2:50pm",
         "Stan 13 : Iasi: Day 6 - WTA 250 - Sat 18/07 3:00pm",
         "Stan 06 : Live Stage 2 - WRC Estonia 2026 - Sat 18/07 3:00pm",
         "Stan 05 : Practice 1: Grand Prix of Nashville - Indycar 2026 - Sat 18/07 3:00pm",
@@ -892,6 +940,8 @@
         "Stan 08 : Manchester United v Wrexham - Pre-season Club Friendlies 2026 - Sat 18/07 3:50pm",
         "Stan 01 : South Africa v Wales - Nations Championship Round 3 2026 - Sat 18/07 4:30pm",
         "Stan 09 : Live Stage 3 - WRC Estonia 2026 - Sat 18/07 5:00pm",
+        "Stan 16 : France v South Africa - Junior World Championship Final 2026 - Sat 18/07 5:20pm",
+        "Stan 17 : Italy v Ireland - Junior World Championship Play-off 2026 - Sat 18/07 5:20pm",
         "Stan 02 : Athens: Day 6 - WTA 250 - Sat 18/07 5:30pm",
         "Stan 10 : Uruguay v Hong Kong China - Nations Cup Round 3 2026 - Sat 18/07 5:50pm",
         "Stan 03 : Chile v Georgia - Nations Cup Round 3 2026 - Sat 18/07 7:50pm",
