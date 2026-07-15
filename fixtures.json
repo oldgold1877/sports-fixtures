@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T12:12:53.826438+00:00",
+  "scraped_at": "2026-07-15T17:00:56.311306+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -51,6 +51,10 @@
             {
               "type": "fixture",
               "text": "World Cup 02 - Knockout: England v Argentina - 15 Jul 20:00 // 15 Jul 15:00 ET // 15 Jul 12:00 PT"
+            },
+            {
+              "type": "fixture",
+              "text": "World Cup 03 - Knockout: England v Argentina - 15 Jul 20:00 // 15 Jul 15:00 ET // 15 Jul 12:00 PT"
             }
           ]
         },
@@ -72,39 +76,10 @@
             {
               "type": "fixture",
               "text": "FOOTBALL 04 (NowHK UHD 1): England v Argentina - 15 Jul 20:00 // 15 Jul 15:00 ET // 15 Jul 12:00 PT"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 10:30pm-19:30 - Friendly: Celtic vs Sporting CP (Celtic TV)"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 02 - 10:30pm-19:30 - Friendly: Celtic vs Sporting CP (Portuguese Feed)"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 12:00am-21:00 - Friendly: Bristol Rovers vs Leicester City"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 03: Bristol Rovers vs Leicester City 12:00am"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 04: Cork City vs Cardiff 12:45am"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 05: The new saints vs Sabah 11:30pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 06: Shamrock Rovers vs Floriana 1:00am"
+              "text": "FOOTBALL 06 (BBC UHD): England v Argentina - 15 Jul 20:00 // 15 Jul 15:00 ET // 15 Jul 12:00 PT"
             }
           ]
         }
@@ -576,7 +551,7 @@
         "Sky Sports Main Event UHD - The Open Championship: Live at the Range - Wed 15/07 2:00pm",
         "Sky Sports UHD 1 - Live: T20 Blast - Quarter-Final: Yorkshire v Somerset - Wed 15/07 4:15pm",
         "Sky Sports Main Event UHD - World Cup Matchday - Countdown to Kick-Off: England v Argentina - Wed 15/07 7:45pm",
-        "Sky Sports Main Event UHD - World Cup Report - Wed 15/07 8:00pm",
+        "Sky Sports Main Event UHD - World Cup Report - World Cup Report 15.07.26 - Wed 15/07 8:00pm",
         "Sky Sports Main Event UHD - Live: Major League Cricket - Qualifier: San Francisco Unicorns v Los Angeles Knight Riders - Wed 15/07 10:30pm",
         "Sky Sports Main Event UHD - Live: The Open Championship, PGA Tour Golf - Day 1 - Thu 16/07 6:30am",
         "Sky Sports UHD 1 - Live: One-Day International Cricket - 2nd ODI: England v India - Thu 16/07 12:30pm",
@@ -1009,8 +984,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: T20 Blast: QF Yorkshire v Somerset - 16:15 15/07/2026",
-        "Sky Sport 2 - LIVE: CLS Ranking: D21 Eve - 16:30 15/07/2026",
         "Sky Sport 2 - LIVE: MLC: QF: San Francisco v LA - 22:00 15/07/2026",
         "Sky Sport 3 - LIVE: MLC: EL: Washington v New York - 02:20 16/07/2026",
         "Sky Sport 2 - LIVE: The Open Championship: Round 1 - 06:30 16/07/2026",
@@ -1163,8 +1136,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: July 15 - Wed 15/07 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: July 15 - Wed 15/07 3:00pm",
         "Sportsnet 01 : The FAN Pregame: July 15 - Wed 15/07 10:00pm",
         "Sportsnet 02 : Blue Jays Classics - 1992 World Series - Thu 16/07 12:00am",
         "Sportsnet 03 : Boston @ Sacramento  - Thu 16/07 1:00am",
@@ -1182,12 +1153,13 @@
         "Sportsnet 02 : Roosters vs. Storm - Fri 17/07 10:50am",
         "Sportsnet 01 : The JD Bunkis Podcast: July 17 - Fri 17/07 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: July 17 - Fri 17/07 3:00pm",
-        "Sportsnet 01 : Tampa Bay @ Boston - Fri 17/07 6:30pm",
+        "Sportsnet 01 : Tampa Bay @ Boston GM1 - Fri 17/07 6:30pm",
         "Sportsnet 02 : Huddersfield Giants vs. Wigan Warriors - Fri 17/07 7:50pm",
         "Sportsnet 04 : St Helens vs. Catalans Dragons - Fri 17/07 7:50pm",
         "Sportsnet 03 : Blair & Barker: July 17 - Fri 17/07 9:00pm",
         "Sportsnet 05 : The FAN Pregame: July 17 - Fri 17/07 11:00pm",
-        "Sportsnet 06 : Los Angeles Dodgers @ New York Yankees - Sat 18/07 12:00am"
+        "Sportsnet 06 : Los Angeles Dodgers @ New York Yankees - Sat 18/07 12:00am",
+        "Sportsnet 07 : Tampa Bay @ Boston GM2 - Sat 18/07 12:00am"
       ],
       "sections": [],
       "events": []
