@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T12:18:56.417046+00:00",
+  "scraped_at": "2026-07-16T17:00:48.077839+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -312,6 +312,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "16:30",
+          "name": "IASI OPEN",
+          "datetime": "2026-07-16 16:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "20:00",
           "name": "CROATIA OPEN",
           "datetime": "2026-07-16 20:00:00",
@@ -389,6 +401,13 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "00:00",
+          "name": "GREAT LAKES LOONS - WEST MICHIGAN WHITECAPS",
+          "datetime": "2026-07-18 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
           "time": "00:05",
           "name": "NEW YORK YANKEES - LOS ANGELES DODGERS",
           "datetime": "2026-07-18 00:05:00",
@@ -400,6 +419,30 @@
           "name": "BOSTON RED SOX - TAMPA BAY RAYS",
           "datetime": "2026-07-18 00:10:00",
           "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "14:00",
+          "name": "NIKE EYBL PEACH JAM",
+          "datetime": "2026-07-17 14:00:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:30",
+          "name": "3SSB PALMETTO ROAD CHAMPIONSHIPS",
+          "datetime": "2026-07-17 18:30:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "EQUESTRIAN",
@@ -729,7 +772,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 16/07/2026 12:00 - 18:00",
+        "BBC Events 02 - no_brand_title: Cynghrair Gynadleddau  UEFA: FC Santa Coloma v Penybont - 16/07/2026 17:22 - 20:05",
         "BBC Events 03 - no_brand_title: Argentina Shatter England’s World Cup Dreams in Semi-Final - 16/07/2026 07:27 - 06:58"
       ],
       "sections": [],
@@ -741,30 +784,30 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Clubber 1 : Bagenalstown Gaels V Eire Og (Carlow GAA - Senior 1) - Thu 16/07 6:00pm",
-        "Clubber 2 : Ballyfin V Rosenallis (Laois GAA - Senior 1) - Thu 16/07 6:30pm",
-        "Clubber 3 : Ratoath V Kilmessan (Meath GAA - Senior 1) - Thu 16/07 6:30pm",
-        "Clubber 4 : Mullinalaghta St Columbas V Killoe Young Emmets (Longford GAA - Senior 1) - Thu 16/07 7:00pm",
-        "Clubber 5 : Old Leighlin V Fenagh (Carlow GAA - Senior 1) - Thu 16/07 7:30pm",
-        "Clubber 1 : Kildavin/Clonegal V Eire Og (Carlow GAA - Intermediate 1) - Fri 17/07 6:00pm",
-        "Clubber 2 : Ballinakill V Clough Ballacolla (Laois GAA - Senior 1) - Fri 17/07 6:30pm",
-        "Clubber 3 : Naomh Eanna V Sarsfields (Wexford - Senior 1) - Fri 17/07 6:30pm",
-        "Clubber 4 : Rathcline V Abbeylara (Longford GAA - Senior 1) - Fri 17/07 7:00pm",
-        "Clubber 5 : St. Marys Granard V Colmcille (Longford GAA - Senior 1) - Fri 17/07 7:00pm",
-        "Clubber 6 : Rathvilly V Grange (Carlow GAA - Senior 1) - Fri 17/07 7:30pm",
-        "Clubber 1 : Ferrybank V Clonea (Waterford GAA - Senior 1) - Sat 18/07 1:00pm",
-        "Clubber 2 : Half Way House Bunclody V Kilanerin-Ballyfad (Wexford - Senior 1) - Sat 18/07 1:00pm",
-        "Clubber 3 : Ballygunner B V The Nire/Fourmilewater (Waterford GAA - Senior 1) - Sat 18/07 1:30pm",
-        "Clubber 4 : Durrow V Bracknagh (Offaly GAA - Senior 1) - Sat 18/07 1:30pm",
-        "Clubber 5 : Castletown Liam Mellows V St Martins (Wexford - Senior 1) - Sat 18/07 2:30pm",
-        "Clubber 6 : The Harps V St Lazerian’s Abbeyleix (Laois GAA - Senior 1) - Sat 18/07 3:00pm",
-        "Clubber 7 : Causeway V St Brendans (Kerry GAA - Senior 1) - Sat 18/07 3:30pm",
-        "Clubber 8 : Clara V Ballycommon (Offaly GAA - Senior 1) - Sat 18/07 3:30pm",
-        "Clubber 9 : De La Salle V Passage (Waterford GAA - Senior 1) - Sat 18/07 4:00pm",
-        "Clubber 10 : Portlaoise V Borris-in-Ossory-Kilcotton (Laois GAA - Senior 1) - Sat 18/07 4:30pm",
-        "Clubber 11 : Palatine V Mount Leinster Rangers (Carlow GAA - Senior 1) - Sat 18/07 5:00pm",
-        "Clubber 12 : Abbeydorney V Ballyduff (Kerry GAA - Senior 1) - Sat 18/07 5:30pm",
-        "Clubber 13 : Dungarvan V Mount Sion (Waterford GAA - Senior 1) - Sat 18/07 5:45pm"
+        "Clubber 1 : Bagenalstown Gaels V Eire Og (Carlow GAA - Senior 1) - Thu 16/07 7:00pm",
+        "Clubber 2 : Ballyfin V Rosenallis (Laois GAA - Senior 1) - Thu 16/07 7:30pm",
+        "Clubber 3 : Ratoath V Kilmessan (Meath GAA - Senior 1) - Thu 16/07 7:30pm",
+        "Clubber 4 : Mullinalaghta St Columbas V Killoe Young Emmets (Longford GAA - Senior 1) - Thu 16/07 8:00pm",
+        "Clubber 5 : Old Leighlin V Fenagh (Carlow GAA - Senior 1) - Thu 16/07 8:30pm",
+        "Clubber 1 : Kildavin/Clonegal V Eire Og (Carlow GAA - Intermediate 1) - Fri 17/07 7:00pm",
+        "Clubber 2 : Ballinakill V Clough Ballacolla (Laois GAA - Senior 1) - Fri 17/07 7:30pm",
+        "Clubber 3 : Naomh Eanna V Sarsfields (Wexford - Senior 1) - Fri 17/07 7:30pm",
+        "Clubber 4 : Rathcline V Abbeylara (Longford GAA - Senior 1) - Fri 17/07 8:00pm",
+        "Clubber 5 : St. Marys Granard V Colmcille (Longford GAA - Senior 1) - Fri 17/07 8:00pm",
+        "Clubber 6 : Rathvilly V Grange (Carlow GAA - Senior 1) - Fri 17/07 8:30pm",
+        "Clubber 1 : Ferrybank V Clonea (Waterford GAA - Senior 1) - Sat 18/07 2:00pm",
+        "Clubber 2 : Half Way House Bunclody V Kilanerin-Ballyfad (Wexford - Senior 1) - Sat 18/07 2:00pm",
+        "Clubber 3 : Ballygunner B V The Nire/Fourmilewater (Waterford GAA - Senior 1) - Sat 18/07 2:30pm",
+        "Clubber 4 : Durrow V Bracknagh (Offaly GAA - Senior 1) - Sat 18/07 2:30pm",
+        "Clubber 5 : Castletown Liam Mellows V St Martins (Wexford - Senior 1) - Sat 18/07 3:30pm",
+        "Clubber 6 : The Harps V St Lazerian’s Abbeyleix (Laois GAA - Senior 1) - Sat 18/07 4:00pm",
+        "Clubber 7 : Causeway V St Brendans (Kerry GAA - Senior 1) - Sat 18/07 4:30pm",
+        "Clubber 8 : Clara V Ballycommon (Offaly GAA - Senior 1) - Sat 18/07 4:30pm",
+        "Clubber 9 : De La Salle V Passage (Waterford GAA - Senior 1) - Sat 18/07 5:00pm",
+        "Clubber 10 : Portlaoise V Borris-in-Ossory-Kilcotton (Laois GAA - Senior 1) - Sat 18/07 5:30pm",
+        "Clubber 11 : Palatine V Mount Leinster Rangers (Carlow GAA - Senior 1) - Sat 18/07 6:00pm",
+        "Clubber 12 : Abbeydorney V Ballyduff (Kerry GAA - Senior 1) - Sat 18/07 6:30pm",
+        "Clubber 13 : Roanmore V Lismore (Waterford GAA - Senior 1) - Sat 18/07 6:30pm"
       ],
       "sections": [],
       "events": []
@@ -1194,8 +1237,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 17:30 16/07/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 17:30 16/07/2026",
         "Sky Sport 1 - LIVE: MLC: Challenger - 02:15 17/07/2026",
         "Sky Sport 1 UHD - LIVE: MLC: Challenger - 02:15 17/07/2026",
         "Sky Sport 2 - LIVE: The Open Championship: Round 2 - 06:30 17/07/2026",
@@ -1346,9 +1387,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Panthers vs. Broncos - Thu 16/07 10:40am",
-        "Sportsnet 01 : The JD Bunkis Podcast: July 16 - Thu 16/07 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: July 16 - Thu 16/07 3:00pm",
         "Sportsnet 01 : Bradford Bulls vs. Wakefield Trinity - Thu 16/07 7:50pm",
         "Sportsnet 04 : Blue Jays Classics - 1993 World Series - Thu 16/07 10:00pm",
         "Sportsnet 02 : The FAN Pregame: July 16 - Thu 16/07 10:00pm",
@@ -1370,7 +1408,9 @@
         "Sportsnet 01 : Sportsnet Central: July 17 - Sat 18/07 10:00am",
         "Sportsnet 01 : Warrington Wolves vs. Hull KR - Sat 18/07 2:50pm",
         "Sportsnet 02 : Hull FC vs. Leigh Leopards - Sat 18/07 5:20pm",
-        "Sportsnet 03 : Chicago White Sox @ Toronto - Sat 18/07 7:30pm"
+        "Sportsnet 03 : Chicago White Sox @ Toronto - Sat 18/07 7:30pm",
+        "Sportsnet 04 : Toulouse Olympique vs. York Knights - Sat 18/07 7:50pm",
+        "Sportsnet 01 : Tampa Bay @ Boston - Sat 18/07 9:00pm"
       ],
       "sections": [],
       "events": []
