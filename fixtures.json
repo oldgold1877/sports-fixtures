@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T12:07:11.120901+00:00",
+  "scraped_at": "2026-07-17T17:00:46.462858+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,118 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Friday 17 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 08:00-20:00 - The 154th Open: Round 2 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Saturday 18 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 01:00-03:00 - WWE Friday Night Smackdown 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 162 Kongklai v Benwarwar"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 1:15pmACA 205 Magomedov v Gasanov"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 7pm Shooto Brazil 138"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 9pm Cage Fury FC 157"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 9pm ONE Fight Night 45 Lessei v Rabah"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 5pm CARS Tour North Wilkesboro"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 6pm World of Outlaws Sprints Eldora"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 6pm IWK 250 Riverside"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 11:15pmMidseason Championship Granby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 11:55pmIMCA King of the Creek 141 Speedway"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 7pm Albany Saratoga Empire Super Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 7pm Williams Grove Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 7pm Southern Nationals Swainsboro"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 12:15amLucas Oil Late Models Shelby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 12:30amMARS Late Models Farmer City"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 12:45amSkunk Cup Magic Valley"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 8pm KKM Challenge Series Coles"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 1:15amIMCA Weekly Racing Marshalltown"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 1:30amNARC Kaeding Classic Watsonville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 9pm Wolf Memorial Silver Dollar"
+            },
+            {
+              "type": "fixture",
+              "text": "17/07/2026 SPORTS SCENE 01 - 12:00am-21:00 - Friendly: St Gallen vs Norwich"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -898,18 +1009,6 @@
           ]
         },
         {
-          "sport": "️ GOLF",
-          "time": "18:00",
-          "name": "THE OPEN CHAMPIONSHIP",
-          "datetime": "2026-07-18 18:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
           "sport": "LACROSSE",
           "time": "19:00",
           "name": "DENVER OUTLAWS - CAROLINA CHAOS",
@@ -1186,7 +1285,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Northern Ireland: Wild Stories - 17/07/2026 12:00 - 18:00"
+        "BBC Events 02 - no_brand_title: U20 Rugby: Scotland v Wales / Rygbi dan 20:  Yr Alban v Cymru - 17/07/2026 17:09 - 19:30"
       ],
       "sections": [],
       "events": []
@@ -1681,19 +1780,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: FIA Formula 3: Rd6 Qualifying - 14:00 17/07/2026",
-        "Sky Sport 5 - LIVE: T20 Blast: Sf2: Hampshire v Durham - 14:30 17/07/2026",
-        "Sky Sport 9 - LIVE: JWC: USA v Uruguay 15th PO - 14:50 17/07/2026",
-        "Sky Sport 6 - LIVE: JWC: Argentina v Australia 7th PO - 14:50 17/07/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd8 Qualifying - 14:55 17/07/2026",
-        "Sky Sport Select - LIVE: Currie Cup: Pumas v Sharks - 16:00 17/07/2026",
-        "Sky Sport 3 - LIVE: The F1 Show: Belgian Grand Prix - 17:15 17/07/2026",
-        "Sky Sport 9 - LIVE: JWC: Scotland v Wales 5th PO - 17:20 17/07/2026",
-        "Sky Sport 6 - LIVE: JWC: Japan v Spain 13th PO - 17:20 17/07/2026",
-        "Sky Sport 7 - LIVE: Porsche Supercup: Rd4 practice - 17:25 17/07/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 17:30 17/07/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 17:30 17/07/2026",
-        "Sky Sport Select - LIVE: Currie Cup: Stormers v Griquas - 18:00 17/07/2026",
         "Sky Sport 5 - LIVE: T20 Blast: Final - 18:45 17/07/2026",
         "Sky Sport 1 - LIVE: SRA: Poua v Manawa - 01:00 18/07/2026",
         "Sky Sport 1 UHD - LIVE: SRA: Poua v Manawa - 01:00 18/07/2026",
@@ -1829,9 +1915,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Roosters vs. Storm - Fri 17/07 10:50am",
-        "Sportsnet 01 : The JD Bunkis Podcast: July 17 - Fri 17/07 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: July 17 - Fri 17/07 3:00pm",
         "Sportsnet 01 : Tampa Bay @ Boston GM1 - Fri 17/07 6:30pm",
         "Sportsnet 02 : Huddersfield Giants vs. Wigan Warriors - Fri 17/07 7:50pm",
         "Sportsnet 04 : St Helens vs. Catalans Dragons - Fri 17/07 7:50pm",
@@ -1853,7 +1936,9 @@
         "Sportsnet 02 : UFC Fight Night - Du Plessis vs. Usman - Sun 19/07 1:00am",
         "Sportsnet 03 : Women's NRL - Titans vs. Eels - Sun 19/07 2:40am",
         "Sportsnet 01 : Women's NRL - Broncos vs. Wests Tigers - Sun 19/07 4:35am",
-        "Sportsnet 04 : Dolphins vs. Cowboys - Sun 19/07 6:55am"
+        "Sportsnet 04 : Dolphins vs. Cowboys - Sun 19/07 6:55am",
+        "Sportsnet 02 : Sportsnet Central: July 18 - Sun 19/07 10:00am",
+        "Sportsnet 01 : Castleford Tigers vs. Leeds Rhinos - Sun 19/07 2:50pm"
       ],
       "sections": [],
       "events": []
@@ -1864,9 +1949,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Iasi: Day 5 - WTA 250 - Fri 17/07 11:00am",
         "Stan 06 : Argentina v Australia - Junior World Championship Play-off 2026 - Fri 17/07 2:50pm",
-        "Stan 05 : USA v Uruguay - Junior World Championship Play-off 2026 - Fri 17/07 2:50pm",
+        "Stan 05 : USA v Uruguay - Junior World Championship Play-off 2026 - Fri 17/07 2:51pm",
         "Stan 01 : Athens: Day 5 - WTA 250 - Fri 17/07 3:30pm",
         "Stan 03 : Pumas v Sharks - Currie Cup Round 1 2026 - Fri 17/07 3:55pm",
         "Stan 07 : Japan v Spain - Junior World Championship Play-off 2026 - Fri 17/07 5:20pm",
@@ -1908,7 +1992,7 @@
         "Stan 17 : Italy v Ireland - Junior World Championship Play-off 2026 - Sat 18/07 5:20pm",
         "Stan 02 : Athens: Day 6 - WTA 250 - Sat 18/07 5:30pm",
         "Stan 10 : Uruguay v Hong Kong China - Nations Cup Round 3 2026 - Sat 18/07 5:50pm",
-        "Stan 03 : Chile v Georgia - Nations Cup Round 3 2026 - Sat 18/07 7:50pm",
+        "Stan 03 : Chile v Georgia - Nations Cup Round 3 2026 - Sat 18/07 6:00pm",
         "Stan 12 : Argentina v England - Nations Championship Round 3 2026 - Sat 18/07 8:00pm",
         "Stan 11 : Qualifying: Grand Prix of Nashville - Indycar 2026 - Sat 18/07 8:00pm",
         "Stan 04 : Tonga v Portugal - Nations Cup Round 3 2026 - Sat 18/07 9:35pm",
@@ -1953,12 +2037,6 @@
       "fixtures": [
         "TSN 01 : ATP 250 Tennis: Gstaad - Quarterfinals - Fri 17/07 9:30am",
         "TSN 02 : ATP 250 Tennis: Bastad - Quarterfinals - Fri 17/07 10:00am",
-        "TSN 04 : Formula 1 Driver Tracker - Belgian Grand Prix Practice #1 - Fri 17/07 12:20pm",
-        "TSN 03 : Formula 1 Pit Lane - Belgian Grand Prix Practice #1 - Fri 17/07 12:20pm",
-        "TSN 05 : Formula 3 Qualifying: Spa-Francorchamps - Fri 17/07 1:58pm",
-        "TSN 06 : Formula 2 Qualifying: Spa-Francorchamps - Fri 17/07 2:50pm",
-        "TSN 07 : Formula 1 Driver Tracker - Belgian Grand Prix Practice #2 - Fri 17/07 3:50pm",
-        "TSN 08 : Formula 1 Pit Lane - Belgian Grand Prix Practice #2 - Fri 17/07 3:50pm",
         "TSN 03 : ATP 250 Tennis: Umag - Semifinals - Fri 17/07 5:30pm",
         "TSN 01 : Premier Lacrosse League: California Redwoods vs. Maryland Whipsnakes - Fri 17/07 11:00pm",
         "TSN 02 : Athletes Unlimited Softball League: Volts vs. Cascade - Sat 18/07 1:00am",
