@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T11:51:32.305043+00:00",
+  "scraped_at": "2026-07-18T17:00:45.436841+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,10 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 05 - 12:00-22:00 - The 154th Open: Round 3 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 14:55-17:00 - F1: Belgian GP - Qualifying 1080p"
             },
             {
               "type": "fixture",
@@ -348,9 +344,9 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "21:05",
+          "time": "20:05",
           "name": "PHILADELPHIA PHILLIES - NEW YORK METS",
-          "datetime": "2026-07-18 21:05:00",
+          "datetime": "2026-07-18 20:05:00",
           "channels": [
             {
               "name": "SNY",
@@ -1135,6 +1131,10 @@
           "datetime": "2026-07-19 12:00:00",
           "channels": [
             {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            },
+            {
               "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
@@ -1348,9 +1348,9 @@
         "Sky Sports F1 UHD - Live: IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Practice 1 - Sat 18/07 7:00pm",
         "Sky Sports UHD 2 - Live: World Matchplay Darts - Day 1 - Sat 18/07 7:00pm",
         "Sky Sports Main Event UHD - World Cup Report - Sat 18/07 10:30pm",
+        "Sky Sports Main Event UHD - Live: Major League Cricket - Final: Los Angeles Knight Riders v Washington Freedom - Sun 19/07 12:30am",
         "Sky Sports F1 UHD - FIA Formula 2 Championship - Belgium: Sprint Race - Sun 19/07 1:00am",
         "Sky Sports F1 UHD - FIA Formula 3 Championship - Belgium: Sprint Race - Sun 19/07 2:15am",
-        "Sky Sports Main Event UHD - Live: Major League Cricket - Final: Los Angeles Knight Riders v Washington Freedom - Sun 19/07 2:30am",
         "Sky Sports F1 UHD - Ginetta Junior Championship - Zandvoort: Highlights - Sun 19/07 6:15am",
         "Sky Sports UHD 1 - Live: One-Day International Cricket - 3rd ODI: England v India - Sun 19/07 10:30am",
         "Sky Sports F1 UHD - IndyCar NXT Series - Borchetta Bourbon Music City Grand Prix: Race - Sun 19/07 9:30pm"
@@ -1363,9 +1363,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Rugby League: Super League: St Helens v Catalans Dragons - 18/07/2026 11:00 - 13:04"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1857,20 +1855,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: FIA Formula 2: Rd8 Sprint Race - 13:10 18/07/2026",
-        "Sky Sport 1 - LIVE: NC: Fiji v Scotland - 14:00 18/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: Fiji v Scotland - 14:00 18/07/2026",
-        "Sky Sport 2 - LIVE: FIA F1: Belgian GP Qualifying - 14:15 18/07/2026",
-        "Sky Sport 6 - LIVE: T20 Blast: Hawks v Outlaws SF2 - 14:30 18/07/2026",
-        "Sky Sport 7 - LIVE: JWC: New Zealand v England 3rd PO - 14:45 18/07/2026",
-        "Sky Sport Select - LIVE: JWC: Georgia v Fiji 11th PO - 14:50 18/07/2026",
-        "Sky Sport 3 - LIVE: NC: Samoa v Romania - 15:20 18/07/2026",
-        "Sky Sport 1 - LIVE: NC: South Africa v Wales - 16:20 18/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: South Africa v Wales - 16:20 18/07/2026",
-        "Sky Sport 5 - LIVE: PGA Tour: Round 3 - 17:05 18/07/2026",
-        "Sky Sport Select - LIVE: JWC: Italy v Ireland 9th PO - 17:20 18/07/2026",
-        "Sky Sport 3 - LIVE: JWC: South Africa v France Final - 17:30 18/07/2026",
-        "Sky Sport 9 - LIVE: NC: Chile v Georgia - 17:50 18/07/2026",
         "Sky Sport 6 - LIVE: T20 Blast: Final - 18:45 18/07/2026",
         "Sky Sport 2 - LIVE: World Matchplay Darts: Day 1 - 19:00 18/07/2026",
         "Sky Sport 1 - LIVE: NC: Argentina v England - 19:45 18/07/2026",
@@ -1879,11 +1863,11 @@
         "Sky Sport 4 - LIVE: NC: Tonga v Portugal - 21:35 18/07/2026",
         "Sky Sport 7 - LIVE: PFL Austin - 22:30 18/07/2026",
         "Sky Sport 9 - LIVE: INDYCAR: Nashville: P 2 - 23:00 18/07/2026",
-        "Sky Sport Select - LIVE: MLC: Los Angeles v Washington (F) - 00:00 19/07/2026",
         "Sky Sport 9 - LIVE: INDYCAR: Nashville: Final P - 00:00 19/07/2026",
+        "Sky Sport Select - LIVE: MLC: Los Angeles v Washington (F) - 00:00 19/07/2026",
         "Sky Sport 6 - LIVE: Champ of Champs Wmn Singles Final - 00:15 19/07/2026",
         "Sky Sport 4 - LIVE: NC: USA v Spain - 00:20 19/07/2026",
-        "Sky Sport 3 - LIVE: NC: Canada v Zimbabwe - 00:50 19/07/2026",
+        "Sky Sport 3 - LIVE: NC: Canada v Zimbabwe - 01:00 19/07/2026",
         "Sky Sport 1 - LIVE: NRLW: Titans v Eels R3 - 02:45 19/07/2026",
         "Sky Sport 1 UHD - LIVE: NRLW: Titans v Eels R3 - 02:45 19/07/2026",
         "Sky Sport 5 - LIVE: UCI BMX Racing WCHS: Finals - 02:50 19/07/2026",
@@ -1912,9 +1896,9 @@
         "Sky Sport 1 - LIVE: FIA F1: Belgian Grand Prix - 13:55 19/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Belgian Grand Prix - 13:55 19/07/2026",
         "Sky Sport 7 - LIVE: Currie Cup: Kavaliers v Bulls - 14:00 19/07/2026",
-        "Sky Sport 5 - LIVE: PGA Tour: Round 4 - 16:00 19/07/2026",
         "Sky Sport 1 - LIVE: FIA F1: Belgian GP Chequered Flag - 16:00 19/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Belgian GP Chequered Flag - 16:00 19/07/2026",
+        "Sky Sport 5 - LIVE: PGA Tour: Round 4 - 16:00 19/07/2026",
         "Sky Sport 2 - LIVE: World Matchplay Darts: Day 2 S2 - 19:00 19/07/2026",
         "Sky Sport 1 - LIVE: INDYCAR: Nashville - 22:35 19/07/2026",
         "Sky Sport 1 UHD - LIVE: INDYCAR: Nashville - 22:35 19/07/2026",
@@ -1943,10 +1927,10 @@
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 2 - 20:30 22/07/2026",
         "Sky Sport 2 - LIVE: Rapid League: Hawks v Saints - 07:00 23/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Hawks v Saints - 08:00 23/07/2026",
-        "Sky Sport 3 - LIVE: LPGA: Round 1 - 09:30 23/07/2026",
-        "Sky Sport 4 - LIVE: Lawn Bowls D0 - 09:30 23/07/2026",
         "Sky Sport 1 - LIVE: NRL: Eels v Panthers - 09:30 23/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Eels v Panthers - 09:30 23/07/2026",
+        "Sky Sport 3 - LIVE: LPGA: Round 1 - 09:30 23/07/2026",
+        "Sky Sport 4 - LIVE: Lawn Bowls D0 - 09:30 23/07/2026",
         "Sky Sport 5 - LIVE: AFL: Adelaide Crows v Collingwood - 10:25 23/07/2026",
         "Sky Sport 2 - LIVE: Tour de France Stage 18 - 11:25 23/07/2026",
         "Sky Sport 3 - LIVE: Golf: The Senior Open Championship - 13:30 23/07/2026",
@@ -1958,7 +1942,24 @@
         "Sky Sport Select - LIVE: ICF: Oklahoma Day 3 Session 2 - 20:00 23/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
-        "Sky Sport 2 - LIVE: GSL: Warriors v Unicorns - 23:30 23/07/2026"
+        "Sky Sport 2 - LIVE: GSL: Warriors v Unicorns - 23:30 23/07/2026",
+        "Sky Sport 1 - LIVE: NRL: Knights v Roosters - 07:30 24/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Knights v Roosters - 07:30 24/07/2026",
+        "Sky Sport 2 - LIVE: Rapid League: Jets v Bulls - 07:30 24/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula E: Rd14 P1 - 07:55 24/07/2026",
+        "Sky Sport 2 - LIVE: Sal's NBL: Jets v Bulls - 08:30 24/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 3: Rd7 Practice - 08:55 24/07/2026",
+        "Sky Sport Select - LIVE: LPGA: Round 2 - 09:30 24/07/2026",
+        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S1 - 10:00 24/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd9 Practice - 10:00 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball D1 S1 - 10:00 24/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D1 S1 - 10:30 24/07/2026",
+        "Sky Sport 1 - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
+        "Sky Sport 9 - LIVE: Boxing Day D1 S1 - 11:00 24/07/2026",
+        "Sky Sport 2 - LIVE: FIA F1: Hungary GP Practice 1 - 12:00 24/07/2026",
+        "Sky Sport 3 - LIVE: Tour de France Stage 19 - 12:50 24/07/2026",
+        "Sky Sport 5 - LIVE: Glasgow - Para Powerlifting D1 Aft - 13:00 24/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1978,7 +1979,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Warrington Wolves vs. Hull KR - Sat 18/07 2:50pm",
         "Sportsnet 02 : Hull FC vs. Leigh Leopards - Sat 18/07 5:20pm",
         "Sportsnet 03 : Chicago White Sox @ Toronto - Sat 18/07 7:30pm",
         "Sportsnet 04 : Toulouse Olympique vs. York Knights - Sat 18/07 7:50pm",
@@ -2013,10 +2013,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Japan v France - Nations Championship Round 3 2026 - Sat 18/07 9:30am",
-        "Stan 02 : Australia v Italy - Nations Championship Round 3 2026 - Sat 18/07 10:00am",
-        "Stan 03 : Incheon v Jeonbuk - K League 2026 - Sat 18/07 11:25am",
-        "Stan 04 : Fiji v Scotland - Nations Championship Round 3 2026 - Sat 18/07 2:00pm",
         "Stan 14 : Georgia v Fiji - Junior World Championship Play-off 2026 - Sat 18/07 2:50pm",
         "Stan 15 : New Zealand v England - Junior World Championship Play-off 2026 - Sat 18/07 2:50pm",
         "Stan 13 : Iasi: Day 6 - WTA 250 - Sat 18/07 3:00pm",
@@ -2074,7 +2070,10 @@
         "Stan 15 : Joondalup v Southern Lions - WA Premier Grade Round 14 2026 - Sat 25/07 8:25am",
         "Stan 01 : Race 1: Tokyo - Formula E 2025/26 - Sat 25/07 11:00am",
         "Stan 17 : Gimcheon v Daejeon - K League 2026 - Sat 25/07 11:25am",
-        "Stan 16 : Pohang v Jeonbuk - K League 2026 - Sat 25/07 11:25am"
+        "Stan 16 : Pohang v Jeonbuk - K League 2026 - Sat 25/07 11:25am",
+        "Stan 02 : Prague: Day 6 - WTA 250 - Sat 25/07 12:30pm",
+        "Stan 03 : Hamburg: Day 6 - WTA 250 - Sat 25/07 1:00pm",
+        "Stan 04 : Lions v Pumas - Currie Cup Round 2 2026 - Sat 25/07 1:55pm"
       ],
       "sections": [],
       "events": []
@@ -2095,15 +2094,8 @@
       "status": "ok",
       "fixtures": [
         "TSN 02 : 2026 Open Championship: Third Round - Featured Group - Sat 18/07 9:35am",
-        "TSN 03 : ATP 250 Tennis: Gstaad - Semifinals - Sat 18/07 10:00am",
-        "TSN 04 : 2026 Open Championship: Third Round - Player Focus Feed - Sat 18/07 10:45am",
         "TSN 07 : 2026 Open Championship: Third Round - Featured Group - Sat 18/07 11:45am",
-        "TSN 08 : ATP 250 Tennis: Bastad - Semifinals - Sat 18/07 12:00pm",
-        "TSN 01 : Formula 2 Sprint Race: Spa-Francorchamps - Sat 18/07 1:10pm",
         "TSN 11 : 2026 Rugby World Junior Championship: 3rd Place & Final - Sat 18/07 2:50pm",
-        "TSN 09 : Formula 1 Driver Tracker: Belgian Grand Prix Qualifying - Sat 18/07 2:50pm",
-        "TSN 10 : Formula 1 Pit Lane: Belgian Grand Prix Qualifying - Sat 18/07 2:50pm",
-        "TSN 12 : IndyCar Practice 1: Borchetta Bourbon Music City Grand Prix - Sat 18/07 3:00pm",
         "TSN 01 : 2026 NASCAR CRAFTSMAN Truck Series: Faith Fest 250 - Sat 18/07 5:30pm",
         "TSN 05 : ATP 250 Tennis: Umag - Final - Sat 18/07 6:00pm",
         "TSN 06 : Athletes Unlimited Softball League: Talons vs. Bandits - Sat 18/07 7:00pm",
