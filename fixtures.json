@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T07:15:23.076807+00:00",
+  "scraped_at": "2026-07-19T09:02:39.039124+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -254,6 +254,30 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "15:30",
+          "name": "NIKE EYBL PEACH JAM",
+          "datetime": "2026-07-19 15:30:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "17:00",
+          "name": "3SSB PALMETTO ROAD CHAMPIONSHIPS",
+          "datetime": "2026-07-19 17:00:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "18:00",
           "name": "DALLAS WINGS - LOS ANGELES SPARKS",
           "datetime": "2026-07-19 18:00:00",
@@ -318,18 +342,6 @@
           "name": "PHOENIX MERCURY - CONNECTICUT SUN",
           "datetime": "2026-07-20 00:00:00",
           "channels": []
-        },
-        {
-          "sport": "CYCLING",
-          "time": "20:00",
-          "name": "TOUR DE FRANCE",
-          "datetime": "2026-07-19 20:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
         },
         {
           "sport": "EQUESTRIAN",
@@ -523,9 +535,21 @@
           ]
         },
         {
+          "sport": "SOFTBALL",
+          "time": "17:00",
+          "name": "BLAZE - SPARK",
+          "datetime": "2026-07-19 17:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "TENNIS",
           "time": "10:30",
-          "name": "SWEDISH OPEN",
+          "name": "STEFANOS TSITSIPAS - RAPHAEL COLLIGNON",
           "datetime": "2026-07-19 10:30:00",
           "channels": [
             {
@@ -537,7 +561,7 @@
         {
           "sport": "TENNIS",
           "time": "10:30",
-          "name": "SWISS OPEN GSTAAD",
+          "name": "SWEDISH OPEN",
           "datetime": "2026-07-19 10:30:00",
           "channels": [
             {
@@ -549,7 +573,7 @@
         {
           "sport": "TENNIS",
           "time": "13:00",
-          "name": "SWEDISH OPEN",
+          "name": "ANDREY RUBLEV - LUCIANO DARDERI",
           "datetime": "2026-07-19 13:00:00",
           "channels": [
             {
@@ -736,56 +760,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Monaco Group Stages - 09:30 18/07/2026",
-        "DAZN CA 02 - EWC ML:BB Women Day 05 - 10:00 18/07/2026",
-        "DAZN CA 03 - Delfi Rally Estonia: Stage 10 - 10:10 18/07/2026",
-        "DAZN CA 04 - Delfi Rally Estonia: Stage 11 - 11:03 18/07/2026",
-        "DAZN CA 05 - EWC Dota 02 Week 02 Day 05 - 12:00 18/07/2026",
-        "DAZN CA 06 - EWC League of Legends Day 04 - 12:00 18/07/2026",
-        "DAZN CA 07 - Monaco Race Off - 12:10 18/07/2026",
-        "DAZN CA 08 - Riesenback GCL Round 01 - 12:45 18/07/2026",
-        "DAZN CA 09 - Paul Ricard Race 01 - 12:50 18/07/2026",
-        "DAZN CA 10 - EWC Free Fire Day 04 - 13:00 18/07/2026",
-        "DAZN CA 11 - RWS: Chiabkard vs. Narak - 13:10 18/07/2026",
-        "DAZN CA 12 - Delfi Rally Estonia: Stage 12 - 13:48 18/07/2026",
-        "DAZN CA 13 - Monaco Finals - 14:00 18/07/2026",
-        "DAZN CA 14 - Paul Ricard Race 01 - 14:15 18/07/2026",
-        "DAZN CA 15 - Iasi Open: Day 06 - 15:00 18/07/2026",
-        "DAZN CA 16 - Delfi Rally Estonia: Stage 13 - 15:00 18/07/2026",
-        "DAZN CA 17 - Riesenback GCL Round 02 - 15:15 18/07/2026",
-        "DAZN CA 18 - Le Castellet Race 01 - 15:30 18/07/2026",
-        "DAZN CA 19 - Eubank vs. Papot: Prelims - 15:30 18/07/2026",
-        "DAZN CA 20 - Delfi Rally Estonia: Stage 14 - 16:00 18/07/2026",
-        "DAZN CA 21 - Lima Day 05 - 16:00 18/07/2026",
-        "DAZN CA 22 - Paul Ricard Race 01 - 16:23 18/07/2026",
-        "DAZN CA 23 - Delfi Rally Estonia: Stage 15 - 17:00 18/07/2026",
-        "DAZN CA 24 - Athens Open: Day 06 - 17:30 18/07/2026",
-        "DAZN CA 25 - BKFC 91: Hunt vs. Pugliesi - 18:00 18/07/2026",
-        "DAZN CA 26 - Delfi Rally Estonia: Stage 16 - 18:35 18/07/2026",
-        "DAZN CA 27 - Eubank vs. Papot - 19:00 18/07/2026",
-        "DAZN CA 28 - Pacheco vs. Aleem: Prelims - 22:30 18/07/2026",
-        "DAZN CA 29 - Pacheco vs. Aleem - 01:00 19/07/2026",
-        "DAZN CA 30 - Paul Ricard Race 02 - 08:45 19/07/2026",
-        "DAZN CA 31 - Delfi Rally Estonia: Stage 17 - 09:00 19/07/2026",
-        "DAZN CA 32 - Le Castellet Race 02 - 09:55 19/07/2026",
-        "DAZN CA 33 - EWC League of Legends Day 05 - 11:00 19/07/2026",
-        "DAZN CA 34 - EWC Dota 02 Week 02 Day 06 - 11:00 19/07/2026",
-        "DAZN CA 35 - Delfi Rally Estonia: Stage 18 - 11:00 19/07/2026",
-        "DAZN CA 36 - Paul Ricard Race 02 - 11:10 19/07/2026",
-        "DAZN CA 37 - Paul Ricard Race 02 - 12:28 19/07/2026",
-        "DAZN CA 38 - Delfi Rally Estonia: Wrap Show from Kääriku Podium - 12:30 19/07/2026",
-        "DAZN CA 39 - Riesenback Longines Global Champions Tour Grand Prix - 14:00 19/07/2026",
-        "DAZN CA 40 - Paul Ricard Race 03 - 14:10 19/07/2026",
-        "DAZN CA 41 - Iasi Open: Final - 15:30 19/07/2026",
-        "DAZN CA 42 - Le Castellet Race 03 - 16:20 19/07/2026",
-        "DAZN CA 43 - Athens Open: Final - 18:00 19/07/2026",
-        "DAZN CA 44 - DAZN48: FIFA World Cup™ Final Watchalong - 20:00 19/07/2026",
-        "DAZN CA 45 - Inside The Ring July 20 - 19:00 20/07/2026",
-        "DAZN CA 46 - EWC Teamfight Tactics 2026 Day 01 Stream A - 09:00 21/07/2026",
-        "DAZN CA 47 - EWC Teamfight Tactics 2026 Day 01 Stream B - 09:00 21/07/2026",
-        "DAZN CA 48 - EWC PUBG Battlegrounds Day 01 - 12:00 21/07/2026",
-        "DAZN CA 49 - EWC Teamfight Tactics 2026 Day 02 Stream A - 09:00 22/07/2026",
-        "DAZN CA 50 - EWC Teamfight Tactics 2026 Day 02 Stream B - 09:00 22/07/2026"
+        "DAZN CA 01 - Paul Ricard Race 02 - 08:45 19/07/2026",
+        "DAZN CA 02 - Delfi Rally Estonia: Stage 17 - 09:00 19/07/2026",
+        "DAZN CA 03 - Le Castellet Race 02 - 09:55 19/07/2026",
+        "DAZN CA 04 - EWC League of Legends Day 05 - 11:00 19/07/2026",
+        "DAZN CA 05 - EWC Dota 02 Week 02 Day 06 - 11:00 19/07/2026",
+        "DAZN CA 06 - Delfi Rally Estonia: Stage 18 - 11:00 19/07/2026",
+        "DAZN CA 07 - Paul Ricard Race 02 - 11:10 19/07/2026",
+        "DAZN CA 08 - Paul Ricard Race 02 - 12:28 19/07/2026",
+        "DAZN CA 09 - Delfi Rally Estonia: Wrap Show from Kääriku Podium - 12:30 19/07/2026",
+        "DAZN CA 10 - Riesenback Longines Global Champions Tour Grand Prix - 14:00 19/07/2026",
+        "DAZN CA 11 - Paul Ricard Race 03 - 14:10 19/07/2026",
+        "DAZN CA 12 - Iasi Open: Final - 15:30 19/07/2026",
+        "DAZN CA 13 - Third Place Playoff: Canada U17 vs. Australia U17 - 16:15 19/07/2026",
+        "DAZN CA 14 - Le Castellet Race 03 - 16:20 19/07/2026",
+        "DAZN CA 15 - Athens Open: Final - 18:00 19/07/2026",
+        "DAZN CA 16 - Final: United States U17 vs. Spain U17 - 19:15 19/07/2026",
+        "DAZN CA 17 - DAZN48: FIFA World Cup™ Final Watchalong - 20:00 19/07/2026",
+        "DAZN CA 18 - Inside The Ring July 20 - 19:00 20/07/2026",
+        "DAZN CA 19 - EWC Teamfight Tactics 2026 Day 01 Stream A - 09:00 21/07/2026",
+        "DAZN CA 20 - EWC Teamfight Tactics 2026 Day 01 Stream B - 09:00 21/07/2026",
+        "DAZN CA 21 - EWC PUBG Battlegrounds Day 01 - 12:00 21/07/2026",
+        "DAZN CA 22 - EWC Teamfight Tactics 2026 Day 02 Stream A - 09:00 22/07/2026",
+        "DAZN CA 23 - EWC Teamfight Tactics 2026 Day 02 Stream B - 09:00 22/07/2026",
+        "DAZN CA 24 - EWC ML:BB 2026 Day 01 - 10:00 22/07/2026",
+        "DAZN CA 25 - EWC PUBG Battlegrounds Day 02 - 12:00 22/07/2026",
+        "DAZN CA 26 - EWC EAFC 2026 Day 01 - 16:00 22/07/2026",
+        "DAZN CA 27 - EWC Teamfight Tactics 2026 Day 03 - 09:00 23/07/2026",
+        "DAZN CA 28 - Prague Open: Day 04 - 10:00 23/07/2026",
+        "DAZN CA 29 - Hamburg Open: Day 04 - 10:00 23/07/2026",
+        "DAZN CA 30 - EWC ML:BB 2026 Day 02 - 10:00 23/07/2026",
+        "DAZN CA 31 - EWC PUBG Battlegrounds Day 03 - 12:00 23/07/2026",
+        "DAZN CA 32 - LIV Golf UK Day 01 - 13:00 23/07/2026",
+        "DAZN CA 33 - EWC EAFC 2026 Day 02 - 16:00 23/07/2026",
+        "DAZN CA 34 - Joshua vs. Prenga: Press Conference - 18:00 23/07/2026",
+        "DAZN CA 35 - EWC Teamfight Tactics 2026 Day 04 - 09:00 24/07/2026",
+        "DAZN CA 36 - Hamburg Open: Day 05 - 10:00 24/07/2026",
+        "DAZN CA 37 - Prague Open: Day 05 - 10:00 24/07/2026",
+        "DAZN CA 38 - EWC ML:BB 2026 Day 03 - 10:00 24/07/2026",
+        "DAZN CA 39 - PUBG Battlegrounds Day 04 - 12:00 24/07/2026",
+        "DAZN CA 40 - LIV Golf UK Day 02 - 13:00 24/07/2026",
+        "DAZN CA 41 - 2026 NFL Flag Championship: Round of 16 - Session 01 - 15:00 24/07/2026",
+        "DAZN CA 42 - EWC EAFC 2026 Day 03 - 16:00 24/07/2026",
+        "DAZN CA 43 - 2026 NFL Flag Championship: Round of 16 - Session 02 - 17:00 24/07/2026",
+        "DAZN CA 44 - Joshua vs. Prenga: Weigh In - 19:00 24/07/2026",
+        "DAZN CA 45 - 82nd Rally Poland: Stage 01 - 20:15 24/07/2026",
+        "DAZN CA 46 - 82nd Rally Poland: Stage 02 - 08:01 25/07/2026",
+        "DAZN CA 47 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
+        "DAZN CA 48 - 82nd Rally Poland: Stage 03 - 09:01 25/07/2026",
+        "DAZN CA 49 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
+        "DAZN CA 50 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1157,9 +1181,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: FIA Formula 2: Rd8 Feature Race - 08:55 19/07/2026",
-        "Sky Sport 3 - LIVE: The Open Championship: Round 4 - 09:00 19/07/2026",
-        "Sky Sport 5 - LIVE: NRLW: Knights v Dragons R3 - 09:10 19/07/2026",
         "Sky Sport 2 - LIVE: England v India: 3rd ODI - 10:30 19/07/2026",
         "Sky Sport 4 - LIVE: Porsche Supercup: Rd4 Race - 10:40 19/07/2026",
         "Sky Sport 7 - LIVE: Currie Cup: Cheetahs v Lions - 11:55 19/07/2026",
@@ -1272,7 +1293,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 04 : Dolphins vs. Cowboys - Sun 19/07 6:55am",
         "Sportsnet 02 : Sportsnet Central: July 18 - Sun 19/07 10:00am",
         "Sportsnet 01 : Castleford Tigers vs. Leeds Rhinos - Sun 19/07 2:50pm",
         "Sportsnet 02 : Chicago White Sox @ Toronto - Sun 19/07 4:30pm",
@@ -1386,7 +1406,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : Formula 3 Feature Race: Spa-Francorchamps - Sun 19/07 7:25am",
         "TSN 02 : 2026 Open Championship: Final Round - Featured Group - Sun 19/07 8:45am",
         "TSN 03 : Formula 2 Feature Race: Spa-Francorchamps - Sun 19/07 8:55am",
         "TSN 04 : 2026 Open Championship: Final Round - Featured Group - Sun 19/07 9:10am",
@@ -1412,7 +1431,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P1M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":4119,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":false,\"sku\":\"ufc_qcfXGEh3IKruN9x37SvR_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1647018996000,\"default\":false},{\"id\":11135,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":false,\"sku\":\"ufc_6IkzDQZ8D06qgSQIaT5k_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769115732000,\"default\":false},{\"id\":2063,\"currency\":\"PHP\",\"scale\":2,\"amount\":115000,\"taxInclusive\":true,\"sku\":\"ufc_BS5bV7NhQcVlwhm8OUTR_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":26834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1399167,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":115000,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641949000,\"default\":false},{\"id\":4122,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":true,\"sku\":\"ufc_6t6q3TH30ggDoV2kv0sd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1647019044000,\"default\":false},{\"id\":1569,\"currency\":\"JPY\",\"scale\":0,\"amount\":2189,\"taxInclusive\":true,\"sku\":\"ufc_r8YPoyBbyxOpDzdBFU9n_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":73,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":511,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":26633,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2189,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"}],\"effectiveFrom\":1680727604000,\"default\":true},{\"id\":4123,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":true,\"sku\":\"ufc_9BM8waqBs90X7GQa5Fzd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641961000,\"default\":false},{\"id\":11141,\"currency\":\"ILS\",\"scale\":2,\"amount\":9190,\"taxInclusive\":true,\"sku\":\"ufc_h7Ty2VjjtPUcDcfb6quf_ILS\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":111812,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2145,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":307,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9190,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769155650000,\"default\":false},{\"id\":4124,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":false,\"sku\":\"ufc_uwWNHMgrrCLIbNb9ru6N_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641904000,\"default\":false},{\"id\":11138,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":true,\"sku\":\"ufc_3bjMuuLNOQBqm2eL8cNv_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769153993000,\"default\":false},{\"id\":11140,\"currency\":\"PLN\",\"scale\":2,\"amount\":12799,\"taxInclusive\":true,\"sku\":\"ufc_IysyyM7JWAT8mmTxd9bI_PLN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":155722,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":427,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2987,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":12799,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769155477000,\"default\":false},{\"id\":11157,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_i77LSWODdVStZeRfctUo_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":2064,\"currency\":\"USD\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_yNe71XeuKRT2PnFvi7t9_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":30405,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":84,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":584,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":2499,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009870000,\"default\":false},{\"id\":11134,\"currency\":\"HKD\",\"scale\":2,\"amount\":10300,\"taxInclusive\":true,\"sku\":\"ufc_djvVJZmYYE8lNOAYKq8X_HKD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":10300,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":125317,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2404,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":344,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769114711000,\"default\":false},{\"id\":4121,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_s1fGZ7L0WqGCyODgvdSx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748642352000,\"default\":false},{\"id\":4120,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_6ao2dCcgc1WcY7Ntqwy0_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641848000,\"default\":false},{\"id\":2065,\"currency\":\"EUR\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_Q2n7HRBBGQTAAw4sE1QP_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":67,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":24322,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":2067,\"currency\":\"EUR\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_xALgAMslgDnpYfQ9Aiui_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":84,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":584,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":30405,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2499,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":11139,\"currency\":\"EUR\",\"scale\":2,\"amount\":2849,\"taxInclusive\":true,\"sku\":\"ufc_jotac4RiWFKXEKKK9Sce_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":665,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":34663,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":95,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2849,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769154857000,\"default\":false},{\"id\":11158,\"currency\":\"TRY\",\"scale\":2,\"amount\":89999,\"taxInclusive\":true,\"sku\":\"ufc_QqElPHD5iQluMNkJM6mF_TRY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1094988,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":89999,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":3000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":21000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":2066,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_E3RhVJbdyPda5hpQDvcL_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"}],\"rokuIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"amazonIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "FURY FC 121 - Sun 19/07 10:30pm",
         "559 FIGHTS: 125 - Mon 20/07 2:00am"
       ],
