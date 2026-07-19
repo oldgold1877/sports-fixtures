@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T17:56:12.487596+00:00",
+  "scraped_at": "2026-07-19T07:15:23.076807+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,27 +13,35 @@
           "entries": [
             {
               "type": "date",
-              "text": "Saturday 18 July 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 12:00-22:00 - The 154th Open: Round 3 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 18:00-22:00 - BKFC 91: Hunt vs. Pugliesi 1080p"
-            },
-            {
-              "type": "date",
               "text": "Sunday 19 July 2026"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 03 - 01:00-04:00 - UFC Fight Night: Du Plessis vs. Usman [Main Card] 1080p"
+              "text": "SPORTS SCENE 08 - 11:00-18:30 - 3rd ODI: England vs India 1080p"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 09 - 01:00-04:00 - Boxing: Pacheco vs. Aleem 1080p"
+              "text": "SPORTS SCENE 05 - 12:00-20:00 - The 154th Open Championship: Final Round 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 12:30-13:55 - F1: Belgian GP - Grand Prix Sunday 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 13:55-16:00 - F1: Belgian GP - Race 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - 2026 FIFA World Cup Final: Spain vs Argentina 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - 2026 FIFA World Cup Final: Spain vs Argentina 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 20:00-22:00 - 2026 FIFA World Cup Final: Spain vs Argentina 720p"
             }
           ]
         },
@@ -42,19 +50,19 @@
           "entries": [
             {
               "type": "date",
-              "text": "Saturday 18 July 2026"
+              "text": "Sunday 19 July 2026"
             },
             {
               "type": "fixture",
-              "text": "World Cup 01 - Knockout: France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "World Cup 01 - Knockout: Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             },
             {
               "type": "fixture",
-              "text": "World Cup 02 - Knockout: France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "World Cup 02 - Knockout: Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             },
             {
               "type": "fixture",
-              "text": "World Cup 03 - Knockout: France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "World Cup 03 - Knockout: Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             }
           ]
         },
@@ -63,32 +71,23 @@
           "entries": [
             {
               "type": "date",
-              "text": "Saturday 18 July 2026"
+              "text": "Sunday 19 July 2026"
             },
             {
               "type": "fixture",
-              "text": "FOOTBALL 01 (Fox UHD): France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "FOOTBALL 01 (Fox UHD): Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             },
             {
               "type": "fixture",
-              "text": "FOOTBALL 03 (TSN UHD): France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "FOOTBALL 03 (TSN UHD): Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             },
             {
               "type": "fixture",
-              "text": "FOOTBALL 04 (NowHK UHD 1): France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
+              "text": "FOOTBALL 04 (NowHK UHD 1): Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             },
             {
               "type": "fixture",
-              "text": "FOOTBALL 06 (BBC UHD): France v England - 18 Jul 22:00 // 18 Jul 17:00 ET // 18 Jul 14:00 PT"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "18/07/2026 SPORTS SCENE 04 - 12:45am-21:45 - Friendly: Eastleigh vs Southampton"
+              "text": "FOOTBALL 06 (BBC UHD): Spain v Argentina - 19 Jul 20:00 // 19 Jul 15:00 ET // 19 Jul 12:00 PT"
             }
           ]
         }
@@ -97,722 +96,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "01:10",
-          "name": "NASHVILLE SC - ATLANTA UNITED",
-          "datetime": "2026-07-18 01:10:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "02:00",
-          "name": "EDMONTON ELKS - BC LIONS",
-          "datetime": "2026-07-18 02:00:00",
-          "channels": [
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:25",
-          "name": "LOS ANGELES GALAXY - LOS ANGELES FC",
-          "datetime": "2026-07-18 03:25:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "GOTHAM FC - SEATTLE REIGN FC",
-          "datetime": "2026-07-18 17:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "PITTSBURGH RIVERHOUNDS - LOUISVILLE CITY",
-          "datetime": "2026-07-18 17:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:00",
-          "name": "DENVER SUMMIT FC - PORTLAND THORNS",
-          "datetime": "2026-07-18 19:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:00",
-          "name": "BAY - NORTH CAROLINA COURAGE",
-          "datetime": "2026-07-18 21:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:00",
-          "name": "CALGARY STAMPEDERS - MONTREAL ALOUETTES",
-          "datetime": "2026-07-18 21:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "22:00",
-          "name": "FRANCE - ENGLAND",
-          "datetime": "2026-07-18 22:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:30",
-          "name": "HAMILTON TIGER-CATS - TORONTO ARGONAUTS",
-          "datetime": "2026-07-19 00:30:00",
-          "channels": []
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "04:15",
-          "name": "PORT ADELAIDE POWER - FREMANTLE DOCKERS",
-          "datetime": "2026-07-18 04:15:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "07:15",
-          "name": "NORTH MELBOURNE KANGAROOS - MELBOURNE DEMONS",
-          "datetime": "2026-07-18 07:15:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "11:10",
-          "name": "WEST COAST EAGLES - BRISBANE LIONS",
-          "datetime": "2026-07-18 11:10:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "01:10",
-          "name": "HOUSTON ASTROS - BALTIMORE ORIOLES",
-          "datetime": "2026-07-18 01:10:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "03:10",
-          "name": "SEATTLE MARINERS - SAN FRANCISCO GIANTS",
-          "datetime": "2026-07-18 03:10:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "20:05",
-          "name": "PHILADELPHIA PHILLIES - NEW YORK METS",
-          "datetime": "2026-07-18 20:05:00",
-          "channels": [
-            {
-              "name": "SNY",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "21:10",
-          "name": "BOSTON RED SOX - TAMPA BAY RAYS",
-          "datetime": "2026-07-18 21:10:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "21:10",
-          "name": "HOUSTON ASTROS - BALTIMORE ORIOLES",
-          "datetime": "2026-07-18 21:10:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "02:00",
-          "name": "MIAMI HEAT - DETROIT PISTONS",
-          "datetime": "2026-07-18 02:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "04:00",
-          "name": "LOS ANGELES CLIPPERS - MINNESOTA TIMBERWOLVES",
-          "datetime": "2026-07-18 04:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "14:00",
-          "name": "NIKE EYBL PEACH JAM",
-          "datetime": "2026-07-18 14:00:00",
-          "channels": [
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "17:00",
-          "name": "THE VILLE - LA FAMILIA",
-          "datetime": "2026-07-18 17:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "22:00",
-          "name": "MILWAUKEE BUCKS - PHILADELPHIA 76ERS",
-          "datetime": "2026-07-18 22:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "WASHINGTON WIZARDS - ATLANTA HAWKS",
-          "datetime": "2026-07-19 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "01:00",
-          "name": "DEL MAR OPENING DAY",
-          "datetime": "2026-07-18 01:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "17:30",
-          "name": "SARATOGA LIVE",
-          "datetime": "2026-07-18 17:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "19:00",
-          "name": "SARATOGA SATURDAY",
-          "datetime": "2026-07-18 19:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "20:00",
-          "name": "SARATOGA LIVE",
-          "datetime": "2026-07-18 20:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "22:00",
-          "name": "BREEDERS' CUP CHALLENGE SERIES",
-          "datetime": "2026-07-18 22:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "23:00",
-          "name": "SARATOGA LIVE",
-          "datetime": "2026-07-18 23:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FIGHTING",
-          "time": "13:10",
-          "name": "RAJADAMNERN WORLD SERIES",
-          "datetime": "2026-07-18 13:10:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FIGHTING",
-          "time": "18:00",
-          "name": "BKFC FIGHT NIGHT",
-          "datetime": "2026-07-18 18:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "10:00",
-          "name": "THE OPEN CHAMPIONSHIP",
-          "datetime": "2026-07-18 10:00:00",
-          "channels": [
-            {
-              "name": "USA NETWORK",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "12:00",
-          "name": "THE OPEN CHAMPIONSHIP",
-          "datetime": "2026-07-18 12:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "17:00",
-          "name": "CORALES CHAMPIONSHIP",
-          "datetime": "2026-07-18 17:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "LACROSSE",
-          "time": "19:00",
-          "name": "DENVER OUTLAWS - CAROLINA CHAOS",
-          "datetime": "2026-07-18 19:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "07:56",
-          "name": "RALLY ESTONIA",
-          "datetime": "2026-07-18 07:56:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "11:03",
-          "name": "RALLY ESTONIA",
-          "datetime": "2026-07-18 11:03:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "13:48",
-          "name": "RALLY ESTONIA",
-          "datetime": "2026-07-18 13:48:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "15:00",
-          "name": "BELGIAN GRAND PRIX",
-          "datetime": "2026-07-18 15:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "15:00",
-          "name": "BORCHETTA BOURBON MUSIC CITY GRAND PRIX",
-          "datetime": "2026-07-18 15:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "15:30",
-          "name": "FORMULA 4 ITALIAN CHAMPIONSHIP",
-          "datetime": "2026-07-18 15:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "16:30",
-          "name": "MUSIC CITY GRAND PRIX",
-          "datetime": "2026-07-18 16:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "17:00",
-          "name": "RALLY ESTONIA",
-          "datetime": "2026-07-18 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "17:30",
-          "name": "FAITH FEST 250",
-          "datetime": "2026-07-18 17:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "20:00",
-          "name": "BORCHETTA BOURBON MUSIC CITY GRAND PRIX",
-          "datetime": "2026-07-18 20:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "21:00",
-          "name": "XPN DELTA ELECTROLYTES 150",
-          "datetime": "2026-07-18 21:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "21:30",
-          "name": "MUSIC CITY GRAND PRIX",
-          "datetime": "2026-07-18 21:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "23:00",
-          "name": "BORCHETTA BOURBON MUSIC CITY GRAND PRIX",
-          "datetime": "2026-07-18 23:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "SOFTBALL",
-          "time": "19:00",
-          "name": "CHICAGO BANDITS - UTAH TALONS",
-          "datetime": "2026-07-18 19:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "10:00",
-          "name": "SWISS OPEN GSTAAD",
-          "datetime": "2026-07-18 10:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:00",
-          "name": "SWEDISH OPEN",
-          "datetime": "2026-07-18 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "15:00",
-          "name": "IASI OPEN",
-          "datetime": "2026-07-18 15:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "17:30",
-          "name": "ATHENS OPEN",
-          "datetime": "2026-07-18 17:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "18:00",
-          "name": "CROATIA OPEN",
-          "datetime": "2026-07-18 18:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "19:30",
-          "name": "ATHENS OPEN",
-          "datetime": "2026-07-18 19:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -877,7 +160,7 @@
         {
           "sport": "BASEBALL",
           "time": "01:08",
-          "name": "NEW YORK YANKEES - LOS ANGELES DODGERS",
+          "name": "SEATTLE MARINERS - SAN FRANCISCO GIANTS",
           "datetime": "2026-07-19 01:08:00",
           "channels": [
             {
@@ -888,12 +171,16 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "01:08",
-          "name": "SEATTLE MARINERS - SAN FRANCISCO GIANTS",
-          "datetime": "2026-07-19 01:08:00",
+          "time": "17:35",
+          "name": "NEW YORK YANKEES - LOS ANGELES DODGERS",
+          "datetime": "2026-07-19 17:35:00",
           "channels": [
             {
-              "name": "FOX",
+              "name": "SPORTSNET LA",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "YES",
               "category": "TV | USA & CANADA"
             }
           ]
@@ -1302,26 +589,118 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "BASEBALL",
+          "time": "00:05",
+          "name": "NEW YORK YANKEES - PITTSBURGH PIRATES",
+          "datetime": "2026-07-21 00:05:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:10",
+          "name": "BOSTON RED SOX - BALTIMORE ORIOLES",
+          "datetime": "2026-07-21 00:10:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:10",
+          "name": "PHILADELPHIA PHILLIES - LOS ANGELES DODGERS",
+          "datetime": "2026-07-21 00:10:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:40",
+          "name": "MILWAUKEE BREWERS - NEW YORK METS",
+          "datetime": "2026-07-21 00:40:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "02:00",
+          "name": "MEMPHIS GRIZZLIES - GOLDEN STATE WARRIORS",
+          "datetime": "2026-07-20 02:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:00",
+          "name": "LA FAMILIA - THE VILLE",
+          "datetime": "2026-07-21 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "AUSTRIAN OPEN",
+          "datetime": "2026-07-20 10:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "HAMBURG OPEN",
+          "datetime": "2026-07-20 10:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "12:30",
+          "name": "HAMBURG OPEN",
+          "datetime": "2026-07-20 12:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports F1 UHD - GB3 Championship Motor Racing - Red Bull Ring: Highlights - Sat 18/07 6:30am",
-        "Sky Sports UHD 1 - Live: T20 Blast - Semi-Final: Northamptonshire Steelbacks v Somerset - Sat 18/07 10:30am",
-        "Sky Sports F1 UHD - Live: Formula 1 - Belgian Grand Prix: 3rd Practice - Sat 18/07 11:15am",
-        "Sky Sports F1 UHD - Live: FIA Formula 2 Championship - Belgium: Sprint Race - Sat 18/07 1:10pm",
-        "Sky Sports Main Event UHD - Live: The Open Championship, PGA Tour Golf - Day 3 - Sat 18/07 4:00pm",
-        "Sky Sports F1 UHD - Formula 1 - Belgian Grand Prix: Qualifying - Sat 18/07 5:00pm",
-        "Sky Sports F1 UHD - Live: IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Practice 1 - Sat 18/07 7:00pm",
-        "Sky Sports UHD 2 - Live: World Matchplay Darts - Day 1 - Sat 18/07 7:00pm",
-        "Sky Sports Main Event UHD - World Cup Report - Sat 18/07 10:30pm",
         "Sky Sports Main Event UHD - Live: Major League Cricket - Final: Los Angeles Knight Riders v Washington Freedom - Sun 19/07 12:30am",
         "Sky Sports F1 UHD - FIA Formula 2 Championship - Belgium: Sprint Race - Sun 19/07 1:00am",
         "Sky Sports F1 UHD - FIA Formula 3 Championship - Belgium: Sprint Race - Sun 19/07 2:15am",
         "Sky Sports F1 UHD - Ginetta Junior Championship - Zandvoort: Highlights - Sun 19/07 6:15am",
+        "Sky Sports Main Event UHD - Live: The Open Championship, PGA Tour Golf - Day 4 - Sun 19/07 10:00am",
         "Sky Sports UHD 1 - Live: One-Day International Cricket - 3rd ODI: England v India - Sun 19/07 10:30am",
-        "Sky Sports F1 UHD - IndyCar NXT Series - Borchetta Bourbon Music City Grand Prix: Race - Sun 19/07 9:30pm"
+        "Sky Sports F1 UHD - Live: Formula 1 - Belgian Grand Prix: Grand Prix Sunday - Sun 19/07 12:30pm",
+        "Sky Sports UHD 2 - Live: World Matchplay Darts - Day 2 - Sun 19/07 1:00pm",
+        "Sky Sports F1 UHD - Formula 1 - Belgian Grand Prix: Race - Sun 19/07 6:00pm",
+        "Sky Sports F1 UHD - IndyCar NXT Series - Borchetta Bourbon Music City Grand Prix: Race - Sun 19/07 9:30pm",
+        "Sky Sports F1 UHD - Live: IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Race - Sun 19/07 10:35pm",
+        "Sky Sports Main Event UHD - World Cup Report - Sun 19/07 11:00pm",
+        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Misano: Sprint Race 1 - Mon 20/07 9:30pm",
+        "Sky Sports F1 UHD - Live: GT World Challenge Europe Motor Racing - Misano: Sprint Race 2 - Mon 20/07 11:30pm"
       ],
       "sections": [],
       "events": []
@@ -1331,7 +710,10 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 19/07/2026 06:00 - 12:00",
+        "BBC Events 02 - no_brand_title: Three Lions Secure Third-Placed Finish at World Cup - 19/07/2026 06:07 - 04:43"
+      ],
       "sections": [],
       "events": []
     },
@@ -1341,27 +723,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Clubber 1 : Ferrybank V Clonea (Waterford GAA - Senior 1) - Sat 18/07 2:00pm",
-        "Clubber 2 : Half Way House Bunclody V Kilanerin-Ballyfad (Wexford - Senior 1) - Sat 18/07 2:00pm",
-        "Clubber 3 : Ballygunner B V The Nire/Fourmilewater (Waterford GAA - Senior 1) - Sat 18/07 2:30pm",
-        "Clubber 4 : Durrow V Bracknagh (Offaly GAA - Senior 1) - Sat 18/07 2:30pm",
-        "Clubber 5 : Castletown Liam Mellows V St Martins (Wexford - Senior 1) - Sat 18/07 3:30pm",
-        "Clubber 6 : The Harps V St Lazerian’s Abbeyleix (Laois GAA - Senior 1) - Sat 18/07 4:00pm",
-        "Clubber 7 : Causeway V St Brendans (Kerry GAA - Senior 1) - Sat 18/07 4:30pm",
-        "Clubber 8 : Clara V Ballycommon (Offaly GAA - Senior 1) - Sat 18/07 4:30pm",
-        "Clubber 9 : De La Salle V Passage (Waterford GAA - Senior 1) - Sat 18/07 5:00pm",
-        "Clubber 10 : Portlaoise V Borris-in-Ossory-Kilcotton (Laois GAA - Senior 1) - Sat 18/07 5:30pm",
-        "Clubber 11 : Palatine V Mount Leinster Rangers (Carlow GAA - Senior 1) - Sat 18/07 6:00pm",
-        "Clubber 12 : Abbeydorney V Ballyduff (Kerry GAA - Senior 1) - Sat 18/07 6:30pm",
-        "Clubber 13 : Roanmore V Lismore (Waterford GAA - Senior 1) - Sat 18/07 6:30pm",
-        "Clubber 14 : Dungarvan V Mount Sion (Waterford GAA - Senior 1) - Sat 18/07 6:45pm",
-        "Clubber 15 : Ardagh Moydow V Dromard (Longford GAA - Senior 1) - Sat 18/07 7:00pm",
-        "Clubber 16 : Carrickedmond V Longford Slashers (Longford GAA - Senior 1) - Sat 18/07 7:00pm",
-        "Clubber 17 : Rathdowney Errill V Camross (Laois GAA - Senior 1) - Sat 18/07 7:00pm",
-        "Clubber 18 : Éire Óg Annacarty V Golden-Kilfeacle (Tipperary GAA - Intermediate 1) - Sat 18/07 7:00pm",
-        "Clubber 19 : Tipperary San Francisco V Na Fianna (US GAA - Senior 1) - Sat 18/07 7:30pm",
-        "Clubber 20 : Ulster V Sean Treacys (US GAA - Senior 1) - Sat 18/07 9:00pm",
-        "Clubber 1 : Abbeyside / Ballinacourty V Ballygunner (Waterford GAA - Senior 1) - Sun 19/07 1:00pm"
+        "Clubber 1 : Abbeyside / Ballinacourty V Ballygunner (Waterford GAA - Senior 1) - Sun 19/07 1:00pm",
+        "Clubber 1 : Graiguecullen V Emo (Laois GAA - Senior 1) - Wed 22/07 7:30pm",
+        "Clubber 2 : Killeshin V Stradbally (Laois GAA - Senior 1) - Wed 22/07 7:30pm"
       ],
       "sections": [],
       "events": []
@@ -1522,7 +886,7 @@
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Sat Jul 18, 2026 7:00am BST",
+      "last_updated": "Last Updated: Sun Jul 19, 2026 7:00am BST",
       "status": "ok",
       "fixtures": [
         "GAA Plus 01: All-Ireland Hurling Final - GALWAY v LIMERICK - Sun 19/07 3:30pm",
@@ -1539,15 +903,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "LOI 1 : Bangor Celtic v College Corinthians (Club Orange Men's FAI Cup) - Sat 18/07 1:45pm",
-        "LOI 2 : Douglas Hall v Castlebar Celtic (Club Orange Men's FAI Cup) - Sat 18/07 2:45pm",
-        "LOI 3 : Shamrock Rovers v Treaty United (SSE Airtricity Women's Premier Division) - Sat 18/07 2:45pm",
-        "LOI 4 : Waterford v Peamount United (SSE Airtricity Women's Premier Division) - Sat 18/07 2:45pm",
-        "LOI 5 : Janesboro v Sligo Rovers (Club Orange Men's FAI Cup) - Sat 18/07 4:15pm",
-        "LOI 6 : Baldoyle United v Longford Town (Club Orange Men's FAI Cup) - Sat 18/07 4:45pm",
-        "LOI 7 : Sligo Rovers v DLR Waves (SSE Airtricity Women's Premier Division) - Sat 18/07 4:45pm",
-        "LOI 8 : Athlone Town v Bohemians (SSE Airtricity Women's Premier Division) - Sat 18/07 5:45pm",
-        "LOI 9 : Shelbourne v Galway United (Women's All-Island Cup) - Sat 18/07 7:20pm",
         "LOI 1 : Derry City v Tolka Rovers (Club Orange Men's FAI Cup) - Sun 19/07 3:45pm"
       ],
       "sections": [],
@@ -1559,68 +914,38 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "MLB 01 : Pirates at Guardians (Home coverage from CLEG) - Sat 18/07 06:10pm",
-        "MLB 01 : Pirates at Guardians (Away coverage from SNP) - Sat 18/07 06:10pm",
-        "MLB 02 : Twins at Cubs (Home coverage from MARQ) - Sat 18/07 07:20pm",
-        "MLB 02 : Twins at Cubs (Away coverage from MNNT) - Sat 18/07 07:20pm",
-        "MLB 03 : White Sox at Blue Jays (Home coverage from Sportsnet) - Sat 18/07 08:07pm",
-        "MLB 03 : White Sox at Blue Jays (Away coverage from CHSN) - Sat 18/07 08:07pm",
-        "MLB 04 : Reds at Rockies (Home coverage from COLR) - Sat 18/07 08:10pm",
-        "MLB 04 : Reds at Rockies (Away coverage from CINR) - Sat 18/07 08:10pm",
-        "MLB 05 : Mets at Phillies (Home coverage from NBCSP) - Sat 18/07 09:05pm",
-        "MLB 05 : Mets at Phillies (Away coverage from SNY) - Sat 18/07 09:05pm",
-        "MLB 06 : Cardinals at D-backs (Home coverage from ARID) - Sat 18/07 09:10pm",
-        "MLB 06 : Cardinals at D-backs (Away coverage from CARD) - Sat 18/07 09:10pm",
-        "MLB 07 : Marlins at Brewers (Home coverage from BREW) - Sat 18/07 09:10pm",
-        "MLB 07 : Marlins at Brewers (Away coverage from MIAM) - Sat 18/07 09:10pm",
-        "MLB 08 : Orioles at Astros (Home coverage from SCHN) - Sat 18/07 09:10pm",
-        "MLB 08 : Orioles at Astros (Away coverage from MASN) - Sat 18/07 09:10pm",
-        "MLB 09 : Padres at Royals (Home coverage from ROYL) - Sat 18/07 09:10pm",
-        "MLB 09 : Padres at Royals (Away coverage from SDPA) - Sat 18/07 09:10pm",
-        "MLB 10 : Rangers at Braves (Home coverage from BravesVsn) - Sat 18/07 09:10pm",
-        "MLB 10 : Rangers at Braves (Away coverage from RSN) - Sat 18/07 09:10pm",
-        "MLB 11 : Rays at Red Sox (Home coverage from NESN) - Sat 18/07 09:10pm",
-        "MLB 11 : Rays at Red Sox (Away coverage from RAYS) - Sat 18/07 09:10pm",
-        "MLB 12 : Pirates at Guardians (Home coverage from CLEG) - Sun 19/07 12:10am",
-        "MLB 12 : Pirates at Guardians (Away coverage from SNP) - Sun 19/07 12:10am",
-        "MLB 13 : Dodgers at Yankees (Home coverage from FOX) - Sun 19/07 01:08am",
-        "MLB 13 : Dodgers at Yankees (Away coverage from FOX) - Sun 19/07 01:08am",
-        "MLB 14 : Giants at Mariners (Home coverage from FOX) - Sun 19/07 01:08am",
-        "MLB 14 : Giants at Mariners (Away coverage from FOX) - Sun 19/07 01:08am",
-        "MLB 15 : Nationals at Athletics (Home coverage from NBCSCA) - Sun 19/07 03:05am",
-        "MLB 15 : Nationals at Athletics (Away coverage from NATS) - Sun 19/07 03:05am",
-        "MLB 16 : Tigers at Angels (Home coverage from ABTV) - Sun 19/07 03:07am",
-        "MLB 16 : Tigers at Angels (Away coverage from DSN) - Sun 19/07 03:07am",
         "MLB 01 : White Sox at Blue Jays (Home coverage from Peacock) - Sun 19/07 05:15pm",
         "MLB 01 : White Sox at Blue Jays (Away coverage from Peacock) - Sun 19/07 05:15pm",
-        "MLB 02 : Mets at Phillies (Home coverage from NBCSP) - Sun 19/07 06:35pm",
-        "MLB 02 : Mets at Phillies (Away coverage from SNY) - Sun 19/07 06:35pm",
-        "MLB 03 : Rangers at Braves (Home coverage from BravesVsn) - Sun 19/07 06:35pm",
-        "MLB 03 : Rangers at Braves (Away coverage from RSN) - Sun 19/07 06:35pm",
-        "MLB 04 : Rays at Red Sox (Home coverage from NESN) - Sun 19/07 06:35pm",
-        "MLB 04 : Rays at Red Sox (Away coverage from RAYS) - Sun 19/07 06:35pm",
-        "MLB 05 : Pirates at Guardians (Home coverage from CLEG) - Sun 19/07 06:40pm",
-        "MLB 05 : Pirates at Guardians (Away coverage from SNP) - Sun 19/07 06:40pm",
-        "MLB 06 : Marlins at Brewers (Home coverage from BREW) - Sun 19/07 07:10pm",
-        "MLB 06 : Marlins at Brewers (Away coverage from MIAM) - Sun 19/07 07:10pm",
-        "MLB 07 : Orioles at Astros (Home coverage from SCHN) - Sun 19/07 07:10pm",
-        "MLB 07 : Orioles at Astros (Away coverage from MASN) - Sun 19/07 07:10pm",
-        "MLB 08 : Padres at Royals (Home coverage from ROYL) - Sun 19/07 07:10pm",
-        "MLB 08 : Padres at Royals (Away coverage from SDPA) - Sun 19/07 07:10pm",
-        "MLB 09 : Twins at Cubs (Home coverage from MARQ) - Sun 19/07 07:20pm",
-        "MLB 09 : Twins at Cubs (Away coverage from MNNT) - Sun 19/07 07:20pm",
-        "MLB 10 : Reds at Rockies (Home coverage from COLR) - Sun 19/07 08:10pm",
-        "MLB 10 : Reds at Rockies (Away coverage from CINR) - Sun 19/07 08:10pm",
-        "MLB 11 : Nationals at Athletics (Home coverage from NBCSCA) - Sun 19/07 09:05pm",
-        "MLB 11 : Nationals at Athletics (Away coverage from NATS) - Sun 19/07 09:05pm",
-        "MLB 12 : Tigers at Angels (Home coverage from ABTV) - Sun 19/07 09:07pm",
-        "MLB 12 : Tigers at Angels (Away coverage from DSN) - Sun 19/07 09:07pm",
-        "MLB 13 : Cardinals at D-backs (Home coverage from ARID) - Sun 19/07 09:10pm",
-        "MLB 13 : Cardinals at D-backs (Away coverage from CARD) - Sun 19/07 09:10pm",
-        "MLB 14 : Giants at Mariners (Home coverage from SEAM) - Sun 19/07 09:10pm",
-        "MLB 14 : Giants at Mariners (Away coverage from NBCSBA) - Sun 19/07 09:10pm",
-        "MLB 15 : Dodgers at Yankees (Home coverage from NBC) - Mon 20/07 12:20am",
-        "MLB 15 : Dodgers at Yankees (Away coverage from NBC) - Mon 20/07 12:20am",
+        "MLB 02 : Dodgers at Yankees (Home coverage from YES) - Sun 19/07 05:35pm",
+        "MLB 02 : Dodgers at Yankees (Away coverage from SNLA) - Sun 19/07 05:35pm",
+        "MLB 03 : Mets at Phillies (Home coverage from NBCSP) - Sun 19/07 06:35pm",
+        "MLB 03 : Mets at Phillies (Away coverage from SNY) - Sun 19/07 06:35pm",
+        "MLB 04 : Rangers at Braves (Home coverage from BravesVsn) - Sun 19/07 06:35pm",
+        "MLB 04 : Rangers at Braves (Away coverage from RSN) - Sun 19/07 06:35pm",
+        "MLB 05 : Rays at Red Sox (Home coverage from NESN) - Sun 19/07 06:35pm",
+        "MLB 05 : Rays at Red Sox (Away coverage from RAYS) - Sun 19/07 06:35pm",
+        "MLB 06 : Pirates at Guardians (Home coverage from CLEG) - Sun 19/07 06:40pm",
+        "MLB 06 : Pirates at Guardians (Away coverage from SNP) - Sun 19/07 06:40pm",
+        "MLB 07 : Marlins at Brewers (Home coverage from BREW) - Sun 19/07 07:10pm",
+        "MLB 07 : Marlins at Brewers (Away coverage from MIAM) - Sun 19/07 07:10pm",
+        "MLB 08 : Orioles at Astros (Home coverage from SCHN) - Sun 19/07 07:10pm",
+        "MLB 08 : Orioles at Astros (Away coverage from MASN) - Sun 19/07 07:10pm",
+        "MLB 09 : Padres at Royals (Home coverage from ROYL) - Sun 19/07 07:10pm",
+        "MLB 09 : Padres at Royals (Away coverage from SDPA) - Sun 19/07 07:10pm",
+        "MLB 10 : Twins at Cubs (Home coverage from MARQ) - Sun 19/07 07:20pm",
+        "MLB 10 : Twins at Cubs (Away coverage from MNNT) - Sun 19/07 07:20pm",
+        "MLB 11 : Reds at Rockies (Home coverage from COLR) - Sun 19/07 08:10pm",
+        "MLB 11 : Reds at Rockies (Away coverage from CINR) - Sun 19/07 08:10pm",
+        "MLB 12 : Nationals at Athletics (Home coverage from NBCSCA) - Sun 19/07 09:05pm",
+        "MLB 12 : Nationals at Athletics (Away coverage from NATS) - Sun 19/07 09:05pm",
+        "MLB 13 : Tigers at Angels (Home coverage from ABTV) - Sun 19/07 09:07pm",
+        "MLB 13 : Tigers at Angels (Away coverage from DSN) - Sun 19/07 09:07pm",
+        "MLB 14 : Cardinals at D-backs (Home coverage from ARID) - Sun 19/07 09:10pm",
+        "MLB 14 : Cardinals at D-backs (Away coverage from CARD) - Sun 19/07 09:10pm",
+        "MLB 15 : Giants at Mariners (Home coverage from SEAM) - Sun 19/07 09:10pm",
+        "MLB 15 : Giants at Mariners (Away coverage from NBCSBA) - Sun 19/07 09:10pm",
+        "MLB 16 : Dodgers at Yankees (Home coverage from NBC) - Mon 20/07 12:20am",
+        "MLB 16 : Dodgers at Yankees (Away coverage from NBC) - Mon 20/07 12:20am",
         "MLB 01 : Twins at Guardians (Home coverage from CLEG) - Mon 20/07 11:40pm",
         "MLB 01 : Twins at Guardians (Away coverage from MNNT) - Mon 20/07 11:40pm",
         "MLB 02 : Pirates at Yankees (Home coverage from YES) - Tue 21/07 12:05am",
@@ -1650,7 +975,37 @@
         "MLB 14 : Reds at Mariners (Home coverage from SEAM) - Tue 21/07 02:40am",
         "MLB 14 : Reds at Mariners (Away coverage from CINR) - Tue 21/07 02:40am",
         "MLB 15 : Cardinals at Angels (Home coverage from ESPN) - Tue 21/07 03:10am",
-        "MLB 15 : Cardinals at Angels (Away coverage from ESPN) - Tue 21/07 03:10am"
+        "MLB 15 : Cardinals at Angels (Away coverage from ESPN) - Tue 21/07 03:10am",
+        "MLB 01 : Dodgers at Phillies (Home coverage from NBCSP) - Tue 21/07 11:40pm",
+        "MLB 01 : Dodgers at Phillies (Away coverage from SNLA) - Tue 21/07 11:40pm",
+        "MLB 02 : Twins at Guardians (Home coverage from CLEG) - Tue 21/07 11:40pm",
+        "MLB 02 : Twins at Guardians (Away coverage from MNNT) - Tue 21/07 11:40pm",
+        "MLB 03 : Pirates at Yankees (Home coverage from YES) - Wed 22/07 12:05am",
+        "MLB 03 : Pirates at Yankees (Away coverage from SNP) - Wed 22/07 12:05am",
+        "MLB 04 : Rays at Blue Jays (Home coverage from Sportsnet) - Wed 22/07 12:07am",
+        "MLB 04 : Rays at Blue Jays (Away coverage from RAYS) - Wed 22/07 12:07am",
+        "MLB 05 : Orioles at Red Sox (Home coverage from NESN) - Wed 22/07 12:10am",
+        "MLB 05 : Orioles at Red Sox (Away coverage from MASN) - Wed 22/07 12:10am",
+        "MLB 06 : Padres at Braves (Home coverage from BravesVsn) - Wed 22/07 12:15am",
+        "MLB 06 : Padres at Braves (Away coverage from SDPA) - Wed 22/07 12:15am",
+        "MLB 07 : Giants at Royals (Home coverage from ROYL) - Wed 22/07 12:40am",
+        "MLB 07 : Giants at Royals (Away coverage from NBCSBA) - Wed 22/07 12:40am",
+        "MLB 08 : Mets at Brewers (Home coverage from BREW) - Wed 22/07 12:40am",
+        "MLB 08 : Mets at Brewers (Away coverage from SNY) - Wed 22/07 12:40am",
+        "MLB 09 : Tigers at Cubs (Home coverage from MARQ) - Wed 22/07 01:05am",
+        "MLB 09 : Tigers at Cubs (Away coverage from DSN) - Wed 22/07 01:05am",
+        "MLB 10 : White Sox at Rangers (Home coverage from RSN) - Wed 22/07 01:05am",
+        "MLB 10 : White Sox at Rangers (Away coverage from CHSN) - Wed 22/07 01:05am",
+        "MLB 11 : Marlins at Astros (Home coverage from SCHN) - Wed 22/07 01:10am",
+        "MLB 11 : Marlins at Astros (Away coverage from MIAM) - Wed 22/07 01:10am",
+        "MLB 12 : Nationals at Rockies (Home coverage from COLR) - Wed 22/07 01:40am",
+        "MLB 12 : Nationals at Rockies (Away coverage from NATS) - Wed 22/07 01:40am",
+        "MLB 13 : Cardinals at Angels (Home coverage from ABTV) - Wed 22/07 02:38am",
+        "MLB 13 : Cardinals at Angels (Away coverage from CARD) - Wed 22/07 02:38am",
+        "MLB 14 : Athletics at D-backs (Home coverage from ARID) - Wed 22/07 02:40am",
+        "MLB 14 : Athletics at D-backs (Away coverage from NBCSCA) - Wed 22/07 02:40am",
+        "MLB 15 : Reds at Mariners (Home coverage from SEAM) - Wed 22/07 02:40am",
+        "MLB 15 : Reds at Mariners (Away coverage from CINR) - Wed 22/07 02:40am"
       ],
       "sections": [],
       "events": []
@@ -1718,13 +1073,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "PDC Darts 1 : CDC Event #6 – Cosmo Darts Classic - 2026 CDC Tour - Board 1 - Sat 18/07 5:00pm",
-        "PDC Darts 2 : CDC Event #6 – Cosmo Darts Classic - 2026 CDC Tour - Board 2 - Sat 18/07 5:00pm",
-        "PDC Darts 3 : CDC Event #6 – Cosmo Darts Classic - 2026 CDC Tour - Board 3 - Sat 18/07 5:00pm",
-        "PDC Darts 4 : CDC Event #6 – Cosmo Darts Classic - 2026 CDC Tour - Board 4 - Sat 18/07 5:00pm",
-        "PDC Darts 5 : CDC Event #6 – Cosmo Darts Classic - 2026 CDC Tour - Board 5 - Sat 18/07 5:00pm",
-        "PDC Darts 6 : World Matchplay | Day 1 - First Round - Main Feed (Italian) - Sat 18/07 7:00pm",
-        "PDC Darts 7 : World Matchplay | Day 1 - First Round - World Matchplay - Main Feed (English) - Sat 18/07 7:00pm",
         "PDC Darts 1 : World Matchplay | Day 2 Afternoon - First Round  - World Matchplay - Main Feed (English) - Sun 19/07 1:00pm",
         "PDC Darts 2 : CDC Event #7 – CDC Indianapolis 501 - 2026 CDC Tour - Board 1 - Sun 19/07 4:00pm",
         "PDC Darts 3 : CDC Event #7 – CDC Indianapolis 501 - 2026 CDC Tour - Board 2 - Sun 19/07 4:00pm",
@@ -1738,7 +1086,9 @@
         "PDC Darts 1 : World Matchplay | Day 4 - Second Round - Main Feed (Italian) - Tue 21/07 7:00pm",
         "PDC Darts 2 : World Matchplay | Day 4 - Second Round - World Matchplay - Main Feed (English) - Tue 21/07 7:00pm",
         "PDC Darts 1 : World Matchplay | Day 5 - Second Round - Main Feed (Italian) - Wed 22/07 7:00pm",
-        "PDC Darts 2 : World Matchplay | Day 5 - Second Round - World Matchplay - Main Feed (English) - Wed 22/07 7:00pm"
+        "PDC Darts 2 : World Matchplay | Day 5 - Second Round - World Matchplay - Main Feed (English) - Wed 22/07 7:00pm",
+        "PDC Darts 1 : World Matchplay | Day 6 - Quarter-finals - Main Feed (Italian) - Thu 23/07 7:00pm",
+        "PDC Darts 2 : World Matchplay | Day 6 - Quarter-finals - World Matchplay - Main Feed (English) - Thu 23/07 7:00pm"
       ],
       "sections": [],
       "events": []
@@ -1749,24 +1099,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : Featured Group: Rd. 3 (Golf) - Sat 18/07 10:25am",
-        "Peacock 2 : Featured Group: Rd. 3 (Golf) - Sat 18/07 11:25am",
-        "Peacock 3 : Tour de France: Stage 14 (Cycling) - Sat 18/07 11:30am",
-        "Peacock 4 : The Open On Sky Sports: Rd. 3 (Golf) - Sat 18/07 12:00pm",
-        "Peacock 5 : The Open: Rd. 3 (Golf) - Sat 18/07 12:00pm",
-        "Peacock 1 : Featured Group: Rd. 3 (Golf) - Sat 18/07 2:00pm",
-        "Peacock 2 : Featured Group: Rd. 3 (Golf) - Sat 18/07 2:30pm",
-        "Peacock 6 : The Open: Player Focus (Golf) - Sat 18/07 3:00pm",
-        "Peacock 7 : Race Day Live: Spring Creek (Pro Motocross) - Sat 18/07 4:00pm",
-        "Peacock 3 : THEMOVE: Stage 14 (Cycling) - Sat 18/07 5:00pm",
-        "Peacock 1 : Motocross Rd. 24: Spring Creek (Pro Motocross) - Sat 18/07 7:00pm",
-        "Peacock 2 : Home Feed: NYM at PHI (MLB) - Sat 18/07 9:00pm",
-        "Peacock 3 : Away Feed: NYM at PHI (MLB) - Sat 18/07 9:00pm",
-        "Peacock 4 : Haskell Stakes (Horse Racing) - Sat 18/07 10:00pm",
-        "Peacock 1 : U.S. Classic (Gymnastics) - Sun 19/07 12:00am",
-        "Peacock 2 : Chivas vs. Toluca (Español) (Soccer) - Sun 19/07 1:00am",
-        "Peacock 3 : Saturday Night's Main Event, NYC, July 18, 2026 (Español) (WWE) - Sun 19/07 1:00am",
-        "Peacock 4 : Saturday Night's Main Event, NYC, July 18, 2026 (WWE) - Sun 19/07 1:00am",
         "Peacock 1 : Featured Group: Rd. 4 (Golf) - Sun 19/07 9:30am",
         "Peacock 2 : Featured Group: Rd. 4 (Golf) - Sun 19/07 11:10am",
         "Peacock 3 : Tour de France: Stage 15 (Cycling) - Sun 19/07 11:30am",
@@ -1789,7 +1121,12 @@
         "Peacock 1 : Canoe World Champs: Day 2 (Canoeing) - Tue 21/07 8:20pm",
         "Peacock 1 : Home Feed: ATH at AZ (MLB) - Wed 22/07 2:30am",
         "Peacock 2 : Away Feed: ATH at AZ (MLB) - Wed 22/07 2:30am",
-        "Peacock 1 : Women's QF: USA vs. CHN (Water Polo) - Wed 22/07 6:00am"
+        "Peacock 1 : Women's QF: USA vs. CHN (Water Polo) - Wed 22/07 6:00am",
+        "Peacock 1 : Tour de France: Stage 17 (Cycling) - Wed 22/07 11:30am",
+        "Peacock 1 : THEMOVE: Stage 17 (Cycling) - Wed 22/07 5:00pm",
+        "Peacock 1 : Home Feed: NYM at MIL (MLB) - Wed 22/07 7:00pm",
+        "Peacock 2 : Away Feed: NYM at MIL (MLB) - Wed 22/07 7:00pm",
+        "Peacock 3 : Canoe World Champs: Day 3 (Canoeing) - Wed 22/07 8:20pm"
       ],
       "sections": [],
       "events": []
@@ -1809,9 +1146,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Super League Rugby 1 : Warrington Wolves v Hull KR (Round 19  Betfred Super League) - Sat 18/07 3:00pm",
-        "Super League Rugby 2 : Hull FC v Leigh Leopards (Round 19  Betfred Super League) - Sat 18/07 5:30pm",
-        "Super League Rugby 3 : Toulouse Olympique v York Knights (Round 19  Betfred Super League) - Sat 18/07 8:00pm",
         "Super League Rugby 1 : Castleford Tigers v Leeds Rhinos (Round 19  Betfred Super League) - Sun 19/07 3:00pm"
       ],
       "sections": [],
@@ -1823,33 +1157,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: World Matchplay Darts: Day 1 - 19:00 18/07/2026",
-        "Sky Sport 1 - LIVE: NC: Argentina v England - 19:45 18/07/2026",
-        "Sky Sport 1 UHD - LIVE: NC: Argentina v England - 19:45 18/07/2026",
-        "Sky Sport 7 - LIVE: INDYCAR: Nashville: Qual - 20:00 18/07/2026",
-        "Sky Sport 4 - LIVE: NC: Tonga v Portugal - 21:35 18/07/2026",
-        "Sky Sport 7 - LIVE: PFL Austin - 22:30 18/07/2026",
-        "Sky Sport 9 - LIVE: INDYCAR: Nashville: P 2 - 23:00 18/07/2026",
-        "Sky Sport 9 - LIVE: INDYCAR: Nashville: Final P - 00:00 19/07/2026",
-        "Sky Sport Select - LIVE: MLC: Los Angeles v Washington (F) - 00:00 19/07/2026",
-        "Sky Sport 6 - LIVE: Champ of Champs Wmn Singles Final - 00:15 19/07/2026",
-        "Sky Sport 4 - LIVE: NC: USA v Spain - 00:20 19/07/2026",
-        "Sky Sport 3 - LIVE: NC: Canada v Zimbabwe - 01:00 19/07/2026",
-        "Sky Sport 1 - LIVE: NRLW: Titans v Eels R3 - 02:45 19/07/2026",
-        "Sky Sport 1 UHD - LIVE: NRLW: Titans v Eels R3 - 02:45 19/07/2026",
-        "Sky Sport 5 - LIVE: UCI BMX Racing WCHS: Finals - 02:50 19/07/2026",
-        "Sky Sport 2 - LIVE: Rapid League: Rams v Tuatara - 03:00 19/07/2026",
-        "Sky Sport 2 - LIVE: Sal's NBL: Rams v Tuatara - 04:00 19/07/2026",
-        "Sky Sport 9 - LIVE: AFL: Richmond v Hawthorn - 04:00 19/07/2026",
-        "Sky Sport 1 - LIVE: NRL: Titans v Sea Eagles - 04:30 19/07/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Titans v Sea Eagles - 04:30 19/07/2026",
-        "Sky Sport 4 - LIVE: NRLW: Broncos v Wests Tigers R3 - 04:40 19/07/2026",
-        "Sky Sport 3 - LIVE: Rapid League: Bulls v Airs - 06:00 19/07/2026",
-        "Sky Sport 1 - LIVE: NRL: Dolphins v Cowboys - 06:55 19/07/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Dolphins v Cowboys - 06:55 19/07/2026",
-        "Sky Sport 3 - LIVE: Sal's NBL: Bulls v Airs - 07:00 19/07/2026",
-        "Sky Sport 4 - LIVE: FIA Formula 3: Rd6 Feature Race - 07:25 19/07/2026",
-        "Sky Sport Select - LIVE: AFL: Essendon v GWS GIANTS - 07:30 19/07/2026",
         "Sky Sport 4 - LIVE: FIA Formula 2: Rd8 Feature Race - 08:55 19/07/2026",
         "Sky Sport 3 - LIVE: The Open Championship: Round 4 - 09:00 19/07/2026",
         "Sky Sport 5 - LIVE: NRLW: Knights v Dragons R3 - 09:10 19/07/2026",
@@ -1894,39 +1201,58 @@
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 2 - 20:30 22/07/2026",
         "Sky Sport 2 - LIVE: Rapid League: Hawks v Saints - 07:00 23/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Hawks v Saints - 08:00 23/07/2026",
+        "Sky Sport 4 - LIVE: Lawn Bowls D0 - 09:30 23/07/2026",
         "Sky Sport 1 - LIVE: NRL: Eels v Panthers - 09:30 23/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Eels v Panthers - 09:30 23/07/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 1 - 09:30 23/07/2026",
-        "Sky Sport 4 - LIVE: Lawn Bowls D0 - 09:30 23/07/2026",
         "Sky Sport 5 - LIVE: AFL: Adelaide Crows v Collingwood - 10:25 23/07/2026",
         "Sky Sport 2 - LIVE: Tour de France Stage 18 - 11:25 23/07/2026",
         "Sky Sport 3 - LIVE: Golf: The Senior Open Championship - 13:30 23/07/2026",
         "Sky Sport Select - LIVE: GSL: Qalandars v Scorchers - 14:30 23/07/2026",
         "Sky Sport 5 - LIVE: ICF: Oklahoma Day 3 Session 1 - 16:00 23/07/2026",
         "Sky Sport 2 - LIVE: Hundred M: Spirit v Super Giants - 18:30 23/07/2026",
-        "Sky Sport 3 - LIVE: World Matchplay Darts: Day 6 QF - 19:30 23/07/2026",
         "Sky Sport 4 - LIVE: Opening Ceremony - 19:30 23/07/2026",
+        "Sky Sport 3 - LIVE: World Matchplay Darts: Day 6 QF - 19:30 23/07/2026",
         "Sky Sport Select - LIVE: ICF: Oklahoma Day 3 Session 2 - 20:00 23/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
         "Sky Sport 2 - LIVE: GSL: Warriors v Unicorns - 23:30 23/07/2026",
+        "Sky Sport 2 - LIVE: Rapid League: Jets v Bulls - 07:30 24/07/2026",
         "Sky Sport 1 - LIVE: NRL: Knights v Roosters - 07:30 24/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Knights v Roosters - 07:30 24/07/2026",
-        "Sky Sport 2 - LIVE: Rapid League: Jets v Bulls - 07:30 24/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula E: Rd14 P1 - 07:55 24/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Jets v Bulls - 08:30 24/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd7 Practice - 08:55 24/07/2026",
         "Sky Sport Select - LIVE: LPGA: Round 2 - 09:30 24/07/2026",
         "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S1 - 10:00 24/07/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd9 Practice - 10:00 24/07/2026",
         "Sky Sport 7 - LIVE: 3x3 Basketball D1 S1 - 10:00 24/07/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd9 Practice - 10:00 24/07/2026",
         "Sky Sport 5 - LIVE: Swimming: D1 S1 - 10:30 24/07/2026",
         "Sky Sport 1 - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
         "Sky Sport 9 - LIVE: Boxing Day D1 S1 - 11:00 24/07/2026",
         "Sky Sport 2 - LIVE: FIA F1: Hungary GP Practice 1 - 12:00 24/07/2026",
         "Sky Sport 3 - LIVE: Tour de France Stage 19 - 12:50 24/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow - Para Powerlifting D1 Aft - 13:00 24/07/2026"
+        "Sky Sport 5 - LIVE: Glasgow - Para Powerlifting D1 Aft - 13:00 24/07/2026",
+        "Sky Sport Select - LIVE: Golf: The Senior Open Championship - 13:30 24/07/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 3: Rd7 Qualifying - 13:55 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S2 - 14:30 24/07/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 2: Rd9 Qualifying - 15:00 24/07/2026",
+        "Sky Sport 2 - LIVE: FIA F1: Hungary GP Practice 2 - 15:45 24/07/2026",
+        "Sky Sport 9 - LIVE: ICF: Oklahoma Day 4 Session 1 - 16:00 24/07/2026",
+        "Sky Sport 2 - LIVE: Porsche Supercup: Rd5 practice - 17:25 24/07/2026",
+        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S2 - 17:30 24/07/2026",
+        "Sky Sport 3 - LIVE: Boxing Day: D1 S2 - 18:00 24/07/2026",
+        "Sky Sport 2 - LIVE: The F1 Show: Hungarian Grand Prix - 18:15 24/07/2026",
+        "Sky Sport 9 - LIVE: Glasgow - Para Powerlifting D1 Eve - 18:20 24/07/2026",
+        "Sky Sport 1 - LIVE: Currie Cup: Cheetahs v Sharks - 18:30 24/07/2026",
+        "Sky Sport 1 UHD - LIVE: Currie Cup: Cheetahs v Sharks - 18:30 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S3 - 19:00 24/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D1 S2 - 19:00 24/07/2026",
+        "Sky Sport 2 - LIVE: Hundred M: Phoenix v Rockets - 19:15 24/07/2026",
+        "Sky Sport Select - LIVE: World Matchplay Darts: Day 7 QF - 19:30 24/07/2026",
+        "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 21:00 24/07/2026",
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 21:00 24/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1946,18 +1272,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Hull FC vs. Leigh Leopards - Sat 18/07 5:20pm",
-        "Sportsnet 03 : Chicago White Sox @ Toronto - Sat 18/07 7:30pm",
-        "Sportsnet 04 : Toulouse Olympique vs. York Knights - Sat 18/07 7:50pm",
-        "Sportsnet 01 : Tampa Bay @ Boston - Sat 18/07 9:00pm",
-        "Sportsnet 05 : UFC Fight Night - Du Plessis vs. Usman Prelims - Sat 18/07 11:00pm",
-        "Sportsnet 06 : UFC Fight Night - Du Plessis vs. Usman Prelims + Mains - Sat 18/07 11:00pm",
-        "Sportsnet 08 : Houston vs. Memphis - Semifinal 1 - Sat 18/07 11:30pm",
-        "Sportsnet 07 : Los Angeles Dodgers @ New York Yankees - Sun 19/07 1:00am",
-        "Sportsnet 02 : UFC Fight Night - Du Plessis vs. Usman - Sun 19/07 1:00am",
-        "Sportsnet 09 : Golden State vs. LA Lakers – Semifinal 2 - Sun 19/07 1:30am",
-        "Sportsnet 03 : Women's NRL - Titans vs. Eels - Sun 19/07 2:40am",
-        "Sportsnet 01 : Women's NRL - Broncos vs. Wests Tigers - Sun 19/07 4:35am",
         "Sportsnet 04 : Dolphins vs. Cowboys - Sun 19/07 6:55am",
         "Sportsnet 02 : Sportsnet Central: July 18 - Sun 19/07 10:00am",
         "Sportsnet 01 : Castleford Tigers vs. Leeds Rhinos - Sun 19/07 2:50pm",
@@ -1969,7 +1283,20 @@
         "Sportsnet 01 : Sportsnet Central: July 19 - Mon 20/07 10:00am",
         "Sportsnet 01 : Jays Talk Plus: July 20 - Mon 20/07 3:00pm",
         "Sportsnet 01 : Blair & Barker: July 20 - Mon 20/07 9:00pm",
-        "Sportsnet 02 : The FAN Pregame: July 20 - Mon 20/07 11:00pm"
+        "Sportsnet 02 : The FAN Pregame: July 20 - Mon 20/07 11:00pm",
+        "Sportsnet 03 : Tampa Bay @ Toronto - Mon 20/07 11:30pm",
+        "Sportsnet 04 : Los Angeles Dodgers @ Philadelphia - Tue 21/07 12:00am",
+        "Sportsnet 05 : Pittsburgh @ New York Yankees - Tue 21/07 12:00am",
+        "Sportsnet 01 : Sportsnet Central: July 20 - Tue 21/07 10:00am",
+        "Sportsnet 01 : Jays Talk Plus: July 21 - Tue 21/07 3:00pm",
+        "Sportsnet 01 : Blair & Barker: July 21 - Tue 21/07 9:00pm",
+        "Sportsnet 02 : The FAN Pregame: July 21 - Tue 21/07 11:00pm",
+        "Sportsnet 03 : Los Angeles Dodgers @ Philadelphia - Tue 21/07 11:30pm",
+        "Sportsnet 04 : Tampa Bay @ Toronto - Tue 21/07 11:30pm",
+        "Sportsnet 05 : Pittsburgh @ New York Yankees - Wed 22/07 12:00am",
+        "Sportsnet 01 : The Ultimate Fighter: Team Cormier vs. Team Bisping - Eps. 7 - Wed 22/07 3:00am",
+        "Sportsnet 01 : Sportsnet Central: July 21 - Wed 22/07 10:00am",
+        "Sportsnet 01 : Jays Talk Plus: July 22 - Wed 22/07 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -1980,23 +1307,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : South Africa v Wales - Nations Championship Round 3 2026 - Sat 18/07 3:30pm",
-        "Stan 08 : Manchester United v Wrexham - Pre-season Club Friendlies 2026 - Sat 18/07 3:50pm",
-        "Stan 09 : SS15 OtepÃ¤Ã¤ 2 - WRC Estonia 2026 - Sat 18/07 5:00pm",
-        "Stan 16 : France v South Africa - Junior World Championship Final 2026 - Sat 18/07 5:20pm",
-        "Stan 17 : Italy v Ireland - Junior World Championship Play-off 2026 - Sat 18/07 5:20pm",
-        "Stan 02 : Athens: Day 6 - WTA 250 - Sat 18/07 5:30pm",
-        "Stan 03 : Chile v Georgia - Nations Cup Round 3 2026 - Sat 18/07 5:50pm",
-        "Stan 10 : Uruguay v Hong Kong China - Nations Cup Round 3 2026 - Sat 18/07 5:50pm",
-        "Stan 12 : Argentina v England - Nations Championship Round 3 2026 - Sat 18/07 8:00pm",
-        "Stan 11 : Qualifying: Grand Prix of Nashville - Indycar 2026 - Sat 18/07 8:00pm",
-        "Stan 04 : Tonga v Portugal - Nations Cup Round 3 2026 - Sat 18/07 9:35pm",
-        "Stan 05 : PFL 9 - Austin 2026 - Sat 18/07 10:30pm",
-        "Stan 01 : Final Practice: Grand Prix of Nashville - Indycar 2026 - Sun 19/07 12:00am",
-        "Stan 02 : USA v Spain - Nations Cup Round 3 2026 - Sun 19/07 12:20am",
-        "Stan 06 : Canada v Zimbabwe - Nations Cup Round 3 2026 - Sun 19/07 12:50am",
-        "Stan 07 : Utah Royals v Orlando Pride - NWSL 2026 - Sun 19/07 1:45am",
-        "Stan 03 : Racing Day 2: Australia - UCI BMX World Championships 2026 - Sun 19/07 2:50am",
         "Stan 01 : SS17 KÃ¤Ã¤riku 1 - WRC Estonia 2026 - Sun 19/07 7:00am",
         "Stan 02 : SS18 KÃ¤Ã¤riku 2 (Wolf Power Stage) - WRC Estonia 2026 - Sun 19/07 11:00am",
         "Stan 03 : Bucheon v Seoul - K League 2026 - Sun 19/07 11:25am",
@@ -2034,7 +1344,29 @@
         "Stan 16 : Pohang v Jeonbuk - K League 2026 - Sat 25/07 11:25am",
         "Stan 02 : Prague: Day 6 - WTA 250 - Sat 25/07 12:30pm",
         "Stan 03 : Hamburg: Day 6 - WTA 250 - Sat 25/07 1:00pm",
-        "Stan 04 : Lions v Pumas - Currie Cup Round 2 2026 - Sat 25/07 1:55pm"
+        "Stan 04 : Lions v Pumas - Currie Cup Round 2 2026 - Sat 25/07 1:55pm",
+        "Stan 05 : Griquas v Bulls - Currie Cup Round 2 2026 - Sat 25/07 3:55pm",
+        "Stan 01 : Liverpool v Sunderland - Pre-season Club Friendlies 2026 - Sat 25/07 10:50pm",
+        "Stan 02 : PFL 10 - Washington 2026 - Sun 26/07 12:00am",
+        "Stan 03 : Leeds United v Wrexham - Pre-season Club Friendlies 2026 - Sun 26/07 12:20am",
+        "Stan 04 : North Carolina Courage v Utah Royals - NWSL 2026 - Sun 26/07 12:45am",
+        "Stan 05 : Conondale - Australian Motocross Championship 2026 - Sun 26/07 4:00am",
+        "Stan 01 : Free Practice 3: Tokyo - Formula E 2025/26 - Sun 26/07 5:25am",
+        "Stan 02 : Qualifying 2: Tokyo - Formula E 2025/26 - Sun 26/07 7:30am",
+        "Stan 03 : Race 2: Tokyo - Formula E 2025/26 - Sun 26/07 11:00am",
+        "Stan 05 : Incheon v Bucheon - K League 2026 - Sun 26/07 11:25am",
+        "Stan 04 : Seoul v Ulsan - K League 2026 - Sun 26/07 11:25am",
+        "Stan 01 : Race Day Part 1: Czech Republic - MXGP 2026 - Sun 26/07 12:00pm",
+        "Stan 07 : Hamburg: Day 7 - WTA 250 - Sun 26/07 1:00pm",
+        "Stan 06 : Prague: Day 7 - WTA 250 - Sun 26/07 1:00pm",
+        "Stan 08 : Boland Kavaliers v Stormers - Currie Cup Round 2 2026 - Sun 26/07 1:55pm",
+        "Stan 02 : Race Day Part 2: Czech Republic - MXGP 2026 - Sun 26/07 3:00pm",
+        "Stan 01 : San Diego Wave v Seattle Reign - NWSL 2026 - Sun 26/07 10:00pm",
+        "Stan 02 : Washington Spirit v Denver Summit - NWSL 2026 - Mon 27/07 12:00am",
+        "Stan 01 : Washington, D.C.: Day 1 â¢ Session 1 - WTA 500 - Mon 27/07 4:00pm",
+        "Stan 01 : Washington, D.C.: Day 1 â¢ Session 2 - WTA 500 - Mon 27/07 11:00pm",
+        "Stan 01 : Washington, D.C.: Day 2 - WTA 500 - Tue 28/07 6:00pm",
+        "Stan 01 : Washington, D.C.: Day 3 - WTA 500 - Wed 29/07 4:00pm"
       ],
       "sections": [],
       "events": []
@@ -2054,19 +1386,22 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : 2026 Open Championship: Third Round - Featured Group - Sat 18/07 9:35am",
-        "TSN 07 : 2026 Open Championship: Third Round - Featured Group - Sat 18/07 11:45am",
-        "TSN 11 : 2026 Rugby World Junior Championship: 3rd Place & Final - Sat 18/07 2:50pm",
-        "TSN 01 : 2026 NASCAR CRAFTSMAN Truck Series: Faith Fest 250 - Sat 18/07 5:30pm",
-        "TSN 05 : ATP 250 Tennis: Umag - Final - Sat 18/07 6:00pm",
-        "TSN 06 : Athletes Unlimited Softball League: Talons vs. Bandits - Sat 18/07 7:00pm",
-        "TSN 03 : Premier Lacrosse League: Carolina Chaos vs. Denver Outlaws - Sat 18/07 7:00pm",
-        "TSN 09 : IndyCar Qualifying: Borchetta Bourbon Music City Grand Prix - Sat 18/07 8:00pm",
-        "TSN 04 : Athletes Unlimited Softball League: Spark vs. Blaze - Sat 18/07 9:00pm",
-        "TSN 08 : Premier Lacrosse League: Utah Archers vs. Philadelphia Waterdogs - Sat 18/07 9:30pm",
-        "TSN 10 : NASCAR Cup Series Practice & Qualifying: Window World 450 - Sat 18/07 10:00pm",
-        "TSN 01 : IndyCar Final Practice: Borchetta Bourbon Music City Grand Prix - Sat 18/07 11:00pm",
-        "TSN 02 : Rugby Nations Cup 2026: Canada vs. Zimbabwe - Sun 19/07 1:00am"
+        "TSN 01 : Formula 3 Feature Race: Spa-Francorchamps - Sun 19/07 7:25am",
+        "TSN 02 : 2026 Open Championship: Final Round - Featured Group - Sun 19/07 8:45am",
+        "TSN 03 : Formula 2 Feature Race: Spa-Francorchamps - Sun 19/07 8:55am",
+        "TSN 04 : 2026 Open Championship: Final Round - Featured Group - Sun 19/07 9:10am",
+        "TSN 05 : ATP 250 Tennis: Gstaad - Final - Sun 19/07 10:30am",
+        "TSN 01 : 2026 Open Championship: Final Round - Player Focus Feed - Sun 19/07 12:35pm",
+        "TSN 06 : ATP 250 Tennis: Bastad - Final - Sun 19/07 1:00pm",
+        "TSN 07 : Formula 1 Driver Tracker - Belgian Grand Prix - Sun 19/07 1:30pm",
+        "TSN 03 : Formula 1 Pit Lane - Belgian Grand Prix - Sun 19/07 1:30pm",
+        "TSN 05 : Athletes Unlimited Softball League: Spark vs. Blaze - Sun 19/07 5:00pm",
+        "TSN 03 : Spanish Feed: FIFA World Cup 2026 - Final: Spain vs. Argentina - Sun 19/07 7:45pm",
+        "TSN 06 : Premier Lacrosse League: New York Atlas vs. Boston Cannons - Sun 19/07 8:00pm",
+        "TSN 01 : 2026 IndyCar Racing: Borchetta Bourbon Music City Grand Prix - Sun 19/07 10:30pm",
+        "TSN 02 : NASCAR Cup Series On-Board Camera: Window World 450 - Chase Elliott - Mon 20/07 12:00am",
+        "TSN 04 : NASCAR Cup Series On-Board Camera: Window World 450 - Ryan Blaney - Mon 20/07 12:00am",
+        "TSN 03 : 2026 NBA Summer League Championship - Mon 20/07 2:00am"
       ],
       "sections": [],
       "events": []
@@ -2076,7 +1411,11 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P1M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":4119,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":false,\"sku\":\"ufc_qcfXGEh3IKruN9x37SvR_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1647018996000,\"default\":false},{\"id\":11135,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":false,\"sku\":\"ufc_6IkzDQZ8D06qgSQIaT5k_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769115732000,\"default\":false},{\"id\":2063,\"currency\":\"PHP\",\"scale\":2,\"amount\":115000,\"taxInclusive\":true,\"sku\":\"ufc_BS5bV7NhQcVlwhm8OUTR_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":26834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1399167,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":115000,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641949000,\"default\":false},{\"id\":4122,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":true,\"sku\":\"ufc_6t6q3TH30ggDoV2kv0sd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1647019044000,\"default\":false},{\"id\":1569,\"currency\":\"JPY\",\"scale\":0,\"amount\":2189,\"taxInclusive\":true,\"sku\":\"ufc_r8YPoyBbyxOpDzdBFU9n_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":73,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":511,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":26633,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2189,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"}],\"effectiveFrom\":1680727604000,\"default\":true},{\"id\":4123,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":true,\"sku\":\"ufc_9BM8waqBs90X7GQa5Fzd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641961000,\"default\":false},{\"id\":11141,\"currency\":\"ILS\",\"scale\":2,\"amount\":9190,\"taxInclusive\":true,\"sku\":\"ufc_h7Ty2VjjtPUcDcfb6quf_ILS\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":111812,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2145,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":307,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9190,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769155650000,\"default\":false},{\"id\":4124,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":false,\"sku\":\"ufc_uwWNHMgrrCLIbNb9ru6N_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641904000,\"default\":false},{\"id\":11138,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":true,\"sku\":\"ufc_3bjMuuLNOQBqm2eL8cNv_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769153993000,\"default\":false},{\"id\":11140,\"currency\":\"PLN\",\"scale\":2,\"amount\":12799,\"taxInclusive\":true,\"sku\":\"ufc_IysyyM7JWAT8mmTxd9bI_PLN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":155722,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":427,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2987,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":12799,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769155477000,\"default\":false},{\"id\":11157,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_i77LSWODdVStZeRfctUo_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":2064,\"currency\":\"USD\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_yNe71XeuKRT2PnFvi7t9_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":30405,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":84,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":584,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":2499,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009870000,\"default\":false},{\"id\":11134,\"currency\":\"HKD\",\"scale\":2,\"amount\":10300,\"taxInclusive\":true,\"sku\":\"ufc_djvVJZmYYE8lNOAYKq8X_HKD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":10300,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":125317,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2404,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":344,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769114711000,\"default\":false},{\"id\":4121,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_s1fGZ7L0WqGCyODgvdSx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748642352000,\"default\":false},{\"id\":4120,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_6ao2dCcgc1WcY7Ntqwy0_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641848000,\"default\":false},{\"id\":2065,\"currency\":\"EUR\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_Q2n7HRBBGQTAAw4sE1QP_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":67,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":24322,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":2067,\"currency\":\"EUR\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_xALgAMslgDnpYfQ9Aiui_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":84,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":584,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":30405,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2499,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":11139,\"currency\":\"EUR\",\"scale\":2,\"amount\":2849,\"taxInclusive\":true,\"sku\":\"ufc_jotac4RiWFKXEKKK9Sce_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":665,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":34663,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":95,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2849,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769154857000,\"default\":false},{\"id\":11158,\"currency\":\"TRY\",\"scale\":2,\"amount\":89999,\"taxInclusive\":true,\"sku\":\"ufc_QqElPHD5iQluMNkJM6mF_TRY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1094988,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":89999,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":3000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":21000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":2066,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_E3RhVJbdyPda5hpQDvcL_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"}],\"rokuIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"amazonIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
+        "FURY FC 121 - Sun 19/07 10:30pm",
+        "559 FIGHTS: 125 - Mon 20/07 2:00am"
+      ],
       "sections": [],
       "events": []
     }
