@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T11:00:51.549482+00:00",
+  "scraped_at": "2026-07-20T13:03:20.111915+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -268,11 +268,10 @@
         "Sky Sports F1 UHD - Formula 1 - Belgian Grand Prix: Grand Prix Sunday - Mon 20/07 6:00am",
         "Sky Sports Main Event UHD - World Cup Report - Mon 20/07 1:00pm",
         "Sky Sports UHD 2 - Live: World Matchplay Darts - Day 3 - Mon 20/07 7:00pm",
-        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Misano: Sprint Race 1 - Mon 20/07 9:30pm",
-        "Sky Sports F1 UHD - Live: GT World Challenge Europe Motor Racing - Misano: Sprint Race 2 - Mon 20/07 11:30pm",
         "Sky Sports Main Event UHD - Live: WNBA Basketball - Las Vegas Aces at Toronto Tempo - Tue 21/07 1:00am",
         "Sky Sports UHD 1 - Live: The Hundred - Women's: MI London v Sunrisers Leeds - Tue 21/07 2:15pm",
-        "Sky Sports F1 UHD - IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Highlights - Tue 21/07 9:00pm"
+        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Misano: Sprint Race 1 - Tue 21/07 6:00pm",
+        "Sky Sports F1 UHD - Live: GT World Challenge Europe Motor Racing - Misano: Sprint Race 2 - Tue 21/07 8:05pm"
       ],
       "sections": [],
       "events": []
@@ -282,7 +281,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 20/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -881,7 +882,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Iasi: Day 7 - WTA 250 - Mon 20/07 8:55am",
         "Stan 01 : Race: Grand Prix of Nashville - Indycar 2026 - Mon 20/07 7:30pm",
         "Stan 02 : Jeonbuk v Daejeon - K League 2026 - Tue 21/07 11:25am",
         "Stan 01 : Ulsan v Incheon - K League 2026 - Tue 21/07 11:25am",
