@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T17:00:50.492181+00:00",
+  "scraped_at": "2026-07-21T18:16:00.461966+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -348,6 +348,30 @@
         },
         {
           "sport": "SOFTBALL",
+          "time": "17:00",
+          "name": "CENTRAL REGION CHAMPIONSHIP",
+          "datetime": "2026-07-22 17:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "18:45",
+          "name": "SOUTHWEST REGION CHAMPIONSHIP",
+          "datetime": "2026-07-22 18:45:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
           "time": "20:30",
           "name": "NEW ENGLAND REGION",
           "datetime": "2026-07-22 20:30:00",
@@ -406,7 +430,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 21/07/2026 18:00 - 00:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -835,8 +861,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: World Matchplay Darts: Day 4 - 19:00 21/07/2026",
-        "Sky Sport 1 UHD - LIVE: World Matchplay Darts: Day 4 - 19:00 21/07/2026",
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 2 - 20:30 21/07/2026",
         "Sky Sport 1 - LIVE: 1st XV: St Pats v St Pats - 01:00 22/07/2026",
         "Sky Sport 1 UHD - LIVE: 1st XV: St Pats v St Pats - 01:00 22/07/2026",
