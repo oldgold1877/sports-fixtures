@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T09:24:00.016695+00:00",
+  "scraped_at": "2026-07-21T11:00:53.771574+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Ararat Armenia vs Shamrock Rovers 10:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 5:00pm-14:00 - Friendly: Sheffield Utd vs Huddersfield Town"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 12:00am-21:00 - Friendly: Gillingham vs Millwall"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -400,9 +418,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 21/07/2026 06:00 - 12:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -503,68 +519,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - Pacheco vs. Aleem - 01:00 19/07/2026",
-        "DAZN GB 01 - Inside The Ring July 20 - 19:00 20/07/2026",
-        "DAZN GB 02 - Paul Ricard Race 02 - 08:45 19/07/2026",
-        "DAZN GB 03 - Delfi Rally Estonia: Stage 17 - 09:00 19/07/2026",
-        "DAZN GB 03 - EWC Teamfight Tactics 2026 Day 01 Stream B - 09:00 21/07/2026",
-        "DAZN GB 04 - EWC League of Legends Day 05 - 11:00 19/07/2026",
-        "DAZN GB 04 - EWC PUBG Battlegrounds Day 01 - 12:00 21/07/2026",
-        "DAZN GB 05 - EWC Dota 02 Week 02 Day 06 - 11:00 19/07/2026",
-        "DAZN GB 05 - EWC Teamfight Tactics 2026 Day 02 Stream A - 09:00 22/07/2026",
-        "DAZN GB 06 - Delfi Rally Estonia: Stage 18 - 11:00 19/07/2026",
-        "DAZN GB 06 - EWC Teamfight Tactics 2026 Day 02 Stream B - 09:00 22/07/2026",
-        "DAZN GB 07 - Athletic Brewing IRONMAN Lake Placid - 11:00 19/07/2026",
-        "DAZN GB 08 - Paul Ricard Race 02 - 11:10 19/07/2026",
-        "DAZN GB 09 - Paul Ricard Race 02 - 12:28 19/07/2026",
-        "DAZN GB 09 - EWC EAFC 2026 Day 01 - 16:00 22/07/2026",
-        "DAZN GB 10 - Delfi Rally Estonia: Wrap Show from Kääriku Podium - 12:30 19/07/2026",
-        "DAZN GB 10 - EWC Teamfight Tactics 2026 Day 03 - 09:00 23/07/2026",
-        "DAZN GB 11 - Paul Ricard Race 03 - 14:10 19/07/2026",
-        "DAZN GB 11 - EWC ML:BB 2026 Day 02 - 10:00 23/07/2026",
-        "DAZN GB 12 - EWC PUBG Battlegrounds Day 03 - 12:00 23/07/2026",
-        "DAZN GB 13 - EWC Teamfight Tactics 2026 Day 01 Stream A - 09:00 21/07/2026",
-        "DAZN GB 13 - EWC EAFC 2026 Day 02 - 16:00 23/07/2026",
-        "DAZN GB 14 - Joshua vs. Prenga: Press Conference - 18:00 23/07/2026",
+        "DAZN GB 01 - EWC Teamfight Tactics 2026 Day 01 Stream A - 09:00 21/07/2026",
+        "DAZN GB 02 - EWC Teamfight Tactics 2026 Day 01 Stream B - 09:00 21/07/2026",
+        "DAZN GB 03 - EWC PUBG Battlegrounds Day 01 - 12:00 21/07/2026",
+        "DAZN GB 04 - EWC Teamfight Tactics 2026 Day 02 Stream A - 09:00 22/07/2026",
+        "DAZN GB 05 - EWC Teamfight Tactics 2026 Day 02 Stream B - 09:00 22/07/2026",
+        "DAZN GB 06 - EWC ML:BB 2026 Day 01 - 10:00 22/07/2026",
+        "DAZN GB 07 - EWC PUBG Battlegrounds Day 02 - 12:00 22/07/2026",
+        "DAZN GB 08 - EWC EAFC 2026 Day 01 - 16:00 22/07/2026",
+        "DAZN GB 09 - EWC Teamfight Tactics 2026 Day 03 - 09:00 23/07/2026",
+        "DAZN GB 10 - EWC ML:BB 2026 Day 02 - 10:00 23/07/2026",
+        "DAZN GB 11 - EWC PUBG Battlegrounds Day 03 - 12:00 23/07/2026",
+        "DAZN GB 12 - EWC EAFC 2026 Day 02 - 16:00 23/07/2026",
+        "DAZN GB 13 - Joshua vs. Prenga: Press Conference - 18:00 23/07/2026",
+        "DAZN GB 14 - Spence Jr. vs. Tszyu: Press Conference - 03:00 24/07/2026",
         "DAZN GB 15 - EWC Teamfight Tactics 2026 Day 04 - 09:00 24/07/2026",
         "DAZN GB 16 - EWC ML:BB 2026 Day 03 - 10:00 24/07/2026",
         "DAZN GB 17 - PUBG Battlegrounds Day 04 - 12:00 24/07/2026",
-        "DAZN GB 18 - EWC ML:BB 2026 Day 01 - 10:00 22/07/2026",
         "DAZN GB 18 - 2026 NFL Flag Championship: Round of 16 - Session 01 - 15:00 24/07/2026",
-        "DAZN GB 19 - EWC PUBG Battlegrounds Day 02 - 12:00 22/07/2026",
         "DAZN GB 19 - EWC EAFC 2026 Day 03 - 16:00 24/07/2026",
         "DAZN GB 20 - 2026 NFL Flag Championship: Round of 16 - Session 02 - 17:00 24/07/2026",
         "DAZN GB 21 - Joshua vs. Prenga: Weigh In - 19:00 24/07/2026",
         "DAZN GB 22 - 2026 NFL Flag Championship: Round of 16 - Session 03 - 19:00 24/07/2026",
         "DAZN GB 23 - 82nd Rally Poland: Stage 01 - 20:15 24/07/2026",
         "DAZN GB 24 - 2026 NFL Flag Championship: Round of 16 - Session 04 - 21:00 24/07/2026",
-        "DAZN GB 25 - Suzuka Trofeo Pirelli Race 01 - 05:40 25/07/2026",
-        "DAZN GB 26 - Suzuka Coppa Shell Race 01 - 07:35 25/07/2026",
-        "DAZN GB 27 - 82nd Rally Poland: Stage 02 - 08:01 25/07/2026",
-        "DAZN GB 28 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
-        "DAZN GB 29 - 82nd Rally Poland: Stage 03 - 09:01 25/07/2026",
-        "DAZN GB 30 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
-        "DAZN GB 31 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026",
-        "DAZN GB 32 - Mugello Race 01 - 10:10 25/07/2026",
-        "DAZN GB 33 - EWC PUBG Battlegrounds Day 05 - 12:00 25/07/2026",
-        "DAZN GB 34 - EWC EAFC 2026 Day 04 - 13:00 25/07/2026",
-        "DAZN GB 35 - RWS: Chalarm vs. Yodkatanyu - 13:10 25/07/2026",
-        "DAZN GB 37 - Joshua vs. Prenga - 13:30 25/07/2026",
-        "DAZN GB 37 - 82nd Rally Poland: Stage 05 - 14:01 25/07/2026",
-        "DAZN GB 38 - Brands Hatch Race 01 - 14:30 25/07/2026",
-        "DAZN GB 39 - Red Bull District Ride Groningen - 15:00 25/07/2026",
-        "DAZN GB 39 - 82nd Rally Poland: Stage 06 - 15:01 25/07/2026",
-        "DAZN GB 41 - 82nd Rally Poland: Stage 07 - 16:01 25/07/2026",
-        "DAZN GB 42 - Mugello Race 02 - 16:10 25/07/2026",
-        "DAZN GB 42 - Spence Jr. vs. Tszyu - 02:00 26/07/2026",
-        "DAZN GB 43 - 82nd Rally Poland: Stage 08 - 18:05 25/07/2026",
-        "DAZN GB 43 - 82nd Rally Poland: Stage 09 - 07:22 26/07/2026",
-        "DAZN GB 44 - 2026 NFL Flag Championship: Quarter Finals - Session 03 - 19:00 25/07/2026",
-        "DAZN GB 45 - 2026 NFL Flag Championship: International Semi Finals - 20:00 25/07/2026",
-        "DAZN GB 46 - 2026 NFL Flag Championship: Quarter Finals - Session 04 - 22:00 25/07/2026",
-        "DAZN GB 47 - 2026 NFL Flag Championship: International Championship Game - 23:00 25/07/2026",
-        "DAZN GB 49 - Suzuka Trofeo Pirelli Race 02 - 05:40 26/07/2026",
-        "DAZN GB 49 - EWC EAFC 2026 Day 05 - 13:00 26/07/2026"
+        "DAZN GB 25 - Andrade vs. Ataide - 23:30 24/07/2026",
+        "DAZN GB 26 - Spence Jr. vs. Tszyu: Weigh In - 03:00 25/07/2026",
+        "DAZN GB 27 - Suzuka Trofeo Pirelli Race 01 - 05:40 25/07/2026",
+        "DAZN GB 28 - Suzuka Coppa Shell Race 01 - 07:35 25/07/2026",
+        "DAZN GB 29 - 82nd Rally Poland: Stage 02 - 08:01 25/07/2026",
+        "DAZN GB 30 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
+        "DAZN GB 31 - 82nd Rally Poland: Stage 03 - 09:01 25/07/2026",
+        "DAZN GB 32 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
+        "DAZN GB 33 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026",
+        "DAZN GB 34 - Mugello Race 01 - 10:10 25/07/2026",
+        "DAZN GB 35 - EWC PUBG Battlegrounds Day 05 - 12:00 25/07/2026",
+        "DAZN GB 36 - EWC EAFC 2026 Day 04 - 13:00 25/07/2026",
+        "DAZN GB 37 - RWS: Chalarm vs. Yodkatanyu - 13:10 25/07/2026",
+        "DAZN GB 38 - Joshua vs. Prenga - 14:00 25/07/2026",
+        "DAZN GB 39 - Joshua vs. Prenga: Free to Watch Fights - 14:00 25/07/2026",
+        "DAZN GB 40 - 82nd Rally Poland: Stage 05 - 14:01 25/07/2026",
+        "DAZN GB 41 - Brands Hatch Race 01 - 14:30 25/07/2026",
+        "DAZN GB 42 - Red Bull District Ride Groningen - 15:00 25/07/2026",
+        "DAZN GB 43 - 2026 NFL Flag Championship: Quarter Finals - Session 01 - 15:00 25/07/2026",
+        "DAZN GB 44 - 82nd Rally Poland: Stage 06 - 15:01 25/07/2026",
+        "DAZN GB 45 - 2026 NFL Flag Championship: Quarter Finals - Session 02 - 16:00 25/07/2026",
+        "DAZN GB 46 - 82nd Rally Poland: Stage 07 - 16:01 25/07/2026",
+        "DAZN GB 47 - Mugello Race 02 - 16:10 25/07/2026",
+        "DAZN GB 48 - 82nd Rally Poland: Stage 08 - 18:05 25/07/2026",
+        "DAZN GB 49 - 2026 NFL Flag Championship: Quarter Finals - Session 03 - 19:00 25/07/2026",
+        "DAZN GB 50 - 2026 NFL Flag Championship: International Semi Finals - 20:00 25/07/2026"
       ],
       "sections": [],
       "events": []
@@ -843,8 +847,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: Tour de France Stage 16 - 11:50 21/07/2026",
-        "Sky Sport 1 UHD - LIVE: Tour de France Stage 16 - 11:50 21/07/2026",
         "Sky Sport 2 - LIVE: Hundred W: MI London v Sunrisers - 14:30 21/07/2026",
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 1 - 15:00 21/07/2026",
         "Sky Sport 2 - LIVE: Hundred M: MI London v Sunrisers - 18:00 21/07/2026",
@@ -1029,7 +1031,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: July 20 - Tue 21/07 10:00am",
         "Sportsnet 01 : Jays Talk Plus: July 21 - Tue 21/07 3:00pm",
         "Sportsnet 01 : Blair & Barker: July 21 - Tue 21/07 9:00pm",
         "Sportsnet 02 : The FAN Pregame: July 21 - Tue 21/07 11:00pm",
@@ -1053,7 +1054,8 @@
         "Sportsnet 01 : Blair & Barker: July 23 - Thu 23/07 9:00pm",
         "Sportsnet 05 : The FAN Pregame: July 23 - Thu 23/07 11:00pm",
         "Sportsnet 06 : Kansas City @ Detroit - Thu 23/07 11:30pm",
-        "Sportsnet 02 : TNA iMPACT! - Fri 24/07 1:00am"
+        "Sportsnet 02 : TNA iMPACT! - Fri 24/07 1:00am",
+        "Sportsnet 01 : Sportsnet Central: July 23 - Fri 24/07 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1067,6 +1069,7 @@
         "Stan 02 : Jeonbuk v Daejeon - K League 2026 - Tue 21/07 11:25am",
         "Stan 01 : Ulsan v Incheon - K League 2026 - Tue 21/07 11:25am",
         "Stan 01 : Bucheon v Anyang - K League 2026 - Wed 22/07 11:25am",
+        "Stan 01 : Wallabies Squad Announcement - Thu 23/07 2:30am",
         "Stan 02 : Hamburg: Day 5 - WTA 250 - Fri 24/07 10:00am",
         "Stan 03 : Prague: Day 5 - WTA 250 - Fri 24/07 10:00am",
         "Stan 01 : Free Practice 1: Tokyo - Formula E 2025/26 - Fri 24/07 10:50am",
