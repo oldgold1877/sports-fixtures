@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T11:00:53.771574+00:00",
+  "scraped_at": "2026-07-21T12:22:12.990653+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,7 +17,19 @@
             },
             {
               "type": "fixture",
+              "text": "UEFA | 02 - Sturm Graz vs Hearts 12:30am"
+            },
+            {
+              "type": "fixture",
               "text": "SPORTS SCENE 01 - 5:00pm-14:00 - Friendly: Sheffield Utd vs Huddersfield Town"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 12:30am-21:30 - Friendly: Fleetwood Town vs Huddersfield Town"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 12:30am-21:30 - Friendly: Walsall vs Aston Villa"
             },
             {
               "type": "fixture",
@@ -418,7 +430,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 21/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
