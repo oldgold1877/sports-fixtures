@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T12:22:12.990653+00:00",
+  "scraped_at": "2026-07-21T17:00:50.492181+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -348,30 +348,6 @@
         },
         {
           "sport": "SOFTBALL",
-          "time": "17:00",
-          "name": "CENTRAL REGION CHAMPIONSHIP",
-          "datetime": "2026-07-22 17:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "SOFTBALL",
-          "time": "18:45",
-          "name": "SOUTHWEST REGION CHAMPIONSHIP",
-          "datetime": "2026-07-22 18:45:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "SOFTBALL",
           "time": "20:30",
           "name": "NEW ENGLAND REGION",
           "datetime": "2026-07-22 20:30:00",
@@ -430,9 +406,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 21/07/2026 12:00 - 18:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -861,9 +835,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Hundred W: MI London v Sunrisers - 14:30 21/07/2026",
-        "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 1 - 15:00 21/07/2026",
-        "Sky Sport 2 - LIVE: Hundred M: MI London v Sunrisers - 18:00 21/07/2026",
         "Sky Sport 1 - LIVE: World Matchplay Darts: Day 4 - 19:00 21/07/2026",
         "Sky Sport 1 UHD - LIVE: World Matchplay Darts: Day 4 - 19:00 21/07/2026",
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 2 Session 2 - 20:30 21/07/2026",
@@ -1045,7 +1016,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Jays Talk Plus: July 21 - Tue 21/07 3:00pm",
         "Sportsnet 01 : Blair & Barker: July 21 - Tue 21/07 9:00pm",
         "Sportsnet 02 : The FAN Pregame: July 21 - Tue 21/07 11:00pm",
         "Sportsnet 03 : Los Angeles Dodgers @ Philadelphia - Tue 21/07 11:30pm",
@@ -1054,11 +1024,11 @@
         "Sportsnet 01 : The Ultimate Fighter: Team Cormier vs. Team Bisping - Eps. 7 - Wed 22/07 3:00am",
         "Sportsnet 01 : Sportsnet Central: July 21 - Wed 22/07 10:00am",
         "Sportsnet 01 : Jays Talk Plus: July 22 - Wed 22/07 3:00pm",
-        "Sportsnet 02 : Pittsburgh @ New York Yankees - Wed 22/07 6:30pm",
         "Sportsnet 01 : Blair & Barker: July 22 - Wed 22/07 9:00pm",
         "Sportsnet 03 : The FAN Pregame: July 22 - Wed 22/07 11:00pm",
         "Sportsnet 04 : Los Angeles Dodgers @ Philadelphia - Wed 22/07 11:30pm",
         "Sportsnet 05 : Tampa Bay @ Toronto - Wed 22/07 11:30pm",
+        "Sportsnet 02 : Baltimore @ Boston - Thu 23/07 12:00am",
         "Sportsnet 01 : Sportsnet Central: July 22 - Thu 23/07 10:00am",
         "Sportsnet 02 : Eels vs. Panthers - Thu 23/07 10:40am",
         "Sportsnet 01 : Jays Talk Plus: July 23 - Thu 23/07 3:00pm",
@@ -1080,9 +1050,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Jeonbuk v Daejeon - K League 2026 - Tue 21/07 11:25am",
-        "Stan 01 : Ulsan v Incheon - K League 2026 - Tue 21/07 11:25am",
-        "Stan 01 : Bucheon v Anyang - K League 2026 - Wed 22/07 11:25am",
+        "Stan 01 : Bucheon v Anyang - K League 2026 - Wed 22/07 11:30am",
         "Stan 01 : Wallabies Squad Announcement - Thu 23/07 2:30am",
         "Stan 02 : Hamburg: Day 5 - WTA 250 - Fri 24/07 10:00am",
         "Stan 03 : Prague: Day 5 - WTA 250 - Fri 24/07 10:00am",
@@ -1140,6 +1108,7 @@
         "Stan 03 : Leeds United v Sunderland - Pre-season Club Friendlies 2026 - Fri 31/07 12:20am",
         "Stan 01 : Tasman v North Harbour - NPC Round 1 2026 - Fri 31/07 8:10am",
         "Stan 01 : Live Stage 2 - WRC Finland 2026 - Fri 31/07 4:00pm",
+        "Stan 03 : Memphis: Day 5 - WTA 250 - Fri 31/07 5:00pm",
         "Stan 02 : Washington, D.C.: Day 5 - WTA 500 - Fri 31/07 5:00pm"
       ],
       "sections": [],
@@ -1162,7 +1131,6 @@
       "fixtures": [
         "TSN 01 : ATP 250 Tennis: Kitzbuhel - Day #2 - Tue 21/07 10:00am",
         "TSN 02 : ATP 250 Tennis: Estoril - Day #2 - Tue 21/07 12:00pm",
-        "TSN 05 : Athletes Unlimited Softball League: Spark vs. Blaze - Tue 21/07 3:00pm",
         "TSN 04 : Pat McAfee Show - Tue 21/07 5:00pm",
         "TSN 03 : Rich Eisen Show - Tue 21/07 5:00pm"
       ],
