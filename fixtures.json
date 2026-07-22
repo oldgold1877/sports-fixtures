@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T11:00:51.077005+00:00",
+  "scraped_at": "2026-07-22T12:23:34.343439+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,21 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Thursday 23 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW Dynamite 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -592,6 +606,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 22/07/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: Thames Water Announces Hosepipe Ban For Ten Million - 22/07/2026 06:24 - 02:48"
       ],
       "sections": [],
@@ -1048,8 +1063,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: Tour de France Stage 17 - 12:10 22/07/2026",
-        "Sky Sport 1 UHD - LIVE: Tour de France Stage 17 - 12:10 22/07/2026",
         "Sky Sport 3 - LIVE: ICF: Oklahoma Day 3 Session 1 - 16:00 22/07/2026",
         "Sky Sport 2 - LIVE: Hundred M: Brave v Fire - 18:00 22/07/2026",
         "Sky Sport 1 - LIVE: World Matchplay Darts: Day 5 - 19:00 22/07/2026",
