@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T12:22:40.120723+00:00",
+  "scraped_at": "2026-07-23T17:00:52.620332+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,17 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 10:00pm-19:00 - Friendly: Tottenham Hotspur vs MK Dons"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -278,8 +268,32 @@
         {
           "sport": "SOFTBALL",
           "time": "18:45",
+          "name": "NORTHWEST REGION",
+          "datetime": "2026-07-23 18:45:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "18:45",
           "name": "WASHINGTON, DC - BOISE, ID",
           "datetime": "2026-07-23 18:45:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "20:30",
+          "name": "MID-ATLANTIC REGION",
+          "datetime": "2026-07-23 20:30:00",
           "channels": [
             {
               "name": "ESPN",
@@ -303,6 +317,18 @@
           "sport": "SOFTBALL",
           "time": "22:15",
           "name": "LIVE OAK, CA - LAS VEGAS, NV",
+          "datetime": "2026-07-23 22:15:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "22:15",
+          "name": "WEST REGION",
           "datetime": "2026-07-23 22:15:00",
           "channels": [
             {
@@ -513,18 +539,6 @@
           "name": "BOEHEIM'S ARMY - HALL IN",
           "datetime": "2026-07-25 00:00:00",
           "channels": []
-        },
-        {
-          "sport": "CYCLING",
-          "time": "13:00",
-          "name": "GAP - ALPE D'HUEZ",
-          "datetime": "2026-07-24 13:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
         },
         {
           "sport": "EQUESTRIAN",
@@ -788,8 +802,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 23/07/2026 12:00 - 18:00",
-        "BBC Events 02 - no_brand_title: Leicestershire Maze Pays Tribute to David Attenborough - 23/07/2026 06:52 - 02:05"
+        "BBC Events 02 - no_brand_title: Leicestershire Maze Pays Tribute to David Attenborough - 23/07/2026 06:52 - 02:05",
+        "BBC Events 03 - no_brand_title: Cyngres UEFA:  Flora Tallinn v Y Seintiau Newydd - 23/07/2026 16:43 - 19:00",
+        "BBC Events 04 - no_brand_title: UEFA Conference League: Flora Tallinn v The New Saints - 23/07/2026 16:43 - 19:00"
       ],
       "sections": [],
       "events": []
@@ -1233,10 +1248,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: Golf: The Senior Open Championship - 13:30 23/07/2026",
-        "Sky Sport Select - LIVE: GSL: Qalandars v Scorchers - 14:30 23/07/2026",
-        "Sky Sport 5 - LIVE: ICF: Oklahoma Day 4 Session 1 - 16:00 23/07/2026",
-        "Sky Sport 2 - LIVE: Hundred M: Spirit v Super Giants - 18:00 23/07/2026",
         "Sky Sport 3 - LIVE: World Matchplay Darts: Day 6 QF - 19:30 23/07/2026",
         "Sky Sport Select - LIVE: ICF: Oklahoma Day 4 Session 2 - 20:00 23/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
@@ -1432,13 +1443,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Eels vs. Panthers - Thu 23/07 10:40am",
-        "Sportsnet 01 : Jays Talk Plus: July 23 - Thu 23/07 3:00pm",
         "Sportsnet 02 : Minnesota @ Cleveland - Thu 23/07 6:00pm",
         "Sportsnet 03 : Tampa Bay @ Toronto - Thu 23/07 7:30pm",
         "Sportsnet 04 : Hull FC vs. Hull KR - Thu 23/07 7:50pm",
-        "Sportsnet 01 : Blair & Barker: July 23 - Thu 23/07 9:00pm",
-        "Sportsnet 05 : The FAN Pregame: July 23 - Thu 23/07 11:00pm",
         "Sportsnet 06 : Kansas City @ Detroit - Thu 23/07 11:30pm",
         "Sportsnet 02 : TNA iMPACT! - Fri 24/07 1:00am",
         "Sportsnet 01 : Sportsnet Central: July 23 - Fri 24/07 10:00am",
@@ -1456,7 +1463,10 @@
         "Sportsnet 01 : York Knights vs. Huddersfield Giants - Sat 25/07 2:50pm",
         "Sportsnet 02 : Leigh Leopards vs. Warrington Wolves - Sat 25/07 5:20pm",
         "Sportsnet 03 : Toulouse Olympique vs. Catalans Dragons - Sat 25/07 7:50pm",
-        "Sportsnet 04 : Toronto @ Boston - Sat 25/07 8:30pm"
+        "Sportsnet 04 : Toronto @ Boston - Sat 25/07 8:30pm",
+        "Sportsnet 01 : New York Yankees @ Philadelphia - Sat 25/07 11:00pm",
+        "Sportsnet 02 : Los Angeles Dodgers @ New York Mets - Sun 26/07 12:00am",
+        "Sportsnet 03 : Women's NRL - Eels vs. Warriors - Sun 26/07 2:50am"
       ],
       "sections": [],
       "events": []
@@ -1547,7 +1557,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 02 : ATP 250 Tennis: Kitzbuhel - Quarterfinals - Thu 23/07 10:00am",
-        "TSN 01 : WTA 250 Tennis: Hamburg - Day #4 - Thu 23/07 10:00am",
         "TSN 03 : ATP 250 Tennis: Estoril - Day #4 - Thu 23/07 12:00pm",
         "TSN 04 : PGA TOUR Live: Main Feed + Woodland/McNealy/Finau (4pm) - Thu 23/07 12:45pm",
         "TSN 07 : PGA TOUR Live: Featured Groups - Feat. Conners & Harman - Thu 23/07 1:15pm",
