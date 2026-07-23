@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T17:00:52.620332+00:00",
+  "scraped_at": "2026-07-23T18:12:56.469021+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -770,6 +770,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "13:30",
+          "name": "AUSTRIAN OPEN",
+          "datetime": "2026-07-24 13:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -802,9 +814,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 02 - no_brand_title: Leicestershire Maze Pays Tribute to David Attenborough - 23/07/2026 06:52 - 02:05",
-        "BBC Events 03 - no_brand_title: Cyngres UEFA:  Flora Tallinn v Y Seintiau Newydd - 23/07/2026 16:43 - 19:00",
-        "BBC Events 04 - no_brand_title: UEFA Conference League: Flora Tallinn v The New Saints - 23/07/2026 16:43 - 19:00"
+        "BBC Events 02 - no_brand_title: Leicestershire Maze Pays Tribute to David Attenborough - 23/07/2026 06:52 - 02:05"
       ],
       "sections": [],
       "events": []
