@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T11:00:56.115830+00:00",
+  "scraped_at": "2026-07-23T12:22:40.120723+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -423,6 +423,18 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "19:45",
+          "name": "DERRY CITY - LARNE",
+          "datetime": "2026-07-24 19:45:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "22:00",
           "name": "NFL FLAG CHAMPIONSHIP",
           "datetime": "2026-07-24 22:00:00",
@@ -525,6 +537,13 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "FIGHTING",
+          "time": "00:00",
+          "name": "GASTON REYNO - JOSH KREJCI",
+          "datetime": "2026-07-25 00:00:00",
+          "channels": []
         },
         {
           "sport": "️ GOLF",
@@ -769,6 +788,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 23/07/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: Leicestershire Maze Pays Tribute to David Attenborough - 23/07/2026 06:52 - 02:05"
       ],
       "sections": [],
@@ -1217,7 +1237,6 @@
         "Sky Sport Select - LIVE: GSL: Qalandars v Scorchers - 14:30 23/07/2026",
         "Sky Sport 5 - LIVE: ICF: Oklahoma Day 4 Session 1 - 16:00 23/07/2026",
         "Sky Sport 2 - LIVE: Hundred M: Spirit v Super Giants - 18:00 23/07/2026",
-        "Sky Sport 4 - LIVE: Opening Ceremony - 19:30 23/07/2026",
         "Sky Sport 3 - LIVE: World Matchplay Darts: Day 6 QF - 19:30 23/07/2026",
         "Sky Sport Select - LIVE: ICF: Oklahoma Day 4 Session 2 - 20:00 23/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 21:00 23/07/2026",
@@ -1226,33 +1245,33 @@
         "Sky Sport 2 - LIVE: Rapid League: Jets v Bulls - 07:30 24/07/2026",
         "Sky Sport 1 - LIVE: NRL: Knights v Roosters - 08:00 24/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Knights v Roosters - 08:00 24/07/2026",
+        "Sky Sport Select - LIVE: LPGA: Round 2 - 08:30 24/07/2026",
         "Sky Sport 2 - LIVE: Sal's NBL: Jets v Bulls - 08:30 24/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd7 Practice - 08:55 24/07/2026",
-        "Sky Sport Select - LIVE: LPGA: Round 2 - 09:30 24/07/2026",
-        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S1 - 10:00 24/07/2026",
-        "Sky Sport 7 - LIVE: 3x3 Basketball D1 S1 - 10:00 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball D1 S1 - 09:50 24/07/2026",
+        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S1 - 09:55 24/07/2026",
         "Sky Sport 3 - LIVE: FIA Formula 2: Rd9 Practice - 10:05 24/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D1 S1 - 10:30 24/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D1 S1 - 10:20 24/07/2026",
+        "Sky Sport 9 - LIVE: Boxing Day D1 S1 - 10:50 24/07/2026",
         "Sky Sport 1 - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Rabbitohs v Storms - 10:55 24/07/2026",
-        "Sky Sport 9 - LIVE: Boxing Day D1 S1 - 11:00 24/07/2026",
         "Sky Sport 2 - LIVE: FIA F1: Hungary GP Practice 1 - 12:00 24/07/2026",
         "Sky Sport 3 - LIVE: Tour de France Stage 19 - 12:50 24/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow - Para Powerlifting D1 Aft - 13:00 24/07/2026",
+        "Sky Sport 5 - LIVE: Glasgow - Para Powerlifting D1 Aft - 13:05 24/07/2026",
         "Sky Sport Select - LIVE: Golf: The Senior Open Championship - 13:30 24/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 3: Rd7 Qualifying - 13:55 24/07/2026",
-        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S2 - 14:30 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S2 - 14:20 24/07/2026",
         "Sky Sport 2 - LIVE: FIA Formula 2: Rd9 Qualifying - 15:05 24/07/2026",
         "Sky Sport 2 - LIVE: FIA F1: Hungary GP Practice 2 - 15:45 24/07/2026",
         "Sky Sport 9 - LIVE: ICF: Oklahoma Day 5 Session 1 - 16:00 24/07/2026",
         "Sky Sport 2 - LIVE: The F1 Show: Hungarian Grand Prix - 17:15 24/07/2026",
-        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S2 - 17:30 24/07/2026",
+        "Sky Sport 6 - LIVE: Artistic Gymnastics: D1 S2 - 17:25 24/07/2026",
+        "Sky Sport 3 - LIVE: Boxing Day: D1 S2 - 17:50 24/07/2026",
         "Sky Sport 1 - LIVE: Hundred M: Phoenix v Rockets - 18:00 24/07/2026",
         "Sky Sport 1 UHD - LIVE: Hundred M: Phoenix v Rockets - 18:00 24/07/2026",
-        "Sky Sport 3 - LIVE: Boxing Day: D1 S2 - 18:00 24/07/2026",
         "Sky Sport 9 - LIVE: Glasgow - Para Powerlifting D1 Eve - 18:20 24/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D1 S2 - 19:00 24/07/2026",
-        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S3 - 19:00 24/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D1 S2 - 18:50 24/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball: D1 S3 - 18:50 24/07/2026",
         "Sky Sport Select - LIVE: World Matchplay Darts: Day 7 QF - 19:30 24/07/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 2 - 21:00 24/07/2026",
         "Sky Sport Select - LIVE: Super W: Fijiana Drua v Waratahs F - 02:00 25/07/2026",
@@ -1384,7 +1403,16 @@
         "Sky Sport 5 - LIVE: Swimming: D5 S2 - 19:00 28/07/2026",
         "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: NZL v UGA - 19:00 28/07/2026",
         "Sky Sport 2 - LIVE: Athletics: W Hammer Throw F - 19:55 28/07/2026",
-        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: AUS v MAW - 20:45 28/07/2026"
+        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: AUS v MAW - 20:45 28/07/2026",
+        "Sky Sport 2 - LIVE: GSL: Desert Vipers v Scorchers - 23:45 28/07/2026",
+        "Sky Sport 1 - LIVE: 1st XV: Kerikeri v Bay of Islands - 04:00 29/07/2026",
+        "Sky Sport 1 UHD - LIVE: 1st XV: Kerikeri v Bay of Islands - 04:00 29/07/2026",
+        "Sky Sport 1 - LIVE: Sal's NBL: Eliminator 1 - 08:00 29/07/2026",
+        "Sky Sport 1 UHD - LIVE: Sal's NBL: Eliminator 1 - 08:00 29/07/2026",
+        "Sky Sport 9 - LIVE: Lawn Bowls D6 S1 - 08:30 29/07/2026",
+        "Sky Sport 6 - LIVE: Athletics D6 S1 - 10:00 29/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D6 S1 - 10:30 29/07/2026",
+        "Sky Sport 7 - LIVE: 3x3 Basketball: D6 S1 - 11:30 29/07/2026"
       ],
       "sections": [],
       "events": []
