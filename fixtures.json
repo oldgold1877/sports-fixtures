@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T08:56:39.618222+00:00",
+  "scraped_at": "2026-07-25T11:00:47.892525+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -22,6 +22,43 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 14:55-17:00 - F1: Hungarian Grand Prix - Qualifying 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 12:00am-23:00 - Boxing: BKB 57"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 8:00pm-17:00 - Friendly: AFC Wimbledon vs Charlton Athletic"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 - 8:00pm-17:00 - Friendly: Bromley vs Crystal Palace"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 8:00pm-17:00 - Friendly: Celtic vs Milan"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 8:00pm-17:00 - Friendly: Crewe Alexandra vs Birmingham City"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 14 - 8:00pm-17:00 - Friendly: Stevenage vs Millwall"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 15 - 9:00pm-18:00 - Friendly: Wolverhampton Wanderers vs Real Sociedad"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 9:00am-06:00 - Friendly: Auckland vs Tottenham Hotspur"
             }
           ]
         }
@@ -1355,9 +1392,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 25/07/2026 06:00 - 12:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1462,55 +1497,75 @@
       "status": "ok",
       "fixtures": [
         "DAZN GB 01 - EWC Teamfight Tactics 2026 Day 04 - 09:00 24/07/2026",
+        "DAZN GB 01 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
         "DAZN GB 02 - EWC ML:BB 2026 Day 03 - 10:00 24/07/2026",
+        "DAZN GB 02 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
         "DAZN GB 03 - PUBG Battlegrounds Day 04 - 12:00 24/07/2026",
-        "DAZN GB 04 - TAIF Racing Season 2026 Week 01 Day 01 - 14:30 24/07/2026",
-        "DAZN GB 05 - 2026 NFL Flag Championship: Round of 16 - Session 01 - 15:00 24/07/2026",
-        "DAZN GB 06 - EWC EAFC 2026 Day 03 - 16:00 24/07/2026",
-        "DAZN GB 07 - 2026 NFL Flag Championship: Round of 16 - Session 02 - 17:00 24/07/2026",
-        "DAZN GB 08 - Joshua vs. Prenga: Weigh In - 19:00 24/07/2026",
-        "DAZN GB 09 - 2026 NFL Flag Championship: Round of 16 - Session 03 - 19:00 24/07/2026",
-        "DAZN GB 10 - Derry City vs. Larne - 19:45 24/07/2026",
-        "DAZN GB 11 - 82nd Rally Poland: Stage 01 - 20:15 24/07/2026",
-        "DAZN GB 12 - 2026 NFL Flag Championship: Round of 16 - Session 04 - 21:00 24/07/2026",
-        "DAZN GB 13 - Reyno vs. Krejci: Weigh In - 23:00 24/07/2026",
-        "DAZN GB 14 - Andrade vs. Ataide - 23:30 24/07/2026",
-        "DAZN GB 15 - Spence Jr. vs. Tszyu: Weigh In - 03:00 25/07/2026",
-        "DAZN GB 16 - Suzuka Trofeo Pirelli Race 01 - 05:40 25/07/2026",
-        "DAZN GB 17 - Suzuka Coppa Shell Race 01 - 07:35 25/07/2026",
-        "DAZN GB 18 - 82nd Rally Poland: Stage 02 - 08:01 25/07/2026",
-        "DAZN GB 19 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
-        "DAZN GB 20 - 82nd Rally Poland: Stage 03 - 09:01 25/07/2026",
-        "DAZN GB 21 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
-        "DAZN GB 22 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026",
-        "DAZN GB 23 - Mugello Race 01 - 10:10 25/07/2026",
-        "DAZN GB 24 - EWC PUBG Battlegrounds Day 05 - 12:00 25/07/2026",
-        "DAZN GB 25 - IRONMAN 70.03 Boise - 13:00 25/07/2026",
-        "DAZN GB 26 - EWC EAFC 2026 Day 04 - 13:00 25/07/2026",
-        "DAZN GB 27 - RWS: Chalarm vs. Yodkatanyu - 13:10 25/07/2026",
-        "DAZN GB 28 - Joshua vs. Prenga - 14:00 25/07/2026",
-        "DAZN GB 29 - Joshua vs. Prenga: Free to Watch Fights - 14:00 25/07/2026",
-        "DAZN GB 30 - 82nd Rally Poland: Stage 05 - 14:01 25/07/2026",
-        "DAZN GB 31 - Brands Hatch Race 01 - 14:30 25/07/2026",
-        "DAZN GB 32 - TAIF Racing Season 2026 Week 01 Day 02 - 14:30 25/07/2026",
-        "DAZN GB 33 - Red Bull District Ride Groningen - 14:40 25/07/2026",
-        "DAZN GB 34 - 2026 NFL Flag Championship: Quarter Finals - Session 01 - 15:00 25/07/2026",
-        "DAZN GB 35 - 82nd Rally Poland: Stage 06 - 15:01 25/07/2026",
-        "DAZN GB 36 - 2026 NFL Flag Championship: Quarter Finals - Session 02 - 16:00 25/07/2026",
-        "DAZN GB 37 - 82nd Rally Poland: Stage 07 - 16:01 25/07/2026",
-        "DAZN GB 38 - Mugello Race 02 - 16:10 25/07/2026",
-        "DAZN GB 39 - 82nd Rally Poland: Stage 08 - 18:05 25/07/2026",
-        "DAZN GB 40 - 2026 NFL Flag Championship: Quarter Finals - Session 03 - 19:00 25/07/2026",
-        "DAZN GB 41 - Evolution Fight Rosolini - 19:30 25/07/2026",
-        "DAZN GB 42 - 2026 NFL Flag Championship: International Semi Finals - 20:00 25/07/2026",
-        "DAZN GB 43 - 2026 NFL Flag Championship: Quarter Finals - Session 04 - 22:00 25/07/2026",
-        "DAZN GB 44 - Sonoma Trofeo Pirelli Race 01 - 22:15 25/07/2026",
-        "DAZN GB 45 - 2026 NFL Flag Championship: International Championship Game - 23:00 25/07/2026",
-        "DAZN GB 46 - Sonoma Coppa Shell Race 01 - 23:15 25/07/2026",
-        "DAZN GB 47 - Reyno vs. Krejci - 00:00 26/07/2026",
-        "DAZN GB 48 - Spence Jr. vs. Tszyu: Prelims - 00:30 26/07/2026",
-        "DAZN GB 49 - Spence Jr. vs. Tszyu - 02:00 26/07/2026",
-        "DAZN GB 50 - 2026 NFL Flag Championship: Quarter Finals - Session 05 - 02:00 26/07/2026"
+        "DAZN GB 03 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026",
+        "DAZN GB 04 - 2026 NFL Flag Championship: Round of 16 - Session 01 - 15:00 24/07/2026",
+        "DAZN GB 04 - Mugello Race 01 - 10:10 25/07/2026",
+        "DAZN GB 05 - EWC EAFC 2026 Day 03 - 16:00 24/07/2026",
+        "DAZN GB 05 - EWC PUBG Battlegrounds Day 05 - 12:00 25/07/2026",
+        "DAZN GB 06 - 2026 NFL Flag Championship: Round of 16 - Session 02 - 17:00 24/07/2026",
+        "DAZN GB 06 - IRONMAN 70.03 Boise - 13:00 25/07/2026",
+        "DAZN GB 07 - Joshua vs. Prenga: Weigh In - 19:00 24/07/2026",
+        "DAZN GB 08 - 2026 NFL Flag Championship: Round of 16 - Session 03 - 19:00 24/07/2026",
+        "DAZN GB 08 - RWS: Chalarm vs. Yodkatanyu - 13:10 25/07/2026",
+        "DAZN GB 09 - 82nd Rally Poland: Stage 01 - 20:15 24/07/2026",
+        "DAZN GB 09 - Joshua vs. Prenga - 14:00 25/07/2026",
+        "DAZN GB 10 - 82nd Rally Poland: Stage 02 - 08:01 25/07/2026",
+        "DAZN GB 10 - Joshua vs. Prenga: Free to Watch Fights - 14:00 25/07/2026",
+        "DAZN GB 11 - EWC Teamfight Tactics 2026 Day 05 - 09:00 25/07/2026",
+        "DAZN GB 11 - 82nd Rally Poland: Stage 05 - 14:01 25/07/2026",
+        "DAZN GB 12 - 82nd Rally Poland: Stage 03 - 09:01 25/07/2026",
+        "DAZN GB 12 - Brands Hatch Race 01 - 14:30 25/07/2026",
+        "DAZN GB 13 - EWC ML:BB 2026 Day 04 - 10:00 25/07/2026",
+        "DAZN GB 13 - TAIF Racing Season 2026 Week 01 Day 02 - 14:30 25/07/2026",
+        "DAZN GB 14 - 82nd Rally Poland: Stage 04 - 10:01 25/07/2026",
+        "DAZN GB 14 - Red Bull District Ride Groningen - 14:40 25/07/2026",
+        "DAZN GB 15 - Mugello Race 01 - 10:10 25/07/2026",
+        "DAZN GB 15 - 2026 NFL Flag Championship: Quarter Finals - Session 01 - 15:00 25/07/2026",
+        "DAZN GB 16 - 82nd Rally Poland: Stage 06 - 15:01 25/07/2026",
+        "DAZN GB 17 - EWC EAFC 2026 Day 04 - 13:00 25/07/2026",
+        "DAZN GB 17 - 2026 NFL Flag Championship: Quarter Finals - Session 02 - 16:00 25/07/2026",
+        "DAZN GB 18 - RWS: Chalarm vs. Yodkatanyu - 13:10 25/07/2026",
+        "DAZN GB 18 - 82nd Rally Poland: Stage 07 - 16:01 25/07/2026",
+        "DAZN GB 19 - Joshua vs. Prenga - 14:00 25/07/2026",
+        "DAZN GB 19 - Mugello Race 02 - 16:10 25/07/2026",
+        "DAZN GB 20 - 82nd Rally Poland: Stage 08 - 18:05 25/07/2026",
+        "DAZN GB 22 - Evolution Fight Rosolini - 19:30 25/07/2026",
+        "DAZN GB 23 - 2026 NFL Flag Championship: International Semi Finals - 20:00 25/07/2026",
+        "DAZN GB 24 - 2026 NFL Flag Championship: Quarter Finals - Session 04 - 22:00 25/07/2026",
+        "DAZN GB 25 - Sonoma Trofeo Pirelli Race 01 - 22:15 25/07/2026",
+        "DAZN GB 26 - 2026 NFL Flag Championship: International Championship Game - 23:00 25/07/2026",
+        "DAZN GB 27 - 2026 NFL Flag Championship: Quarter Finals - Session 03 - 19:00 25/07/2026",
+        "DAZN GB 27 - Sonoma Coppa Shell Race 01 - 23:15 25/07/2026",
+        "DAZN GB 28 - Reyno vs. Krejci - 00:00 26/07/2026",
+        "DAZN GB 29 - Spence Jr. vs. Tszyu: Prelims - 01:00 26/07/2026",
+        "DAZN GB 30 - Spence Jr. vs. Tszyu - 02:00 26/07/2026",
+        "DAZN GB 31 - 2026 NFL Flag Championship: Quarter Finals - Session 05 - 02:00 26/07/2026",
+        "DAZN GB 32 - Suzuka Coppa Shell Race 02 - 05:40 26/07/2026",
+        "DAZN GB 33 - 2026 NFL Flag Championship: Quarter Finals - Session 06 - 07:00 26/07/2026",
+        "DAZN GB 34 - 82nd Rally Poland: Stage 09 - 07:22 26/07/2026",
+        "DAZN GB 35 - Suzuka Trofeo Pirelli Race 02 - 07:35 26/07/2026",
+        "DAZN GB 36 - Mugello Race 03 - 08:00 26/07/2026",
+        "DAZN GB 36 - EWC ML:BB 2026 Day 05 - 10:00 26/07/2026",
+        "DAZN GB 37 - 82nd Rally Poland: Stage 10 - 08:52 26/07/2026",
+        "DAZN GB 38 - 82nd Rally Poland: Stage 11 - 09:45 26/07/2026",
+        "DAZN GB 40 - 2026 NFL Flag Championship: Boys’ Semi Finals - 11:00 26/07/2026",
+        "DAZN GB 41 - EWC PUBG Battlegrounds Day 06 - 12:00 26/07/2026",
+        "DAZN GB 42 - 82nd Rally Poland: Stage 12 - 12:00 26/07/2026",
+        "DAZN GB 43 - EWC EAFC 2026 Day 05 - 12:00 26/07/2026",
+        "DAZN GB 44 - 2026 NFL Flag Championship: Girls’ Semi Finals - 13:00 26/07/2026",
+        "DAZN GB 44 - Mugello Race 04 - 14:50 26/07/2026",
+        "DAZN GB 45 - 82nd Rally Poland: Stage 13 - 13:02 26/07/2026",
+        "DAZN GB 46 - 82nd Rally Poland: Stage 14 - 13:55 26/07/2026",
+        "DAZN GB 46 - 82nd Rally Poland: Stage 15 - 16:00 26/07/2026",
+        "DAZN GB 47 - King`s World Cup Clubs Day 01 (In French & German) - 18:00 26/07/2026",
+        "DAZN GB 48 - Brands Hatch Race 02 - 15:00 26/07/2026",
+        "DAZN GB 48 - King`s World Cup Clubs Day 01 (In English Italian Portuguese & Spanish) - 18:00 26/07/2026",
+        "DAZN GB 50 - Kings World Cup Clubs Day 01 (Italian) - 18:00 26/07/2026",
+        "DAZN GB 50 - King`s World Cup Clubs Day 02 (In English Italian Portuguese & Spanish) - 18:00 27/07/2026"
       ],
       "sections": [],
       "events": []
@@ -1817,14 +1872,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Tour de France Stage 20 - 10:10 25/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D2 S1 (NZ) - 10:20 25/07/2026",
-        "Sky Sport 1 - LIVE: NRL: Cowboys v Broncos - 10:25 25/07/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Cowboys v Broncos - 10:25 25/07/2026",
-        "Sky Sport 3 - LIVE: Porsche Supercup: Rd5 Qualifying - 10:30 25/07/2026",
-        "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: AUS v TGA - 10:45 25/07/2026",
-        "Sky Sport Select - LIVE: FIA Formula E: Round 14 - 11:00 25/07/2026",
-        "Sky Sport 3 - LIVE: FIA F1: Hungary GP Practice 3 - 11:15 25/07/2026",
         "Sky Sport 6 - LIVE: Boxing Day: D2 S1 (NZ) - 12:30 25/07/2026",
         "Sky Sport 1 - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
@@ -2001,7 +2048,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: July 24 - Sat 25/07 10:00am",
         "Sportsnet 01 : York Knights vs. Huddersfield Giants - Sat 25/07 2:50pm",
         "Sportsnet 02 : Leigh Leopards vs. Warrington Wolves - Sat 25/07 5:20pm",
         "Sportsnet 03 : Toulouse Olympique vs. Catalans Dragons - Sat 25/07 7:50pm",
@@ -2025,7 +2071,8 @@
         "Sportsnet 04 : Atlanta @ New York Mets - Tue 28/07 12:00am",
         "Sportsnet 05 : New York Yankees @ Chicago White Sox - Tue 28/07 12:30am",
         "Sportsnet 01 : Sportsnet Central: July 27 - Tue 28/07 10:00am",
-        "Sportsnet 01 : The JD Bunkis Podcast: July 28 - Tue 28/07 2:00pm"
+        "Sportsnet 01 : The JD Bunkis Podcast: July 28 - Tue 28/07 2:00pm",
+        "Sportsnet 02 : Jays Talk Plus: July 28 - Tue 28/07 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -2036,8 +2083,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 13 : Qualifying 1: Tokyo - Formula E 2025/26 - Sat 25/07 7:30am",
-        "Stan 15 : Joondalup v Southern Lions - WA Premier Grade Round 14 2026 - Sat 25/07 8:25am",
         "Stan 01 : Race 1: Tokyo - Formula E 2025/26 - Sat 25/07 11:00am",
         "Stan 17 : Gimcheon v Daejeon - K League 2026 - Sat 25/07 11:25am",
         "Stan 16 : Pohang v Jeonbuk - K League 2026 - Sat 25/07 11:25am",
@@ -2047,8 +2092,8 @@
         "Stan 05 : Griquas v Bulls - Currie Cup Round 2 2026 - Sat 25/07 3:55pm",
         "Stan 01 : Liverpool v Sunderland - Pre-season Club Friendlies 2026 - Sat 25/07 10:30pm",
         "Stan 03 : Leeds United v Wrexham - Pre-season Club Friendlies 2026 - Sun 26/07 12:00am",
-        "Stan 02 : PFL 10 - Washington 2026 - Sun 26/07 12:30am",
         "Stan 04 : North Carolina Courage v Utah Royals - NWSL 2026 - Sun 26/07 12:45am",
+        "Stan 02 : PFL 10 - Washington D.C. 2026 - Sun 26/07 1:00am",
         "Stan 05 : Conondale - Australian Motocross Championship 2026 - Sun 26/07 4:00am",
         "Stan 01 : Free Practice 3: Tokyo - Formula E 2025/26 - Sun 26/07 5:25am",
         "Stan 02 : Qualifying 2: Tokyo - Formula E 2025/26 - Sun 26/07 7:30am",
@@ -2080,8 +2125,24 @@
         "Stan 01 : PFL 11 - New York 2026 - Fri 31/07 9:00pm",
         "Stan 02 : North Carolina Courage v Orlando Pride - NWSL 2026 - Sat 01/08 1:00am",
         "Stan 03 : Counties Manukau v Taranaki - NPC Round 1 2026 - Sat 01/08 3:00am",
+        "Stan 13 : Eastwood v Easts - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
+        "Stan 06 : Gordon v West Harbour - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
+        "Stan 09 : Hunter Wildfires v Norths - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
         "Stan 01 : Norths v Easts - Hospital Cup Round 17 2026 - Sat 01/08 6:00am",
-        "Stan 04 : Warringah v Sydney University - Shute Shield Round 16 2026 - Sat 01/08 6:00am"
+        "Stan 08 : Randwick v Manly - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
+        "Stan 05 : Southland v Otago - NPC Round 1 2026 - Sat 01/08 6:00am",
+        "Stan 07 : Souths v Two Blues - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
+        "Stan 12 : Sunnybank v Bond University - Hospital Cup Round 17 2026 - Sat 01/08 6:00am",
+        "Stan 11 : UQ v GPS - Hospital Cup Round 17 2026 - Sat 01/08 6:00am",
+        "Stan 04 : Warringah v Sydney University - Shute Shield Round 16 2026 - Sat 01/08 6:00am",
+        "Stan 10 : Wests v Brothers - Hospital Cup Round 17 2026 - Sat 01/08 6:00am",
+        "Stan 02 : Canterbury v Auckland - NPC Round 1 2026 - Sat 01/08 8:00am",
+        "Stan 14 : Wests Scarborough v Kalamunda - WA Premier Grade Round 15 2026 - Sat 01/08 8:25am",
+        "Stan 03 : Live Stage 3 - WRC Finland 2026 - Sat 01/08 10:00am",
+        "Stan 16 : Jeonbuk v Seoul - K League 2026 - Sat 01/08 11:25am",
+        "Stan 15 : Pohang v Gimcheon - K League 2026 - Sat 01/08 11:25am",
+        "Stan 01 : Stormers v Sharks - Currie Cup Round 3 2026 - Sat 01/08 1:55pm",
+        "Stan 02 : Lions v Bulls - Currie Cup Round 3 2026 - Sat 01/08 4:00pm"
       ],
       "sections": [],
       "events": []
