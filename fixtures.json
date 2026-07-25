@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T17:00:42.771320+00:00",
+  "scraped_at": "2026-07-25T17:58:43.124543+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,23 +30,11 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 11 - 8:00pm-17:00 - Friendly: AFC Wimbledon vs Charlton Athletic"
+              "text": "SPORTS SCENE 11 - 7:00pm-22:00 - Boxing: Joshua vs. Prenga 720p"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 12 - 8:00pm-17:00 - Friendly: Bromley vs Crystal Palace"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 02 - 8:00pm-17:00 - Friendly: Celtic vs Milan"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 13 - 8:00pm-17:00 - Friendly: Crewe Alexandra vs Birmingham City"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 14 - 8:00pm-17:00 - Friendly: Stevenage vs Millwall"
+              "text": "SPORTS SCENE 04 - 11:00pm-22:00 - CrossFit Games"
             },
             {
               "type": "fixture",
@@ -1476,7 +1464,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 25/07/2026 18:00 - 00:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -1956,8 +1946,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: JAM v TTO - 18:50 25/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D2 S2 (NZ) - 18:50 25/07/2026",
         "Sky Sport Select - LIVE: World Matchplay Darts: Day 8 SF - 19:30 25/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: RSA v MAW - 20:45 25/07/2026",
         "Sky Sport 9 - LIVE: GSL: Warriors v Desert Vipers - 23:30 25/07/2026",
