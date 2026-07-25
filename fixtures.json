@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T11:00:47.892525+00:00",
+  "scraped_at": "2026-07-25T12:01:37.055327+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -55,6 +55,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 15 - 9:00pm-18:00 - Friendly: Wolverhampton Wanderers vs Real Sociedad"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 1:00am-22:00 - Friendly: Porto vs Aston Villa"
             },
             {
               "type": "fixture",
@@ -1392,7 +1396,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 25/07/2026 12:00 - 14:45"
+      ],
       "sections": [],
       "events": []
     },
@@ -1872,7 +1878,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: Boxing Day: D2 S1 (NZ) - 12:30 25/07/2026",
         "Sky Sport 1 - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 3 - 13:10 25/07/2026",
@@ -2163,13 +2168,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 03 : 2026 Formula E Racing: Tokyo - Round 14 - Sat 25/07 11:00am",
-        "TSN 09 : Formula 1 Driver Tracker - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 05 : Formula 1 Mixed On-Board Camera - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 04 : Formula 1 On-Board Camera: George Russell - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 10 : Formula 1 On-Board Camera: Lance Stroll - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 06 : Formula 1 On-Board Camera: Lando Norris - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 08 : Formula 1 Pit Lane - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
-        "TSN 07 : Formula 1 Timing Channel - Hungarian Grand Prix Practice #3 - Sat 25/07 11:20am",
         "TSN 02 : ATP 250 Tennis: Kitzbuhel - Final - Sat 25/07 12:00pm",
         "TSN 11 : PGA TOUR Live: 3M Open - Third Round: Main Feed - Sat 25/07 1:00pm",
         "TSN 01 : WTA 250 Tennis: Hamburg - Semifinals - Sat 25/07 1:00pm",
