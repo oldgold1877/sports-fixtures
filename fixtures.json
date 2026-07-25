@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T12:01:37.055327+00:00",
+  "scraped_at": "2026-07-25T17:00:42.771320+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,10 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 09 - 14:00-22:00 - Boxing: Joshua vs. Prenga 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 14:55-17:00 - F1: Hungarian Grand Prix - Qualifying 1080p"
             }
           ]
         },
@@ -62,7 +58,79 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 13 - 9:00am-06:00 - Friendly: Auckland vs Tottenham Hotspur"
+              "text": "SPORTS SCENE 12 - 4:00am-01:00 - Friendly: Liverpool vs Sunderland"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 9am Joshua v Prenga"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 7pm BKFC Fight Night Reyno v Krejci"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - (HD) Spence Jr v Tszyu"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 11am Mecum Auctions Harrisburg"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 2pm TNT Extreme Summer Explosion"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 7:30pmEvolution Fight Rosolini"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 5pm FMS Fight Night 11 (em Portuguese)"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 7pm Fight to Win 322"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 8/10pm PFL DC Jean v Musaev"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 8pm BKB 57 Anarchy in the UK"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 4:30amPancrase 364"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 3:45pmAMSOIL Championship Off Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 1/4pm AMA Supercross Championship Washougal"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 3pm RoC Sportsman Shangri La II"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 6pm World of Outlaws Late Models Fairbury"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 6pm USAC Indiana Sprint Week Kokomo"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 6pm Weekly Racing Fonda"
             }
           ]
         }
@@ -710,6 +778,18 @@
           "time": "14:30",
           "name": "HAMBURG OPEN",
           "datetime": "2026-07-25 14:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "19:30",
+          "name": "ESTORIL OPEN",
+          "datetime": "2026-07-25 19:30:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -1396,9 +1476,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 25/07/2026 12:00 - 14:45"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1878,26 +1956,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
-        "Sky Sport 1 UHD - LIVE: FIA Formula 2: Rd9 Sprint Race - 13:10 25/07/2026",
-        "Sky Sport 3 - LIVE: LPGA: Round 3 - 13:10 25/07/2026",
-        "Sky Sport Select - LIVE: Golf: The Senior Open Championship - 13:30 25/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: ENG v NIR - 13:50 25/07/2026",
-        "Sky Sport 1 - LIVE: FIA F1: Hungary GP Qualifying - 14:15 25/07/2026",
-        "Sky Sport 1 UHD - LIVE: FIA F1: Hungary GP Qualifying - 14:15 25/07/2026",
-        "Sky Sport 9 - LIVE: Lawn Bowls D2 S2 (NZ) - 14:50 25/07/2026",
-        "Sky Sport 7 - LIVE: Artistic Gymnastics: D2 S2 (NZ) - 15:40 25/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: WAL v UGA - 15:45 25/07/2026",
-        "Sky Sport 2 - LIVE: ICF: Oklahoma Day 6 Session 1 - 16:00 25/07/2026",
-        "Sky Sport 1 - LIVE: Ted's Notebook: Hungary Quali - 17:00 25/07/2026",
-        "Sky Sport 1 UHD - LIVE: Ted's Notebook: Hungary Quali - 17:00 25/07/2026",
-        "Sky Sport 3 - LIVE: Boxing Day: D2 S2 - 17:50 25/07/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 3 - 18:00 25/07/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 3 - 18:00 25/07/2026",
-        "Sky Sport 2 - LIVE: Hundred M: Fire v MI London - 18:00 25/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D2 S2 (NZ) - 18:50 25/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: JAM v TTO - 18:50 25/07/2026",
-        "Sky Sport Select - LIVE: Golf: The Senior Open Championship - 19:00 25/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D2 S2 (NZ) - 18:50 25/07/2026",
         "Sky Sport Select - LIVE: World Matchplay Darts: Day 8 SF - 19:30 25/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: RSA v MAW - 20:45 25/07/2026",
         "Sky Sport 9 - LIVE: GSL: Warriors v Desert Vipers - 23:30 25/07/2026",
@@ -1905,9 +1965,9 @@
         "Sky Sport 2 - LIVE: NRLW: Eels v Warriors R4 - 02:55 26/07/2026",
         "Sky Sport 3 - LIVE: Rapid League: Tuatara v Airs - 03:00 26/07/2026",
         "Sky Sport 3 - LIVE: Sal's NBL: Tuatara v Airs - 04:00 26/07/2026",
+        "Sky Sport 2 - LIVE: NRLW: Broncos v Knights R4 - 04:40 26/07/2026",
         "Sky Sport 1 - LIVE: NRL: Dragons v Titans - 04:40 26/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Dragons v Titans - 04:40 26/07/2026",
-        "Sky Sport 2 - LIVE: NRLW: Broncos v Knights R4 - 04:40 26/07/2026",
         "Sky Sport 3 - LIVE: Rapid League: Rams v Bulls - 06:00 26/07/2026",
         "Sky Sport 1 - LIVE: NRL: Sea Eagles v Sharks - 06:55 26/07/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Sea Eagles v Sharks - 06:55 26/07/2026",
@@ -1925,8 +1985,8 @@
         "Sky Sport 3 - LIVE: LPGA: Round 4 - 12:00 26/07/2026",
         "Sky Sport 1 - LIVE: FIA F1: Hungary GP Pre Race - 12:30 26/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Hungary GP Pre Race - 12:30 26/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: MAW v NIR - 13:50 26/07/2026",
         "Sky Sport 6 - LIVE: Glasgow - Weightlifting D3 S2 - 13:50 26/07/2026",
+        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: MAW v NIR - 13:50 26/07/2026",
         "Sky Sport 1 - LIVE: FIA F1: Hungary Grand Prix - 13:55 26/07/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Hungary Grand Prix - 13:55 26/07/2026",
         "Sky Sport Select - LIVE: Golf: The Senior Open 2026 - Round - 14:00 26/07/2026",
@@ -1941,8 +2001,8 @@
         "Sky Sport 9 - LIVE: Artistic Gymnastics: D3 S2 - 17:55 26/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 18:00 26/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 18:00 26/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D3 S2 - 18:50 26/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: UGA v TTO - 18:50 26/07/2026",
+        "Sky Sport 5 - LIVE: Swimming: D3 S2 - 18:50 26/07/2026",
         "Sky Sport Select - LIVE: Glasgow - Weightlifting D3 S3 - 19:00 26/07/2026",
         "Sky Sport 2 - LIVE: World Matchplay Darts: Day 9 F - 19:30 26/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: NZL v JAM - 20:45 26/07/2026",
@@ -1993,9 +2053,9 @@
         "Sky Sport 7 - LIVE: 3x3 Basketball: D6 S1 - 11:20 29/07/2026",
         "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: JAM v SCO - 13:50 29/07/2026",
         "Sky Sport 6 - LIVE: Glasgow - Weightlifting D6 S2 - 14:05 29/07/2026",
+        "Sky Sport Select - LIVE: GSL: Qalandars v Unicorns - 14:30 29/07/2026",
         "Sky Sport 1 - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
         "Sky Sport 1 UHD - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
-        "Sky Sport Select - LIVE: GSL: Qalandars v Unicorns - 14:30 29/07/2026",
         "Sky Sport 9 - LIVE: Lawn Bowls D6 S2 - 14:50 29/07/2026",
         "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: ENG v TGA - 15:45 29/07/2026",
         "Sky Sport 2 - LIVE: Boxing Day: D6 S2 - 17:50 29/07/2026",
@@ -2007,14 +2067,14 @@
         "Sky Sport 5 - LIVE: Swimming: D6 S2 - 18:55 29/07/2026",
         "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: AUS v RSA - 20:45 29/07/2026",
         "Sky Sport 2 - LIVE: GSL: Warriors v Scorchers - 23:30 29/07/2026",
+        "Sky Sport 3 - LIVE: Sal's NBL: Eliminator 2 - 08:00 30/07/2026",
         "Sky Sport 1 - LIVE: NPC: Waikato v Bay of Plenty - 08:00 30/07/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Waikato v Bay of Plenty - 08:00 30/07/2026",
-        "Sky Sport 3 - LIVE: Sal's NBL: Eliminator 2 - 08:00 30/07/2026",
         "Sky Sport 9 - LIVE: Lawn Bowls D7 S1 - 08:20 30/07/2026",
         "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: MAW v TGA - 08:50 30/07/2026",
         "Sky Sport 2 - LIVE: NRL: Cowboys v Roosters - 09:30 30/07/2026",
-        "Sky Sport 5 - LIVE: Athletics D7 S1 - 09:50 30/07/2026",
         "Sky Sport 6 - LIVE: Track Cycling: D7 S1 - 09:50 30/07/2026",
+        "Sky Sport 5 - LIVE: Athletics D7 S1 - 09:50 30/07/2026",
         "Sky Sport 3 - LIVE: AFL: Collingwood v Geelong - 10:00 30/07/2026",
         "Sky Sport 1 - LIVE: AIG Women's Open: R1 - 10:05 30/07/2026",
         "Sky Sport 1 UHD - LIVE: AIG Women's Open: R1 - 10:05 30/07/2026",
@@ -2033,7 +2093,25 @@
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 30/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: ENG v RSA - 20:45 30/07/2026",
         "Sky Sport 1 - LIVE: Korn Ferry Tour: Round 1 - 23:00 30/07/2026",
-        "Sky Sport 1 UHD - LIVE: Korn Ferry Tour: Round 1 - 23:00 30/07/2026"
+        "Sky Sport 1 UHD - LIVE: Korn Ferry Tour: Round 1 - 23:00 30/07/2026",
+        "Sky Sport 2 - LIVE: NRL: Dragons v Dolphins - 08:00 31/07/2026",
+        "Sky Sport 1 - LIVE: NPC: Tasman v North Harbour - 08:00 31/07/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Tasman v North Harbour - 08:00 31/07/2026",
+        "Sky Sport 9 - LIVE: Lawn Bowls D8 S1 - 08:20 31/07/2026",
+        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: CLS Match1 - 08:50 31/07/2026",
+        "Sky Sport 6 - LIVE: Track Cycling: D8 S1 - 09:50 31/07/2026",
+        "Sky Sport 5 - LIVE: Athletics D8 S1 - 09:50 31/07/2026",
+        "Sky Sport 1 - LIVE: AIG Women's Open: R2 - 10:05 31/07/2026",
+        "Sky Sport 1 UHD - LIVE: AIG Women's Open: R2 - 10:05 31/07/2026",
+        "Sky Sport 3 - LIVE: Boxing Day: D8 S1 - 10:20 31/07/2026",
+        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: CLS Match2 - 10:45 31/07/2026",
+        "Sky Sport 2 - LIVE: NRL: Storm v Bulldogs - 10:55 31/07/2026",
+        "Sky Sport Select - LIVE: AFL: Fremantle v Western Bulldogs - 11:00 31/07/2026",
+        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: CLS Match3 - 13:50 31/07/2026",
+        "Sky Sport 2 - LIVE: PGA Champions Tour: R1 - 14:00 31/07/2026",
+        "Sky Sport 5 - LIVE: Boxing Day: D8 S2 - 14:30 31/07/2026",
+        "Sky Sport 9 - LIVE: Lawn Bowls D8 S2 - 14:50 31/07/2026",
+        "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: CLS Match4 - 15:45 31/07/2026"
       ],
       "sections": [],
       "events": []
@@ -2053,7 +2131,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : York Knights vs. Huddersfield Giants - Sat 25/07 2:50pm",
         "Sportsnet 02 : Leigh Leopards vs. Warrington Wolves - Sat 25/07 5:20pm",
         "Sportsnet 03 : Toulouse Olympique vs. Catalans Dragons - Sat 25/07 7:50pm",
         "Sportsnet 04 : Toronto @ Boston - Sat 25/07 8:30pm",
@@ -2088,12 +2165,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Race 1: Tokyo - Formula E 2025/26 - Sat 25/07 11:00am",
-        "Stan 17 : Gimcheon v Daejeon - K League 2026 - Sat 25/07 11:25am",
-        "Stan 16 : Pohang v Jeonbuk - K League 2026 - Sat 25/07 11:25am",
-        "Stan 02 : Prague: Day 6 - WTA 250 - Sat 25/07 12:30pm",
-        "Stan 03 : Hamburg: Day 6 - WTA 250 - Sat 25/07 1:00pm",
-        "Stan 04 : Lions v Pumas - Currie Cup Round 2 2026 - Sat 25/07 1:55pm",
         "Stan 05 : Griquas v Bulls - Currie Cup Round 2 2026 - Sat 25/07 3:55pm",
         "Stan 01 : Liverpool v Sunderland - Pre-season Club Friendlies 2026 - Sat 25/07 10:30pm",
         "Stan 03 : Leeds United v Wrexham - Pre-season Club Friendlies 2026 - Sun 26/07 12:00am",
@@ -2147,7 +2218,10 @@
         "Stan 16 : Jeonbuk v Seoul - K League 2026 - Sat 01/08 11:25am",
         "Stan 15 : Pohang v Gimcheon - K League 2026 - Sat 01/08 11:25am",
         "Stan 01 : Stormers v Sharks - Currie Cup Round 3 2026 - Sat 01/08 1:55pm",
-        "Stan 02 : Lions v Bulls - Currie Cup Round 3 2026 - Sat 01/08 4:00pm"
+        "Stan 02 : Lions v Bulls - Currie Cup Round 3 2026 - Sat 01/08 4:00pm",
+        "Stan 03 : Live Stage 4 - WRC Finland 2026 - Sat 01/08 5:00pm",
+        "Stan 05 : Memphis: Day 6 - WTA 250 - Sat 01/08 7:00pm",
+        "Stan 04 : Washington, D.C.: Day 6 - WTA 500 - Sat 01/08 7:00pm"
       ],
       "sections": [],
       "events": []
@@ -2167,23 +2241,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : 2026 Formula E Racing: Tokyo - Round 14 - Sat 25/07 11:00am",
-        "TSN 02 : ATP 250 Tennis: Kitzbuhel - Final - Sat 25/07 12:00pm",
         "TSN 11 : PGA TOUR Live: 3M Open - Third Round: Main Feed - Sat 25/07 1:00pm",
         "TSN 01 : WTA 250 Tennis: Hamburg - Semifinals - Sat 25/07 1:00pm",
-        "TSN 12 : Formula 2 Sprint Race: Budapest - Sat 25/07 1:10pm",
         "TSN 13 : PGA TOUR Live: 3M Open - Third Round: Featured Holes - Sat 25/07 1:30pm",
         "TSN 14 : PGA TOUR Live: 3M Open - Third Round: Featured Groups - Sat 25/07 1:45pm",
         "TSN 15 : PGA TOUR Live: 3M Open - Third Round: Marquee Group - Sat 25/07 1:45pm",
-        "TSN 21 : Formula 1 Driver Tracker - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 17 : Formula 1 Mixed On-Board Camera - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 18 : Formula 1 On-Board Camera: George Russell - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 20 : Formula 1 On-Board Camera: Lance Stroll - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 19 : Formula 1 On-Board Camera: Lando Norris - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 16 : Formula 1 Pit Lane - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 22 : Formula 1 Timing Channel - Hungarian Grand Prix Qualifying - Sat 25/07 2:50pm",
-        "TSN 03 : 2026 NASCAR ORAP Series Qualifying: Pennzoil 250 - Sat 25/07 5:00pm",
-        "TSN 04 : 2026 NFL FLAG Championships: Boys 14U - Quarterfinals - Sat 25/07 5:00pm",
         "TSN 05 : ATP 250 Tennis: Estoril - Semifinals - Sat 25/07 5:30pm",
         "TSN 06 : 2026 NFL FLAG Championships: Boys 14U - Quarterfinals - Sat 25/07 6:00pm",
         "TSN 07 : Athletes Unlimited Softball League: Championship - Bandits vs. Talons - Game #1 - Sat 25/07 6:00pm",
