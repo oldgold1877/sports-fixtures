@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T17:00:42.263913+00:00",
+  "scraped_at": "2026-07-26T18:01:34.621637+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,15 +30,7 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "26/07/2026 SPORTS SCENE 01 - 6:00pm-15:00 - Friendly: Ajax vs Burnley"
-            },
-            {
-              "type": "fixture",
-              "text": "26/07/2026 SPORTS SCENE 13 - 8:30pm-17:30 - Friendly: Karlsruher SC vs Internazionale"
-            },
-            {
-              "type": "fixture",
-              "text": "26/07/2026 SPORTS SCENE 02 - 9:00pm-18:00 - Friendly: Rangers vs West Ham United"
+              "text": "26/07/2026 SPORTS SCENE 04 -11:00pm-23:00 - Cross Fit Games Day 4"
             }
           ]
         }
@@ -58,16 +50,7 @@
           "time": "02:30",
           "name": "SAN DIEGO - FC DALLAS",
           "datetime": "2026-07-26 02:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "FOOTBALL",
@@ -98,22 +81,6 @@
           "time": "21:00",
           "name": "NFL FLAG CHAMPIONSHIP",
           "datetime": "2026-07-26 21:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "22:00",
-          "name": "NFL FLAG CHAMPIONSHIP",
-          "datetime": "2026-07-26 22:00:00",
           "channels": [
             {
               "name": "ABC",
@@ -201,12 +168,7 @@
           "time": "18:35",
           "name": "BOSTON RED SOX - TORONTO BLUE JAYS",
           "datetime": "2026-07-26 18:35:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "BASEBALL",
@@ -503,12 +465,7 @@
           "time": "08:00",
           "name": "FORMULA 4 ITALIAN CHAMPIONSHIP",
           "datetime": "2026-07-26 08:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "MOTORSPORTS",
@@ -813,6 +770,10 @@
           "datetime": "2026-07-27 16:00:00",
           "channels": [
             {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
               "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             },
@@ -828,6 +789,10 @@
           "name": "MUBADALA CITI DC OPEN",
           "datetime": "2026-07-27 23:00:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "DAZN CANADA",
               "category": "SPORT | DAZN"
@@ -863,7 +828,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 03 - GAA Live: The GAA Social Live: 2026 All-Ireland Football Final - 26/07/2026 17:46 - 18:15"
+        "BBC Events 01 - Springwatch: Natural Spring - 26/07/2026 18:00 - 00:00",
+        "BBC Events 02 - Major League Baseball: Los Angeles Dodgers @ New York Mets - 26/07/2026 17:57 - 21:30"
       ],
       "sections": [],
       "events": []
@@ -1230,30 +1196,8 @@
       "name": "PEACOCK EVENTS",
       "type": "plain",
       "last_updated": "",
-      "status": "ok",
-      "fixtures": [
-        "Peacock 1 : Women's Gold Medal Game (Water Polo) - Sun 26/07 7:15am",
-        "Peacock 1 : Men's Gold Medal Game (Water Polo) - Sun 26/07 9:00am",
-        "Peacock 1 : Tour de France: Stage 21 (Cycling) - Sun 26/07 2:30pm",
-        "Peacock 2 : Guardians at Rays (MLB) - Sun 26/07 5:00pm",
-        "Peacock 3 : The Senior Open: Rd. 4 (Golf) - Sun 26/07 5:00pm",
-        "Peacock 6 : Guardians vs. Rays (Español) (MLB) - Sun 26/07 5:00pm",
-        "Peacock 1 : THEMOVE: Stage 21 (Cycling) - Sun 26/07 7:30pm",
-        "Peacock 3 : MLB Sunday Stretch: 7.26.26 (MLB) - Sun 26/07 7:30pm",
-        "Peacock 4 : Home Feed: SEA at TEX (MLB) - Sun 26/07 7:30pm",
-        "Peacock 5 : Away Feed: SEA at TEX (MLB) - Sun 26/07 7:30pm",
-        "Peacock 1 : USATF Outdoor Champs: Day 4 (Track & Field) - Sun 26/07 9:00pm",
-        "Peacock 1 : Yankees vs. Phillies (Español) (MLB) - Mon 27/07 12:00am",
-        "Peacock 2 : Yankees at Phillies (MLB) - Mon 27/07 12:00am",
-        "Peacock 1 : Home Feed: HOU at LAA (MLB) - Tue 28/07 2:30am",
-        "Peacock 2 : Away Feed: HOU at LAA (MLB) - Tue 28/07 2:30am",
-        "Peacock 1 : Swimming National Champs: Day 1 (Swimming) - Wed 29/07 2:00am",
-        "Peacock 2 : Home Feed: SEA at LAD (MLB) - Wed 29/07 3:00am",
-        "Peacock 3 : Away Feed: SEA at LAD (MLB) - Wed 29/07 3:00am",
-        "Peacock 1 : Home Feed: CHC at STL (MLB) - Thu 30/07 12:30am",
-        "Peacock 2 : Away Feed: CHC at STL (MLB) - Thu 30/07 12:30am",
-        "Peacock 3 : Swimming National Champs: Day 2 (Swimming) - Thu 30/07 2:00am"
-      ],
+      "status": "timeout",
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1283,9 +1227,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: UGA v TTO - 18:50 26/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D3 S2 (NZ) - 18:55 26/07/2026",
-        "Sky Sport Select - LIVE: Glasgow - Weightlifting D3 S3 - 19:00 26/07/2026",
         "Sky Sport 2 - LIVE: World Matchplay Darts: Day 9 F - 19:30 26/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: NZL v JAM - 20:45 26/07/2026",
         "Sky Sport 1 - LIVE: GSL: Warriors v Qalandars - 23:30 26/07/2026",
@@ -1487,7 +1428,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Race Day Part 2: Czech Republic - MXGP 2026 - Sun 26/07 3:00pm",
         "Stan 01 : San Diego Wave v Seattle Reign - NWSL 2026 - Sun 26/07 10:00pm",
         "Stan 02 : Washington Spirit v Denver Summit - NWSL 2026 - Mon 27/07 12:00am",
         "Stan 01 : Washington, D.C.: Day 1 â¢ Session 1 - WTA 500 - Mon 27/07 4:00pm",
@@ -1569,7 +1509,6 @@
         "TSN 12 : PGA TOUR Live: 3M Open - Final Round: Featured Holes - Sun 26/07 1:45pm",
         "TSN 14 : PGA TOUR Live: 3M Open - Final Round: Marquee Group - Sun 26/07 2:00pm",
         "TSN 16 : ATP 250 Tennis: Estoril - Final - Sun 26/07 5:30pm",
-        "TSN 17 : 2026 NFL FLAG Championships: High School Girls Division - Semifinals - Sun 26/07 6:00pm",
         "TSN 03 : Athletes Unlimited Softball League: Championship - Talons vs. Bandits - Game #2 - Sun 26/07 7:00pm",
         "TSN 19 : NASCAR Cup Series On-Board Camera: Brickyard 400 - Ryan Blaney - Sun 26/07 7:00pm",
         "TSN 18 : NASCAR Cup Series On-Board Camera: Brickyard 400 - Todd Gilliland - Sun 26/07 7:00pm",
