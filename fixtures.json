@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T11:00:47.843883+00:00",
+  "scraped_at": "2026-07-27T13:37:06.579904+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,19 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 28 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 01:00-04:00 - WWE Monday Night RAW 1080p"
+            }
+          ]
+        },
         {
           "section": "Live Events",
           "entries": [
@@ -38,6 +51,14 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 08 - 10:45pmUSAC Indiana Sprint Week Lawrenceburg"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 12:25amHusets Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 12:30amWeekly Racing Slinger"
             }
           ]
         }
@@ -357,6 +378,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "04:00",
+          "name": "LOS CABOS",
+          "datetime": "2026-07-28 04:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "06:00",
           "name": "LOS CABOS",
           "datetime": "2026-07-28 06:00:00",
@@ -432,7 +465,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Major League Baseball: New York Mets v Los Angeles Dodgers - 27/07/2026 10:00 - 13:20"
+        "BBC Events 01 - Springwatch: Natural Spring - 27/07/2026 13:20 - 17:00"
       ],
       "sections": [],
       "events": []
@@ -442,7 +475,22 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Clubber 01 - Dicksboro vs O'Loughlin Gaels (Hurling Senior 1) - Thu 19:00 UK",
+        "Clubber 01 - Oran Football vs Elphin (Football Senior 1) - Fri 18:30 UK",
+        "Clubber 02 - Rower Inistioge vs Carrickshock (Hurling Intermediate 1) - Fri 19:00 UK",
+        "Clubber 03 - Fighting Cocks vs Ballon (Football Intermediate 1) - Fri 19:00 UK",
+        "Clubber 04 - Douglas vs Newtownshandrum (Hurling Senior 1) - Fri 19:15 UK",
+        "Clubber 05 - Midleton vs St Finbarrs (Hurling Senior 1) - Fri 19:15 UK",
+        "Clubber 06 - Camross vs Clough Ballacolla (Hurling Senior 1) - Fri 19:30 UK",
+        "Clubber 07 - Rapparees-Starlights vs Ferns St. Aidans (Hurling Senior 1) - Fri 19:30 UK",
+        "Clubber 08 - Ballygunner vs Ferrybank (Hurling Senior 1) - Fri 19:30 UK",
+        "Clubber 09 - Crossabeg-Ballymurn vs Craanford Fr. O'Regans (Hurling Intermediate 1) - Fri 19:30 UK",
+        "Clubber 10 - Glynn-Barntown vs Oylegate-Glenbrien (Hurling Senior 1) - Fri 19:30 UK",
+        "Clubber 11 - Tullamore vs Shamrocks (Football Senior 1) - Fri 19:30 UK",
+        "Clubber 12 - Finuge vs Moyvane (Football Junior 2) - Fri 19:30 UK",
+        "Clubber 13 - Loughmore-Castleiney vs Moyle Rovers (Football Senior 1) - Fri 19:30 UK"
+      ],
       "sections": [],
       "events": []
     },
@@ -830,9 +878,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Artistic Gymnastics: D4 (NZ) - 12:55 27/07/2026",
-        "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: ENG v MAW - 13:50 27/07/2026",
-        "Sky Sport Select - LIVE: Lawn Bowls D4 S2 (NZ) - 14:35 27/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: TGA v NIR - 15:50 27/07/2026",
         "Sky Sport 7 - LIVE: 3x3 Basketball: D4 S2 (NZ) - 16:50 27/07/2026",
         "Sky Sport 9 - LIVE: Boxing Day: D4 S2 - 17:50 27/07/2026",
