@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T11:00:52.198050+00:00",
+  "scraped_at": "2026-07-28T12:51:04.464324+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -22,6 +22,22 @@
             {
               "type": "fixture",
               "text": "28/07/2026 SPORTS SCENE 14 - 12:00am-21:00 - Friendly: Grimsby Town vs Lincoln City"
+            },
+            {
+              "type": "fixture",
+              "text": "28/07/2026 SPORTS SCENE 15 - 12:30am-21:30 - Friendly: Famalicão vs Crystal Palace"
+            },
+            {
+              "type": "fixture",
+              "text": "28/07/2026 SPORTS SCENE 16 - 12:30am-21:30 - Friendly: Aston Villa vs Real Sociedad"
+            },
+            {
+              "type": "fixture",
+              "text": "28/07/2026 SPORTS SCENE 17 - 12:45am-21:45 - Friendly: Stoke City vs Everton"
+            },
+            {
+              "type": "fixture",
+              "text": "28/07/2026 SPORTS SCENE 18 - 12:45am-21:45 - Friendly: Colchester United vs Charlton Athletic"
             }
           ]
         }
@@ -545,7 +561,7 @@
         "Sky Sports Main Event UHD - Live Tennis: ATP & WTA Washington DC Open 2026 - Day 1 - Mon 27/07 11:00pm",
         "Sky Sports Main Event UHD - Live Tennis - Tue 28/07 2:00am",
         "Sky Sports Main Event UHD - Transfer 360 - Dimitar Berbatov - Tue 28/07 2:30pm",
-        "Sky Sports UHD 1 - Live: The Hundred - Women's: Northern Superchargers v Manchester Originals - Tue 28/07 2:45pm",
+        "Sky Sports UHD 1 - Live: The Hundred - Women's: Sunrisers Leeds v Manchester Super Giants - Tue 28/07 2:45pm",
         "Sky Sports Main Event UHD - Sports Centre - Tue 28/07 9:30pm"
       ],
       "sections": [],
@@ -556,7 +572,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 28/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -979,8 +997,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: Artistic Gymnastics: D5 (NZ) (F) - 13:00 28/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: RSA v NIR - 13:50 28/07/2026",
         "Sky Sport 8 - LIVE: Glasgow - Weightlifting D5 S2 - 14:05 28/07/2026",
         "Sky Sport 9 - LIVE: Lawn Bowls D5 S2 (NZ) - 14:50 28/07/2026",
         "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: WAL v TTO - 15:45 28/07/2026",
