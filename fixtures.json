@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T12:51:04.464324+00:00",
+  "scraped_at": "2026-07-28T17:00:52.005033+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -38,6 +38,10 @@
             {
               "type": "fixture",
               "text": "28/07/2026 SPORTS SCENE 18 - 12:45am-21:45 - Friendly: Colchester United vs Charlton Athletic"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA  | 01 - Hearts vs Sturm Graz 12:45am"
             }
           ]
         }
@@ -410,7 +414,7 @@
         {
           "sport": "BASKETBALL",
           "time": "00:00",
-          "name": "ALUMNI BRACKET TOURNAMENT (CHAMPIONSHIP)",
+          "name": "LA FAMILIA - JHX HOOPS",
           "datetime": "2026-07-30 00:00:00",
           "channels": []
         },
@@ -572,9 +576,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 28/07/2026 12:00 - 18:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -997,11 +999,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 8 - LIVE: Glasgow - Weightlifting D5 S2 - 14:05 28/07/2026",
-        "Sky Sport 9 - LIVE: Lawn Bowls D5 S2 (NZ) - 14:50 28/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: WAL v TTO - 15:45 28/07/2026",
-        "Sky Sport 3 - LIVE: 3x3 Basketball: D5 S2 (NZ) - 17:20 28/07/2026",
-        "Sky Sport 8 - LIVE: Boxing Day: D5 S2 (NZ) - 17:50 28/07/2026",
         "Sky Sport 6 - LIVE: Athletics D5 S2 (NZ) (F) - 18:20 28/07/2026",
         "Sky Sport Select - LIVE: Glasgow - Weightlifting D5 S3 (NZ) - 18:35 28/07/2026",
         "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: NZL v UGA - 18:50 28/07/2026",
@@ -1191,8 +1188,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: July 28 - Tue 28/07 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: July 28 - Tue 28/07 3:00pm",
         "Sportsnet 01 : Blair & Barker: July 28 - Tue 28/07 9:00pm",
         "Sportsnet 02 : The FAN Pregame: July 28 - Tue 28/07 11:00pm",
         "Sportsnet 03 : Toronto @ Washington - Tue 28/07 11:00pm",
@@ -1215,7 +1210,8 @@
         "Sportsnet 01 : New York Yankees @ Chicago White Sox - Thu 30/07 7:00pm",
         "Sportsnet 02 : Huddersfield Giants vs. Hull FC - Thu 30/07 7:50pm",
         "Sportsnet 03 : Blair & Barker: July 30 - Thu 30/07 9:00pm",
-        "Sportsnet 04 : The FAN Pregame: July 30 - Thu 30/07 11:00pm"
+        "Sportsnet 04 : The FAN Pregame: July 30 - Thu 30/07 11:00pm",
+        "Sportsnet 05 : Miami @ New York Mets - Fri 31/07 12:00am"
       ],
       "sections": [],
       "events": []
