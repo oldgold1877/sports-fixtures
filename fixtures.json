@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T07:15:29.733744+00:00",
+  "scraped_at": "2026-07-29T09:33:54.308902+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,7 +13,7 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "28/07/2026 SPORTS SCENE 12 - 3:45pm-12:45 - Friendly: Chelsea vs Western Sydney Wanderers"
+              "text": "29/07/2026 SPORTS SCENE 01 - 3:45pm-12:45 - Friendly: Tottenham Hotspur vs Sydney FC"
             }
           ]
         }
@@ -250,6 +250,10 @@
           "name": "MUBADALA CITI DC OPEN",
           "datetime": "2026-07-29 16:00:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "DAZN CANADA",
               "category": "SPORT | DAZN"
@@ -669,7 +673,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 29/07/2026 06:00 - 12:00"
+        "BBC Events 01 - Springwatch: Natural Spring - 29/07/2026 06:00 - 12:00",
+        "BBC Events 02 - no_brand_title: Graham Morgan on BBC Radio Merseyside's Hot Seat - 29/07/2026 09:47 - 11:00"
       ],
       "sections": [],
       "events": []
@@ -714,56 +719,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Kings World Cup Clubs Day 03 (In French & German) - 18:00 28/07/2026",
-        "DAZN CA 02 - Kings World Cup Clubs Day 03 (In English Portuguese & Spanish) - 18:00 28/07/2026",
-        "DAZN CA 03 - Kings World Cup Clubs Day 03 (Italian) - 18:00 28/07/2026",
-        "DAZN CA 04 - Washington Open: Day 02 - 18:00 28/07/2026",
-        "DAZN CA 05 - Stewart vs. Gigliotti: Launch Press Conference - 19:00 28/07/2026",
-        "DAZN CA 06 - Inside The Ring July 28 - 19:00 28/07/2026",
-        "DAZN CA 07 - EWC Overwatch: Day 01 - 11:00 29/07/2026",
-        "DAZN CA 08 - EWC ML:BB 2026 Day 06 - 11:00 29/07/2026",
-        "DAZN CA 09 - EWC Street Fighter 06 2026 Day 01 - 12:00 29/07/2026",
-        "DAZN CA 10 - Washington Open: Day 03 - 16:00 29/07/2026",
-        "DAZN CA 11 - Secto Rally Finland: Ceremonial Start from Jyväskylä - 17:00 29/07/2026",
-        "DAZN CA 12 - Kings World Cup Clubs Day 04 (In English Portuguese & Spanish) - 18:00 29/07/2026",
-        "DAZN CA 13 - Kings World Cup Clubs Day 04 (Italian) - 18:00 29/07/2026",
-        "DAZN CA 14 - Secto Rally Finland: Shakedown Ruuhimäki - 07:00 30/07/2026",
-        "DAZN CA 15 - EWC Honor of Kings: Day 01 - 09:00 30/07/2026",
-        "DAZN CA 16 - EWC ML:BB 2026 Day 07 - 11:00 30/07/2026",
-        "DAZN CA 17 - EWC Overwatch: Day 02 - 11:00 30/07/2026",
-        "DAZN CA 18 - EWC Street Fighter 06 2026 Day 02 - 12:00 30/07/2026",
-        "DAZN CA 19 - O`Leary vs. Chamberlain: Press Conference - 13:00 30/07/2026",
-        "DAZN CA 20 - EWC Call of Duty: Warzone Day 01 - 14:00 30/07/2026",
-        "DAZN CA 21 - Memphis Open: Day 01 - 17:00 30/07/2026",
-        "DAZN CA 22 - Secto Rally Finland: Secto Rally Finland Pre Show from Service Park - 17:15 30/07/2026",
-        "DAZN CA 23 - Kings World Cup Clubs Last Chance (In English Portuguese & Spanish) - 18:00 30/07/2026",
-        "DAZN CA 24 - Washington Open: Day 04 - 18:00 30/07/2026",
-        "DAZN CA 25 - Secto Rally Finland: Stage 01 - 18:00 30/07/2026",
-        "DAZN CA 26 - Secto Rally Finland: Stage 02 - 06:44 31/07/2026",
-        "DAZN CA 27 - Secto Rally Finland: Stage 03 - 07:45 31/07/2026",
-        "DAZN CA 28 - Secto Rally Finland: Stage 04 - 08:50 31/07/2026",
-        "DAZN CA 29 - EWC Honor of Kings: Day 02 - 09:00 31/07/2026",
-        "DAZN CA 30 - EWC ML:BB 2026 Day 08 - 11:00 31/07/2026",
-        "DAZN CA 31 - EWC Overwatch: Day 03 - 11:00 31/07/2026",
-        "DAZN CA 32 - EWC Street Fighter 06 2026 Day 03 - 12:00 31/07/2026",
-        "DAZN CA 33 - Secto Rally Finland: Stage 06 - 12:48 31/07/2026",
-        "DAZN CA 34 - Secto Rally Finland: Stage 07 - 13:49 31/07/2026",
-        "DAZN CA 35 - EWC Call of Duty: Warzone Day 02 - 14:00 31/07/2026",
-        "DAZN CA 36 - Secto Rally Finland: Stage 08 - 14:54 31/07/2026",
-        "DAZN CA 37 - Secto Rally Finland: Stage 09 - 16:00 31/07/2026",
-        "DAZN CA 38 - Memphis Open: Day 02 - 17:00 31/07/2026",
-        "DAZN CA 39 - O`Leary vs. Chamberlain: Weigh In - 17:00 31/07/2026",
-        "DAZN CA 40 - Washington Open: Day 05 - 17:00 31/07/2026",
-        "DAZN CA 41 - Secto Rally Finland: Stage 10 - 17:05 31/07/2026",
-        "DAZN CA 42 - Kings World Cup Clubs Quarter Finals (In English Portuguese & Spanish) - 18:00 31/07/2026",
-        "DAZN CA 43 - Portable vs. Okocha 02 - 19:00 31/07/2026",
-        "DAZN CA 44 - Club Brugge vs. Union Saint Gilloise - 19:30 31/07/2026",
-        "DAZN CA 45 - Grand Prix of Kyrgyzstan Issyk Kul Qualifying - 04:55 01/08/2026",
-        "DAZN CA 46 - Secto Rally Finland: Stage 11 - 06:00 01/08/2026",
-        "DAZN CA 47 - Secto Rally Finland: Stage 12 - 07:42 01/08/2026",
-        "DAZN CA 48 - Secto Rally Finland: Stage 13 - 08:36 01/08/2026",
-        "DAZN CA 49 - EWC Honor of Kings: Day 03 - 09:00 01/08/2026",
-        "DAZN CA 50 - Grand Prix of Kyrgyzstan Issyk Kul Sprint Races - 09:30 01/08/2026"
+        "DAZN CA 01 - EWC Overwatch: Day 01 - 11:00 29/07/2026",
+        "DAZN CA 02 - EWC ML:BB 2026 Day 06 - 11:00 29/07/2026",
+        "DAZN CA 03 - EWC Street Fighter 06 2026 Day 01 - 12:00 29/07/2026",
+        "DAZN CA 04 - Washington Open: Day 03 - 16:00 29/07/2026",
+        "DAZN CA 05 - Secto Rally Finland: Ceremonial Start from Jyväskylä - 17:00 29/07/2026",
+        "DAZN CA 06 - Kings World Cup Clubs Day 04 (In English Portuguese & Spanish) - 18:00 29/07/2026",
+        "DAZN CA 07 - Kings World Cup Clubs Day 04 (In French & German) - 18:00 29/07/2026",
+        "DAZN CA 08 - Kings World Cup Clubs Day 04 (Italian) - 18:00 29/07/2026",
+        "DAZN CA 09 - Secto Rally Finland: Shakedown Ruuhimäki - 07:00 30/07/2026",
+        "DAZN CA 10 - EWC Honor of Kings: Day 01 - 09:00 30/07/2026",
+        "DAZN CA 11 - EWC ML:BB 2026 Day 07 - 11:00 30/07/2026",
+        "DAZN CA 12 - EWC Overwatch: Day 02 - 11:00 30/07/2026",
+        "DAZN CA 13 - EWC Street Fighter 06 2026 Day 02 - 12:00 30/07/2026",
+        "DAZN CA 14 - O`Leary vs. Chamberlain: Press Conference - 13:00 30/07/2026",
+        "DAZN CA 15 - EWC Call of Duty: Warzone Day 01 - 14:00 30/07/2026",
+        "DAZN CA 16 - Memphis Open: Day 01 - 17:00 30/07/2026",
+        "DAZN CA 17 - Secto Rally Finland: Secto Rally Finland Pre Show from Service Park - 17:15 30/07/2026",
+        "DAZN CA 18 - Kings World Cup Clubs Last Chance (In English Portuguese & Spanish) - 18:00 30/07/2026",
+        "DAZN CA 19 - Washington Open: Day 04 - 18:00 30/07/2026",
+        "DAZN CA 20 - Secto Rally Finland: Stage 01 - 18:00 30/07/2026",
+        "DAZN CA 21 - Roach Jr. vs. Zepeda: Press Conference - 21:00 30/07/2026",
+        "DAZN CA 22 - Secto Rally Finland: Stage 02 - 06:44 31/07/2026",
+        "DAZN CA 23 - Secto Rally Finland: Stage 03 - 07:45 31/07/2026",
+        "DAZN CA 24 - Secto Rally Finland: Stage 04 - 08:50 31/07/2026",
+        "DAZN CA 25 - EWC Honor of Kings: Day 02 - 09:00 31/07/2026",
+        "DAZN CA 26 - EWC ML:BB 2026 Day 08 - 11:00 31/07/2026",
+        "DAZN CA 27 - EWC Overwatch: Day 03 - 11:00 31/07/2026",
+        "DAZN CA 28 - EWC Street Fighter 06 2026 Day 03 - 12:00 31/07/2026",
+        "DAZN CA 29 - Secto Rally Finland: Stage 06 - 12:48 31/07/2026",
+        "DAZN CA 30 - Secto Rally Finland: Stage 07 - 13:49 31/07/2026",
+        "DAZN CA 31 - EWC Call of Duty: Warzone Day 02 - 14:00 31/07/2026",
+        "DAZN CA 32 - TAIF Racing Season 2026 Week 02 Day 01 - 14:25 31/07/2026",
+        "DAZN CA 33 - Secto Rally Finland: Stage 08 - 14:54 31/07/2026",
+        "DAZN CA 34 - Secto Rally Finland: Stage 09 - 16:00 31/07/2026",
+        "DAZN CA 35 - Memphis Open: Day 02 - 17:00 31/07/2026",
+        "DAZN CA 36 - O`Leary vs. Chamberlain: Weigh In - 17:00 31/07/2026",
+        "DAZN CA 37 - Washington Open: Day 05 - 17:00 31/07/2026",
+        "DAZN CA 38 - Secto Rally Finland: Stage 10 - 17:05 31/07/2026",
+        "DAZN CA 39 - Kings World Cup Clubs Quarter Finals (In English Portuguese & Spanish) - 18:00 31/07/2026",
+        "DAZN CA 40 - Portable vs. Okocha 02 - 19:00 31/07/2026",
+        "DAZN CA 41 - Club Brugge vs. Union Saint Gilloise - 19:30 31/07/2026",
+        "DAZN CA 42 - Roach Jr. vs. Zepeda: Weigh In - 21:00 31/07/2026",
+        "DAZN CA 43 - Grand Prix of Kyrgyzstan Issyk Kul Qualifying - 04:55 01/08/2026",
+        "DAZN CA 44 - Secto Rally Finland: Stage 11 - 06:00 01/08/2026",
+        "DAZN CA 45 - Secto Rally Finland: Stage 12 - 07:42 01/08/2026",
+        "DAZN CA 46 - Secto Rally Finland: Stage 13 - 08:36 01/08/2026",
+        "DAZN CA 47 - EWC Honor of Kings: Day 03 - 09:00 01/08/2026",
+        "DAZN CA 48 - Grand Prix of Kyrgyzstan Issyk Kul Sprint Races - 09:30 01/08/2026",
+        "DAZN CA 49 - Secto Rally Finland: Stage 05 - 09:58 01/08/2026",
+        "DAZN CA 50 - EWC ML:BB 2026 Day 09 - 10:00 01/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1099,10 +1104,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 9 - LIVE: Lawn Bowls D6 S1 (NZ) - 08:20 29/07/2026",
-        "Sky Sport 8 - LIVE: Glasgow - Weightlifting D6 S1 (NZ) - 09:35 29/07/2026",
-        "Sky Sport 6 - LIVE: Athletics D6 S1 (NZ) - 09:50 29/07/2026",
-        "Sky Sport 5 - LIVE: Swimming: D6 S1 (NZ) - 10:20 29/07/2026",
         "Sky Sport 7 - LIVE: 3x3 Basketball: D6 S1 (NZ) - 11:20 29/07/2026",
         "Sky Sport 8 - LIVE: Boxing Day: D6 S1 (NZ) - 12:00 29/07/2026",
         "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: JAM v SCO - 13:50 29/07/2026",
@@ -1291,7 +1292,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: July 28 - Wed 29/07 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: July 29 - Wed 29/07 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: July 29 - Wed 29/07 3:00pm",
         "Sportsnet 03 : Toronto @ Washington - Wed 29/07 5:30pm",
@@ -1405,7 +1405,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : ATP 250 Tennis: Los Cabos - Day #2 - Wed 29/07 2:00am",
         "TSN 01 : WTA 500 Tennis: Washington - Day #3 - Wed 29/07 4:00pm",
         "TSN 03 : Pat McAfee Show - Wed 29/07 5:00pm",
         "TSN 02 : Rich Eisen Show - Wed 29/07 5:00pm",
