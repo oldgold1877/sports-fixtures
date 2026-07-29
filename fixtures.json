@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T12:58:34.181286+00:00",
+  "scraped_at": "2026-07-29T17:00:48.447890+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -384,6 +384,18 @@
           ]
         },
         {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "COSTA RICA U20 - ANTIGUA AND BARBUDA U20",
+          "datetime": "2026-07-30 23:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "BASEBALL",
           "time": "02:40",
           "name": "ATHLETICS - BOSTON RED SOX",
@@ -484,7 +496,7 @@
         {
           "sport": "BASKETBALL",
           "time": "00:00",
-          "name": "NON-ALUMNI BRACKET TOURNAMENT (CHAMPIONSHIP)",
+          "name": "DAVIS STEEL - THE MECCA",
           "datetime": "2026-07-31 00:00:00",
           "channels": []
         },
@@ -505,6 +517,18 @@
           "time": "01:00",
           "name": "AEW DYNAMITE",
           "datetime": "2026-07-30 01:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FIGHTING",
+          "time": "06:00",
+          "name": "AEW DYNAMITE",
+          "datetime": "2026-07-30 06:00:00",
           "channels": [
             {
               "name": "TSN 2",
@@ -721,9 +745,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "BBC Events 01 - Springwatch: Natural Spring - 29/07/2026 12:00 - 18:00"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -753,10 +775,10 @@
         "Clubber 01 - Mount Sion vs Ballygunner B (Hurling Senior 1) - Sat 13:30 UK",
         "Clubber 02 - Fenians vs Piltown (Hurling Junior 1) - Sat 13:30 UK",
         "Clubber 03 - Blarney vs Castlelyons (Hurling Senior 2) - Sat 14:00 UK",
-        "Clubber 04 - St. Annes Rathangan vs St. Mogues Fethard on Sea (Hurling Senior 1) - Sat 14:00 UK",
-        "Clubber 05 - Young Irelands vs St Lachtain's (Hurling Intermediate 1) - Sat 14:00 UK",
-        "Clubber 06 - Thomastown vs Clara (Hurling Senior 1) - Sat 15:30 UK",
-        "Clubber 07 - Mooncoin vs Dunnamaggin (Hurling Intermediate 1) - Sat 15:30 UK"
+        "Clubber 04 - Ballysaggart vs Clashmore / Kinsalebeg (Hurling Intermediate 1) - Sat 14:00 UK",
+        "Clubber 05 - St. Annes Rathangan vs St. Mogues Fethard on Sea (Hurling Senior 1) - Sat 14:00 UK",
+        "Clubber 06 - Young Irelands vs St Lachtain's (Hurling Intermediate 1) - Sat 14:00 UK",
+        "Clubber 07 - Thomastown vs Clara (Hurling Senior 1) - Sat 15:30 UK"
       ],
       "sections": [],
       "events": []
@@ -1152,16 +1174,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: Glasgow - Weightlifting D6 S2 - 14:05 29/07/2026",
-        "Sky Sport 1 - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
-        "Sky Sport 1 UHD - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
-        "Sky Sport Select - LIVE: GSL: Qalandars v Unicorns - 14:30 29/07/2026",
-        "Sky Sport 9 - LIVE: Lawn Bowls D6 S2 (NZ) - 14:50 29/07/2026",
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: ENG v TGA - 15:45 29/07/2026",
-        "Sky Sport 8 - LIVE: 3x3 Basketball: D6 S2 - 16:20 29/07/2026",
-        "Sky Sport 2 - LIVE: Boxing Day: D6 S2 - 17:50 29/07/2026",
-        "Sky Sport 1 - LIVE: Hundred M: MI London v Spirit - 18:00 29/07/2026",
-        "Sky Sport 1 UHD - LIVE: Hundred M: MI London v Spirit - 18:00 29/07/2026",
         "Sky Sport 6 - LIVE: Athletics D6 S2 (NZ) (F) - 18:25 29/07/2026",
         "Sky Sport 3 - LIVE: Glasgow - Weightlifting D6 S3 (NZ) - 18:35 29/07/2026",
         "Sky Sport 7 - LIVE: Glasgow 2026 - Netball: NZL v WAL - 18:50 29/07/2026",
@@ -1337,8 +1349,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: July 29 - Wed 29/07 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: July 29 - Wed 29/07 3:00pm",
         "Sportsnet 03 : Toronto @ Washington - Wed 29/07 5:30pm",
         "Sportsnet 05 : Baltimore @ Detroit - Wed 29/07 6:00pm",
         "Sportsnet 01 : Blair & Barker: July 29 - Wed 29/07 9:00pm",
@@ -1361,7 +1371,8 @@
         "Sportsnet 01 : The JD Bunkis Podcast: July 31 - Fri 31/07 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: July 31 - Fri 31/07 3:00pm",
         "Sportsnet 01 : New York Yankees @ Chicago Cubs - Fri 31/07 7:00pm",
-        "Sportsnet 03 : Hull KR vs. Bradford Bulls - Fri 31/07 7:50pm"
+        "Sportsnet 03 : Hull KR vs. Bradford Bulls - Fri 31/07 7:50pm",
+        "Sportsnet 04 : Leeds Rhinos vs. Toulouse Olympique - Fri 31/07 7:50pm"
       ],
       "sections": [],
       "events": []
