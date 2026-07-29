@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T11:00:53.263543+00:00",
+  "scraped_at": "2026-07-29T12:58:34.181286+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,11 +9,40 @@
       "fixtures": [],
       "sections": [
         {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Thursday 30 July 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-04:00 - AEW Dynamite 1080p"
+            }
+          ]
+        },
+        {
           "section": "Live Events",
           "entries": [
             {
               "type": "fixture",
               "text": "29/07/2026 SPORTS SCENE 01 - 3:45pm-12:45 - Friendly: Tottenham Hotspur vs Sydney FC"
+            },
+            {
+              "type": "fixture",
+              "text": "29/07/2026 SPORTS SCENE 01 - 12:30am-21:30 - Friendly: Bristol City vs Newcastle United"
+            },
+            {
+              "type": "fixture",
+              "text": "29/07/2026 SPORTS SCENE 02 - 12:30am-21:30 - Friendly: Doncaster Rovers vs Wolverhampton Wanderers"
+            },
+            {
+              "type": "fixture",
+              "text": "29/07/2026 SPORTS SCENE 04 - 12:30am-21:30 - Friendly: Watford vs Fiorentina"
+            },
+            {
+              "type": "fixture",
+              "text": "29/07/2026 SPORTS SCENE 06 - 12:45am-21:45 - Friendly: Burnley vs Espanyol"
             },
             {
               "type": "fixture",
@@ -692,7 +721,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 29/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
@@ -723,9 +754,9 @@
         "Clubber 02 - Fenians vs Piltown (Hurling Junior 1) - Sat 13:30 UK",
         "Clubber 03 - Blarney vs Castlelyons (Hurling Senior 2) - Sat 14:00 UK",
         "Clubber 04 - St. Annes Rathangan vs St. Mogues Fethard on Sea (Hurling Senior 1) - Sat 14:00 UK",
-        "Clubber 05 - Thomastown vs Clara (Hurling Senior 1) - Sat 15:30 UK",
-        "Clubber 06 - Mooncoin vs Dunnamaggin (Hurling Intermediate 1) - Sat 15:30 UK",
-        "Clubber 07 - Clonbullogue vs Clara (Football Senior 1) - Sat 16:00 UK"
+        "Clubber 05 - Young Irelands vs St Lachtain's (Hurling Intermediate 1) - Sat 14:00 UK",
+        "Clubber 06 - Thomastown vs Clara (Hurling Senior 1) - Sat 15:30 UK",
+        "Clubber 07 - Mooncoin vs Dunnamaggin (Hurling Intermediate 1) - Sat 15:30 UK"
       ],
       "sections": [],
       "events": []
@@ -1121,7 +1152,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Glasgow 2026 - Netball: JAM v SCO - 13:50 29/07/2026",
         "Sky Sport 6 - LIVE: Glasgow - Weightlifting D6 S2 - 14:05 29/07/2026",
         "Sky Sport 1 - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
         "Sky Sport 1 UHD - LIVE: Hundred M: Fire v Rockets - 14:30 29/07/2026",
