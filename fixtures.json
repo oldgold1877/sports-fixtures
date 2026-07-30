@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T17:00:51.791001+00:00",
+  "scraped_at": "2026-07-30T18:16:49.296185+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -535,6 +535,18 @@
         },
         {
           "sport": "️ GOLF",
+          "time": "13:00",
+          "name": "WOMEN'S BRITISH OPEN",
+          "datetime": "2026-07-31 13:00:00",
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
           "time": "14:00",
           "name": "PORTUGAL INVITATIONAL",
           "datetime": "2026-07-31 14:00:00",
@@ -574,6 +586,18 @@
           "time": "06:44",
           "name": "RALLY FINLAND",
           "datetime": "2026-07-31 06:44:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
+          "time": "09:58",
+          "name": "RALLY FINLAND",
+          "datetime": "2026-07-31 09:58:00",
           "channels": [
             {
               "name": "DAZN CANADA",
@@ -776,7 +800,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 30/07/2026 18:00 - 20:30"
+      ],
       "sections": [],
       "events": []
     },
@@ -809,7 +835,8 @@
         "Clubber 02 - Fenians vs Piltown (Hurling Junior 1) - Sat 13:30 UK",
         "Clubber 03 - Blarney vs Castlelyons (Hurling Senior 2) - Sat 14:00 UK",
         "Clubber 04 - Ballysaggart vs Clashmore / Kinsalebeg (Hurling Intermediate 1) - Sat 14:00 UK",
-        "Clubber 05 - St. Annes Rathangan vs St. Mogues Fethard on Sea (Hurling Senior 1) - Sat 14:00 UK"
+        "Clubber 05 - St. Annes Rathangan vs St. Mogues Fethard on Sea (Hurling Senior 1) - Sat 14:00 UK",
+        "Clubber 06 - Young Irelands vs St Lachtain's (Hurling Intermediate 1) - Sat 14:00 UK"
       ],
       "sections": [],
       "events": []
@@ -1221,10 +1248,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Athletics D7 S2 (NZ) (F) - 18:25 30/07/2026",
-        "Sky Sport 7 - LIVE: Glasgow - Weightlifting D7 S3 (NZ) - 18:35 30/07/2026",
-        "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: JAM v WAL - 19:00 30/07/2026",
-        "Sky Sport 8 - LIVE: Athletics: Men's Shot Put F - 19:00 30/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 20:00 30/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 30/07/2026",
         "Sky Sport 6 - LIVE: Glasgow 2026 - Netball: ENG v RSA - 20:45 30/07/2026",
@@ -1409,8 +1432,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Stan 01 : Washington, D.C.: Day 4 - WTA 500 - Thu 30/07 5:59pm",
         "Stan 02 : SSS1 Harju 1 - WRC Finland 2026 - Thu 30/07 6:00pm",
-        "Stan 01 : Washington, D.C.: Day 4 - WTA 500 - Thu 30/07 6:00pm",
         "Stan 03 : Leeds United v Sunderland - Pre-season Club Friendlies 2026 - Fri 31/07 12:30am",
         "Stan 01 : Tasman v North Harbour - NPC Round 1 2026 - Fri 31/07 8:00am",
         "Stan 01 : SS9 Hoho 2 - WRC Finland 2026 - Fri 31/07 4:00pm",
@@ -1468,7 +1491,8 @@
         "Stan 01 : Stormers v New Zealand: Sky NZ Coverage - NZL Tour of RSA Round 1 2026 - Fri 07/08 5:15pm",
         "Stan 02 : Stormers v New Zealand: SuperSport Coverage - NZL Tour of RSA Round 1 2026 - Fri 07/08 5:15pm",
         "Stan 03 : Toronto: Day 6 - WTA 1000 - Fri 07/08 5:30pm",
-        "Stan 04 : Practice 1: Grand Prix of Portland - Indycar 2026 - Fri 07/08 10:30pm"
+        "Stan 04 : Practice 1: Grand Prix of Portland - Indycar 2026 - Fri 07/08 10:30pm",
+        "Stan 01 : PFL 12 - Charlotte 2026 - Sat 08/08 12:00am"
       ],
       "sections": [],
       "events": []
