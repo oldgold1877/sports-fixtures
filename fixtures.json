@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T11:00:48.978415+00:00",
+  "scraped_at": "2026-07-30T12:27:39.145228+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,33 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "29/07/2026 SPORTS SCENE 01 - 3:45pm-12:45 - Friendly: Tottenham Hotspur vs Sydney FC"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 11:15pmWorld of Outlaws Sprints Baps"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 02 - 11:15pmMillbridge Speedway"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 03 - 11:15pmUSAC Indiana Sprint Week Paragon"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 10pm Hoodslam The MidSommerSquash 2026"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -786,7 +760,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 30/07/2026 12:00 - 18:00"
+      ],
       "sections": [],
       "events": []
     },
