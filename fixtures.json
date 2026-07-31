@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T17:00:48.203979+00:00",
+  "scraped_at": "2026-07-31T18:21:04.398315+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -1188,7 +1188,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "BBC Events 01 - Springwatch: Natural Spring - 31/07/2026 18:00 - 20:30"
+      ],
       "sections": [],
       "events": []
     },
@@ -1625,9 +1627,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Athletics D8 S2 (NZ) (F) - 18:20 31/07/2026",
-        "Sky Sport 8 - LIVE: Boxing Day: D8 S3 - 18:50 31/07/2026",
-        "Sky Sport 7 - LIVE: Athletics: W Pole Vault F - 18:55 31/07/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 20:00 31/07/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 20:00 31/07/2026",
         "Sky Sport 3 - LIVE: PFL New York - 21:30 31/07/2026",
@@ -1783,8 +1782,8 @@
       "status": "ok",
       "fixtures": [
         "Stan 01 : SS9 Hoho 2 - WRC Finland 2026 - Fri 31/07 4:00pm",
-        "Stan 03 : Memphis: Day 5 - WTA 250 - Fri 31/07 5:00pm",
-        "Stan 02 : Washington, D.C.: Day 5 - WTA 500 - Fri 31/07 5:00pm",
+        "Stan 02 : Washington, D.C.: Day 5 - WTA 500 - Fri 31/07 4:59pm",
+        "Stan 03 : Memphis: Day 5 - WTA 250 - Fri 31/07 4:59pm",
         "Stan 04 : Griquas v Cheetahs - Currie Cup Round 3 2026 - Fri 31/07 5:55pm",
         "Stan 01 : PFL 11 - New York 2026 - Fri 31/07 9:30pm",
         "Stan 02 : North Carolina Courage v Orlando Pride - NWSL 2026 - Sat 01/08 1:00am",
@@ -1841,7 +1840,8 @@
         "Stan 01 : PFL 12 - Charlotte 2026 - Sat 08/08 12:00am",
         "Stan 02 : Gotham FC v San Diego Wave - NWSL 2026 - Sat 08/08 1:00am",
         "Stan 03 : Auckland v Wellington - NPC Round 2 2026 - Sat 08/08 3:00am",
-        "Stan 04 : Bay of Plenty v Northland - NPC Round 2 2026 - Sat 08/08 6:00am"
+        "Stan 04 : Bay of Plenty v Northland - NPC Round 2 2026 - Sat 08/08 6:00am",
+        "Stan 05 : Gordon v Warringah - Shute Shield Round 17 2026 - Sat 08/08 6:00am"
       ],
       "sections": [],
       "events": []
@@ -1865,7 +1865,6 @@
         "TSN 03 : PGA TOUR Live: Featured Holes - Holes 5, 11, 15, & 17 - Fri 31/07 12:15pm",
         "TSN 04 : PGA TOUR Live: Featured Groups - Feat. Young & Fowler - Fri 31/07 12:30pm",
         "TSN 05 : PGA TOUR Live: Marquee Group - Feat. Spieth & Clark - Fri 31/07 12:45pm",
-        "TSN 01 : Western Amateur Golf Championship: Sweet 16 - Fri 31/07 4:00pm",
         "TSN 06 : Pat McAfee Show - Fri 31/07 5:00pm",
         "TSN 07 : WTA 500 Tennis: Washington - Quarterfinals - Fri 31/07 5:00pm",
         "TSN 08 : ATP 500 Tennis: Washington - Quarterfinals (Stadium) - Fri 31/07 7:00pm",
