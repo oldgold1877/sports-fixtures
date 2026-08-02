@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T07:15:26.501857+00:00",
+  "scraped_at": "2026-08-02T09:06:02.980634+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,63 +13,7 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "LIVE EVENT 03 - 6pm WWE SummerSlam"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - (SD) WWE SummerSlam"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 05 - 6am Eternal MMA 108"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 06 - 3:55pm/2pm OLeary v Chamberlain"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 07 - 4:30pmBrave CF Kolev v Ouassaidi"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 08 - 2pm BKFC Fight Night Garside v Taylor"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 09 - 2pm GCW Rude Awakening"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 10 - 7pm Live Alive Charity Great American Clash"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 11 - 4:20pmZenith Racing Series Watkins Glen"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 12 - 4:00pmNight Under Fire"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 13 - 12pm MotoAmerica Superbikes Mid Ohio"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 14 - 6pm NASCAR Weekly Racing Berlin"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 15 - 6pm RoC Modifieds Mahoning Valley"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 16 - 6pm Hondo Classic Fonda"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 17 - 6pm Big J Vintage Jamboree Jennerstown"
+              "text": "02/08/2026 SPORTS SCENE 01 - 10:00pm-19:00 - Friendly: Wrexham vs Sunderland"
             }
           ]
         }
@@ -305,7 +249,7 @@
         {
           "sport": "BASKETBALL",
           "time": "18:00",
-          "name": "CHAMPIONSHIP GAME",
+          "name": "DAVIS STEEL AT LA FAMILIA",
           "datetime": "2026-08-02 18:00:00",
           "channels": [
             {
@@ -576,12 +520,12 @@
         {
           "sport": "TENNIS",
           "time": "17:00",
-          "name": "MUBADALA CITI DC OPEN",
+          "name": "JESSICA PEGULA - ALEXANDRA EALA",
           "datetime": "2026-08-02 17:00:00",
           "channels": [
             {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
             }
           ]
         },
@@ -599,9 +543,9 @@
         },
         {
           "sport": "TENNIS",
-          "time": "19:00",
-          "name": "MEMPHIS OPEN",
-          "datetime": "2026-08-02 19:00:00",
+          "time": "18:30",
+          "name": "KRISTINA LIUTOVA - DARJA VIDMANOVA",
+          "datetime": "2026-08-02 18:30:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -616,20 +560,8 @@
         {
           "sport": "TENNIS",
           "time": "19:30",
-          "name": "MUBADALA CITI DC OPEN",
+          "name": "TAYLOR FRITZ - RAFAEL JODAR",
           "datetime": "2026-08-02 19:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "22:00",
-          "name": "MUBADALA CITI DC OPEN",
-          "datetime": "2026-08-02 22:00:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -679,6 +611,18 @@
           "time": "11:00",
           "name": "PLAY-OFF DRAW",
           "datetime": "2026-08-03 11:00:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "12:00",
+          "name": "PLAY-OFF DRAW",
+          "datetime": "2026-08-03 12:00:00",
           "channels": [
             {
               "name": "DAZN CANADA",
@@ -852,56 +796,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - EWC Honor of Kings: Day 03 - 09:00 01/08/2026",
-        "DAZN CA 02 - Grand Prix of Kyrgyzstan Issyk Kul Sprint Races - 09:30 01/08/2026",
-        "DAZN CA 03 - EWC ML:BB 2026 Day 09 - 10:00 01/08/2026",
-        "DAZN CA 04 - Secto Rally Finland: Stage 14 - 10:00 01/08/2026",
-        "DAZN CA 05 - EWC Overwatch: Day 04 - 11:00 01/08/2026",
-        "DAZN CA 06 - Secto Rally Finland: Stage 15 - 13:01 01/08/2026",
-        "DAZN CA 07 - RWS: Petchdej vs. Phettechin - 13:10 01/08/2026",
-        "DAZN CA 08 - EWC Street Fighter 06 2026 Day 04 - 14:00 01/08/2026",
-        "DAZN CA 09 - EWC Call of Duty: Warzone Day 03 - 14:00 01/08/2026",
-        "DAZN CA 10 - TAIF Racing Season 2026 Week 02 Day 02 - 14:25 01/08/2026",
-        "DAZN CA 11 - Secto Rally Finland: Stage 16 - 14:42 01/08/2026",
-        "DAZN CA 12 - Tranmere vs. Rochdale - 15:00 01/08/2026",
-        "DAZN CA 13 - Red Bull Cliff Diving Mostar - 15:30 01/08/2026",
-        "DAZN CA 14 - Secto Rally Finland: Stage 17 - 15:36 01/08/2026",
-        "DAZN CA 15 - O`Leary vs. Chamberlain: Prelims - 15:55 01/08/2026",
-        "DAZN CA 16 - Brave CF: Burgas Bulgaria - 16:30 01/08/2026",
-        "DAZN CA 17 - Real Madrid vs. Fiorentina - 17:00 01/08/2026",
-        "DAZN CA 18 - Secto Rally Finland: Stage 18 - 17:00 01/08/2026",
-        "DAZN CA 19 - Kings World Cup Clubs Semi Finals & Final (In English Portuguese & Spanish) - 18:00 01/08/2026",
-        "DAZN CA 20 - Kings World Cup Clubs Semi Finals & Final (In French & German) - 18:00 01/08/2026",
-        "DAZN CA 21 - Kings World Cup Clubs Semi Finals & Final (Italian) - 18:00 01/08/2026",
-        "DAZN CA 22 - Washington Open: Day 06 - 19:00 01/08/2026",
-        "DAZN CA 23 - Memphis Open: Day 03 - 19:00 01/08/2026",
-        "DAZN CA 24 - BKFC Fight Night Newcastle: Garside vs. Taylor - 19:00 01/08/2026",
-        "DAZN CA 25 - O`Leary vs. Chamberlain - 19:00 01/08/2026",
-        "DAZN CA 26 - Girona vs. Arsenal - 19:00 01/08/2026",
-        "DAZN CA 27 - Roach Jr. vs. Zepeda: Prelims - 21:00 01/08/2026",
-        "DAZN CA 28 - Roach Jr. vs. Zepeda (Contains US Ad Content) - 00:30 02/08/2026",
-        "DAZN CA 29 - Good Morning Rally Fans Pre Stage 19 - 08:00 02/08/2026",
-        "DAZN CA 30 - Secto Rally Finland: Stage 19 - 08:30 02/08/2026",
-        "DAZN CA 31 - EWC Honor of Kings Day 04 - 09:00 02/08/2026",
-        "DAZN CA 32 - Grand Prix of Kyrgyzstan Issyk Kul Race - 09:30 02/08/2026",
-        "DAZN CA 33 - EWC Overwatch: Day 05 - 11:00 02/08/2026",
-        "DAZN CA 34 - Secto Rally Finland: Stage 20 - 11:00 02/08/2026",
-        "DAZN CA 35 - Secto Rally Finland: Wrap Show from Himos WOLF Power Stage - 12:30 02/08/2026",
-        "DAZN CA 36 - EWC Call of Duty: Warzone Day 04 - 14:00 02/08/2026",
-        "DAZN CA 37 - Memphis Open: Final - 18:30 02/08/2026",
-        "DAZN CA 38 - Washington Open: Final - 19:30 02/08/2026",
-        "DAZN CA 39 - EWC Honor of Kings: Day 05 - 09:00 03/08/2026",
-        "DAZN CA 40 - Play Off Round Draw - 11:00 03/08/2026",
-        "DAZN CA 41 - York vs. Crawley - 19:30 03/08/2026",
-        "DAZN CA 42 - EWC Honor of Kings: Day 06 - 10:00 04/08/2026",
-        "DAZN CA 43 - EWC Rainbow Six Day 01: Stream B - 13:00 04/08/2026",
-        "DAZN CA 44 - EWC Rainbow Six Day 01: Stream A - 13:00 04/08/2026",
-        "DAZN CA 45 - EWC Honor of Kings: Day 07 - 10:00 05/08/2026",
-        "DAZN CA 46 - EWC Tekken 08 Day 01 - 13:00 05/08/2026",
-        "DAZN CA 47 - EWC COD: Black Ops 07 Day 01 - 14:00 05/08/2026",
-        "DAZN CA 48 - EWC Rainbow Six Day 02: Stream A - 15:00 05/08/2026",
-        "DAZN CA 49 - EWC Rainbow Six Day 02: Stream B - 15:00 05/08/2026",
-        "DAZN CA 50 - Mallorca vs. PSG - 19:00 05/08/2026"
+        "DAZN CA 01 - Secto Rally Finland: Stage 19 - 08:30 02/08/2026",
+        "DAZN CA 02 - EWC Honor of Kings Day 04 - 09:00 02/08/2026",
+        "DAZN CA 03 - Grand Prix of Kyrgyzstan Issyk Kul Race - 09:30 02/08/2026",
+        "DAZN CA 04 - EWC Overwatch: Day 05 - 11:00 02/08/2026",
+        "DAZN CA 05 - Secto Rally Finland: Stage 20 - 11:00 02/08/2026",
+        "DAZN CA 06 - Secto Rally Finland: Wrap Show from Himos WOLF Power Stage - 12:30 02/08/2026",
+        "DAZN CA 07 - EWC Call of Duty: Warzone Day 04 - 14:00 02/08/2026",
+        "DAZN CA 08 - Washington Open: Final - 17:00 02/08/2026",
+        "DAZN CA 09 - Memphis Open: Final - 18:30 02/08/2026",
+        "DAZN CA 10 - EWC Honor of Kings: Day 05 - 09:00 03/08/2026",
+        "DAZN CA 11 - Play Off Round Draw - 11:00 03/08/2026",
+        "DAZN CA 12 - Play Off Round Draw - 12:00 03/08/2026",
+        "DAZN CA 13 - Play Off Round Draw - 13:00 03/08/2026",
+        "DAZN CA 14 - York vs. Crawley - 19:30 03/08/2026",
+        "DAZN CA 15 - EWC Honor of Kings: Day 06 - 10:00 04/08/2026",
+        "DAZN CA 16 - EWC Rainbow Six Day 01: Stream B - 13:00 04/08/2026",
+        "DAZN CA 17 - EWC Rainbow Six Day 01: Stream A - 13:00 04/08/2026",
+        "DAZN CA 18 - EWC Honor of Kings: Day 07 - 10:00 05/08/2026",
+        "DAZN CA 19 - EWC Tekken 08 Day 01 - 13:00 05/08/2026",
+        "DAZN CA 20 - EWC COD: Black Ops 07 Day 01 - 14:00 05/08/2026",
+        "DAZN CA 21 - EWC Rainbow Six Day 02: Stream A - 15:00 05/08/2026",
+        "DAZN CA 22 - EWC Rainbow Six Day 02: Stream B - 15:00 05/08/2026",
+        "DAZN CA 23 - Mallorca vs. PSG - 19:00 05/08/2026",
+        "DAZN CA 24 - EWC Honor of Kings: Day 08 - 10:00 06/08/2026",
+        "DAZN CA 25 - EWC PUBG Mobile: Week 01 Day 01 - 12:00 06/08/2026",
+        "DAZN CA 26 - EWC Tekken 08 Day 02 - 13:00 06/08/2026",
+        "DAZN CA 27 - EWC COD: Black Ops 07 Day 02 Stream B - 14:00 06/08/2026",
+        "DAZN CA 28 - EWC COD: Black Ops 07 Day 02 Stream A - 14:00 06/08/2026",
+        "DAZN CA 29 - EWC Rainbow Six Day 03: Stream B - 15:00 06/08/2026",
+        "DAZN CA 30 - EWC Rainbow Six Day 03: Stream A - 15:00 06/08/2026",
+        "DAZN CA 31 - LIV Golf New York August 06 09 - 17:00 06/08/2026",
+        "DAZN CA 32 - EFC 136: Sanchez vs. Swanepoel - 18:00 06/08/2026",
+        "DAZN CA 33 - Panthers at Cardinals - 01:00 07/08/2026",
+        "DAZN CA 34 - Panthers at Cardinals - 01:00 07/08/2026",
+        "DAZN CA 35 - Panthers at Cardinals (In German) - 01:00 07/08/2026",
+        "DAZN CA 36 - EWC Honor of Kings: Day 09 - 10:00 07/08/2026",
+        "DAZN CA 37 - EWC PUBG Mobile: Week 01 Day 02 - 12:00 07/08/2026",
+        "DAZN CA 38 - EWC Tekken 08 Day 03 - 13:00 07/08/2026",
+        "DAZN CA 39 - EWC COD: Black Ops 07 Day 03 - 14:00 07/08/2026",
+        "DAZN CA 40 - TAIF Racing Season 2026 Week 03 Day 01 - 14:20 07/08/2026",
+        "DAZN CA 41 - EWC Rainbow Six Day 04: Stream B - 15:00 07/08/2026",
+        "DAZN CA 42 - EWC Rainbow Six Day 04: Stream A - 15:00 07/08/2026",
+        "DAZN CA 43 - Middlesbrough vs. Wrexham - 20:00 07/08/2026",
+        "DAZN CA 44 - Moreno vs. Gutierrez - 01:00 08/08/2026",
+        "DAZN CA 45 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
+        "DAZN CA 46 - EWC PUBG Mobile: Week 01 Day 03 - 12:00 08/08/2026",
+        "DAZN CA 47 - QPR vs. Millwall - 14:00 08/08/2026",
+        "DAZN CA 48 - EWC COD: Black Ops 07 Day 04 - 14:00 08/08/2026",
+        "DAZN CA 49 - EWC Tekken 08 Day 04 - 14:00 08/08/2026",
+        "DAZN CA 50 - Fylde vs. Wealdstone - 15:00 08/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1246,10 +1190,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: Lawn Bowls D10 (NZ) - 08:50 02/08/2026",
-        "Sky Sport 6 - LIVE: Glasgow - Netball: AUS v ENG (BM) - 08:50 02/08/2026",
-        "Sky Sport 5 - LIVE: Track Cycling: D10 S1 (NZ) (F) - 08:50 02/08/2026",
-        "Sky Sport 8 - LIVE: Judo D10 S1 (NZ) - 09:50 02/08/2026",
         "Sky Sport 1 - LIVE: AIG Women's Open: R4 - 12:00 02/08/2026",
         "Sky Sport 1 UHD - LIVE: AIG Women's Open: R4 - 12:00 02/08/2026",
         "Sky Sport 6 - LIVE: Glasgow - Netball: JAM v NZL (GM) - 12:50 02/08/2026",
@@ -1338,7 +1278,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 06 : Wests Tigers vs. Eels - Sun 02/08 6:55am",
         "Sportsnet 01 : Sportsnet Central: August 1 - Sun 02/08 10:00am",
         "Sportsnet 01 : National Bank Open: Men's Day Session - Sun 02/08 4:00pm",
         "Sportsnet 02 : National Bank Open: Women's Day Session - Sun 02/08 5:30pm",
@@ -1373,7 +1312,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 05 : Wellington v Hawke's Bay - NPC Round 1 2026 - Sun 02/08 6:00am",
         "Stan 07 : The Breakdown: Episode 29 â¢ New Zealand Tour of South Africa - Sun 02/08 8:00am",
         "Stan 01 : SS19 Himos-JÃ¤msa 1 - WRC Finland 2026 - Sun 02/08 8:30am",
         "Stan 02 : SS20 Himos-JÃ¤msa 2 (Wolf Power Stage) - WRC Finland 2026 - Sun 02/08 11:00am",
