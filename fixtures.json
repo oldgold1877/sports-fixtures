@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T11:59:57.178034+00:00",
+  "scraped_at": "2026-08-02T17:00:44.231808+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,6 +14,26 @@
             {
               "type": "fixture",
               "text": "02/08/2026 SPORTS SCENE 01 - 10:00pm-19:00 - Friendly: Wrexham vs Sunderland"
+            },
+            {
+              "type": "fixture",
+              "text": "02/08/2026 SPORTS SCENE 02 - 2:00am-23:00 - Friendly: Liverpool vs Leeds United"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 - 6:00pmLuton Town vs Go Ahead Eagles"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 - 8:00pmBurnley vs Torino"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 - 10:00pmWrexham vs Sunderland"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 - 2:00amLiverpool vs Leeds United"
             },
             {
               "type": "fixture",
@@ -297,18 +317,6 @@
         {
           "sport": "BASKETBALL",
           "time": "18:00",
-          "name": "LA RIOT - HOUSTON RIG HANDS",
-          "datetime": "2026-08-02 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "18:00",
           "name": "MINNESOTA LYNX - INDIANA FEVER",
           "datetime": "2026-08-02 18:00:00",
           "channels": [
@@ -328,8 +336,20 @@
         },
         {
           "sport": "BASKETBALL",
-          "time": "19:00",
+          "time": "18:00",
           "name": "TRILOGY - TRIPLETS",
+          "datetime": "2026-08-02 18:00:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "19:00",
+          "name": "LA RIOT - HOUSTON RIG HANDS",
           "datetime": "2026-08-02 19:00:00",
           "channels": [
             {
@@ -812,7 +832,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Sul 02/08/2026 - 02/08/2026 11:08 - 19:30"
+        "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Sul 02/08/2026 - 02/08/2026 11:08 - 19:30",
+        "BBC Events 03 - no_brand_title: Sunderland v Wrexham - 02/08/2026 16:50 - 19:00",
+        "BBC Events 04 - no_brand_title: Sunderland v Wrecsam - 02/08/2026 16:50 - 19:00"
       ],
       "sections": [],
       "events": []
@@ -822,7 +844,34 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "CLUBBER01  2nd Aug | Ballyduff v Ballyheigue - 11:45am",
+        "CLUBBER02  2nd Aug | Barrow Rangers v St Martin's - 1pm -",
+        "CLUBBER03  2nd Aug | Graigue Ballycallan v Bennettsbridge - 1pm -",
+        "CLUBBER04  2nd Aug | Danesfort v Tullaroan - 1pm -",
+        "CLUBBER05  2nd Aug | The Harps v Portlaoise - 1:30pm -",
+        "CLUBBER06  2nd Aug | Dungarvan v Lismore - 2pm -",
+        "CLUBBER07  2nd Aug | Shelmaliers v Naomh Eanna - 2pm -",
+        "CLUBBER08  2nd Aug | Abbeydorney v St Brendans - 2pm -",
+        "CLUBBER09  2nd Aug | Castletown Liam Mellows v Davidstown - 2pm -",
+        "CLUBBER10  2nd Aug | Fourmilewater v Roanmore - 2pm -",
+        "CLUBBER11  2nd Aug | Clonmel Commercials v Ardfinnan - 2pm -",
+        "CLUBBER12  2nd Aug | Ballyfin v St Lazerian’s Abbeyleix - 3pm -",
+        "CLUBBER13  2nd Aug | Windgap v Graignamanagh - 3pm -",
+        "CLUBBER14  2nd Aug | St Martins v Faythe Harriers - 3:45pm -",
+        "CLUBBER15  2nd Aug | Kildalkey v Trim - 4pm -",
+        "CLUBBER17  2nd Aug | Fenagh v Mount Leinster Rangers - 5pm -",
+        "CLUBBER18  2nd Aug | Kilmore v St. Croans - 5pm",
+        "CLUBBER19  2nd Aug | St Patrick'S v Conahy Shamrocks - 5pm -",
+        "CLUBBER20  2nd Aug | Glenmore v Mullinavat - 5pm",
+        "CLUBBER21  2nd Aug | Castlemartyr v Lisgoold - 5:15pm",
+        "CLUBBER22  2nd Aug | Shamrocks v Tallow - 6pm",
+        "CLUBBER23  2nd Aug | Ulster v Sean Treacys - 7:15pm -",
+        "CLUBBER24  2nd Aug | Dungourney v Cloyne - 7:15pm",
+        "CLUBBER25  2nd Aug | St. Faithleachs v Castlerea - 7:30pm -",
+        "CLUBBER26  2nd Aug | Donegal Boston v Aidan McAnespies -",
+        "CLUBBER27  2nd Aug | Galway Boston v Kerry Boston - 10pm -"
+      ],
       "sections": [],
       "events": []
     },
@@ -1202,13 +1251,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 8 - LIVE: Currie Cup: Kavaliers v Pumas - 13:55 02/08/2026",
-        "Sky Sport 3 - LIVE: Hundred M: Rockets v Sunrisers - 14:00 02/08/2026",
-        "Sky Sport 9 - LIVE: PGA Champions Tour: R3 - 14:00 02/08/2026",
-        "Sky Sport 2 - LIVE: Tour de France Femmes Stage 2 - 14:45 02/08/2026",
-        "Sky Sport 5 - LIVE: Track Cycling: D10 S2 (NZ) (F) - 14:50 02/08/2026",
-        "Sky Sport 6 - LIVE: Judo D10 S2 - 15:00 02/08/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 4 - 18:00 02/08/2026",
         "Sky Sport 2 - LIVE: Korn Ferry Tour: Round 4 - 23:00 02/08/2026",
         "Sky Sport 2 - LIVE: Tour de France Femmes Stage 3 - 14:45 03/08/2026",
         "Sky Sport 1 - LIVE: Hundred: Fire v Brave - 18:00 03/08/2026",
@@ -1229,9 +1271,9 @@
         "Sky Sport 2 - LIVE: Hundred: Spirit v MI London - 18:00 06/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 20:00 06/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 06/08/2026",
-        "Sky Sport 2 - LIVE: NPC: Taranaki v Waikato - 08:00 07/08/2026",
         "Sky Sport 1 - LIVE: NRL 2026: Warriors v Panthers R23 - 08:00 07/08/2026",
         "Sky Sport 1 UHD - LIVE: NRL 2026: Warriors v Panthers R23 - 08:00 07/08/2026",
+        "Sky Sport 2 - LIVE: NPC: Taranaki v Waikato - 08:00 07/08/2026",
         "Sky Sport 3 - LIVE: AFL: Brisbane Lions v Hawthorn - 10:30 07/08/2026",
         "Sky Sport 2 - LIVE: NRL 2026: Roosters v Bulldogs R23 - 11:00 07/08/2026",
         "Sky Sport 1 - LIVE: Tour de France Femmes Stage 7 - 14:20 07/08/2026",
@@ -1242,7 +1284,27 @@
         "Sky Sport 2 - LIVE: Hundred: Phoenix v Sunrisers - 18:00 07/08/2026",
         "Sky Sport 3 - LIVE: PGA Tour: Round 2 - 20:00 07/08/2026",
         "Sky Sport 7 - LIVE: CPL: Jamaica v Antigua & Barbuda - 23:30 07/08/2026",
-        "Sky Sport 3 - LIVE: PFL Charlotte - 00:00 08/08/2026"
+        "Sky Sport 3 - LIVE: PFL Charlotte - 00:00 08/08/2026",
+        "Sky Sport 2 - LIVE: 1st XV Rugby - 02:45 08/08/2026",
+        "Sky Sport 1 - LIVE: NPC: Auckland v Wellington - 03:00 08/08/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Auckland v Wellington - 03:00 08/08/2026",
+        "Sky Sport 3 - LIVE: NRL 2026: Storm v Sea Eagles R23 - 05:30 08/08/2026",
+        "Sky Sport 1 - LIVE: NPC: Bay of Plenty v Northland - 06:00 08/08/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Bay of Plenty v Northland - 06:00 08/08/2026",
+        "Sky Sport 5 - LIVE: AFL: Sydney v Port Adelaide - 07:00 08/08/2026",
+        "Sky Sport 2 - LIVE: NRLW: Warriors v Knights R6 - 07:30 08/08/2026",
+        "Sky Sport 1 - LIVE: NPC: Hawke's Bay v Tasman - 08:00 08/08/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Hawke's Bay v Tasman - 08:00 08/08/2026",
+        "Sky Sport 3 - LIVE: NRL 2026: Dolphins v Broncos R23 - 08:00 08/08/2026",
+        "Sky Sport 5 - LIVE: AFL: Adelaide v Richmond - 10:00 08/08/2026",
+        "Sky Sport 1 - LIVE: Japan v Australia - 10:30 08/08/2026",
+        "Sky Sport 1 UHD - LIVE: Japan v Australia - 10:30 08/08/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Rabbitohs v Eels R23 - 10:30 08/08/2026",
+        "Sky Sport 6 - LIVE: Currie Cup: Griquas v Lions - 11:55 08/08/2026",
+        "Sky Sport 1 - LIVE: Currie Cup: Bulls v Pumas - 14:00 08/08/2026",
+        "Sky Sport 1 UHD - LIVE: Currie Cup: Bulls v Pumas - 14:00 08/08/2026",
+        "Sky Sport 3 - LIVE: Hundred: MI London v Rockets - 14:00 08/08/2026",
+        "Sky Sport 2 - LIVE: Tour de France Femmes Stage 8 - 14:45 08/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1253,16 +1315,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Plus 01 - J. Bouzas Maneiro v A. Arseneault - 15:55 02/08/2026",
-        "Sky Sports Plus 02 - J. Munar v R. Hijikata - 15:55 02/08/2026",
-        "Sky Sports Plus 03 - M. Zheng v M. Kecmanovic - 15:55 02/08/2026",
-        "Sky Sports Plus 04 - J. Pegula v A. Eala - 16:55 02/08/2026",
-        "Sky Sports Plus 05 - A. Vukic v D. Altmaier - 17:25 02/08/2026",
-        "Sky Sports Plus 06 - K. Birrell v V. Golubic - 17:25 02/08/2026",
-        "Sky Sports Plus 07 - M. Uchijima v C. Bucsa - 17:25 02/08/2026",
-        "Sky Sports Plus 08 - N. Mejia v M. Landaluce - 17:25 02/08/2026",
-        "Sky Sports Plus 09 - Wang Xiyu v S. Bejlek - 17:25 02/08/2026",
-        "Sky Sports Plus 10 - K. Liutova v D. Vidmanova - 18:25 02/08/2026",
         "Sky Sports Plus 11 - L. Stefanini v C. Osorio - 18:55 02/08/2026",
         "Sky Sports Plus 12 - L.Van Assche v T. Droguet - 18:55 02/08/2026",
         "Sky Sports Plus 13 - M. Frech v L. Jeanjean - 18:55 02/08/2026",
@@ -1322,11 +1374,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : SS20 Himos-JÃ¤msa 2 (Wolf Power Stage) - WRC Finland 2026 - Sun 02/08 11:00am",
-        "Stan 04 : Daejeon v Gwangju - K League 2026 - Sun 02/08 11:25am",
-        "Stan 03 : Ulsan v Anyang - K League 2026 - Sun 02/08 11:25am",
-        "Stan 06 : Race Day Part 1: Flanders - MXGP 2026 - Sun 02/08 12:00pm",
-        "Stan 05 : Boland Kavaliers v Pumas - Currie Cup Round 3 2026 - Sun 02/08 1:55pm",
         "Stan 01 : Race Day Part 2: Flanders - MXGP 2026 - Sun 02/08 3:00pm",
         "Stan 07 : Sunderland v Wrexham - Pre-season Club Friendlies 2026 - Sun 02/08 5:00pm",
         "Stan 03 : Washington, D.C.: Day 7 - WTA 500 - Sun 02/08 5:00pm",
@@ -1381,7 +1428,11 @@
         "Stan 01 : Sharks v New Zealand: SuperSport Coverage - NZL Tour of RSA Round 2 2026 - Tue 11/08 5:15pm",
         "Stan 01 : Toronto: Day 10 - WTA 1000 - Wed 12/08 12:00am",
         "Stan 02 : Paris Saint-Germain v Aston Villa - UEFA Super Cup 2026 - Wed 12/08 7:55pm",
-        "Stan 01 : Toronto: Day 11 - WTA 1000 - Thu 13/08 12:00am"
+        "Stan 01 : Toronto: Day 11 - WTA 1000 - Thu 13/08 12:00am",
+        "Stan 01 : Wellington v North Harbour - NPC Round 3 2026 - Thu 13/08 8:00am",
+        "Stan 01 : Toronto: Day 12 - WTA 1000 - Thu 13/08 11:00pm",
+        "Stan 01 : Northland v Taranaki - NPC Round 3 2026 - Fri 14/08 8:00am",
+        "Stan 02 : Lions v Boland Kavaliers - Currie Cup Round 5 2026 - Fri 14/08 1:55pm"
       ],
       "sections": [],
       "events": []
@@ -1401,14 +1452,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : PGA TOUR Live: Rocket Classic - Final Round: Main Feed - Sun 02/08 12:30pm",
-        "TSN 02 : PGA TOUR Live: Rocket Classic - Final Round: Featured Groups - Sun 02/08 1:15pm",
-        "TSN 03 : PGA TOUR Live: Rocket Classic - Final Round: Featured Holes - Sun 02/08 1:30pm",
-        "TSN 04 : PGA TOUR Live: Rocket Classic - Final Round: Marquee Group - Sun 02/08 1:30pm",
-        "TSN 05 : 2026 Little League Softball World Series: Southeast vs. Northwest - Sun 02/08 3:00pm",
-        "TSN 06 : ATP 500 Tennis: Washington - Doubles Final - Sun 02/08 5:00pm",
+        "TSN 01 : PGA TOUR Live: Rocket Classic - Final Round: Main Feed - Sun 02/08 3:30pm",
+        "TSN 02 : PGA TOUR Live: Rocket Classic - Final Round: Featured Groups - Sun 02/08 3:45pm",
+        "TSN 03 : PGA TOUR Live: Rocket Classic - Final Round: Featured Holes - Sun 02/08 3:45pm",
+        "TSN 04 : ATP 500 Tennis: Washington - Doubles Final - Sun 02/08 4:00pm",
+        "TSN 08 : PGA TOUR Live: Rocket Classic - Final Round: Marquee Group - Sun 02/08 4:15pm",
+        "TSN 06 : WTA 500 Tennis: Washington - Final - Sun 02/08 5:00pm",
         "TSN 07 : 2026 Little League Softball World Series: Asia-Pacific vs. Mid-Atlantic - Sun 02/08 6:00pm",
-        "TSN 08 : WTA 500 Tennis: Washington - Final - Sun 02/08 7:30pm",
+        "TSN 10 : Western Amateur Golf Championship: Finals - Sun 02/08 6:00pm",
         "TSN 05 : Premier Lacrosse League: New York Atlas vs. California Redwoods - Sun 02/08 8:00pm",
         "TSN 09 : 2026 Little League Softball World Series: Central vs. West - Sun 02/08 9:00pm",
         "TSN 06 : 2026 Little League Softball World Series: North Carolina vs. Canada - Mon 03/08 12:00am"
