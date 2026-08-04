@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T11:00:45.197865+00:00",
+  "scraped_at": "2026-08-04T12:59:54.434671+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,17 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 6:30pm-15:30 - Friendly: Bangkok Glass vs Aston Villa"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -32,9 +42,9 @@
         },
         {
           "sport": "FOOTBALL",
-          "time": "00:30",
+          "time": "00:45",
           "name": "FC CINCINNATI - PACHUCA",
-          "datetime": "2026-08-05 00:30:00",
+          "datetime": "2026-08-05 00:45:00",
           "channels": []
         },
         {
@@ -462,6 +472,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 04/08/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Mawrth 04/08/2026 - 04/08/2026 10:28 - 22:30"
       ],
       "sections": [],
