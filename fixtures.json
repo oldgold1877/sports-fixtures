@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T12:50:01.527004+00:00",
+  "scraped_at": "2026-08-05T17:00:52.843294+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,27 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 5 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - Friendly: Mallorca vs PSG 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Thursday 6 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW: Dynamite 1080p"
+            }
+          ]
+        },
         {
           "section": "Live Events",
           "entries": [
@@ -637,7 +658,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 05/08/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Mercher 05/08/2026 - 05/08/2026 11:13 - 21:45"
       ],
       "sections": [],
@@ -1091,10 +1111,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: Hundred: Super Giants v Fire - 14:30 05/08/2026",
-        "Sky Sport 4 - LIVE: Florida Open: Day 2 - 16:00 05/08/2026",
-        "Sky Sport 1 - LIVE: Hundred: Rockets v Phoenix - 18:00 05/08/2026",
-        "Sky Sport 1 UHD - LIVE: Hundred: Rockets v Phoenix - 18:00 05/08/2026",
         "Sky Sport 2 - LIVE: NRL 2026: Titans v Cowboys R23 - 10:00 06/08/2026",
         "Sky Sport 3 - LIVE: AFL Western Bulldogs v N Melbourne - 10:15 06/08/2026",
         "Sky Sport 1 - LIVE: Tour de France Femmes Stage 6 - 14:45 06/08/2026",
@@ -1198,21 +1214,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Plus 01 - A. Li v K. Cross - 15:55 05/08/2026",
-        "Sky Sports Plus 02 - N. Borges v T. Etcheverry - 15:55 05/08/2026",
-        "Sky Sports Plus 03 - S. Tsitsipas v J. Fonseca - 15:55 05/08/2026",
-        "Sky Sports Plus 04 - TBD v L. Musetti - 15:55 05/08/2026",
-        "Sky Sports Plus 05 - V. Vacherot v M. Navone - 15:55 05/08/2026",
-        "Sky Sports Plus 06 - Z. Bergs v S. Baez - 15:55 05/08/2026",
-        "Sky Sports Plus 07 - C. Ruud v J. Cerundolo - 17:25 05/08/2026",
-        "Sky Sports Plus 08 - D. Kasatkina v E. Rybakina - 17:25 05/08/2026",
-        "Sky Sports Plus 09 - I. Buse v C. Norrie - 17:25 05/08/2026",
-        "Sky Sports Plus 10 - J. Brooksby v B. Shelton - 17:25 05/08/2026",
-        "Sky Sports Plus 11 - J. Pegula v M. Frech - 17:25 05/08/2026",
-        "Sky Sports Plus 12 - M. Bouzkova v T. Townsend - 17:25 05/08/2026",
-        "Sky Sports Plus 13 - M. Kecmanovic v A. Rinderknech - 17:25 05/08/2026",
-        "Sky Sports Plus 14 - S. Stephens v B. Bencic - 17:25 05/08/2026",
-        "Sky Sports Plus 15 - Z. Svajda v A. Fils - 17:25 05/08/2026",
         "Sky Sports Plus 16 - A. Korneeva v E.Navarro - 18:55 05/08/2026",
         "Sky Sports Plus 17 - A. Zverev v T. Griekspoor - 18:55 05/08/2026",
         "Sky Sports Plus 18 - H. Hurkacz v A. Tabilo - 18:55 05/08/2026",
@@ -1249,8 +1250,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: August 5 - Wed 05/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 5 - Wed 05/08 3:00pm",
         "Sportsnet 03 : National Bank Open: Men's Day Session - Wed 05/08 4:00pm",
         "Sportsnet 04 : National Bank Open: Women's Day Session - Wed 05/08 4:00pm",
         "Sportsnet 01 : Toronto @ Houston - Wed 05/08 6:30pm",
@@ -1273,7 +1272,8 @@
         "Sportsnet 09 : TNA iMPACT! - Fri 07/08 1:00am",
         "Sportsnet 01 : Warriors vs. Panthers - Fri 07/08 8:50am",
         "Sportsnet 02 : Sportsnet Central: August 6 - Fri 07/08 10:00am",
-        "Sportsnet 02 : The JD Bunkis Podcast: August 7 - Fri 07/08 2:00pm"
+        "Sportsnet 02 : The JD Bunkis Podcast: August 7 - Fri 07/08 2:00pm",
+        "Sportsnet 01 : Jays Talk Plus: August 7 - Fri 07/08 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -1363,7 +1363,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 Little League Softball World Series: Asia-Pacific vs. Mid-Atlantic - Wed 05/08 3:00pm",
         "TSN 03 : Pat McAfee Show - Wed 05/08 5:00pm",
         "TSN 02 : Rich Eisen Show - Wed 05/08 5:00pm",
         "TSN 04 : 2026 Little League Softball World Series: Canada vs. Northwest - Wed 05/08 6:00pm",
