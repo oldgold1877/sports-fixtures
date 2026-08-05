@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T11:00:56.344243+00:00",
+  "scraped_at": "2026-08-05T12:50:01.527004+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,6 +18,10 @@
             {
               "type": "fixture",
               "text": "05/08/2026 SPORTS SCENE 02 - 5:30pm-14:30 - Friendly: Chelsea vs Juventus"
+            },
+            {
+              "type": "fixture",
+              "text": "05/08/2026 SPORTS SCENE 01 - 12:30am-21:30 - Friendly: Arsenal vs Real Betis"
             }
           ]
         }
@@ -57,6 +61,18 @@
             {
               "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "COSTA RICA U17 - EL SALVADOR U17",
+          "datetime": "2026-08-05 17:00:00",
+          "channels": [
+            {
+              "name": "DAZN CANADA",
+              "category": "SPORT | DAZN"
             }
           ]
         },
@@ -221,6 +237,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "16:00",
+          "name": "TSITSIPAS - FONSECA",
+          "datetime": "2026-08-05 16:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "17:00",
           "name": "NATIONAL BANK OPEN",
           "datetime": "2026-08-05 17:00:00",
@@ -234,7 +262,7 @@
         {
           "sport": "TENNIS",
           "time": "17:30",
-          "name": "C. RUUD VS. J. M. CERULONDO",
+          "name": "RUUD - CERULONDO",
           "datetime": "2026-08-05 17:30:00",
           "channels": [
             {
@@ -609,6 +637,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 05/08/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Mercher 05/08/2026 - 05/08/2026 11:13 - 21:45"
       ],
       "sections": [],
@@ -1062,7 +1091,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Tour de France Femmes Stage 5 - 12:50 05/08/2026",
         "Sky Sport 3 - LIVE: Hundred: Super Giants v Fire - 14:30 05/08/2026",
         "Sky Sport 4 - LIVE: Florida Open: Day 2 - 16:00 05/08/2026",
         "Sky Sport 1 - LIVE: Hundred: Rockets v Phoenix - 18:00 05/08/2026",
