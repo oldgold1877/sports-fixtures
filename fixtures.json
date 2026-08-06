@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-06T11:00:49.108311+00:00",
+  "scraped_at": "2026-08-06T12:54:03.101949+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,7 +13,11 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "06/08/2026 SPORTS SCENE 12 - 8:30am-05:30 - USL Championship: Las Vegas Lights vs Oakland Roots"
+              "text": "05/08/2026 SPORTS SCENE 01 - 12:30am-21:30 - Friendly: Arsenal vs Real Betis"
+            },
+            {
+              "type": "fixture",
+              "text": "06/08/2026 SPORTS SCENE 12 - 12:45am-21:45 - League Cup: Bristol City vs Walsall"
             },
             {
               "type": "fixture",
@@ -25,6 +29,10 @@
             },
             {
               "type": "fixture",
+              "text": "07/08/2026 SPORTS SCENE 12 - 12:45am-21:45 - League Cup: Wolverhampton Wanderers vs Port Vale"
+            },
+            {
+              "type": "fixture",
               "text": "08/08/2026 SPORTS SCENE 12 - 8:00pm-17:00 - Friendly: Brighton & Hove Albion vs Roma"
             },
             {
@@ -33,15 +41,15 @@
             },
             {
               "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 12 - 1:00am-21:00 - Friendly: Barcelona vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
               "text": "09/08/2026 SPORTS SCENE 12 - 6:00pm-15:00 - Friendly: Johor Darul Ta'zim vs Chelsea"
             },
             {
               "type": "fixture",
               "text": "09/08/2026 SPORTS SCENE 12 - 9:00pm-18:00 - SPL: Rangers vs Hibernian"
-            },
-            {
-              "type": "fixture",
-              "text": "06/08/2026 SPORTS SCENE 13 - 8:00am-05:00 - NWSL: Denver Summit vs North Carolina Courage"
             },
             {
               "type": "fixture",
@@ -54,10 +62,6 @@
             {
               "type": "fixture",
               "text": "08/08/2026 SPORTS SCENE 13 - 11:00pm-20:00 - Friendly: Ferencváros vs Real Madrid"
-            },
-            {
-              "type": "fixture",
-              "text": "09/08/2026 SPORTS SCENE 13 - 8:00am-05:00 - USL Championship: Monterey Bay vs New Mexico United"
             },
             {
               "type": "fixture",
@@ -82,6 +86,10 @@
             {
               "type": "fixture",
               "text": "08/08/2026 SPORTS SCENE 15 - 9:55pm-19:55 - Friendly: Udinese vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 15 - 12:55am-20:55 - Friendly: Barcelona vs Nottingham Forest (45 Minute Game)"
             },
             {
               "type": "fixture",
@@ -703,6 +711,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 06/08/2026 12:00 - 18:00",
         "BBC Events 03 - no_brand_title: Sedd yn y Pafiliwn - Dydd Iau 06/08/2026 - 06/08/2026 10:41 - 23:30"
       ],
       "sections": [],
@@ -1306,7 +1315,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Titans vs. Cowboys - Thu 06/08 10:40am",
         "Sportsnet 01 : The JD Bunkis Podcast: August 6 - Thu 06/08 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: August 6 - Thu 06/08 3:00pm",
         "Sportsnet 02 : National Bank Open: Men's Day Session - Thu 06/08 5:30pm",
