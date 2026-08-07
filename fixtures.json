@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T11:42:44.831247+00:00",
+  "scraped_at": "2026-08-07T17:00:47.721637+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -26,15 +26,19 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "06/08/2026 SPORTS SCENE 12 - 8:30am-05:30 - USL Championship: Las Vegas Lights vs Oakland Roots"
+              "text": "06/08/2026 SPORTS SCENE 12 - 12:45am-21:45 - League Cup: Bristol City vs Walsall"
             },
             {
               "type": "fixture",
-              "text": "07/08/2026 SPORTS SCENE 12 - 9:00am-06:00 - CONCACAF Central American Cup: Motagua vs FAS"
+              "text": "06/08/2026 SPORTS SCENE 12 - 4:00am-01:00 - CONCACAF Caribbean Cup: Club Sando vs Broki"
             },
             {
               "type": "fixture",
               "text": "07/08/2026 SPORTS SCENE 12 - 6:00pm-15:00 - Friendly: Bayern München vs Aston Villa"
+            },
+            {
+              "type": "fixture",
+              "text": "07/08/2026 SPORTS SCENE 12 - 12:45am-21:45 - League Cup: Wolverhampton Wanderers vs Port Vale"
             },
             {
               "type": "fixture",
@@ -46,6 +50,14 @@
             },
             {
               "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 12 - 1:00am-21:00 - Friendly: Barcelona vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 12 - 2:00am-22:00 - Friendly: Udinese vs Barcelona (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
               "text": "09/08/2026 SPORTS SCENE 12 - 6:00pm-15:00 - Friendly: Johor Darul Ta'zim vs Chelsea"
             },
             {
@@ -54,7 +66,7 @@
             },
             {
               "type": "fixture",
-              "text": "06/08/2026 SPORTS SCENE 13 - 8:00am-05:00 - NWSL: Denver Summit vs North Carolina Courage"
+              "text": "09/08/2026 SPORTS SCENE 12 - 3:00am-00:00 - USL Championship: Indy Eleven vs Hartford Athletic"
             },
             {
               "type": "fixture",
@@ -70,11 +82,27 @@
             },
             {
               "type": "fixture",
-              "text": "09/08/2026 SPORTS SCENE 13 - 8:00am-05:00 - USL Championship: Monterey Bay vs New Mexico United"
+              "text": "09/08/2026 SPORTS SCENE 13 - 7:30pm-16:30 - Friendly: Liverpool vs Monaco"
             },
             {
               "type": "fixture",
-              "text": "09/08/2026 SPORTS SCENE 13 - 7:30pm-16:30 - Friendly: Liverpool vs Monaco"
+              "text": "09/08/2026 SPORTS SCENE 13 - 2:00am-23:00 - NWSL: Boston Legacy vs Portland Thorns"
+            },
+            {
+              "type": "fixture",
+              "text": "05/08/2026 SPORTS SCENE 14 - 2:00am-23:00 - Womens Africa Cup of Nations: Egypt vs Nigeria"
+            },
+            {
+              "type": "fixture",
+              "text": "05/08/2026 SPORTS SCENE 16 - 2:00am-23:00 - Womens Africa Cup of Nations: Malawi vs Zambia"
+            },
+            {
+              "type": "fixture",
+              "text": "06/08/2026 SPORTS SCENE 16 - 2:00am-23:00 - Womens Africa Cup of Nations: Mali vs Ghana"
+            },
+            {
+              "type": "fixture",
+              "text": "06/08/2026 SPORTS SCENE 16 - 2:00am-23:00 - Womens Africa Cup of Nations: Cape Verde vs Cameroon"
             },
             {
               "type": "fixture",
@@ -95,6 +123,14 @@
             {
               "type": "fixture",
               "text": "08/08/2026 SPORTS SCENE 15 - 9:55pm-19:55 - Friendly: Udinese vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 15 - 12:55am-20:55 - Friendly: Barcelona vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 15 - 1:55am-22:10 - Friendly: Udinese vs Barcelona (45 Minute Game)"
             },
             {
               "type": "fixture",
@@ -179,6 +215,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 17 - 12:30amWall of Fame Night Riverhead"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 12:45amIMCA Season Championship Maarshalltown"
             }
           ]
         }
@@ -488,6 +528,18 @@
           "time": "20:00",
           "name": "NORTHWEST - SOUTHEAST",
           "datetime": "2026-08-07 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "23:00",
+          "name": "TOMS RIVER, NJ - GUAYAMA, PUERTO RICO",
+          "datetime": "2026-08-07 23:00:00",
           "channels": [
             {
               "name": "ESPN",
@@ -1857,13 +1909,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: Tour de France Femmes Stage 7 - 14:20 07/08/2026",
-        "Sky Sport 1 UHD - LIVE: Tour de France Femmes Stage 7 - 14:20 07/08/2026",
-        "Sky Sport 7 - LIVE: US Women's Amateur Championship D2 - 15:30 07/08/2026",
-        "Sky Sport 5 - LIVE: Florida Open: Day 4 - 16:00 07/08/2026",
-        "Sky Sport 1 - LIVE: Stormers v All Blacks - 17:15 07/08/2026",
-        "Sky Sport 1 UHD - LIVE: Stormers v All Blacks - 17:15 07/08/2026",
-        "Sky Sport 2 - LIVE: Hundred: Phoenix v Sunrisers - 18:00 07/08/2026",
         "Sky Sport 3 - LIVE: PGA Tour: Round 2 - 20:00 07/08/2026",
         "Sky Sport 4 - LIVE: INDYCAR: Portland: Practice - 22:30 07/08/2026",
         "Sky Sport 7 - LIVE: CPL: Jamaica v Antigua & Barbuda - 23:30 07/08/2026",
@@ -1964,7 +2009,6 @@
         "Sky Sports Plus 01 - I. Jovic v A. Korneeva - 15:55 07/08/2026",
         "Sky Sports Plus 02 - A. Li v E. Rybakina - 17:25 07/08/2026",
         "Sky Sports Plus 03 - B. Andreescu/K. Cross v U. Eikeri/Q. Gleason - 17:25 07/08/2026",
-        "Sky Sports Plus 04 - C. Bucsa/Chong Eudice Wong v T. Mihalikova/O. Nicholls - 17:25 07/08/2026",
         "Sky Sports Plus 05 - D. Merida v A. Michelsen - 17:25 07/08/2026",
         "Sky Sports Plus 06 - H. Nys/E. Roger-Vasselin v M. Granollers/H. Zeballos - 17:25 07/08/2026",
         "Sky Sports Plus 07 - I. Neel/G. Olmos v A. Danilina/A. Krunic - 17:25 07/08/2026",
@@ -2005,8 +2049,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The JD Bunkis Podcast: August 7 - Fri 07/08 2:00pm",
-        "Sportsnet 01 : Jays Talk Plus: August 7 - Fri 07/08 3:00pm",
         "Sportsnet 03 : National Bank Open: Men's Day Session - Fri 07/08 5:30pm",
         "Sportsnet 04 : National Bank Open: Women's Day Session - Fri 07/08 5:30pm",
         "Sportsnet 05 : Castleford Tigers vs. Hull KR - Fri 07/08 7:50pm",
@@ -2029,7 +2071,8 @@
         "Sportsnet 06 : Bradford Bulls vs. Warrington Wolves - Sat 08/08 6:20pm",
         "Sportsnet 07 : PSV Eindhoven vs. Fortuna Sittard - Sat 08/08 6:50pm",
         "Sportsnet 01 : AZ Alkmaar vs. ADO Den Haag - Sat 08/08 7:50pm",
-        "Sportsnet 08 : Atlanta @ New York Yankees - Sat 08/08 8:00pm"
+        "Sportsnet 08 : Atlanta @ New York Yankees - Sat 08/08 8:00pm",
+        "Sportsnet 03 : Toronto @ Philadelphia - Sat 08/08 10:30pm"
       ],
       "sections": [],
       "events": []
@@ -2040,8 +2083,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Yokohama F. Marinos v Kashima Antlers - J.League 2026 - Fri 07/08 11:20am",
-        "Stan 05 : Gamba Osaka v Urawa Red Diamonds - J.League 2026 - Fri 07/08 11:25am",
         "Stan 02 : Stormers v New Zealand: SuperSport Coverage - NZL Tour of RSA Round 1 2026 - Fri 07/08 5:00pm",
         "Stan 01 : Stormers v New Zealand: Sky NZ Coverage - NZL Tour of RSA Round 1 2026 - Fri 07/08 5:15pm",
         "Stan 03 : Toronto: Day 6 - WTA 1000 - Fri 07/08 5:30pm",
