@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T07:43:00.374913+00:00",
+  "scraped_at": "2026-08-08T11:00:44.287807+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -62,7 +62,7 @@
             },
             {
               "type": "fixture",
-              "text": "09/08/2026 SPORTS SCENE 12 - 6:30am-03:30 - USL Championship: FC Tulsa vs Detroit City"
+              "text": "08/08/2026 SPORTS SCENE 12 - 12:00am-20:00 - Friendly: Udinese vs Nottingham Forest (45 Minute Game)"
             },
             {
               "type": "fixture",
@@ -70,7 +70,7 @@
             },
             {
               "type": "fixture",
-              "text": "06/08/2026 SPORTS SCENE 13 - 5:00am-02:00 - USL League One: Richmond Kickers vs NY Cosmos"
+              "text": "09/08/2026 SPORTS SCENE 12 - 9:00pm-18:00 - SPL: Rangers vs Hibernian"
             },
             {
               "type": "fixture",
@@ -79,6 +79,14 @@
             {
               "type": "fixture",
               "text": "08/08/2026 SPORTS SCENE 13 - 6:00pm-15:00 - Friendly: Chelsea vs Milan"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 13 - 9:00pm-18:00 - Friendly: Manchester United vs PSG"
+            },
+            {
+              "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 13 - 11:00pm-20:00 - Friendly: Ferencváros vs Real Madrid"
             },
             {
               "type": "fixture",
@@ -106,6 +114,10 @@
             },
             {
               "type": "fixture",
+              "text": "08/08/2026 SPORTS SCENE 15 - 9:55pm-19:55 - Friendly: Udinese vs Nottingham Forest (45 Minute Game)"
+            },
+            {
+              "type": "fixture",
               "text": "09/08/2026 SPORTS SCENE 14 - 5:20pm-14:30 - Bundesliga 2: St. Pauli vs Greuther Furth"
             },
             {
@@ -115,6 +127,82 @@
             {
               "type": "fixture",
               "text": "09/08/2026 SPORTS SCENE 16 - 5:20pm-14:30 - Bundesliga 2: Nuremberg vs Dynamo Dresden"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 5pm UFC Fight Night Gamrot v Salkilld"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 11:30am/10pm MVPW 05 Johnson v Thorslund"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 4:30pm/2pm Wiliamson v Simpson 2"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 4:30pmMcKenna v Oliha"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 12pm APFC IFL 3"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 11:05pmACW Georgetown Smash"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 7pm GoGirl The Unstoppable Force"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 8am AMA Loretta Lynn Nat'l MX Championship"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 1:45pmPDRA Thunder Valley Throwdown"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 3:10pmUSAC Silver Crown Iowa"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 12pm National Dirt LM Hall of Fame Ceremony"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 9:30pmCARS Tour Hickory"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 5pm ISMA/MSS Supermodifieds Oswego"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 6pm NAPA All Star Sprints Stateline"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 6pm Bill Awtey Tribute Jennerstown"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 6pm Weekly Racing Fonda"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 6pm Weekly Racing Port Royal"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 6pm RoC Modified Race Holland"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 11:15pmLand of Legends"
             }
           ]
         }
@@ -167,24 +255,24 @@
         },
         {
           "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "CANADA U20 - MEXICO U20",
-          "datetime": "2026-08-08 03:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
           "time": "03:30",
           "name": "VANCOUVER WHITECAPS - JUáREZ",
           "datetime": "2026-08-08 03:30:00",
           "channels": [
             {
               "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "04:00",
+          "name": "CANADA U20 - MEXICO U20",
+          "datetime": "2026-08-08 04:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -655,6 +743,18 @@
         {
           "sport": "BASKETBALL",
           "time": "18:00",
+          "name": "BRAMPTON HONEY BADGERS - NIAGARA RIVER",
+          "datetime": "2026-08-08 18:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
           "name": "MINNESOTA LYNX - LAS VEGAS ACES",
           "datetime": "2026-08-08 18:00:00",
           "channels": [
@@ -673,6 +773,18 @@
             {
               "name": "ABC",
               "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:30",
+          "name": "VANCOUVER BANDITS - WINNIPEG SEA BEARS",
+          "datetime": "2026-08-08 20:30:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -778,6 +890,18 @@
         },
         {
           "sport": "️ GOLF",
+          "time": "14:00",
+          "name": "U.S. WOMEN'S AMATEUR",
+          "datetime": "2026-08-08 14:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
           "time": "17:00",
           "name": "LIV GOLF NEW YORK",
           "datetime": "2026-08-08 17:00:00",
@@ -849,6 +973,25 @@
           ]
         },
         {
+          "sport": "ICE HOCKEY",
+          "time": "19:00",
+          "name": "FINLAND U18 - SLOVAKIA U18",
+          "datetime": "2026-08-08 19:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "CANADA U18 - USA U18",
+          "datetime": "2026-08-09 00:00:00",
+          "channels": []
+        },
+        {
           "sport": "LACROSSE",
           "time": "18:00",
           "name": "NEW YORK ATLAS - DENVER OUTLAWS",
@@ -914,6 +1057,18 @@
           "name": "GRAND PRIX OF PORTLAND",
           "datetime": "2026-08-09 00:00:00",
           "channels": []
+        },
+        {
+          "sport": "SOFTBALL",
+          "time": "20:00",
+          "name": "CENTRAL REGION VS. MID-ATLANTIC REGION",
+          "datetime": "2026-08-08 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "SOFTBALL",
@@ -1105,6 +1260,13 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "UNITED STATES U20 - MEXICO U20",
+          "datetime": "2026-08-10 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "00:30",
           "name": "CRUZ AZUL - NEW YORK CITY",
           "datetime": "2026-08-10 00:30:00",
@@ -1219,6 +1381,18 @@
             {
               "name": "YES",
               "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "19:00",
+          "name": "LITTLE LEAGUE BASEBALL REGIONALS",
+          "datetime": "2026-08-09 19:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -1560,6 +1734,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "20:00",
+          "name": "NATIONAL BANK OPEN",
+          "datetime": "2026-08-09 20:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -1594,8 +1780,8 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 08/08/2026 04:53 - 21:00",
-        "BBC Events 03 - no_brand_title: Slate Mine Zip Wire to Open to Public - 08/08/2026 05:29 - 02:40",
-        "BBC Events 04 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 08/08/2026 06:00 - 12:00"
+        "BBC Events 02 - no_brand_title: Sedd yn y Pafiliwn - Dydd Sadwrn 08/08/2026 - 08/08/2026 10:22 - 21:15",
+        "BBC Events 03 - no_brand_title: Slate Mine Zip Wire to Open to Public - 08/08/2026 05:29 - 02:40"
       ],
       "sections": [],
       "events": []
@@ -1642,56 +1828,56 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - EWC Honor of Kings: Day 09 - 10:00 07/08/2026",
-        "DAZN CA 02 - EWC PUBG Mobile: Week 01 Day 02 - 12:00 07/08/2026",
-        "DAZN CA 03 - EWC Tekken 08 Day 03 - 13:00 07/08/2026",
-        "DAZN CA 04 - EWC COD: Black Ops 07 Day 03 - 14:00 07/08/2026",
-        "DAZN CA 05 - Williamson vs. Simpson 02: Weigh In - 14:00 07/08/2026",
-        "DAZN CA 06 - TAIF Racing Season 2026 Week 03 Day 01 - 14:20 07/08/2026",
-        "DAZN CA 07 - LIV Golf New York Day 02 - 15:00 07/08/2026",
-        "DAZN CA 08 - EWC Rainbow Six Day 04: Stream B - 15:00 07/08/2026",
-        "DAZN CA 09 - EWC Rainbow Six Day 04: Stream A - 15:00 07/08/2026",
-        "DAZN CA 10 - London GCL Round 01 - 16:35 07/08/2026",
-        "DAZN CA 11 - London GCL Round 02 - 19:10 07/08/2026",
-        "DAZN CA 12 - Bochum vs. Hertha BSC - 19:30 07/08/2026",
-        "DAZN CA 13 - Club Brugge vs. Kortrijk - 19:45 07/08/2026",
-        "DAZN CA 14 - Middlesbrough vs. Wrexham - 20:00 07/08/2026",
-        "DAZN CA 15 - Acheson vs. Jones: Weigh In - 01:00 08/08/2026",
-        "DAZN CA 16 - Moreno vs. Gutierrez - 03:00 08/08/2026",
-        "DAZN CA 17 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
-        "DAZN CA 18 - Darmstadt 98 vs. Holstein Kiel - 12:00 08/08/2026",
-        "DAZN CA 19 - Heidenheim vs. Osnabruck - 12:00 08/08/2026",
-        "DAZN CA 20 - EWC PUBG Mobile: Week 01 Day 03 - 12:00 08/08/2026",
-        "DAZN CA 21 - Karlsruher SC vs. Arminia Bielefeld - 12:00 08/08/2026",
-        "DAZN CA 22 - Magdeburg vs. Eintracht Braunschweig - 12:00 08/08/2026",
-        "DAZN CA 23 - RWS: Dam vs. Capitan - 13:10 08/08/2026",
-        "DAZN CA 24 - QPR vs. Millwall - 14:00 08/08/2026",
-        "DAZN CA 25 - EWC COD: Black Ops 07 Day 04 - 14:00 08/08/2026",
-        "DAZN CA 26 - EWC Tekken 08 Day 04 - 14:00 08/08/2026",
-        "DAZN CA 27 - TAIF Racing Season 2026 Week 03 Day 02 - 14:20 08/08/2026",
-        "DAZN CA 28 - Carlisle vs. Worthing - 15:00 08/08/2026",
-        "DAZN CA 29 - Woking vs. Sutton - 15:00 08/08/2026",
-        "DAZN CA 30 - Altrincham vs. Southend - 15:00 08/08/2026",
-        "DAZN CA 31 - Forest Green vs. FC Halifax Town - 15:00 08/08/2026",
-        "DAZN CA 32 - Fylde vs. Wealdstone - 15:00 08/08/2026",
-        "DAZN CA 33 - Boreham Wood vs. Tamworth - 15:00 08/08/2026",
-        "DAZN CA 34 - Boston vs. Aldershot - 15:00 08/08/2026",
-        "DAZN CA 35 - Scunthorpe vs. Yeovil - 15:00 08/08/2026",
-        "DAZN CA 36 - Hornchurch vs. Kidderminster - 15:00 08/08/2026",
-        "DAZN CA 37 - Hartlepool vs. Barrow - 15:00 08/08/2026",
-        "DAZN CA 38 - Harrogate vs. Solihull Moors - 15:00 08/08/2026",
-        "DAZN CA 39 - Eastleigh vs. Gateshead - 15:00 08/08/2026",
-        "DAZN CA 40 - West Ham vs. Portsmouth - 15:01 08/08/2026",
-        "DAZN CA 41 - Derby vs. Lincoln - 15:01 08/08/2026",
-        "DAZN CA 42 - Swansea vs. Birmingham - 15:01 08/08/2026",
-        "DAZN CA 43 - EWC Rainbow Six Day 05: Stream A - 15:01 08/08/2026",
-        "DAZN CA 44 - Darlington vs. Worksop - 15:01 08/08/2026",
-        "DAZN CA 45 - Scarborough vs. South Shields - 15:01 08/08/2026",
-        "DAZN CA 46 - Dorking vs. Dagenham & Redbridge - 15:01 08/08/2026",
-        "DAZN CA 47 - EWC Rainbow Six Day 05: Stream B - 15:01 08/08/2026",
-        "DAZN CA 48 - Williamson vs. Simpson 02: Prelims - 16:30 08/08/2026",
-        "DAZN CA 49 - LIV Golf New York Day 03 - 17:00 08/08/2026",
-        "DAZN CA 50 - Colchester vs. Southampton - 17:30 08/08/2026"
+        "DAZN CA 01 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
+        "DAZN CA 02 - Darmstadt 98 vs. Holstein Kiel - 12:00 08/08/2026",
+        "DAZN CA 03 - Heidenheim vs. Osnabruck - 12:00 08/08/2026",
+        "DAZN CA 04 - EWC PUBG Mobile: Week 01 Day 03 - 12:00 08/08/2026",
+        "DAZN CA 05 - Karlsruher SC vs. Arminia Bielefeld - 12:00 08/08/2026",
+        "DAZN CA 06 - Magdeburg vs. Eintracht Braunschweig - 12:00 08/08/2026",
+        "DAZN CA 07 - RWS: Dam vs. Capitan - 13:10 08/08/2026",
+        "DAZN CA 08 - Leeds vs. Leipzig - 14:00 08/08/2026",
+        "DAZN CA 09 - QPR vs. Millwall - 14:00 08/08/2026",
+        "DAZN CA 10 - EWC COD: Black Ops 07 Day 04 - 14:00 08/08/2026",
+        "DAZN CA 11 - EWC Tekken 08 Day 04 - 14:00 08/08/2026",
+        "DAZN CA 12 - TAIF Racing Season 2026 Week 03 Day 02 - 14:20 08/08/2026",
+        "DAZN CA 13 - Carlisle vs. Worthing - 15:00 08/08/2026",
+        "DAZN CA 14 - Woking vs. Sutton - 15:00 08/08/2026",
+        "DAZN CA 15 - Altrincham vs. Southend - 15:00 08/08/2026",
+        "DAZN CA 16 - Forest Green vs. FC Halifax Town - 15:00 08/08/2026",
+        "DAZN CA 17 - Fylde vs. Wealdstone - 15:00 08/08/2026",
+        "DAZN CA 18 - Boreham Wood vs. Tamworth - 15:00 08/08/2026",
+        "DAZN CA 19 - Boston vs. Aldershot - 15:00 08/08/2026",
+        "DAZN CA 20 - Scunthorpe vs. Yeovil - 15:00 08/08/2026",
+        "DAZN CA 21 - Hornchurch vs. Kidderminster - 15:00 08/08/2026",
+        "DAZN CA 22 - Hartlepool vs. Barrow - 15:00 08/08/2026",
+        "DAZN CA 23 - Harrogate vs. Solihull Moors - 15:00 08/08/2026",
+        "DAZN CA 24 - Eastleigh vs. Gateshead - 15:00 08/08/2026",
+        "DAZN CA 25 - West Ham vs. Portsmouth - 15:01 08/08/2026",
+        "DAZN CA 26 - Derby vs. Lincoln - 15:01 08/08/2026",
+        "DAZN CA 27 - Swansea vs. Birmingham - 15:01 08/08/2026",
+        "DAZN CA 28 - EWC Rainbow Six Day 05: Stream A - 15:01 08/08/2026",
+        "DAZN CA 29 - Darlington vs. Worksop - 15:01 08/08/2026",
+        "DAZN CA 30 - Scarborough vs. South Shields - 15:01 08/08/2026",
+        "DAZN CA 31 - Dorking vs. Dagenham & Redbridge - 15:01 08/08/2026",
+        "DAZN CA 32 - EWC Rainbow Six Day 05: Stream B - 15:01 08/08/2026",
+        "DAZN CA 33 - Williamson vs. Simpson 02: Prelims - 16:30 08/08/2026",
+        "DAZN CA 34 - LIV Golf New York Day 03 - 17:00 08/08/2026",
+        "DAZN CA 35 - Colchester vs. Southampton - 17:30 08/08/2026",
+        "DAZN CA 36 - Williamson vs. Simpson 02 - 19:00 08/08/2026",
+        "DAZN CA 37 - Wolfsburg vs. Kaiserslautern - 19:30 08/08/2026",
+        "DAZN CA 38 - Sint Truiden vs. Lommel - 19:45 08/08/2026",
+        "DAZN CA 39 - Acheson vs. Jones - 01:30 09/08/2026",
+        "DAZN CA 40 - Canadian GP - 02:30 09/08/2026",
+        "DAZN CA 41 - EWC PUBG Mobile: Week 01 Day 04 - 12:00 09/08/2026",
+        "DAZN CA 42 - Energie Cottbus vs. Hannover 96 - 12:30 09/08/2026",
+        "DAZN CA 43 - Nürnberg vs. Dynamo Dresden - 12:30 09/08/2026",
+        "DAZN CA 44 - St. Pauli vs. Furth - 12:30 09/08/2026",
+        "DAZN CA 45 - EWC COD: Black Ops 07 Day 05 - 14:00 09/08/2026",
+        "DAZN CA 46 - EWC Rainbow Six Day 06: Stream B - 15:00 09/08/2026",
+        "DAZN CA 47 - EWC Rainbow Six Day 06: Stream A - 15:00 09/08/2026",
+        "DAZN CA 48 - London Longines Global Champions Tour Grand Prix - 15:10 09/08/2026",
+        "DAZN CA 49 - LIV Golf New York Day 04 - 16:00 09/08/2026",
+        "DAZN CA 50 - Mansfield vs. Sheffield United - 16:00 09/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1702,56 +1888,69 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - EWC Honor of Kings: Day 09 - 10:00 07/08/2026",
-        "DAZN GB 02 - EWC PUBG Mobile: Week 01 Day 02 - 12:00 07/08/2026",
-        "DAZN GB 03 - EWC Tekken 08 Day 03 - 13:00 07/08/2026",
-        "DAZN GB 04 - Williamson vs. Simpson 02: Weigh In - 14:00 07/08/2026",
+        "DAZN GB 01 - Panthers at Cardinals - 01:00 07/08/2026",
+        "DAZN GB 01 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
+        "DAZN GB 02 - EWC Honor of Kings: Day 09 - 10:00 07/08/2026",
+        "DAZN GB 02 - EWC PUBG Mobile: Week 01 Day 03 - 12:00 08/08/2026",
+        "DAZN GB 03 - EWC PUBG Mobile: Week 01 Day 02 - 12:00 07/08/2026",
+        "DAZN GB 03 - RWS: Dam vs. Capitan - 13:10 08/08/2026",
+        "DAZN GB 04 - EWC Tekken 08 Day 03 - 13:00 07/08/2026",
+        "DAZN GB 04 - Leeds vs. Leipzig - 14:00 08/08/2026",
         "DAZN GB 05 - EWC COD: Black Ops 07 Day 03 - 14:00 07/08/2026",
         "DAZN GB 06 - TAIF Racing Season 2026 Week 03 Day 01 - 14:20 07/08/2026",
         "DAZN GB 07 - EWC Rainbow Six Day 04: Stream B - 15:00 07/08/2026",
+        "DAZN GB 07 - TAIF Racing Season 2026 Week 03 Day 02 - 14:20 08/08/2026",
         "DAZN GB 08 - EWC Rainbow Six Day 04: Stream A - 15:00 07/08/2026",
-        "DAZN GB 09 - London GCL Round 01 - 16:35 07/08/2026",
-        "DAZN GB 10 - London GCL Round 02 - 19:10 07/08/2026",
-        "DAZN GB 11 - Club Brugge vs. Kortrijk - 19:45 07/08/2026",
-        "DAZN GB 12 - Acheson vs. Jones: Weigh In - 02:00 08/08/2026",
-        "DAZN GB 13 - Moreno vs. Gutierrez - 03:00 08/08/2026",
-        "DAZN GB 14 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
-        "DAZN GB 15 - EWC PUBG Mobile: Week 01 Day 03 - 12:00 08/08/2026",
-        "DAZN GB 16 - RWS: Dam vs. Capitan - 13:10 08/08/2026",
-        "DAZN GB 17 - EWC COD: Black Ops 07 Day 04 - 14:00 08/08/2026",
-        "DAZN GB 18 - EWC Tekken 08 Day 04 - 14:00 08/08/2026",
-        "DAZN GB 19 - TAIF Racing Season 2026 Week 03 Day 02 - 14:20 08/08/2026",
-        "DAZN GB 20 - Carlisle vs. Worthing - 15:00 08/08/2026",
-        "DAZN GB 21 - Woking vs. Sutton - 15:00 08/08/2026",
-        "DAZN GB 22 - Altrincham vs. Southend - 15:00 08/08/2026",
-        "DAZN GB 23 - Forest Green vs. FC Halifax Town - 15:00 08/08/2026",
-        "DAZN GB 24 - Fylde vs. Wealdstone - 15:00 08/08/2026",
-        "DAZN GB 25 - Boreham Wood vs. Tamworth - 15:00 08/08/2026",
-        "DAZN GB 26 - Boston vs. Aldershot - 15:00 08/08/2026",
-        "DAZN GB 27 - Scunthorpe vs. Yeovil - 15:00 08/08/2026",
-        "DAZN GB 28 - Hornchurch vs. Kidderminster - 15:00 08/08/2026",
-        "DAZN GB 29 - Hartlepool vs. Barrow - 15:00 08/08/2026",
-        "DAZN GB 30 - Harrogate vs. Solihull Moors - 15:00 08/08/2026",
-        "DAZN GB 31 - Eastleigh vs. Gateshead - 15:00 08/08/2026",
-        "DAZN GB 32 - EWC Rainbow Six Day 05: Stream A - 15:01 08/08/2026",
-        "DAZN GB 33 - Darlington vs. Worksop - 15:01 08/08/2026",
-        "DAZN GB 34 - Scarborough vs. South Shields - 15:01 08/08/2026",
-        "DAZN GB 35 - Dorking vs. Dagenham & Redbridge - 15:01 08/08/2026",
-        "DAZN GB 36 - EWC Rainbow Six Day 05: Stream B - 15:01 08/08/2026",
-        "DAZN GB 37 - DØDS Diving League World Tour Finals Fredrikstad Norway - 16:00 08/08/2026",
-        "DAZN GB 38 - Williamson vs. Simpson 02: Prelims - 16:30 08/08/2026",
-        "DAZN GB 39 - Williamson vs. Simpson 02 - 19:00 08/08/2026",
-        "DAZN GB 40 - Sint Truiden vs. Lommel - 19:45 08/08/2026",
-        "DAZN GB 41 - Acheson vs. Jones - 01:30 09/08/2026",
-        "DAZN GB 42 - Canadian GP - 02:30 09/08/2026",
-        "DAZN GB 43 - EWC PUBG Mobile: Week 01 Day 04 - 12:00 09/08/2026",
-        "DAZN GB 44 - EWC COD: Black Ops 07 Day 05 - 14:00 09/08/2026",
-        "DAZN GB 45 - EWC Rainbow Six Day 06: Stream B - 15:00 09/08/2026",
-        "DAZN GB 46 - EWC Rainbow Six Day 06: Stream A - 15:00 09/08/2026",
-        "DAZN GB 47 - London Longines Global Champions Tour Grand Prix - 15:10 09/08/2026",
-        "DAZN GB 48 - Anderlecht vs. La Louviere - 17:30 09/08/2026",
-        "DAZN GB 49 - Teremoana vs. Savage: Press Conference - 04:00 10/08/2026",
-        "DAZN GB 50 - Teremoana vs. Savage: Weigh In - 04:00 11/08/2026"
+        "DAZN GB 08 - Carlisle vs. Worthing - 15:00 08/08/2026",
+        "DAZN GB 09 - Moreno vs. Gutierrez - 01:00 08/08/2026",
+        "DAZN GB 09 - Woking vs. Sutton - 15:00 08/08/2026",
+        "DAZN GB 10 - EWC Honor of Kings: Day 10 - 10:00 08/08/2026",
+        "DAZN GB 10 - Altrincham vs. Southend - 15:00 08/08/2026",
+        "DAZN GB 11 - Forest Green vs. FC Halifax Town - 15:00 08/08/2026",
+        "DAZN GB 12 - EWC COD: Black Ops 07 Day 04 - 14:00 08/08/2026",
+        "DAZN GB 13 - EWC Tekken 08 Day 04 - 14:00 08/08/2026",
+        "DAZN GB 14 - Fylde vs. Wealdstone - 15:00 08/08/2026",
+        "DAZN GB 15 - Boreham Wood vs. Tamworth - 15:00 08/08/2026",
+        "DAZN GB 15 - Scunthorpe vs. Yeovil - 15:00 08/08/2026",
+        "DAZN GB 17 - Boston vs. Aldershot - 15:00 08/08/2026",
+        "DAZN GB 19 - Scunthorpe vs. Yeovil - 15:00 08/08/2026",
+        "DAZN GB 19 - Eastleigh vs. Gateshead - 15:00 08/08/2026",
+        "DAZN GB 20 - Hornchurch vs. Kidderminster - 15:00 08/08/2026",
+        "DAZN GB 20 - EWC Rainbow Six Day 05: Stream A - 15:01 08/08/2026",
+        "DAZN GB 21 - Hartlepool vs. Barrow - 15:00 08/08/2026",
+        "DAZN GB 23 - Harrogate vs. Solihull Moors - 15:00 08/08/2026",
+        "DAZN GB 24 - EWC Rainbow Six Day 05: Stream B - 15:01 08/08/2026",
+        "DAZN GB 25 - DØDS Diving League World Tour Finals Fredrikstad Norway - 16:00 08/08/2026",
+        "DAZN GB 26 - Darlington vs. Worksop - 15:01 08/08/2026",
+        "DAZN GB 26 - Williamson vs. Simpson 02: Prelims - 16:30 08/08/2026",
+        "DAZN GB 27 - Scarborough vs. South Shields - 15:01 08/08/2026",
+        "DAZN GB 27 - Williamson vs. Simpson 02 - 19:00 08/08/2026",
+        "DAZN GB 28 - Dorking vs. Dagenham & Redbridge - 15:01 08/08/2026",
+        "DAZN GB 28 - Sint Truiden vs. Lommel - 19:45 08/08/2026",
+        "DAZN GB 29 - Acheson vs. Jones - 01:30 09/08/2026",
+        "DAZN GB 30 - Canadian GP - 02:30 09/08/2026",
+        "DAZN GB 31 - FK Minija v FK BE1 - 16:00 08/08/2026",
+        "DAZN GB 31 - EWC PUBG Mobile: Week 01 Day 04 - 12:00 09/08/2026",
+        "DAZN GB 32 - Williamson vs. Simpson 02 - 19:00 08/08/2026",
+        "DAZN GB 32 - EWC COD: Black Ops 07 Day 05 - 14:00 09/08/2026",
+        "DAZN GB 34 - EWC Rainbow Six Day 06: Stream A - 15:00 09/08/2026",
+        "DAZN GB 35 - EWC Rainbow Six Day 06: Stream B - 15:00 09/08/2026",
+        "DAZN GB 35 - London Longines Global Champions Tour Grand Prix - 15:10 09/08/2026",
+        "DAZN GB 36 - Anderlecht vs. La Louviere - 17:30 09/08/2026",
+        "DAZN GB 37 - Teremoana vs. Savage: Press Conference - 04:00 10/08/2026",
+        "DAZN GB 38 - Teremoana vs. Savage: Weigh In - 04:00 11/08/2026",
+        "DAZN GB 39 - EWC Chess: Day 01 Stream B - 11:00 11/08/2026",
+        "DAZN GB 40 - EWC Chess: Day 01 Stream A - 11:00 11/08/2026",
+        "DAZN GB 41 - EWC PUBG Mobile: Week 02 Day 01 - 12:00 11/08/2026",
+        "DAZN GB 42 - Teremoana vs. Savage - 10:00 12/08/2026",
+        "DAZN GB 43 - EWC Chess: Day 02 Stream B - 11:00 12/08/2026",
+        "DAZN GB 43 - EWC PUBG Mobile: Week 02 Day 02 - 12:00 12/08/2026",
+        "DAZN GB 44 - EWC Chess: Day 02 Stream A - 11:00 12/08/2026",
+        "DAZN GB 45 - EWC Rainbow Six Day 07 - 15:00 12/08/2026",
+        "DAZN GB 46 - EWC Rocket League 2026 Day 01 - 12:00 12/08/2026",
+        "DAZN GB 48 - Deportivo La Coruna vs. Real Madrid - 20:00 12/08/2026",
+        "DAZN GB 49 - EWC Chess: Day 03 Stream B - 12:00 13/08/2026",
+        "DAZN GB 50 - EWC Chess: Day 03 Stream A - 12:00 13/08/2026"
       ],
       "sections": [],
       "events": []
@@ -2009,12 +2208,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: NRL 2026: Rabbitohs v Eels R23 - 10:25 08/08/2026",
-        "Sky Sport 5 - LIVE: AFL: Adelaide v Richmond - 10:30 08/08/2026",
-        "Sky Sport 1 - LIVE: Japan v Australia - 10:55 08/08/2026",
-        "Sky Sport 1 UHD - LIVE: Japan v Australia - 10:55 08/08/2026",
-        "Sky Sport 6 - LIVE: Currie Cup: Griquas v Lions - 11:55 08/08/2026",
-        "Sky Sport 4 - LIVE: Calcio Italiano: Inter v Juventus - 12:00 08/08/2026",
         "Sky Sport 1 - LIVE: Currie Cup: Bulls v Pumas - 14:00 08/08/2026",
         "Sky Sport 1 UHD - LIVE: Currie Cup: Bulls v Pumas - 14:00 08/08/2026",
         "Sky Sport 3 - LIVE: Hundred: MI London v Rockets - 14:00 08/08/2026",
@@ -2099,13 +2292,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 3 | Cambridge U vs Barnet",
         "Huddersfield Giants vs Catalans Dragons",
         "Bradford Bulls vs Warrington Wolves",
         "Hull Kingston Rovers vs Catalans Dragons",
         "Hull Fc vs Castleford Tigers",
         "Wigan Warriors vs Toulouse Olympique",
         "Warrington Wolves vs York Rlfc Knights",
-        "Cambridge U vs Barnet",
         "Cheltenham vs Charlton",
         "Qpr vs Millwall",
         "Barnsley vs Wigan",
@@ -2142,7 +2335,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: August 7 - Sat 08/08 10:00am",
         "Sportsnet 02 : Rabbitohs vs. Eels - Sat 08/08 10:25am",
         "Sportsnet 01 : Huddersfield Giants vs. Catalans Dragons - Sat 08/08 1:50pm",
         "Sportsnet 03 : Tissot Sprint - Grand Prix of United Kingdom - Sat 08/08 3:30pm",
@@ -2166,7 +2358,8 @@
         "Sportsnet 03 : Grand Prix of United Kingdom - Sun 09/08 12:15pm",
         "Sportsnet 04 : PEC Zwolle vs. AFC Ajax - Sun 09/08 1:20pm",
         "Sportsnet 01 : National Bank Open: Men's Day Session - Sun 09/08 5:30pm",
-        "Sportsnet 02 : National Bank Open: Women's Day Session - Sun 09/08 5:30pm"
+        "Sportsnet 02 : National Bank Open: Women's Day Session - Sun 09/08 5:30pm",
+        "Sportsnet 05 : Toronto @ Philadelphia - Sun 09/08 6:00pm"
       ],
       "sections": [],
       "events": []
@@ -2177,19 +2370,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Bay of Plenty v Northland - NPC Round 2 2026 - Sat 08/08 6:00am",
-        "Stan 11 : Bond University v Wests - Hospital Cup Round 18 2026 - Sat 08/08 6:00am",
-        "Stan 05 : Gordon v Warringah - Shute Shield Round 17 2026 - Sat 08/08 6:00am",
-        "Stan 13 : Easts v Sunnybank - Hospital Cup Round 18 2026 - Sat 08/08 6:00am",
-        "Stan 08 : Eastwood v Souths - Shute Shield Round 17 2026 - Sat 08/08 6:00am",
-        "Stan 07 : Easts v Sydney University - Shute Shield Round 17 2026 - Sat 08/08 6:00am",
-        "Stan 12 : UQ v Brothers - Hospital Cup Round 18 2026 - Sat 08/08 6:00am",
-        "Stan 14 : GPS v Souths - Hospital Cup Round 18 2026 - Sat 08/08 6:00am",
-        "Stan 06 : Norths v Manly - Shute Shield Round 17 2026 - Sat 08/08 6:00am",
-        "Stan 09 : Two Blues v Randwick - Shute Shield Round 17 2026 - Sat 08/08 6:00am",
-        "Stan 10 : West Harbour v Hunter Wildfires - Shute Shield Round 17 2026 - Sat 08/08 6:15am",
-        "Stan 01 : Hawke's Bay v Tasman - NPC Round 2 2026 - Sat 08/08 8:00am",
-        "Stan 02 : Wanneroo v Associates - WA Premier Grade Round 16 2026 - Sat 08/08 8:25am",
         "Stan 03 : Japan v Australia - Men's International 2026 - Sat 08/08 10:30am",
         "Stan 19 : Cerezo Osaka v Fagiano Okayama - J.League 2026 - Sat 08/08 10:55am",
         "Stan 17 : FC Tokyo v Machida Zelvia - J.League 2026 - Sat 08/08 10:55am",
@@ -2236,7 +2416,20 @@
         "Stan 10 : Hunter Wildfires v Two Blues - Shute Shield Round 18 2026 - Sat 15/08 6:00am",
         "Stan 11 : Manly v Gordon - Shute Shield Round 18 2026 - Sat 15/08 6:00am",
         "Stan 08 : Norths v Souths - Shute Shield Round 18 2026 - Sat 15/08 6:00am",
-        "Stan 07 : Randwick v Warringah - Shute Shield Round 18 2026 - Sat 15/08 6:00am"
+        "Stan 07 : Randwick v Warringah - Shute Shield Round 18 2026 - Sat 15/08 6:00am",
+        "Stan 12 : TBD v TBD - Hospital Cup Semi Final 2026 - Sat 15/08 6:00am",
+        "Stan 01 : ManawatÅ« v Otago - NPC Round 3 2026 - Sat 15/08 8:00am",
+        "Stan 13 : Free Practice 2: London - Formula E 2025/26 - Sat 15/08 8:25am",
+        "Stan 14 : Sydney University v Eastwood - Shute Shield Round 18 2026 - Sat 15/08 8:30am",
+        "Stan 03 : Kashima Antlers v Nagoya Grampus - J.League 2026 - Sat 15/08 9:55am",
+        "Stan 04 : Shimizu S-Pulse v Yokohama F. Marinos - J.League 2026 - Sat 15/08 10:25am",
+        "Stan 15 : Vissel Kobe v FC Tokyo - J.League 2026 - Sat 15/08 10:25am",
+        "Stan 16 : Qualifying 1: London - Formula E 2025/26 - Sat 15/08 10:30am",
+        "Stan 17 : Gwangju v Pohang - K League 2026 - Sat 15/08 11:25am",
+        "Stan 18 : Seoul v Daejeon - K League 2026 - Sat 15/08 11:25am",
+        "Stan 05 : Race 1: London - Formula E 2025/26 - Sat 15/08 2:00pm",
+        "Stan 02 : Practice 2: Grand Prix of Markham - Indycar 2026 - Sat 15/08 3:00pm",
+        "Stan 01 : Pumas v Stormers - Currie Cup Round 5 2026 - Sat 15/08 3:55pm"
       ],
       "sections": [],
       "events": []
