@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T11:42:13.128588+00:00",
+  "scraped_at": "2026-08-12T17:00:48.726424+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -34,6 +34,27 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 01:00-04:00 - AEW: Dynamite 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "12/08/2026 SPORTS SCENE 01 - 10:15pm-19:15 - Friendly: Newcastle United vs Everton"
+            },
+            {
+              "type": "fixture",
+              "text": "12/08/2026 SPORTS SCENE 02 - 12:30am-21:30 - Friendly: Leeds United vs Manchester United"
+            },
+            {
+              "type": "fixture",
+              "text": "12/08/2026 SPORTS SCENE 04 - 12:30am-21:30 - Friendly: Arsenal vs Como"
+            },
+            {
+              "type": "fixture",
+              "text": "12/08/2026 SPORTS SCENE 06 - 12:45am-21:45 - Friendly: Nottingham Forest vs Bayer Leverkusen"
             }
           ]
         }
@@ -246,13 +267,6 @@
           ]
         },
         {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "BRAMPTON HONEY BADGERS - WINNIPEG SEA BEARS",
-          "datetime": "2026-08-13 00:00:00",
-          "channels": []
-        },
-        {
           "sport": "EQUESTRIAN",
           "time": "18:00",
           "name": "SARATOGA LIVE",
@@ -260,18 +274,6 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "20:00",
-          "name": "U.S. AMATEUR CHAMPIONSHIP",
-          "datetime": "2026-08-12 20:00:00",
-          "channels": [
-            {
-              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -319,10 +321,6 @@
             {
               "name": "FOX SPORTS 1",
               "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -346,10 +344,6 @@
           "channels": [
             {
               "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -458,14 +452,6 @@
             {
               "name": "USA NETWORK",
               "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -489,18 +475,6 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FIGHTING",
-          "time": "01:00",
-          "name": "AEW DYNAMITE",
-          "datetime": "2026-08-13 01:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -659,14 +633,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 12/08/2026 12:00 - 18:00",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 12/08/2026 04:59 - 21:19",
         "BBC Events 03 - no_brand_title: Woman Assaulted by Double Murderer Speaks Out - 12/08/2026 01:40 - 00:59",
         "BBC Events 04 - no_brand_title: MENA LIVE STREAMING - 12/08/2026 عالم الظهيرة - 12/08/2026 12:14 - 12:13",
         "BBC Events 05 - no_brand_title: Rescuers Search for Survivors of Huge Earthquake in Colombia - 12/08/2026 03:07 - 03:01",
+        "BBC Events 06 - no_brand_title: UK Sees Darkest Partial Solar Eclipse Since 1999 - 12/08/2026 15:48 - 20:00",
         "BBC Events 07 - no_brand_title: UK to Get Best Eclipse Since 1999 - 12/08/2026 06:17 - 04:48",
         "BBC Events 08 - no_brand_title: Phone-in: Nicky Campbell Takes Calls on the Solar Eclipse - 12/08/2026 09:55 - 09:11",
-        "BBC Events 09 - no_brand_title: Sentencing of Double Murderer, Simon Levy - 12/08/2026 11:25 - 15:22"
+        "BBC Events 09 - no_brand_title: MENA LIVE STREAMING - 12/08/2026 Solar eclipse - 12/08/2026 16:49 - 11:04",
+        "BBC Events 10 - no_brand_title: Солнечное затмение | Стрим Русской службы Би-би-си - 12/08/2026 17:30 - 21:00"
       ],
       "sections": [],
       "events": []
@@ -1102,130 +1077,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "Sky Sport 1 - LIVE: Hundred M: Fire v Spirit - 14:30 12/08/2026",
-        "Sky Sport 1 UHD - LIVE: Hundred M: Fire v Spirit - 14:30 12/08/2026",
-        "Sky Sport 2 - LIVE: Hundred M: Phoenix v MI London - 18:00 12/08/2026",
-        "Sky Sport 4 - LIVE: US Amateur Championship Day 1 - 20:00 12/08/2026",
-        "Sky Sport 1 - LIVE: CPL: St Lucia v St Kitts - 23:30 12/08/2026",
-        "Sky Sport 1 UHD - LIVE: CPL: St Lucia v St Kitts - 23:30 12/08/2026",
-        "Sky Sport 3 - LIVE: Australia v Bangladesh:1st Test D1 - 00:30 13/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Wellington v North Harbour - 08:00 13/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Wellington v North Harbour - 08:00 13/08/2026",
-        "Sky Sport 4 - LIVE: AFLW: Hawthorn v Melbourne - 10:00 13/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Panthers v Roosters - 10:00 13/08/2026",
-        "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 12:00 13/08/2026",
-        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 12:00 13/08/2026",
-        "Sky Sport 4 - LIVE: Czech Tour S1 - 14:00 13/08/2026",
-        "Sky Sport 2 - LIVE: Arctic Race of Norway Stage 1 - 15:15 13/08/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 19:00 13/08/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 19:00 13/08/2026",
-        "Sky Sport 3 - LIVE: US Amateur Championship Day 2 - 20:00 13/08/2026",
-        "Sky Sport 6 - LIVE: Arizona Open Pool: Day 1 - 21:00 13/08/2026",
-        "Sky Sport 1 - LIVE: LPGA: Round 1 - 23:00 13/08/2026",
-        "Sky Sport 1 UHD - LIVE: LPGA: Round 1 - 23:00 13/08/2026",
-        "Sky Sport 2 - LIVE: CPL: Jamaica v Guyana - 00:30 14/08/2026",
-        "Sky Sport 4 - LIVE: Australia v Bangladesh:1st Test D2 - 01:00 14/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Northland v Taranaki - 08:00 14/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Northland v Taranaki - 08:00 14/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Sea Eagles v Dolphins - 08:00 14/08/2026",
-        "Sky Sport 3 - LIVE: World Series Darts:New Zealand: D1 - 08:00 14/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Bulldogs v Rabbitohs - 10:55 14/08/2026",
-        "Sky Sport Select - LIVE: AFL Fremantle v Adelaide Crows - 10:55 14/08/2026",
-        "Sky Sport 1 - LIVE: DP World Tour: Round 2 - 12:00 14/08/2026",
-        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 2 - 12:00 14/08/2026",
-        "Sky Sport 3 - LIVE: Arctic Race of Norway Stage 2 - 12:35 14/08/2026",
-        "Sky Sport 4 - LIVE: Currie Cup: Lions v Kavaliers - 13:55 14/08/2026",
-        "Sky Sport 6 - LIVE: Czech Tour S2 - 14:30 14/08/2026",
-        "Sky Sport 5 - LIVE: FIA Formula E: Rd16 P1 - 15:50 14/08/2026",
-        "Sky Sport 4 - LIVE: Currie Cup: Griquas v Sharks - 16:00 14/08/2026",
-        "Sky Sport 2 - LIVE: Hundred M: Elimination Final - 17:30 14/08/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 19:00 14/08/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 19:00 14/08/2026",
-        "Sky Sport 5 - LIVE: US Amateur Championship Day 3 - 20:00 14/08/2026",
-        "Sky Sport 3 - LIVE: INDYCAR: Markham P1 - 20:00 14/08/2026",
-        "Sky Sport 7 - LIVE: Arizona Open Pool: Day 2 - 21:00 14/08/2026",
-        "Sky Sport 1 - LIVE: LPGA: Round 2 - 23:00 14/08/2026",
-        "Sky Sport 1 UHD - LIVE: LPGA: Round 2 - 23:00 14/08/2026",
-        "Sky Sport Select - LIVE: CPL: St Lucia v Antigua - 23:30 14/08/2026",
-        "Sky Sport 5 - LIVE: Australia v Bangladesh:1st Test D3 - 01:00 15/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Canterbury v Bay of Plenty RS - 03:00 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Canterbury v Bay of Plenty RS - 03:00 15/08/2026",
-        "Sky Sport 2 - LIVE: NRLW : Titans v Dragons R7 - 03:40 15/08/2026",
-        "Sky Sport 3 - LIVE: Australia v Japan - 05:00 15/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Sharks v Raiders - 05:30 15/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Auckland v Hawke's Bay - 06:00 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Auckland v Hawke's Bay - 06:00 15/08/2026",
-        "Sky Sport 6 - LIVE: NRLW : Eels v Bulldogs R7 - 06:10 15/08/2026",
-        "Sky Sport Select - LIVE: AFL Brisbane Lions v Gold Coast - 07:00 15/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Eels v Cowboys - 07:55 15/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Manawatu v Otago - 08:00 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Manawatu v Otago - 08:00 15/08/2026",
-        "Sky Sport 4 - LIVE: World Series Darts:New Zealand: D2 - 08:00 15/08/2026",
-        "Sky Sport 9 - LIVE: AFLW: Richmond v Collingwood - 08:00 15/08/2026",
-        "Sky Sport 6 - LIVE: NRLW : Broncos v Roosters R7 - 08:10 15/08/2026",
-        "Sky Sport 3 - LIVE: FIA Formula E: Rd16 P2 - 08:30 15/08/2026",
-        "Sky Sport 9 - LIVE: AFLW: Gold Coast v Western - 10:00 15/08/2026",
-        "Sky Sport 1 - LIVE: NRL: Broncos v Warriors - 10:05 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Broncos v Warriors - 10:05 15/08/2026",
-        "Sky Sport 5 - LIVE: FIA Formula E: Rd16 Qualifying - 10:30 15/08/2026",
-        "Sky Sport 3 - LIVE: AFL Hawthorn v Collingwood - 10:30 15/08/2026",
-        "Sky Sport 2 - LIVE: DP World Tour: Round 3 - 11:30 15/08/2026",
-        "Sky Sport Select - LIVE: Arctic Race of Norway Stage 3 - 13:15 15/08/2026",
-        "Sky Sport 3 - LIVE: FIA Formula E: Round 16 - 14:00 15/08/2026",
-        "Sky Sport 5 - LIVE: Czech Tour S3 - 14:30 15/08/2026",
-        "Sky Sport 6 - LIVE: INDYCAR: Markham P2 - 15:00 15/08/2026",
-        "Sky Sport 4 - LIVE: Currie Cup: Pumas v Stormers - 16:10 15/08/2026",
-        "Sky Sport 1 - LIVE: Bulls v All Blacks - 17:15 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: Bulls v All Blacks - 17:15 15/08/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 15/08/2026",
-        "Sky Sport 3 - LIVE: T100 Triathlon: Vancouver - 19:00 15/08/2026",
-        "Sky Sport 6 - LIVE: INDYCAR: Markham Quali - 19:25 15/08/2026",
-        "Sky Sport 5 - LIVE: LPGA: Round 3 - 20:00 15/08/2026",
-        "Sky Sport Select - LIVE: US Amateur Championship Day 4 - 20:00 15/08/2026",
-        "Sky Sport 9 - LIVE: Arizona Open Pool: Day 3 S1 - 21:30 15/08/2026",
-        "Sky Sport 4 - LIVE: PGA Champions Tour: R2 - 22:00 15/08/2026",
-        "Sky Sport 5 - LIVE: Champ of Champs Womens Pairs Final - 00:15 16/08/2026",
-        "Sky Sport 1 - LIVE: 1st XV: Wellington v St Pats Final - 00:30 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: 1st XV: Wellington v St Pats Final - 00:30 16/08/2026",
-        "Sky Sport 6 - LIVE: CPL: Jamaica v Trinbago - 00:30 16/08/2026",
-        "Sky Sport 4 - LIVE: Australia v Bangladesh:1st Test D4 - 01:00 16/08/2026",
-        "Sky Sport 3 - LIVE: NRLW : Knights v Raiders R7 - 02:45 16/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Southland v Waikato - 03:00 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Southland v Waikato - 03:00 16/08/2026",
-        "Sky Sport 9 - LIVE: Arizona Open Pool: Day 3 S2 - 03:30 16/08/2026",
-        "Sky Sport Select - LIVE: AFLW: Essendon v Brisbane - 03:30 16/08/2026",
-        "Sky Sport 2 - LIVE: NRLW : Tigers v Warriors R7 - 04:15 16/08/2026",
-        "Sky Sport 7 - LIVE: AFL Gws Giants v West Coast Eagles - 04:30 16/08/2026",
-        "Sky Sport 3 - LIVE: NRL: Knights v Titans - 04:30 16/08/2026",
-        "Sky Sport 1 - LIVE: NPC: Counties Manukau v Tasman - 06:00 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: NPC: Counties Manukau v Tasman - 06:00 16/08/2026",
-        "Sky Sport 3 - LIVE: NRL: Tigers v Dragons - 06:55 16/08/2026",
-        "Sky Sport 6 - LIVE: AFL Essendon v Sydney Swans - 07:30 16/08/2026",
-        "Sky Sport 7 - LIVE: AFLW: Fremantle v Port Adelaide - 07:40 16/08/2026",
-        "Sky Sport 5 - LIVE: FIA Formula E: Rd17 P3 - 08:25 16/08/2026",
-        "Sky Sport 2 - LIVE: NRLW : Cowboys v Sharks R7 - 09:10 16/08/2026",
-        "Sky Sport 5 - LIVE: FIA Formula E: Rd17 Qualifying - 10:30 16/08/2026",
-        "Sky Sport 1 - LIVE: DP World Tour: Round 4 - 11:00 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 4 - 11:00 16/08/2026",
-        "Sky Sport 4 - LIVE: Czech Tour S4 - 12:00 16/08/2026",
-        "Sky Sport Select - LIVE: INDYCAR: Markham Warm-Up - 13:30 16/08/2026",
-        "Sky Sport 5 - LIVE: Currie Cup: Bulls v Cheetahs - 13:55 16/08/2026",
-        "Sky Sport 3 - LIVE: FIA Formula E: Round 17 - 14:00 16/08/2026",
-        "Sky Sport Select - LIVE: Arctic Race of Norway Stage 4 - 15:15 16/08/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:00 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:00 16/08/2026",
-        "Sky Sport 3 - LIVE: INDYCAR: Markham - 17:00 16/08/2026",
-        "Sky Sport 2 - LIVE: Hundred M: Final - 17:30 16/08/2026",
-        "Sky Sport 7 - LIVE: LPGA: Round 4 - 19:00 16/08/2026",
-        "Sky Sport 6 - LIVE: US Amateur Championship Day 5 - 20:00 16/08/2026",
-        "Sky Sport 5 - LIVE: PGA Champions Tour: R3 - 21:00 16/08/2026",
-        "Sky Sport 4 - LIVE: Arizona Open Pool: Day 4 S1 - 21:30 16/08/2026",
-        "Sky Sport 1 - LIVE: CPL: St Lucia v Barbados - 23:30 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: CPL: St Lucia v Barbados - 23:30 16/08/2026",
-        "Sky Sport 3 - LIVE: Australia v Bangladesh:1st Test D5 - 01:00 17/08/2026",
-        "Sky Sport 4 - LIVE: Arizona Open Pool: Day 4 S2 - 03:30 17/08/2026"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1279,8 +1131,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: August 12 - Wed 12/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 12 - Wed 12/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 12 - Wed 12/08 9:00pm",
         "Sportsnet 02 : National Bank Open: Men's Semifinals - Wed 12/08 11:00pm",
         "Sportsnet 03 : The FAN Pregame: August 12 - Wed 12/08 11:00pm",
@@ -1303,7 +1153,8 @@
         "Sportsnet 01 : Sportsnet Central: August 13 - Fri 14/08 10:00am",
         "Sportsnet 02 : Bulldogs vs. Rabbitohs - Fri 14/08 10:50am",
         "Sportsnet 01 : The JD Bunkis Podcast: August 14 - Fri 14/08 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: August 14 - Fri 14/08 3:00pm"
+        "Sportsnet 03 : Jays Talk Plus: August 14 - Fri 14/08 3:00pm",
+        "Sportsnet 01 : Hull FC vs. Castleford Tigers - Fri 14/08 7:50pm"
       ],
       "sections": [],
       "events": []
