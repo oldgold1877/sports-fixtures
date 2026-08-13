@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-13T11:42:47.839687+00:00",
+  "scraped_at": "2026-08-13T17:00:49.187645+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,37 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 - 11:00pmMidtjylland vs Bohemians"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 - 12:00am Škendija 79 vs Hibernian"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 - 12:30amMotherwell vs HJK"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 - 12:45amShelbourne vs Ajax"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 05 - 1:00amRangers vs Jagiellonia Bialystok"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 - 12:45amHearts vs Benfica"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -164,7 +194,7 @@
         {
           "sport": "BASEBALL",
           "time": "23:35",
-          "name": "HUDSON VALLEY RENEGADES - WILMINGTON BLUE ROCKS",
+          "name": "SOMERSET PATRIOTS - NEW HAMPSHIRE FISHER CATS",
           "datetime": "2026-08-13 23:35:00",
           "channels": [
             {
@@ -547,6 +577,18 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "20:00",
+          "name": "NEW JERSEY - CONNECTICUT",
+          "datetime": "2026-08-14 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "PITTSBURGH PIRATES - BOSTON RED SOX",
           "datetime": "2026-08-14 23:40:00",
@@ -773,7 +815,6 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 13/08/2026 04:58 - 21:45",
         "BBC Events 02 - no_brand_title: 台灣「城鎮韌性」演練 模擬戰時「斷網」 - 13/08/2026 06:49 - 06:48",
         "BBC Events 05 - no_brand_title: Eurovision Song Contest Changes Rules for Countries at War - 13/08/2026 06:26 - 03:57",
-        "BBC Events 06 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 13/08/2026 12:00 - 18:00",
         "BBC Events 07 - no_brand_title: LIVE PAGE ONLY Students across England and Wales Receive Exam Results - 13/08/2026 07:53 - 07:52",
         "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 13/08/2026 عالم الظهيرة - 13/08/2026 12:16 - 12:15"
       ],
@@ -1216,8 +1257,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: Czech Tour S1 - 14:00 13/08/2026",
-        "Sky Sport 2 - LIVE: Arctic Race of Norway Stage 1 - 15:15 13/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 19:00 13/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 19:00 13/08/2026",
         "Sky Sport 3 - LIVE: US Amateur Championship Day 2 - 20:00 13/08/2026",
@@ -1380,9 +1419,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Panthers vs. Roosters - Thu 13/08 10:40am",
-        "Sportsnet 01 : The JD Bunkis Podcast: August 13 - Thu 13/08 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: August 13 - Thu 13/08 3:00pm",
         "Sportsnet 01 : Boston @ Toronto - Thu 13/08 7:30pm",
         "Sportsnet 02 : Hull KR vs. Catalans Dragons - Thu 13/08 7:50pm",
         "Sportsnet 04 : Leeds Rhinos vs. Leigh Leopards - Thu 13/08 7:50pm",
@@ -1404,7 +1440,9 @@
         "Sportsnet 06 : Baltimore @ Tampa Bay - Sat 15/08 12:00am",
         "Sportsnet 07 : Seattle @ Houston - Sat 15/08 1:00am",
         "Sportsnet 01 : Milwaukee @ Los Angeles Dodgers - Sat 15/08 3:00am",
-        "Sportsnet 02 : Women's NRL - Titans vs. Dragons - Sat 15/08 3:35am"
+        "Sportsnet 02 : Women's NRL - Titans vs. Dragons - Sat 15/08 3:35am",
+        "Sportsnet 01 : Sportsnet Central: August 14 - Sat 15/08 10:00am",
+        "Sportsnet 02 : Broncos vs. Warriors - Sat 15/08 10:25am"
       ],
       "sections": [],
       "events": []
