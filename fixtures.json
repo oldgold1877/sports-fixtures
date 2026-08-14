@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T11:41:40.957033+00:00",
+  "scraped_at": "2026-08-14T17:00:49.619796+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,6 +18,91 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 09 - 20:00-22:00 - EFL Championship: Wolverhampton Wanderers vs Blackburn Rovers 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 166 Khunpon v Panpadej"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 1:30pmACA 206 Vakhaev v Aliakbari"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 8pm Cage Fury FC 159"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 9pm ONE Fight Night 46 Hemetsberger v Diachkova"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 9pm Fury FC 123"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 11pm LUX 062"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 10am USAC Road Racingv Road America"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 12pm MotoAmerica Superbikes Virginia"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 5pm Hasty Bake High Limit Room Knoxville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 10:15pmWeekly Racingv Stafford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 6pm Knoxville Nationals NoS Energy"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 11:15pmWeekly Racingv Utica Rome"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 11:15pmNASCAR Weekly Racingv Autodrome Granby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 11:45pmKKM Challenge Seriesv Greenwood Valley"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 11:45pmUSAC National Midgetsv Coles County"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 7pm Captain of the Creekv 141 Speedway"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 12:15amRoC Sportsmanv Spencer"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 12:30amNASCAR Weekly Racingv Riverhead"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 8pm Great Lakes Pro Am Seriesv Lake Erie"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 8pm Summer Showdownv Evergreen"
             }
           ]
         }
@@ -214,9 +299,69 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "18:00",
+          "name": "DAVENPORT, IA - WHITEFISH BAY, WI",
+          "datetime": "2026-08-14 18:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "18:00",
+          "name": "WISCONSIN - IOWA",
+          "datetime": "2026-08-14 18:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "20:00",
           "name": "NEW JERSEY - CONNECTICUT",
           "datetime": "2026-08-14 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "20:00",
+          "name": "WEST CHESTER, PA - NAAMANS, DE",
+          "datetime": "2026-08-14 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "22:00",
+          "name": "HENDERSON, NV - BILLINGS, MT",
+          "datetime": "2026-08-14 22:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "22:00",
+          "name": "SOUTHERN CALIFORNIA - HAWAII",
+          "datetime": "2026-08-14 22:00:00",
           "channels": [
             {
               "name": "ESPN",
@@ -238,9 +383,9 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "00:10",
-          "name": "NEW YORK METS - WASHINGTON NATIONALS",
-          "datetime": "2026-08-15 00:10:00",
+          "time": "00:00",
+          "name": "BAYONNE, NJ - DARIEN, CT",
+          "datetime": "2026-08-15 00:00:00",
           "channels": []
         },
         {
@@ -836,6 +981,18 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "02:00",
+          "name": "BONITA, CA - KAPA'A, HI",
+          "datetime": "2026-08-15 02:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "03:10",
           "name": "LOS ANGELES DODGERS - MILWAUKEE BREWERS",
           "datetime": "2026-08-15 03:10:00",
@@ -1279,9 +1436,10 @@
         "BBC Events 01 - no_brand_title: Besieged Families Told to Leave Homes in West Bank Village - 14/08/2026 08:02 - 07:38",
         "BBC Events 02 - no_brand_title: Wildlife Suffering in Heatwave - 14/08/2026 09:07 - 08:11",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 14/08/2026 04:50 - 23:31",
+        "BBC Events 04 - no_brand_title: West Midlands Football Phone-In - 14/08/2026 - 14/08/2026 17:39 - 19:00",
         "BBC Events 06 - no_brand_title: Phone-In: Burning Britain, what's going on? - 14/08/2026 09:50 - 09:49",
         "BBC Events 07 - no_brand_title: Multiple Fires Destroy Homes in West Midlands - 14/08/2026 09:51 - 09:15",
-        "BBC Events 09 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 14/08/2026 12:00 - 18:00"
+        "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 13/08/2026 العالم هذا المساء - 14/08/2026 12:37 - 12:36"
       ],
       "sections": [],
       "events": []
@@ -1724,10 +1882,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: Currie Cup: Lions v Kavaliers - 13:55 14/08/2026",
-        "Sky Sport 6 - LIVE: Czech Tour S2 - 14:30 14/08/2026",
-        "Sky Sport 5 - LIVE: FIA Formula E: Rd16 P1 - 15:50 14/08/2026",
-        "Sky Sport 4 - LIVE: Currie Cup: Griquas v Sharks - 16:00 14/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 19:00 14/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 19:00 14/08/2026",
         "Sky Sport 5 - LIVE: US Amateur Championship Day 3 - 20:00 14/08/2026",
@@ -1874,9 +2028,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Bulldogs vs. Rabbitohs - Fri 14/08 10:50am",
-        "Sportsnet 01 : The JD Bunkis Podcast: Aug. 14 - Fri 14/08 2:00pm",
-        "Sportsnet 03 : Jays Talk Plus: August 14 - Fri 14/08 3:00pm",
         "Sportsnet 01 : Hull FC vs. Castleford Tigers - Fri 14/08 7:50pm",
         "Sportsnet 02 : Blair & Barker: August 14 - Fri 14/08 9:00pm",
         "Sportsnet 03 : UFC 330 Ceremonial Weigh-In - Fri 14/08 10:55pm",
@@ -1898,7 +2049,9 @@
         "Sportsnet 02 : Milwaukee @ Los Angeles - Sun 16/08 12:00am",
         "Sportsnet 01 : UFC 330 - Makhachev vs. Machado Garry Prelims - Sun 16/08 12:00am",
         "Sportsnet 03 : UFC 330 - Makhachev vs. Machado Garry - Sun 16/08 1:50am",
-        "Sportsnet 04 : Women's NRL - Knights vs. Raiders - Sun 16/08 2:40am"
+        "Sportsnet 04 : Women's NRL - Knights vs. Raiders - Sun 16/08 2:40am",
+        "Sportsnet 05 : Women's NRL - Wests Tigers vs. Warriors - Sun 16/08 4:35am",
+        "Sportsnet 06 : UFC 330 - Post-Fight Press Conference - Sun 16/08 4:45am"
       ],
       "sections": [],
       "events": []
@@ -1909,8 +2062,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 05 : Tokyo Verdy v Kashiwa Reysol - J.League 2026 - Fri 14/08 10:55am",
-        "Stan 02 : Lions v Boland Kavaliers - Currie Cup Round 5 2026 - Fri 14/08 1:55pm",
         "Stan 01 : Free Practice 1: London - Formula E 2025/26 - Fri 14/08 3:50pm",
         "Stan 03 : Cincinnati: Day 2: Session 1 - WTA 1000 - Fri 14/08 4:00pm",
         "Stan 04 : Griquas v Sharks - Currie Cup Round 5 2026 - Fri 14/08 4:00pm",
@@ -1968,7 +2119,8 @@
         "Stan 02 : Cincinnati: Day 8: Session 2 - WTA 1000 - Fri 21/08 12:00am",
         "Stan 01 : Hawke's Bay v ManawatÅ« - NPC Round 4 2026 - Fri 21/08 8:00am",
         "Stan 02 : FC Tokyo v Chiba - J.League 2026 - Fri 21/08 11:25am",
-        "Stan 03 : Pumas v Griquas - Currie Cup Round 6 2026 - Fri 21/08 1:55pm"
+        "Stan 03 : Pumas v Griquas - Currie Cup Round 6 2026 - Fri 21/08 1:55pm",
+        "Stan 01 : Bulls v Stormers - Currie Cup Round 6 2026 - Fri 21/08 4:00pm"
       ],
       "sections": [],
       "events": []
