@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T11:17:04.485711+00:00",
+  "scraped_at": "2026-08-15T17:00:45.934354+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,15 +17,11 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 05 - 15:00-17:00 - EFL Championship: Middlesbrough vs Lincoln City 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 15:45-17:45 - Friendly: Manchester United vs Milan 1080p"
-            },
-            {
-              "type": "fixture",
               "text": "SPORTS SCENE 09 - 16:30-18:30 - Friendly: Borussia Dortmund vs Roma 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 07 - 18:00-21:00 - NFL Preseason: Carolina Panthers at Buffalo Bills 1080p"
             },
             {
               "type": "fixture",
@@ -38,6 +34,14 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 05 - 00:00-02:00 - UFC 330: Makhachev vs. Machado Garry [Prelims] 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 00:00-03:00 - NFL Preseason: Philadelphia Eagles at Baltimore Ravens 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 07 - 01:00-04:00 - NFL Preseason: Dallas Cowboys at Seattle Seahawks 1080p"
             },
             {
               "type": "fixture",
@@ -66,7 +70,7 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 04 - 7:00pm-16:00 - Friendly: Leeds United vs Augsburg"
+              "text": "SPORTS SCENE 04 - 8:00pm-17:00 - Friendly: Leeds United vs Augsburg"
             },
             {
               "type": "fixture",
@@ -98,7 +102,7 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 13 - 8:00pm-17:00 - Friendly: Brentford vs Eintracht Frankfurt (Not Guaranteed)"
+              "text": "SPORTS SCENE 13 - 8:00pm-17:00 - Friendly: Brentford vs Eintracht Frankfurt"
             },
             {
               "type": "fixture",
@@ -118,6 +122,10 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 03 - 1:30amShields v Scott"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 04 - 2:30pmACA 206 Vakhaev v Aliakbari"
             },
             {
@@ -127,6 +135,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 06 - 11:30pmACW Uprising"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 12:30amGreektown Wrestling"
             },
             {
               "type": "fixture",
@@ -179,6 +191,70 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 20 - 11:30pmSharon Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 - 4:00pmNorwich city U18 vs Tottenham Hotspur U18 (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 - 6:00pmFreiburg vs Crystal Palace (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 - 7:00pmChelsea vs Real Sociedad (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 - 7:00pmLeeds United vs Augsburg (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 05 - 7:30pmBorussia M'gladbach vs Aston Villa (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 - 7:30pmMainz 05 vs AFC Bournemouth (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 07 - 7:30pmUnion Berlin vs Ipswich Town (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 08 - 8:00pmBrentford vs Eintracht Frankfurt (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 09 - 8:00pmSunderland vs Rennes (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 19 - 8:00pmBrighton & Hove Albion vs Bologna (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 11 - 8:00pmEverton vs Lille (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 12 - 8:00pmNewcastle United vs Bayer Leverkusen (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 13 - 8:00pmTottenham Hotspur vs Hoffenheim (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 14 - 8:00pmHull City vs Nice (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 15 - 8:45pmManchester United vs Milan (Not Guaranteed)"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 16 - 9:00pmFulham vs Stuttgart (Not Guaranteed)"
             }
           ]
         }
@@ -839,6 +915,18 @@
           ]
         },
         {
+          "sport": "ICE HOCKEY",
+          "time": "19:00",
+          "name": "CARDIFF - ODENSE BULLDOGS",
+          "datetime": "2026-08-15 19:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "LACROSSE",
           "time": "19:00",
           "name": "PHILADELPHIA WATERDOGS - NEW YORK ATLAS",
@@ -912,6 +1000,18 @@
         },
         {
           "sport": "MOTORSPORTS",
+          "time": "15:00",
+          "name": "ONTARIO HONDA DEALERS INDY AT MARKHAM",
+          "datetime": "2026-08-15 15:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
           "time": "15:05",
           "name": "LONDON E-PRIX",
           "datetime": "2026-08-15 15:05:00",
@@ -936,6 +1036,18 @@
         },
         {
           "sport": "MOTORSPORTS",
+          "time": "17:00",
+          "name": "BLACK'S TIRE 250 PRESENTED BY BTS REWARDS",
+          "datetime": "2026-08-15 17:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
           "time": "19:30",
           "name": "ONTARIO HONDA DEALERS INDY AT MARKHAM",
           "datetime": "2026-08-15 19:30:00",
@@ -946,6 +1058,18 @@
             },
             {
               "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
+          "time": "21:30",
+          "name": "MARKHAM",
+          "datetime": "2026-08-15 21:30:00",
+          "channels": [
+            {
+              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1693,6 +1817,18 @@
           ]
         },
         {
+          "sport": "SWIMMING",
+          "time": "17:20",
+          "name": "EUROPEAN AQUATICS CHAMPIONSHIPS",
+          "datetime": "2026-08-16 17:20:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "TENNIS",
           "time": "08:30",
           "name": "DUBAI CHAMPIONSHIP",
@@ -1773,11 +1909,9 @@
         "BBC Events 01 - Spòrs: Women's Hockey World Cup Argentina v Scotland - 15/08/2026 09:48 - 09:47",
         "BBC Events 02 - no_brand_title: Worlds 2026 - 15/08/2026 10:23 - 20:00",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 15/08/2026 05:08 - 04:50",
-        "BBC Events 04 - European Athletics Championships: Day 6: Featuring Marathon Walks - 15/08/2026 07:04 - 13:45",
+        "BBC Events 04 - Bowls Scotland National Championships: Bowls Scotland National Championships - Gents Singles Final - 15/08/2026 14:43 - 18:30",
         "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 14/08/2026 العالم هذا المساء - 15/08/2026 11:19 - 11:18",
-        "BBC Events 07 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 15/08/2026 12:00 - 18:00",
-        "BBC Events 08 - no_brand_title: Hoci: Cwpan y Byd- India v Cymru / India v Wales - 15/08/2026 11:42 - 13:15",
-        "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 13/08/2026 العالم هذا المساء - 14/08/2026 12:37 - 12:36"
+        "BBC Events 08 - no_brand_title: Cymru Prem: Caernarfon Town v Colwyn Bay - 15/08/2026 16:38 - 19:15"
       ],
       "sections": [],
       "events": []
@@ -1824,9 +1958,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Barum Czech Rally Zlín: Stage 03 - 08:51 15/08/2026",
         "DAZN CA 02 - Nürburgring Race 01 - 10:15 15/08/2026",
-        "DAZN CA 03 - Barum Czech Rally Zlín: Stage 04 - 10:54 15/08/2026",
         "DAZN CA 04 - EWC Counter Strike 02 2026 Day 04 Stream B - 12:00 15/08/2026",
         "DAZN CA 05 - EWC Chess: Day 05 - 12:00 15/08/2026",
         "DAZN CA 06 - EWC PUBG Mobile: Week 02 Day 04 - 12:00 15/08/2026",
@@ -1835,10 +1967,8 @@
         "DAZN CA 09 - EWC Rainbow Six Day 10 - 12:30 15/08/2026",
         "DAZN CA 10 - RWS: Samingdet vs. Duangsompong - 13:10 15/08/2026",
         "DAZN CA 11 - Drift Masters Germany: Top 32 - 13:45 15/08/2026",
-        "DAZN CA 12 - Barum Czech Rally Zlín: Stage 05 - 13:52 15/08/2026",
         "DAZN CA 13 - TAIF Racing Season 2026 Week 04 Day 02 - 14:15 15/08/2026",
         "DAZN CA 14 - Tokyo Manufacturers Cup Show - 14:20 15/08/2026",
-        "DAZN CA 15 - Barum Czech Rally Zlín: Stage 06 - 14:55 15/08/2026",
         "DAZN CA 20 - York vs. Bristol Rovers - 15:00 15/08/2026",
         "DAZN CA 27 - Middlesbrough vs. Lincoln - 15:00 15/08/2026",
         "DAZN CA 32 - EWC Rocket League 2026 Day 04 - 15:01 15/08/2026",
@@ -1847,7 +1977,6 @@
         "DAZN CA 35 - Cincinnati Open Day 03 Session 01 - 16:00 15/08/2026",
         "DAZN CA 36 - Tokyo Nations Cup Show - 16:20 15/08/2026",
         "DAZN CA 37 - Dortmund vs. Roma - 16:30 15/08/2026",
-        "DAZN CA 38 - Barum Czech Rally Zlín: Stage 07 - 16:58 15/08/2026",
         "DAZN CA 39 - Catanzaro vs. Sudtirol - 17:00 15/08/2026",
         "DAZN CA 40 - Sheffield United vs. Birmingham - 17:30 15/08/2026",
         "DAZN CA 41 - Udinese vs. Padova - 17:30 15/08/2026",
@@ -1872,7 +2001,6 @@
       "fixtures": [
         "DAZN GB 01 - IRONMAN Kalmar - 05:15 15/08/2026",
         "DAZN GB 02 - Nürburgring Race 01 - 10:15 15/08/2026",
-        "DAZN GB 03 - Barum Czech Rally Zlín: Stage 04 - 10:54 15/08/2026",
         "DAZN GB 04 - EWC Counter Strike 02 2026 Day 04 Stream B - 12:00 15/08/2026",
         "DAZN GB 05 - EWC Chess: Day 05 - 12:00 15/08/2026",
         "DAZN GB 06 - EWC PUBG Mobile: Week 02 Day 04 - 12:00 15/08/2026",
@@ -1880,10 +2008,8 @@
         "DAZN GB 08 - EWC Rainbow Six Day 10 - 12:30 15/08/2026",
         "DAZN GB 09 - RWS: Samingdet vs. Duangsompong - 13:10 15/08/2026",
         "DAZN GB 10 - Drift Masters Germany: Top 32 - 13:45 15/08/2026",
-        "DAZN GB 11 - Barum Czech Rally Zlín: Stage 05 - 13:52 15/08/2026",
         "DAZN GB 12 - TAIF Racing Season 2026 Week 04 Day 02 - 14:15 15/08/2026",
         "DAZN GB 13 - Tokyo Manufacturers Cup Show - 14:20 15/08/2026",
-        "DAZN GB 14 - Barum Czech Rally Zlín: Stage 06 - 14:55 15/08/2026",
         "DAZN GB 15 - Yeovil vs. Carlisle - 15:00 15/08/2026",
         "DAZN GB 16 - Southend vs. Scunthorpe - 15:00 15/08/2026",
         "DAZN GB 17 - Kidderminster vs. Eastleigh - 15:00 15/08/2026",
@@ -1904,7 +2030,6 @@
         "DAZN GB 32 - IFAF World Flag 2026: Women’s Semi Final 01 - 15:45 15/08/2026",
         "DAZN GB 33 - Tokyo Nations Cup Show - 16:20 15/08/2026",
         "DAZN GB 34 - Dortmund vs. Roma - 16:30 15/08/2026",
-        "DAZN GB 35 - Barum Czech Rally Zlín: Stage 07 - 16:58 15/08/2026",
         "DAZN GB 36 - Vikings at Giants - 18:00 15/08/2026",
         "DAZN GB 37 - Panthers at Bills - 18:00 15/08/2026",
         "DAZN GB 38 - Browns at Bears - 18:00 15/08/2026",
@@ -2206,14 +2331,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: Arctic Race of Norway Stage 3 - 13:15 15/08/2026",
-        "Sky Sport 3 - LIVE: FIA Formula E: Round 16 - 14:00 15/08/2026",
-        "Sky Sport 5 - LIVE: Czech Tour S3 - 14:30 15/08/2026",
-        "Sky Sport 6 - LIVE: INDYCAR: Markham P1 - 15:00 15/08/2026",
-        "Sky Sport 4 - LIVE: Currie Cup: Pumas v Stormers - 16:10 15/08/2026",
-        "Sky Sport 1 - LIVE: Bulls v All Blacks - 17:15 15/08/2026",
-        "Sky Sport 1 UHD - LIVE: Bulls v All Blacks - 17:15 15/08/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 15/08/2026",
         "Sky Sport 3 - LIVE: T100 Triathlon: Vancouver - 19:00 15/08/2026",
         "Sky Sport 6 - LIVE: INDYCAR: Markham P2 - 19:25 15/08/2026",
         "Sky Sport Select - LIVE: US Amateur Championship Day 4 - 20:00 15/08/2026",
@@ -2291,43 +2408,39 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 8 | Oxford Utd vs Mk Dons",
-        "Sky Sports+ 9 | Reading vs Luton",
-        "Sky Sports+ 17 | Newport vs Rochdale",
-        "Sky Sports+ 18 | Oldham vs Port Vale",
-        "Bradford Bulls vs Wigan Warriors",
+        "Sky Sports+ 3 | Charlton vs Derby",
+        "Sky Sports+ 4 | Bristol City vs Millwall",
+        "Sky Sports+ 5 | Norwich vs West Brom",
+        "Sky Sports+ 6 | Portsmouth vs Qpr",
+        "Sky Sports+ 7 | Stoke vs Swansea",
+        "Sky Sports+ 10 | Barnsley vs Bromley",
+        "Sky Sports+ 11 | Blackpool vs Wycombe",
+        "Sky Sports+ 12 | Bradford vs Peterborough",
+        "Sky Sports+ 13 | Burton vs Stevenage",
+        "Sky Sports+ 14 | Cambridge U vs Wigan",
+        "Sky Sports+ 15 | Huddersfield vs Wimbledon",
+        "Sky Sports+ 16 | Leyton Orient vs Sheff Wed",
+        "Sky Sports+ 19 | Accrington vs Colchester",
+        "Sky Sports+ 20 | Barnet vs Salford",
+        "Sky Sports+ 21 | Cheltenham vs Rotherham",
+        "Sky Sports+ 22 | Chesterfield vs Fleetwood",
+        "Sky Sports+ 23 | Crawley vs Crewe",
+        "Sky Sports+ 24 | Gillingham vs Walsall",
+        "Sky Sports+ 25 | Grimsby vs Exeter",
+        "Sky Sports+ 26 | Northampton vs Swindon",
+        "Sky Sports+ 27 | Tranmere vs Shrewsbury",
+        "Sky Sports+ 28 | Mansfield vs Doncaster",
+        "Sky Sports+ 29 | Plymouth vs Stockport",
+        "Sky Sports+ 1 | Bradford Bulls vs Wigan Warriors",
         "L Orient vs Wimbledon",
         "Mansfield vs Man City U21",
         "Leigh Leopards vs Bradford Bulls",
         "Toulouse Olympique vs Huddersfield Giants",
         "Northampton vs Brighton",
-        "Charlton vs Derby",
         "Reading vs Wycombe",
-        "Bristol City vs Millwall",
         "Stockport vs Everton U21",
-        "Norwich vs West Brom",
         "Wigan vs Aston Villa U21",
-        "Portsmouth vs Qpr",
-        "Barnet vs Arsenal",
-        "Stoke vs Swansea",
-        "Barnsley vs Bromley",
-        "Blackpool vs Wycombe",
-        "Bradford vs Peterborough",
-        "Burton vs Stevenage",
-        "Cambridge U vs Wigan",
-        "Huddersfield vs Wimbledon",
-        "Leyton Orient vs Sheff Wed",
-        "Accrington vs Colchester",
-        "Barnet vs Salford",
-        "Cheltenham vs Rotherham",
-        "Chesterfield vs Fleetwood",
-        "Crawley vs Crewe",
-        "Gillingham vs Walsall",
-        "Grimsby vs Exeter",
-        "Northampton vs Swindon",
-        "Tranmere vs Shrewsbury",
-        "Mansfield vs Doncaster",
-        "Plymouth vs Stockport"
+        "Barnet vs Arsenal"
       ],
       "sections": [],
       "events": []
@@ -2338,7 +2451,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Broncos vs. Warriors - Sat 15/08 10:25am",
         "Sportsnet 01 : Wakefield Trinity vs. St Helens - Sat 15/08 5:20pm",
         "Sportsnet 02 : FC Utrecht vs. AZ Alkmaar - Sat 15/08 5:35pm",
         "Sportsnet 03 : Bradford Bulls vs. Wigan Warriors - Sat 15/08 6:20pm",
@@ -2362,7 +2474,8 @@
         "Sportsnet 01 : Sportsnet Central: August 16 - Mon 17/08 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: August 17 - Mon 17/08 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: August 17 - Mon 17/08 3:00pm",
-        "Sportsnet 01 : Blair & Barker: August 17 - Mon 17/08 9:00pm"
+        "Sportsnet 01 : Blair & Barker: August 17 - Mon 17/08 9:00pm",
+        "Sportsnet 02 : Baltimore @ Tampa Bay - Mon 17/08 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -2373,13 +2486,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Kashima Antlers v Nagoya Grampus - J.League 2026 - Sat 15/08 10:00am",
-        "Stan 04 : Shimizu S-Pulse v Yokohama F. Marinos - J.League 2026 - Sat 15/08 10:25am",
-        "Stan 16 : Qualifying 1: London - Formula E 2025/26 - Sat 15/08 10:30am",
-        "Stan 15 : Vissel Kobe v FC Tokyo - J.League 2026 - Sat 15/08 10:55am",
-        "Stan 17 : Gwangju v Pohang - K League 2026 - Sat 15/08 11:25am",
-        "Stan 18 : Seoul v Daejeon - K League 2026 - Sat 15/08 11:25am",
-        "Stan 05 : Race 1: London - Formula E 2025/26 - Sat 15/08 2:00pm",
         "Stan 07 : Practice 1: Grand Prix of Markham - Indycar 2026 - Sat 15/08 3:00pm",
         "Stan 01 : Pumas v Stormers - Currie Cup Round 5 2026 - Sat 15/08 3:55pm",
         "Stan 06 : Cincinnati: Day 3 - WTA 1000 - Sat 15/08 4:00pm",
@@ -2430,7 +2536,13 @@
         "Stan 13 : Anyang v Seoul - K League 2026 - Sat 22/08 11:25am",
         "Stan 03 : Jeonbuk v Ulsan - K League 2026 - Sat 22/08 11:25am",
         "Stan 04 : Yokohama F. Marinos v Vissel Kobe - J.League 2026 - Sat 22/08 11:25am",
-        "Stan 14 : Hull City v Manchester United - Premier League 2026/2027 - Sat 22/08 11:30am"
+        "Stan 14 : Hull City v Manchester United - Premier League 2026/2027 - Sat 22/08 11:30am",
+        "Stan 07 : Downhill: Les Gets - UCI Mountain Bike World Series 2026 - Sat 22/08 11:45am",
+        "Stan 08 : 4K â¢ Hull City v Manchester United - Premier League 2026/2027 - Sat 22/08 12:20pm",
+        "Stan 05 : Practice 1: Grand Prix of Washington, D.C - Indycar 2026 - Sat 22/08 2:00pm",
+        "Stan 06 : South Africa v New Zealand: SuperSport Coverage - NZL Tour of RSA First Test 2026 - Sat 22/08 2:30pm",
+        "Stan 09 : Goal Rush â¢ 22 August - Premier League 2026/2027 - Sat 22/08 2:50pm",
+        "Stan 10 : Ipswich Town v Sunderland - Premier League 2026/2027 - Sat 22/08 2:50pm"
       ],
       "sections": [],
       "events": []
@@ -2453,8 +2565,6 @@
         "TSN 02 : PGA TOUR Live: FedEx St. Jude Championship - Third Round: Main Feed - Sat 15/08 12:45pm",
         "TSN 03 : PGA TOUR Live: FedEx St. Jude Championship - Third Round: Featured Groups - Sat 15/08 1:30pm",
         "TSN 04 : PGA TOUR Live: FedEx St. Jude Championship - Third Round: Marquee Group - Sat 15/08 1:45pm",
-        "TSN 05 : 2026 Formula E Racing: London - Round 16 - Sat 15/08 2:00pm",
-        "TSN 01 : IndyCar Practice 2: Ontario Honda Dealers Indy at Markham - Sat 15/08 3:00pm",
         "TSN 06 : ATP 1000 Tennis: Cincinnati - Day #3 (Champions Court) - Sat 15/08 4:00pm",
         "TSN 08 : ATP 1000 Tennis: Cincinnati - Day #3 (Court 10) - Sat 15/08 4:00pm",
         "TSN 07 : ATP 1000 Tennis: Cincinnati - Day #3 (Court 4) - Sat 15/08 4:00pm",
