@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T11:17:29.434359+00:00",
+  "scraped_at": "2026-08-16T17:00:46.305815+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 16 August 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 15:00-17:00 - FA Community Shield: Arsenal vs Manchester City 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 10 - 15:00-17:00 - FA Community Shield: Arsenal vs Manchester City 720p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 16:00-18:00 - Friendly: Schalke 04 vs Real Madrid 1080p"
             },
             {
               "type": "fixture",
@@ -46,7 +34,7 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 01 - 5:00pm-14:00 - Friendly: Tottenham Hotspur v Hoffenheim"
+              "text": "SPORTS SCENE 01 - 9:00pm-17:15 - Friendly: FC Basel vs Barcelona (Swiss)"
             },
             {
               "type": "fixture",
@@ -63,6 +51,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 04 - 9:00pm-18:00 - EFL: Burnley vs West Ham United"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 1:15am-22:15 - Coppa Italia: Lazio vs Mantova"
             },
             {
               "type": "fixture",
@@ -94,11 +86,39 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 07 - 12:30amGO Kart Night Slinger"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 08 - 8pm Anthony Pettis FC 24"
             },
             {
               "type": "fixture",
               "text": "LIVE EVENT 09 - 9pm Primos Pro Wrestling Sorched Summer 2"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 01 - 5:00pmLiverpool vs Como // 18:00 Liverpool vs Como"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 02 - 7:00pmNottingham Forest vs Brest"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 03 - 9:00pmNewcastle United vs Strasbourg"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 04 - 8:00pmArsenal vs Manchester City"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 05 - 8:00pmArsenal vs Manchester City"
+            },
+            {
+              "type": "fixture",
+              "text": "FOOTBALL 06 - 8:00pmArsenal vs Manchester City"
             }
           ]
         }
@@ -1098,6 +1118,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 02 - no_brand_title: MENA LIVE STREAMING - 16/08/2026 عالم الظهيرة - 16/08/2026 12:03 - 12:02",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 16/08/2026 04:31 - 21:10",
         "BBC Events 05 - no_brand_title: London Hospital Trust Reports 'Dramatic' Increase of Attacks Against Staff - 16/08/2026 06:01 - 02:50"
       ],
@@ -1486,14 +1507,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: INDYCAR: Markham Warm-Up - 13:30 16/08/2026",
-        "Sky Sport 5 - LIVE: Currie Cup: Bulls v Cheetahs - 13:55 16/08/2026",
-        "Sky Sport 3 - LIVE: FIA Formula E: Round 17 - 14:00 16/08/2026",
-        "Sky Sport Select - LIVE: Arctic Race of Norway Stage 4 - 15:15 16/08/2026",
-        "Sky Sport 4 - LIVE: INDYCAR: Markham - 17:00 16/08/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:00 16/08/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:00 16/08/2026",
-        "Sky Sport 2 - LIVE: Hundred Final: Rockets v S. Giants - 17:30 16/08/2026",
         "Sky Sport 3 - LIVE: LPGA: Round 4 - 19:00 16/08/2026",
         "Sky Sport 6 - LIVE: US Amateur Championship Day 5 - 20:00 16/08/2026",
         "Sky Sport 4 - LIVE: Arizona Open Pool: Day 4 S1 - 21:00 16/08/2026",
@@ -1599,8 +1612,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Feyenoord vs. Go Ahead Eagles - Sun 16/08 1:20pm",
-        "Sportsnet 01 : Community Shield - Arsenal vs. Manchester City - Sun 16/08 3:00pm",
         "Sportsnet 03 : AFC Ajax vs. sc Heerenveen - Sun 16/08 3:35pm",
         "Sportsnet 04 : New York Yankees @ Toronto - Sun 16/08 6:00pm",
         "Sportsnet 02 : Milwaukee @ Los Angeles Dodgers - Sun 16/08 9:00pm",
@@ -1623,7 +1634,8 @@
         "Sportsnet 05 : New York Yankees @ Baltimore - Tue 18/08 11:30pm",
         "Sportsnet 06 : Dana White's Contender Series - Episode 2 - Wed 19/08 12:00am",
         "Sportsnet 07 : Chicago White Sox @ Chicago Cubs - Wed 19/08 1:00am",
-        "Sportsnet 01 : Sportsnet Central: August 18 - Wed 19/08 10:00am"
+        "Sportsnet 01 : Sportsnet Central: August 18 - Wed 19/08 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: August 19 - Wed 19/08 2:00pm"
       ],
       "sections": [],
       "events": []
@@ -1634,12 +1646,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Qualifying 2: London - Formula E 2025/26 - Sun 16/08 10:30am",
-        "Stan 05 : Bucheon v Jeonbuk - K League 2026 - Sun 16/08 11:25am",
-        "Stan 04 : Ulsan v Gangwon - K League 2026 - Sun 16/08 11:25am",
-        "Stan 06 : Race Day Part 1: Sweden - MXGP 2026 - Sun 16/08 12:00pm",
-        "Stan 02 : Bulls v Cheetahs - Currie Cup Round 5 2026 - Sun 16/08 1:55pm",
-        "Stan 07 : Race 2: London - Formula E 2025/26 - Sun 16/08 2:00pm",
         "Stan 08 : Arsenal v Manchester City - FA Community Shield 2026 - Sun 16/08 2:45pm",
         "Stan 01 : Race Day Part 2: Sweden - MXGP 2026 - Sun 16/08 3:00pm",
         "Stan 09 : Cincinnati: Day 4 - WTA 1000 - Sun 16/08 4:00pm",
@@ -1691,7 +1697,11 @@
         "Stan 06 : PFL 13 - Tampa 2026 - Sat 22/08 11:00pm",
         "Stan 01 : Portland Thorns v Denver Summit - NWSL 2026 - Sun 23/08 1:45am",
         "Stan 02 : Waikato v Counties Manukau - NPC Round 4 2026 - Sun 23/08 3:00am",
-        "Stan 03 : Otago v Wellington - NPC Round 4 2026 - Sun 23/08 6:00am"
+        "Stan 03 : Otago v Wellington - NPC Round 4 2026 - Sun 23/08 6:00am",
+        "Stan 04 : TBD v TBD - Hospital Cup Preliminary Final 2026 - Sun 23/08 6:00am",
+        "Stan 01 : Daejeon v Gangwon - K League 2026 - Sun 23/08 11:25am",
+        "Stan 05 : Gwangju v Incheon - K League 2026 - Sun 23/08 11:25am",
+        "Stan 02 : Machida Zelvia v Urawa Red Diamonds - J.League 2026 - Sun 23/08 11:25am"
       ],
       "sections": [],
       "events": []
@@ -1713,15 +1723,11 @@
       "fixtures": [
         "TSN 02 : PGA TOUR Live: FedEx St. Jude Championship - Final Round: Main Feed - Sun 16/08 12:45pm",
         "TSN 03 : PGA TOUR Live: FedEx St. Jude Championship - Final Round: Marquee Group - Sun 16/08 1:45pm",
-        "TSN 04 : 2026 Formula E Racing: London - Round 17 - Sun 16/08 2:00pm",
-        "TSN 01 : LaLiga: Racing Santander vs. Villarreal - Sun 16/08 3:48pm",
         "TSN 05 : ATP 1000 Tennis: Cincinnati - Day #4 (Tony Trabert) - Sun 16/08 4:00pm",
         "TSN 08 : ATP 1000 Tennis: Cincinnati - Early Round Coverage Day #4 - Sun 16/08 4:00pm",
         "TSN 07 : WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #4 - Sun 16/08 4:00pm",
         "TSN 09 : 2026 IndyCar Racing: Ontario Honda Dealers Indy at Markham - Sun 16/08 5:00pm",
-        "TSN 10 : ATP 1000 Tennis: Cincinnati - Day #4 (Court 10) - Sun 16/08 5:00pm",
         "TSN 11 : LaLiga: Espanyol vs. Levante - Sun 16/08 5:48pm",
-        "TSN 13 : ATP 1000 Tennis: Cincinnati - Day #4 (Champions Court) - Sun 16/08 6:00pm",
         "TSN 14 : ATP 1000 Tennis: Cincinnati - Day #4 (P&G Stadium) - Sun 16/08 6:00pm",
         "TSN 12 : Premier Lacrosse League: Maryland Whipsnakes vs. Philadelphia Waterdogs - Sun 16/08 6:00pm",
         "TSN 04 : LaLiga 2: Las Palmas vs. Albacete - Sun 16/08 8:18pm",
