@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T11:21:40.373771+00:00",
+  "scraped_at": "2026-08-17T17:01:01.926600+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -97,7 +97,7 @@
         {
           "sport": "BASEBALL",
           "time": "21:00",
-          "name": "AMERICAN LEGION WORLD SERIES",
+          "name": "TUPELO, MS - PORTLAND, OR",
           "datetime": "2026-08-17 21:00:00",
           "channels": [
             {
@@ -117,6 +117,13 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:00",
+          "name": "MIDLAND, MI - LINCOLN NE",
+          "datetime": "2026-08-18 00:00:00",
+          "channels": []
         },
         {
           "sport": "BASEBALL",
@@ -456,17 +463,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Phone-In: Is Reform Right on Welfare? - 17/08/2026 08:51 - 08:28",
-        "BBC Events 03 - no_brand_title: مظاهرة المهاجرين في سبتة Ceuta protest live - 16/08/2026 14:05 - 14:04",
+        "BBC Events 03 - Major League Baseball: New York Yankees v Toronto Blue Jays - 17/08/2026 17:00 - 20:10",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 17/08/2026 04:54 - 21:00",
         "BBC Events 05 - no_brand_title: no_episode_title - 17/08/2026 10:52 - 10:49",
         "BBC Events 06 - no_brand_title: Police Appeal for Witnesses After Man Dies From Dog Attack - 17/08/2026 06:31 - 04:54",
+        "BBC Events 07 - no_brand_title: Tupac's Murder Trial Begins in Las Vegas - 17/08/2026 17:20 - 22:00",
         "BBC Events 08 - no_brand_title: Burnham Messages Trump Top Aide Impersonator - 17/08/2026 09:24 - 09:17",
-        "BBC Events 09 - Major League Baseball: New York Yankees v Toronto Blue Jays - 17/08/2026 10:00 - 13:10",
-        "BBC Events 10 - no_brand_title: Reform UK Speech on Welfare Plans - 17/08/2026 10:41 - 08:53",
-        "BBC Events 11 - no_brand_title: Fans Gather For Bonnie Tyler’s Funeral Service - 17/08/2026 10:57 - 16:00",
-        "BBC Events 12 - no_brand_title: Hoci: Cwpan y Byd- Pacistan v Cymru /Pakistan v Wales - 17/08/2026 11:17 - 12:45",
-        "BBC Events 13 - no_brand_title: Bonnie Tyler's funeral - 17/08/2026 11:27 - 16:00",
-        "BBC Events 14 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 17/08/2026 12:11 - 15:00"
+        "BBC Events 10 - no_brand_title: Reform UK Speech on Welfare Plans - 17/08/2026 10:41 - 08:53"
       ],
       "sections": [],
       "events": []
@@ -992,8 +995,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: August 17 - Mon 17/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 17 - Mon 17/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 17 - Mon 17/08 9:00pm",
         "Sportsnet 02 : Baltimore @ Tampa Bay - Mon 17/08 11:00pm",
         "Sportsnet 03 : The FAN Pregame: August 17 - Mon 17/08 11:00pm",
@@ -1011,12 +1012,13 @@
         "Sportsnet 07 : Chicago White Sox @ Chicago Cubs - Wed 19/08 1:00am",
         "Sportsnet 01 : Sportsnet Central: August 18 - Wed 19/08 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: August 19 - Wed 19/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 18 - Wed 19/08 3:00pm",
-        "Sportsnet 01 : Blair & Barker: August 18 - Wed 19/08 9:00pm",
-        "Sportsnet 02 : The FAN Pregame: August 18 - Wed 19/08 11:00pm",
+        "Sportsnet 02 : Jays Talk Plus: August 19 - Wed 19/08 3:00pm",
+        "Sportsnet 01 : Blair & Barker: August 19 - Wed 19/08 9:00pm",
+        "Sportsnet 02 : The FAN Pregame: August 19 - Wed 19/08 11:00pm",
         "Sportsnet 03 : Toronto @ Tampa Bay - Wed 19/08 11:00pm",
         "Sportsnet 04 : New York Yankees @ Baltimore - Wed 19/08 11:30pm",
-        "Sportsnet 05 : Los Angeles Dodgers @ Colorado - Thu 20/08 1:30am"
+        "Sportsnet 05 : Los Angeles Dodgers @ Colorado - Thu 20/08 1:30am",
+        "Sportsnet 01 : Sportsnet Central: August 19 - Thu 20/08 10:00am"
       ],
       "sections": [],
       "events": []
