@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T11:22:08.241172+00:00",
+  "scraped_at": "2026-08-18T17:00:51.554853+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,21 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 18 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL:  Fenerbahçe vs Olympique Lyonnais 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -536,6 +550,7 @@
         "BBC Events 01 - no_brand_title: MENA LIVE STREAMING - 18/08/2026 عالم الظهيرة - 18/08/2026 11:40 - 11:39",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 18/08/2026 04:50 - 21:52",
         "BBC Events 04 - no_brand_title: Jury Hears Details of Night Tupac Was Murdered - 18/08/2026 05:31 - 05:16",
+        "BBC Events 05 - no_brand_title: Overnight - test - 18/08/2026 14:55 - 09:00",
         "BBC Events 07 - no_brand_title: South East Water Supply Issues Across Kent - 18/08/2026 06:08 - 01:33"
       ],
       "sections": [],
@@ -816,7 +831,23 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : MLS Countdown (MLS) - Wed 19/08 11:25pm",
+        "MLS 02 : Cincinnati vs. New York City (MLS) - Thu 20/08 12:25am",
+        "MLS 04 : D.C. vs. New England (MLS) - Thu 20/08 12:25am",
+        "MLS 05 : New York vs. Nashville (MLS) - Thu 20/08 12:25am",
+        "MLS 06 : Orlando vs. Chicago (MLS) - Thu 20/08 12:25am",
+        "MLS 07 : Philadelphia vs. Miami (MLS) - Thu 20/08 12:25am",
+        "MLS 08 : Toronto vs. Charlotte (MLS) - Thu 20/08 12:25am",
+        "MLS 10 : Kansas City vs. St. Louis (MLS) - Thu 20/08 01:10am",
+        "MLS 11 : Minnesota vs. Atlanta (MLS) - Thu 20/08 01:25am",
+        "MLS 12 : Colorado vs. LAFC (MLS) - Thu 20/08 02:25am",
+        "MLS 13 : Salt Lake vs. Dallas (MLS) - Thu 20/08 02:25am",
+        "MLS 14 : Seattle vs. Austin (MLS) - Thu 20/08 02:25am",
+        "MLS 15 : LA vs. San Jose (MLS) - Thu 20/08 03:25am",
+        "MLS 16 : Portland vs. San Diego (MLS) - Thu 20/08 03:25am",
+        "MLS 17 : Vancouver vs. Houston (MLS) - Thu 20/08 03:25am"
+      ],
       "sections": [],
       "events": []
     },
@@ -1101,8 +1132,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: August 18 - Tue 18/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 18 - Tue 18/08 3:00pm",
         "Sportsnet 01 : Hull KR vs. Warrington Wolves - Tue 18/08 7:50pm",
         "Sportsnet 02 : Blair & Barker: August 18 - Tue 18/08 9:00pm",
         "Sportsnet 03 : The FAN Pregame: August 18 - Tue 18/08 11:00pm",
@@ -1125,7 +1154,8 @@
         "Sportsnet 02 : Toronto @ Tampa Bay - Thu 20/08 5:30pm",
         "Sportsnet 01 : Blair & Barker: August 20 - Thu 20/08 9:00pm",
         "Sportsnet 03 : The FAN Pregame: August 20 - Thu 20/08 11:00pm",
-        "Sportsnet 04 : New York Yankees @ Baltimore - Thu 20/08 11:30pm"
+        "Sportsnet 04 : New York Yankees @ Baltimore - Thu 20/08 11:30pm",
+        "Sportsnet 02 : TNA iMPACT! - Fri 21/08 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1221,7 +1251,7 @@
         "TSN 03 : WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #6 - Tue 18/08 4:00pm",
         "TSN 05 : Pat McAfee Show - Tue 18/08 5:00pm",
         "TSN 04 : Rich Eisen Show - Tue 18/08 5:00pm",
-        "TSN 06 : ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand) - Tue 18/08 6:00pm",
+        "TSN 06 : ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand) - Tue 18/08 7:30pm",
         "TSN 07 : ATP 1000 Tennis: Cincinnati - Day #6 (Champions Court) - Tue 18/08 10:00pm"
       ],
       "sections": [],
