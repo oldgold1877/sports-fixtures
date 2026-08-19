@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T11:21:21.569741+00:00",
+  "scraped_at": "2026-08-19T17:00:58.632574+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 19 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - La Liga: Atlético Madrid vs Málaga 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Celtic vs LASK Linz 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -277,10 +295,6 @@
           "channels": [
             {
               "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
               "category": "SPORT | USA & CANADA"
             },
             {
@@ -715,11 +729,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - no_brand_title: Nick Kyrgios Suspended After Positive Cocaine Test - 19/08/2026 13:36 - 10:27",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 19/08/2026 07:10 - 23:27",
         "BBC Events 03 - no_brand_title: Customers Complain About Automation on Vinted - 19/08/2026 03:50 - 01:19",
-        "BBC Events 05 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 19/08/2026 12:00 - 18:00",
-        "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 19/08/2026 عالم الظهيرة - 19/08/2026 10:59 - 10:58",
-        "BBC Events 09 - no_brand_title: Hoci: Cwpan y Byd- Lloegr v Cymru/ England v Wales - 19/08/2026 11:08 - 12:45"
+        "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 19/08/2026 عالم الظهيرة - 19/08/2026 10:59 - 10:58"
       ],
       "sections": [],
       "events": []
@@ -1156,7 +1169,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Deutschland Tour Prologue - 13:00 19/08/2026",
         "Sky Sport 1 - LIVE: CPL: St Lucia v Guyana - 23:30 19/08/2026",
         "Sky Sport 1 UHD - LIVE: CPL: St Lucia v Guyana - 23:30 19/08/2026",
         "Sky Sport 1 - LIVE: NPC: Canterbury v Northland (RS) - 08:00 20/08/2026",
@@ -1301,6 +1313,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 9 | Mansfield vs Man City U21",
         "Birmingham vs Bristol City",
         "Cardiff vs Norwich",
         "Doncaster vs Barnsley",
@@ -1315,7 +1328,6 @@
         "Cambridge U vs Millwall",
         "Fleetwood vs Shrewsbury",
         "Ipswich vs Leicester",
-        "Mansfield vs Man City U21",
         "Bristol Rovers vs Chelsea U21",
         "Plymouth vs Coventry",
         "Sheff Wed vs Wolves",
@@ -1339,8 +1351,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: August 19 - Wed 19/08 2:00pm",
-        "Sportsnet 02 : Jays Talk Plus: August 19 - Wed 19/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 19 - Wed 19/08 9:00pm",
         "Sportsnet 02 : The FAN Pregame: August 19 - Wed 19/08 11:00pm",
         "Sportsnet 03 : Toronto @ Tampa Bay - Wed 19/08 11:00pm",
@@ -1348,7 +1358,6 @@
         "Sportsnet 05 : Los Angeles Dodgers @ Colorado - Thu 20/08 1:30am",
         "Sportsnet 01 : Sportsnet Central: August 19 - Thu 20/08 10:00am",
         "Sportsnet 02 : Storm vs. Panthers - Thu 20/08 10:40am",
-        "Sportsnet 01 : The JD Bunkis Podcast: August 20 - Thu 20/08 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: August 20 - Thu 20/08 3:00pm",
         "Sportsnet 02 : Toronto @ Tampa Bay - Thu 20/08 5:30pm",
         "Sportsnet 01 : Blair & Barker: August 20 - Thu 20/08 9:00pm",
@@ -1359,11 +1368,13 @@
         "Sportsnet 06 : Washington @ Texas - Fri 21/08 1:00am",
         "Sportsnet 01 : Sportsnet Central: August 20 - Fri 21/08 10:00am",
         "Sportsnet 02 : Dolphins vs. Eels - Fri 21/08 10:50am",
-        "Sportsnet 01 : The JD Bunkis Podcast: August 21 - Fri 21/08 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: August 21 - Fri 21/08 3:00pm",
         "Sportsnet 01 : Leigh Leopards vs. Bradford Bulls - Fri 21/08 7:50pm",
         "Sportsnet 02 : Wigan Warriors vs. Wakefield Trinity - Fri 21/08 7:50pm",
-        "Sportsnet 03 : Blair & Barker: August 21 - Fri 21/08 9:00pm"
+        "Sportsnet 03 : Blair & Barker: August 21 - Fri 21/08 9:00pm",
+        "Sportsnet 04 : The FAN Pregame: August 21 - Fri 21/08 11:00pm",
+        "Sportsnet 05 : Toronto @ New York Yankees - Fri 21/08 11:30pm",
+        "Sportsnet 06 : San Francisco @ Boston - Sat 22/08 12:00am"
       ],
       "sections": [],
       "events": []
