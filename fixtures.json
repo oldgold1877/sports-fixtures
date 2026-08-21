@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T07:37:03.282329+00:00",
+  "scraped_at": "2026-08-21T11:00:48.791537+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,6 +30,67 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Arsenal vs Coventry City 720p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 167 Dedduanglek v Kongsuk"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 11:15am/7pm Serrano v Manzur"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 6pm BKFC Fight Night Henry v Trinidad Snake"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 6pm Bison Kombat 9"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 11:30pmElevate Submission Series 26"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 7pm ROH Death Before Dishonor"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 4pm Kyle Busch Invitational Bowman"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 9:45pmDirt Duels NHMS"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 10:15pmWeekly Racing Stafford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 6pm World Fuel Altered Nationals"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 11:15pmEmpire Super Sprints Autodrome"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 11:30pmAttica Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 7pm Albany Saratoga DIRTcar"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 7pm Williams Grove Sprints"
             }
           ]
         }
@@ -79,7 +140,8 @@
         "EVENT 01 - 22-Aug 10:00PM-01:00AM - UFC Fight Night 2026 FN 20: Prelims: Hernandez vs Rodrigues - FN 20: Prelims: Hernandez vs Rodrigues [SG]",
         "EVENT 03 - 23-Aug 01:00AM-04:00AM - UFC Fight Night 2026 FN 20: Hernandez vs Rodrigues - FN 20: Hernandez vs Rodrigues [SG]",
         "EVENT 01 - 23-Aug 03:30AM-06:00AM - WBWC '26 Gr. Tainan E1 -Great Britain v Venezuela[Live] [HK]",
-        "EVENT 01 - 23-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E2 -Philipinnes v Japan[Live] [HK]"
+        "EVENT 01 - 23-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E2 -Philipinnes v Japan[Live] [HK]",
+        "EVENT 03 - 23-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E3 -Cuba v Chinese Taipei[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -259,18 +321,6 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "20:00",
-          "name": "CHIRIQUí, PANAMA - LEON, NICARAGUA",
-          "datetime": "2026-08-21 20:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
           "time": "23:00",
           "name": "SEOUL, SOUTH KOREA - BRNO, CZECHIA",
           "datetime": "2026-08-21 23:00:00",
@@ -399,18 +449,6 @@
         },
         {
           "sport": "️ GOLF",
-          "time": "18:00",
-          "name": "LIV GOLF INDIANAPOLIS",
-          "datetime": "2026-08-21 18:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
           "time": "19:00",
           "name": "LIV GOLF INDIANAPOLIS",
           "datetime": "2026-08-21 19:00:00",
@@ -511,9 +549,13 @@
         {
           "sport": "TENNIS",
           "time": "20:00",
-          "name": "CINCINNATI OPEN",
+          "name": "TAYLOR FRITZ - BRANDON NAKASHIMA",
           "datetime": "2026-08-21 20:00:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -523,7 +565,7 @@
         {
           "sport": "TENNIS",
           "time": "00:00",
-          "name": "CINCINNATI OPEN",
+          "name": "LORENZO MUSETTI - FRANCES TIAFOE",
           "datetime": "2026-08-22 00:00:00",
           "channels": []
         }
@@ -1473,24 +1515,24 @@
         },
         {
           "sport": "TENNIS",
-          "time": "18:30",
+          "time": "16:00",
           "name": "CINCINNATI OPEN",
-          "datetime": "2026-08-22 18:30:00",
+          "datetime": "2026-08-22 16:00:00",
           "channels": [
             {
-              "name": "TSN 3",
+              "name": "TENNIS CHANNEL",
               "category": "SPORT | USA & CANADA"
             }
           ]
         },
         {
           "sport": "TENNIS",
-          "time": "19:30",
-          "name": "SEMI-FINAL, CINCINNATI",
-          "datetime": "2026-08-22 19:30:00",
+          "time": "18:30",
+          "name": "CINCINNATI OPEN",
+          "datetime": "2026-08-22 18:30:00",
           "channels": [
             {
-              "name": "TENNIS CHANNEL",
+              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1601,10 +1643,7 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Prince Harry Media Battle Legal Bill Expected to Cost Millions - 21/08/2026 05:05 - 02:24",
-        "BBC Events 02 - no_brand_title: MENA LIVE STREAMING - 20/08/2026 عالم الظهيرة - 20/08/2026 11:53 - 11:52",
-        "BBC Events 03 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 21/08/2026 06:00 - 12:00",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 21/08/2026 06:44 - 18:54",
-        "BBC Events 10 - no_brand_title: Your Questions on GCSE and BTec Results Day - 20/08/2026 10:05 - 09:59"
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 21/08/2026 06:44 - 18:54"
       ],
       "sections": [],
       "events": []
@@ -1624,55 +1663,43 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN CA 01 - Crossfire 2026 Day 03 Stream A - 10:00 20/08/2026",
-        "DAZN CA 02 - Crossfire 2026 Day 03 Stream B - 10:00 20/08/2026",
-        "DAZN CA 03 - EWC Counter Strike 02 2026 Day 07 Stream A - 12:00 20/08/2026",
-        "DAZN CA 04 - EWC Counter Strike 02 2026 Day 07 Stream B - 12:00 20/08/2026",
-        "DAZN CA 05 - Trackmania 2026 Day 02 - 13:00 20/08/2026",
-        "DAZN CA 06 - Fortnite 2026 Day 02 - 14:00 20/08/2026",
-        "DAZN CA 07 - Liddard vs. Morello: Press Conference - 14:00 20/08/2026",
-        "DAZN CA 08 - LIV Golf Indianapolis Day 01 - 18:00 20/08/2026",
-        "DAZN CA 09 - Cincinnati Open Day 08 Session 01 - 18:00 20/08/2026",
-        "DAZN CA 10 - Brazil vs. Argentina - 19:00 20/08/2026",
-        "DAZN CA 11 - Serbia vs. France (In Serbian) - 19:00 20/08/2026",
-        "DAZN CA 12 - Serbia vs. France - 19:00 20/08/2026",
-        "DAZN CA 13 - Sheffield Wednesday vs. Bradford - 20:00 20/08/2026",
-        "DAZN CA 14 - Rolly vs. Teofimo: Press Conference - 20:30 20/08/2026",
-        "DAZN CA 15 - New Zealand vs. South Sudan - 21:45 20/08/2026",
-        "DAZN CA 16 - Cincinnati Open Day 08 Session 02 - 00:00 21/08/2026",
-        "DAZN CA 17 - Henry vs. Trinidad: Weigh In - 00:00 21/08/2026",
-        "DAZN CA 18 - Philippines vs. Senegal - 00:30 21/08/2026",
-        "DAZN CA 19 - Raiders at Texans - 01:00 21/08/2026",
-        "DAZN CA 20 - Raiders at Texans - 01:00 21/08/2026",
-        "DAZN CA 21 - 49ers at Chargers - 03:00 21/08/2026",
-        "DAZN CA 22 - 49ers at Chargers - 03:00 21/08/2026",
-        "DAZN CA 23 - Canada vs. Mexico - 03:30 21/08/2026",
-        "DAZN CA 24 - Counter Strike 02 2026 Day 08 Stream A - 12:00 21/08/2026",
-        "DAZN CA 25 - Crossfire 2026 Day 04 - 12:00 21/08/2026",
-        "DAZN CA 26 - Liddard vs. Morello: Weigh In - 12:00 21/08/2026",
-        "DAZN CA 27 - Fortnite 2026 Day 03 - 14:00 21/08/2026",
-        "DAZN CA 28 - Trackmania 2026 Day 03 - 14:00 21/08/2026",
-        "DAZN CA 29 - TAIF Racing Season 2026 Week 05 Day 01 - 14:10 21/08/2026",
-        "DAZN CA 30 - DFB Pokal Zone: Aug. 21 - 16:50 21/08/2026",
-        "DAZN CA 31 - LIV Golf Indianapolis Day 02 - 17:00 21/08/2026",
-        "DAZN CA 32 - St. Tönis vs. Frankfurt - 17:00 21/08/2026",
-        "DAZN CA 33 - Union Berlin vs. Bayern Munich - 17:20 21/08/2026",
-        "DAZN CA 34 - Cincinnati Open Day 09 Session 01 - 18:00 21/08/2026",
-        "DAZN CA 35 - Rostock vs. Stuttgart - 19:45 21/08/2026",
-        "DAZN CA 36 - Arsenal vs. Coventry - 20:00 21/08/2026",
-        "DAZN CA 37 - Rolly vs. Teofimo: Weigh In - 21:00 21/08/2026",
-        "DAZN CA 38 - Henry vs. Trinidad - 23:00 21/08/2026",
-        "DAZN CA 39 - Jets at Steelers - 00:00 22/08/2026",
-        "DAZN CA 40 - Jets at Steelers - 00:00 22/08/2026",
-        "DAZN CA 41 - Panthers at Jaguars - 00:30 22/08/2026",
-        "DAZN CA 42 - Panthers at Jaguars - 00:30 22/08/2026",
-        "DAZN CA 43 - Cincinnati Open Day 09 Session 02 - 01:30 22/08/2026",
-        "DAZN CA 44 - Packers at Broncos - 02:00 22/08/2026",
-        "DAZN CA 45 - Packers at Broncos - 02:00 22/08/2026",
-        "DAZN CA 46 - Frankfurt vs. Köln - 11:00 22/08/2026",
-        "DAZN CA 47 - Fortnite 2026 Day 04 - 11:00 22/08/2026",
-        "DAZN CA 48 - Crossfire 2026 Day 05 - 12:00 22/08/2026",
-        "DAZN CA 49 - Wiesbaden vs. Leverkusen - 12:00 22/08/2026"
+        "DAZN CA 01 - Counter Strike 02 2026 Day 08 Stream A - 12:00 21/08/2026",
+        "DAZN CA 02 - Crossfire 2026 Day 04 - 12:00 21/08/2026",
+        "DAZN CA 03 - Liddard vs. Morello: Weigh In - 12:00 21/08/2026",
+        "DAZN CA 04 - Fortnite 2026 Day 03 - 14:00 21/08/2026",
+        "DAZN CA 05 - Trackmania 2026 Day 03 - 14:00 21/08/2026",
+        "DAZN CA 06 - TAIF Racing Season 2026 Week 05 Day 01 - 14:10 21/08/2026",
+        "DAZN CA 07 - DFB Pokal Zone: Aug. 21 - 16:50 21/08/2026",
+        "DAZN CA 08 - LIV Golf Indianapolis Day 02 - 17:00 21/08/2026",
+        "DAZN CA 09 - St. Tönis vs. Frankfurt - 17:00 21/08/2026",
+        "DAZN CA 10 - Union Berlin vs. Bayern Munich - 17:20 21/08/2026",
+        "DAZN CA 11 - Cincinnati Open Day 09 Session 01 - 18:00 21/08/2026",
+        "DAZN CA 12 - Rostock vs. Stuttgart - 19:45 21/08/2026",
+        "DAZN CA 13 - Arsenal vs. Coventry - 20:00 21/08/2026",
+        "DAZN CA 14 - Rolly vs. Teofimo: Weigh In - 21:00 21/08/2026",
+        "DAZN CA 15 - Henry vs. Trinidad - 23:00 21/08/2026",
+        "DAZN CA 16 - Jets at Steelers - 00:00 22/08/2026",
+        "DAZN CA 17 - Jets at Steelers - 00:00 22/08/2026",
+        "DAZN CA 18 - Panthers at Jaguars - 00:30 22/08/2026",
+        "DAZN CA 19 - Panthers at Jaguars - 00:30 22/08/2026",
+        "DAZN CA 20 - Cincinnati Open Day 09 Session 02 - 01:30 22/08/2026",
+        "DAZN CA 21 - Packers at Broncos - 02:00 22/08/2026",
+        "DAZN CA 22 - Packers at Broncos - 02:00 22/08/2026",
+        "DAZN CA 23 - Frankfurt vs. Köln - 11:00 22/08/2026",
+        "DAZN CA 24 - Fortnite 2026 Day 04 - 11:00 22/08/2026",
+        "DAZN CA 25 - Crossfire 2026 Day 05 - 12:00 22/08/2026",
+        "DAZN CA 26 - Wiesbaden vs. Leverkusen - 12:00 22/08/2026",
+        "DAZN CA 33 - Lincoln vs. Portsmouth - 12:30 22/08/2026",
+        "DAZN CA 36 - Hull vs. Man United - 12:30 22/08/2026",
+        "DAZN CA 41 - RWS: Yothin vs. Fairang - 13:10 22/08/2026",
+        "DAZN CA 42 - Trackmania 2026 Day 04 - 14:00 22/08/2026",
+        "DAZN CA 43 - TAIF Racing Season 2026 Week 05 Day 02 - 14:10 22/08/2026",
+        "DAZN CA 44 - DFB Pokal Zone: Aug. 22 - 14:20 22/08/2026",
+        "DAZN CA 45 - Aue vs. Hoffenheim - 14:30 22/08/2026",
+        "DAZN CA 46 - Ipswich vs. Sunderland - 15:00 22/08/2026",
+        "DAZN CA 47 - Nottingham Forest vs. Leeds - 15:00 22/08/2026",
+        "DAZN CA 48 - West Ham vs. Charlton - 15:00 22/08/2026",
+        "DAZN CA 49 - Everton vs. Crystal Palace - 15:00 22/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1683,44 +1710,44 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "DAZN GB 01 - Crossfire 2026 Day 03 Stream A - 10:00 20/08/2026",
-        "DAZN GB 02 - Crossfire 2026 Day 03 Stream B - 10:00 20/08/2026",
-        "DAZN GB 03 - EWC Counter Strike 02 2026 Day 07 Stream A - 12:00 20/08/2026",
-        "DAZN GB 04 - EWC Counter Strike 02 2026 Day 07 Stream B - 12:00 20/08/2026",
-        "DAZN GB 05 - Trackmania 2026 Day 02 - 13:00 20/08/2026",
-        "DAZN GB 06 - Liddard vs. Morello: Press Conference - 14:00 20/08/2026",
-        "DAZN GB 07 - Fortnite 2026 Day 02 - 14:00 20/08/2026",
-        "DAZN GB 08 - Brazil vs. Argentina - 19:00 20/08/2026",
-        "DAZN GB 09 - Serbia vs. France (In Serbian) - 19:00 20/08/2026",
-        "DAZN GB 10 - Serbia vs. France - 19:00 20/08/2026",
-        "DAZN GB 11 - Rolly vs. Teofimo: Press Conference - 20:30 20/08/2026",
-        "DAZN GB 12 - New Zealand vs. South Sudan - 21:45 20/08/2026",
-        "DAZN GB 13 - Henry vs. Trinidad: Weigh In - 00:00 21/08/2026",
-        "DAZN GB 14 - Philippines vs. Senegal - 00:30 21/08/2026",
-        "DAZN GB 15 - Raiders at Texans - 01:00 21/08/2026",
-        "DAZN GB 16 - Raiders at Texans - 01:00 21/08/2026",
-        "DAZN GB 17 - 49ers at Chargers - 03:00 21/08/2026",
-        "DAZN GB 18 - 49ers at Chargers - 03:00 21/08/2026",
-        "DAZN GB 19 - Canada vs. Mexico - 03:30 21/08/2026",
-        "DAZN GB 20 - Liddard vs. Morello: Weigh In - 12:00 21/08/2026",
-        "DAZN GB 21 - Counter Strike 02 2026 Day 08 Stream A - 12:00 21/08/2026",
-        "DAZN GB 22 - Crossfire 2026 Day 04 - 12:00 21/08/2026",
-        "DAZN GB 23 - Fortnite 2026 Day 03 - 14:00 21/08/2026",
-        "DAZN GB 24 - Trackmania 2026 Day 03 - 14:00 21/08/2026",
-        "DAZN GB 25 - TAIF Racing Season 2026 Week 05 Day 01 - 14:10 21/08/2026",
-        "DAZN GB 26 - Union Berlin vs. Bayern Munich - 17:20 21/08/2026",
-        "DAZN GB 27 - Rolly vs. Teofimo: Weigh In - 21:00 21/08/2026",
-        "DAZN GB 28 - Henry vs. Trinidad - 23:00 21/08/2026",
-        "DAZN GB 29 - Jets at Steelers - 00:00 22/08/2026",
-        "DAZN GB 30 - Jets at Steelers - 00:00 22/08/2026",
-        "DAZN GB 31 - Panthers at Jaguars - 00:30 22/08/2026",
-        "DAZN GB 32 - Panthers at Jaguars - 00:30 22/08/2026",
-        "DAZN GB 33 - Australia vs. Bangladesh Second Test: Day 01 - 01:00 22/08/2026",
-        "DAZN GB 34 - Packers at Broncos - 02:00 22/08/2026",
-        "DAZN GB 35 - Packers at Broncos - 02:00 22/08/2026",
-        "DAZN GB 36 - Frankfurt vs. Köln - 11:00 22/08/2026",
-        "DAZN GB 37 - Fortnite 2026 Day 04 - 11:00 22/08/2026",
-        "DAZN GB 38 - Crossfire 2026 Day 05 - 12:00 22/08/2026"
+        "DAZN GB 01 - Liddard vs. Morello: Weigh In - 12:00 21/08/2026",
+        "DAZN GB 02 - Counter Strike 02 2026 Day 08 Stream A - 12:00 21/08/2026",
+        "DAZN GB 03 - Crossfire 2026 Day 04 - 12:00 21/08/2026",
+        "DAZN GB 04 - Fortnite 2026 Day 03 - 14:00 21/08/2026",
+        "DAZN GB 05 - Trackmania 2026 Day 03 - 14:00 21/08/2026",
+        "DAZN GB 06 - TAIF Racing Season 2026 Week 05 Day 01 - 14:10 21/08/2026",
+        "DAZN GB 07 - Union Berlin vs. Bayern Munich - 17:20 21/08/2026",
+        "DAZN GB 08 - Rolly vs. Teofimo: Weigh In - 21:00 21/08/2026",
+        "DAZN GB 09 - Henry vs. Trinidad - 23:00 21/08/2026",
+        "DAZN GB 10 - Jets at Steelers - 00:00 22/08/2026",
+        "DAZN GB 11 - Jets at Steelers - 00:00 22/08/2026",
+        "DAZN GB 12 - Panthers at Jaguars - 00:30 22/08/2026",
+        "DAZN GB 13 - Panthers at Jaguars - 00:30 22/08/2026",
+        "DAZN GB 14 - Australia vs. Bangladesh Second Test: Day 01 - 01:00 22/08/2026",
+        "DAZN GB 15 - Packers at Broncos - 02:00 22/08/2026",
+        "DAZN GB 16 - Packers at Broncos - 02:00 22/08/2026",
+        "DAZN GB 17 - Frankfurt vs. Köln - 11:00 22/08/2026",
+        "DAZN GB 18 - Fortnite 2026 Day 04 - 11:00 22/08/2026",
+        "DAZN GB 19 - Crossfire 2026 Day 05 - 12:00 22/08/2026",
+        "DAZN GB 32 - RWS: Yothin vs. Fairang - 13:10 22/08/2026",
+        "DAZN GB 33 - Trackmania 2026 Day 04 - 14:00 22/08/2026",
+        "DAZN GB 34 - TAIF Racing Season 2026 Week 05 Day 02 - 14:10 22/08/2026",
+        "DAZN GB 35 - EWC Counter Strike 02 2026 Day 09 Stream A - 15:00 22/08/2026",
+        "DAZN GB 36 - Jarama Race 01 - 16:00 22/08/2026",
+        "DAZN GB 37 - DØDS World Championship Arendal Norway - 16:00 22/08/2026",
+        "DAZN GB 38 - Commanders at Lions - 17:00 22/08/2026",
+        "DAZN GB 39 - Liddard vs. Morello: Prelims - 17:00 22/08/2026",
+        "DAZN GB 40 - Commanders at Lions - 17:00 22/08/2026",
+        "DAZN GB 41 - Charleroi vs. Mechelen - 17:15 22/08/2026",
+        "DAZN GB 42 - Inter vs. Monza - 17:30 22/08/2026",
+        "DAZN GB 43 - Udinese vs. Como - 17:30 22/08/2026",
+        "DAZN GB 44 - Ravens at Vikings - 18:00 22/08/2026",
+        "DAZN GB 45 - Falcons at Colts - 18:00 22/08/2026",
+        "DAZN GB 46 - Bills at Browns - 18:00 22/08/2026",
+        "DAZN GB 47 - Bills at Browns - 18:00 22/08/2026",
+        "DAZN GB 48 - Falcons at Colts - 18:00 22/08/2026",
+        "DAZN GB 49 - Ravens at Vikings - 18:00 22/08/2026",
+        "DAZN GB 50 - Liddard vs. Morello - 19:00 22/08/2026"
       ],
       "sections": [],
       "events": []
@@ -2054,12 +2081,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: World Series Darts: Australia: D1 - 10:00 21/08/2026",
-        "Sky Sport 5 - LIVE: AFL Collingwood v Brisbane Lions - 10:25 21/08/2026",
-        "Sky Sport 1 - LIVE: England v Pakistan: 1st Test D3 - 10:30 21/08/2026",
-        "Sky Sport 1 UHD - LIVE: England v Pakistan: 1st Test D3 - 10:30 21/08/2026",
-        "Sky Sport 2 - LIVE: NRL 2026: Dolphins v Eels R25 - 10:55 21/08/2026",
-        "Sky Sport 3 - LIVE: FIA F1: Dutch GP Practice - 11:00 21/08/2026",
         "Sky Sport 7 - LIVE: DP World Tour: Round 2 - 12:30 21/08/2026",
         "Sky Sport 5 - LIVE: Currie Cup: Pumas v Griquas - 13:55 21/08/2026",
         "Sky Sport 6 - LIVE: Deutschland Tour Stage 2 - 14:00 21/08/2026",
@@ -2238,7 +2259,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: August 20 - Fri 21/08 10:00am",
         "Sportsnet 02 : Dolphins vs. Eels - Fri 21/08 10:50am",
         "Sportsnet 03 : Jays Talk Plus: August 21 - Fri 21/08 3:00pm",
         "Sportsnet 01 : Leigh Leopards vs. Bradford Bulls - Fri 21/08 7:50pm",
@@ -2273,7 +2293,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Hawke's Bay v ManawatÅ« - NPC Round 4 2026 - Fri 21/08 8:00am",
         "Stan 02 : FC Tokyo v Chiba - J.League 2026 - Fri 21/08 11:25am",
         "Stan 03 : PL Welcome to the Weekend: Episode 1 - Aug 21 - Fri 21/08 12:00pm",
         "Stan 04 : Pumas v Griquas - Currie Cup Round 6 2026 - Fri 21/08 1:55pm",
@@ -2332,7 +2351,8 @@
         "Stan 11 : Studio Coverage: Newcastle United v Liverpool - Premier League Matchweek 1 2026/2027 - Sun 23/08 4:20pm",
         "Stan 12 : Race: Grand Prix of Washington, D.C - Indycar 2026 - Sun 23/08 4:30pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 1 - Aug 24 - Sun 23/08 7:00pm",
-        "Stan 02 : Washington Spirit v Orlando Pride - NWSL 2026 - Sun 23/08 9:00pm"
+        "Stan 02 : Washington Spirit v Orlando Pride - NWSL 2026 - Sun 23/08 9:00pm",
+        "Stan 03 : Cincinnati: Day 11 - WTA 1000 - Mon 24/08 12:00am"
       ],
       "sections": [],
       "events": []
@@ -2369,9 +2389,13 @@
         "TSN 11 : Formula 1 Pit Lane - Dutch Grand Prix Sprint Qualifying - Fri 21/08 3:20pm",
         "TSN 14 : Formula 1 Timing Channel - Dutch Grand Prix Sprint Qualifying - Fri 21/08 3:20pm",
         "TSN 17 : PGA TOUR Live: Featured Groups (Feat. Fowler & McIlroy) - Fri 21/08 3:30pm",
+        "TSN 04 : 2026 Little League Baseball World Series: Japan vs. Curacao - Fri 21/08 5:00pm",
+        "TSN 05 : 2026 Little League Baseball World Series: Midwest vs. West - Fri 21/08 5:00pm",
         "TSN 02 : Pat McAfee Show - Fri 21/08 5:00pm",
         "TSN 01 : Rich Eisen Show - Fri 21/08 5:00pm",
         "TSN 03 : LaLiga: Real Betis vs. Real Sociedad - Fri 21/08 7:48pm",
+        "TSN 06 : 2026 Little League Baseball World Series: Latin America vs. Panama - Fri 21/08 8:00pm",
+        "TSN 04 : 2026 Little League Baseball World Series: Europe-Africa vs. Asia-Pacific - Fri 21/08 11:00pm",
         "TSN 01 : Banana Ball: Coconuts vs. Bananas - Sat 22/08 1:00am"
       ],
       "sections": [],
