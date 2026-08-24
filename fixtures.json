@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T11:24:17.367577+00:00",
+  "scraped_at": "2026-08-24T17:00:50.912766+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,33 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Monday 24 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 19:45-21:45 - Serie A: Roma vs Fiorentina 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - EPL: Fulham vs Chelsea 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Fulham vs Chelsea 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Fulham vs Chelsea 720p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,7 +42,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 24-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E6 -Chinese Taipei v Venezuela[Live] [HK]",
         "EVENT 03 - 24-Aug 05:23PM-07:38PM - Serie A 2026/27 E9 -Bologna vs Lazio[Live] [HK]",
         "EVENT 02 - 24-Aug 06:25PM-08:25PM - LaLiga 2026/27: Osasuna vs Levante [SG]",
         "EVENT 04 - 24-Aug 06:30PM-08:30PM - LALIGA EA SPORTS 2026/2027 MD02 -CA Osasuna vs Levante UD[Live] [HK]",
@@ -26,6 +51,7 @@
         "EVENT 03 - 24-Aug 08:22PM-10:30PM - LaLiga 2 2026/27: Granada vs Mallorca [SG]",
         "EVENT 05 - 24-Aug 08:25PM-10:30PM - LaLiga 2026/27: Malaga vs Deportivo [SG]",
         "EVENT 08 - 24-Aug 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD02 -Málaga CF vs RC Deportivo[Live] [HK]",
+        "EVENT 09 - 24-Aug 09:00PM-11:00PM - 2026 US Open Qualifying -C. Wong vs E. Moller[Live] [HK]",
         "EVENT 01 - 25-Aug 03:30AM-06:00AM - WBWC '26 Gr. Tainan E7 -Great Britain v Cuba[Live] [HK]",
         "EVENT 01 - 25-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E8 -Venezuela v Japan[Live] [HK]",
         "EVENT 01 - 25-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E9 -Philipinnes v Chinese Taipei[Live] [HK]",
@@ -158,6 +184,54 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "18:00",
+          "name": "CHIRIQUí, PANAMA - VANCOUVER, BRITISH COLUMBIA",
+          "datetime": "2026-08-24 18:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "20:00",
+          "name": "BOERNE, TX - HAMILTON, OH",
+          "datetime": "2026-08-24 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "22:00",
+          "name": "TOKYO, JAPAN - BRNO, CZECHIA",
+          "datetime": "2026-08-24 22:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "23:40",
           "name": "DETROIT TIGERS - TAMPA BAY RAYS",
           "datetime": "2026-08-24 23:40:00",
@@ -191,6 +265,13 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:00",
+          "name": "PHENIX CITY, AL - WEST CHESTER, PA",
+          "datetime": "2026-08-25 00:00:00",
+          "channels": []
         },
         {
           "sport": "TENNIS",
@@ -231,7 +312,7 @@
         {
           "sport": "VOLLEYBALL",
           "time": "23:00",
-          "name": "XAVIER - PITTSBURGH",
+          "name": "PITTSBURGH - XAVIER",
           "datetime": "2026-08-24 23:00:00",
           "channels": [
             {
@@ -576,6 +657,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "02:30",
+          "name": "ABIERTO GNP SEGUROS",
+          "datetime": "2026-08-25 02:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "22:00",
           "name": "ABIERTO GNP SEGUROS",
           "datetime": "2026-08-25 22:00:00",
@@ -638,10 +731,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: Reform UK Says It Would Re-Prioritise Social Housing List - 24/08/2026 10:41 - 13:00",
+        "BBC Events 01 - Major League Baseball: St Louis Cardinals v Philadelphia Phillies - 24/08/2026 17:00 - 19:59",
+        "BBC Events 02 - no_brand_title: العالم هذا المساء من بي بي سي نيوز عربي - 24/08/2026 12:12 - 12:11",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 24/08/2026 05:29 - 23:54",
-        "BBC Events 04 - no_brand_title: Burnham in Ukraine for First Foreign Trip - 24/08/2026 07:17 - 01:22",
-        "BBC Events 07 - Major League Baseball: St Louis Cardinals v Philadelphia Phillies - 24/08/2026 10:00 - 12:59"
+        "BBC Events 04 - no_brand_title: Burnham in Ukraine for First Foreign Trip - 24/08/2026 07:17 - 01:22"
       ],
       "sections": [],
       "events": []
@@ -929,9 +1022,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: La Vuelta Stage 3 - 13:50 24/08/2026",
-        "Sky Sport 1 UHD - LIVE: La Vuelta Stage 3 - 13:50 24/08/2026",
-        "Sky Sport 2 - LIVE: World Rowing Championships D1 - 15:00 24/08/2026",
         "Sky Sport 8 - LIVE: PL: Fulham v Chelsea - 19:00 24/08/2026",
         "Sky Sport 2 - LIVE: AFL Awards - 10:30 25/08/2026",
         "Sky Sport 2 - LIVE: World Rowing Championships D2 S1 - 12:00 25/08/2026",
@@ -1097,7 +1187,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Jays Talk Plus: August 24 - Mon 24/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 24 - Mon 24/08 9:00pm",
         "Sportsnet 02 : The FAN Pregame: August 24 - Mon 24/08 11:00pm",
         "Sportsnet 03 : Tampa Bay @ Detroit - Mon 24/08 11:30pm",
@@ -1120,7 +1209,8 @@
         "Sportsnet 04 : Houston @ New York Yankees - Thu 27/08 12:00am",
         "Sportsnet 05 : Los Angeles Dodgers @ Atlanta - Thu 27/08 12:00am",
         "Sportsnet 01 : Sportsnet Central: August 26 - Thu 27/08 10:00am",
-        "Sportsnet 02 : Broncos vs. Storm - Thu 27/08 10:40am"
+        "Sportsnet 02 : Broncos vs. Storm - Thu 27/08 10:40am",
+        "Sportsnet 01 : Jays Talk Plus: August 27 - Thu 27/08 3:00pm"
       ],
       "sections": [],
       "events": []
