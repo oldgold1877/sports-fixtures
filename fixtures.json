@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T07:38:44.552476+00:00",
+  "scraped_at": "2026-08-25T11:00:51.832660+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,45 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 17:45-19:45 - UEFA Champions League: Sabah vs. Hapoel Beer-Sheva"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 19:30-22:00 - EFL Cup: The Golazo Show"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - UEFA Champions League: LASK vs. Celtic"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 - 19:00-22:00 - EFL Cup: Cardiff City vs. Norwich City"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 20:00-22:00 - EFL Cup: Nottingham Forest vs. Leeds United"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 14 - 19:45-22:00 - EFL Cup: Ipswich Town vs. Leicester City"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 15 - 20:00-22:00 - EFL Cup: Birmingham City vs. Brentford"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 16 - 19:45-22:00 - EFL Cup: Southampton vs. West Ham United"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,7 +54,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 25-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E8 -Venezuela v Japan[Live] [HK]",
         "EVENT 01 - 25-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E9 -Philipinnes v Chinese Taipei[Live] [HK]",
         "EVENT 01 - 25-Aug 05:40PM-07:45PM - UEFA Champions League 2026/27 -Sabah FK vs Hapoel - Play-Offs,2nd Leg[Live] [HK]",
         "EVENT 02 - 25-Aug 05:40PM-07:45PM - UEFA Champions League 2026/27: Sabah FK vs Hapoel Be'er Sheva - Play-Offs,2nd Leg [SG]",
@@ -37,7 +74,8 @@
         "EVENT 06 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27: Viking vs Dinamo Zagreb - Play-Offs,2nd Leg [SG]",
         "EVENT 07 - 26-Aug 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD01 -Real Madrid vs Real Sociedad[Live] [HK]",
         "EVENT 01 - 27-Aug 03:30AM-06:00AM - WBWC '26 Gr. Tainan E13 -Venezuela v Philipinnes[Live] [HK]",
-        "EVENT 01 - 27-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E14 -Japan v Cuba[Live] [HK]"
+        "EVENT 01 - 27-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E14 -Japan v Cuba[Live] [HK]",
+        "EVENT 01 - 27-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E15 -Great Britain v Chinese Taipei[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -814,9 +852,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - no_brand_title: Phone-in: AI-generated Complaints - 25/08/2026 09:58 - 08:25",
         "BBC Events 02 - no_brand_title: العالم هذا المساء من بي بي سي نيوز عربي - 24/08/2026 12:12 - 12:11",
-        "BBC Events 03 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 25/08/2026 06:00 - 12:00",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 25/08/2026 05:31 - 21:00"
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 25/08/2026 05:31 - 21:00",
+        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 25/08/2026 عالم الظهيرة - 25/08/2026 11:12 - 11:11"
       ],
       "sections": [],
       "events": []
@@ -1124,8 +1163,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: AFL Awards - 10:30 25/08/2026",
-        "Sky Sport 2 - LIVE: World Rowing Championships D2 - 12:00 25/08/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 4 - 13:30 25/08/2026",
         "Sky Sport 1 UHD - LIVE: La Vuelta Stage 4 - 13:30 25/08/2026",
         "Sky Sport 3 - LIVE: US Open Pool: Day1 - 17:00 25/08/2026",
@@ -1311,7 +1348,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: August 24 - Tue 25/08 10:00am",
         "Sportsnet 01 : Jays Talk Plus: August 25 - Tue 25/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 25 - Tue 25/08 9:00pm",
         "Sportsnet 02 : The FAN Pregame: August 25 - Tue 25/08 11:00pm",
@@ -1333,7 +1369,9 @@
         "Sportsnet 01 : Blair & Barker: August 27 - Thu 27/08 9:00pm",
         "Sportsnet 03 : The FAN Pregame: August 27 - Thu 27/08 11:00pm",
         "Sportsnet 04 : Kansas City @ Toronto - Thu 27/08 11:30pm",
-        "Sportsnet 05 : Los Angeles Dodgers @ Atlanta - Fri 28/08 12:00am"
+        "Sportsnet 05 : Los Angeles Dodgers @ Atlanta - Fri 28/08 12:00am",
+        "Sportsnet 06 : Milwaukee @ New York Mets - Fri 28/08 12:00am",
+        "Sportsnet 01 : TNA iMPACT! - Fri 28/08 2:00am"
       ],
       "sections": [],
       "events": []
