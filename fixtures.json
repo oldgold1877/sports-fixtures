@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26T07:40:22.558474+00:00",
+  "scraped_at": "2026-08-26T11:00:50.617698+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -16,7 +16,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 26-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E11 -Philipinnes v Great Britain[Live] [HK]",
         "EVENT 01 - 26-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E12 -Chinese Taipei v Japan[Live] [HK]",
         "EVENT 01 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27 -AEK Athens vs Levski Sofia - Play-Offs,2nd Leg[Live] [HK]",
         "EVENT 02 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27 E12 -Viking vs Dinamo Zagreb - Play-Offs,2nd Leg[Live] [HK]",
@@ -46,102 +45,6 @@
       "events": [
         {
           "sport": "FOOTBALL",
-          "time": "19:00",
-          "name": "AL AHLI - AUCKLAND",
-          "datetime": "2026-08-26 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "BRADFORD CITY - BURNLEY",
-          "datetime": "2026-08-26 19:45:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "NEWCASTLE UNITED - WEST BROMWICH ALBION",
-          "datetime": "2026-08-26 19:45:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "TOTTENHAM HOTSPUR - CHARLTON ATHLETIC",
-          "datetime": "2026-08-26 19:45:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "AEK ATHENS - LEVSKI SOFIA",
-          "datetime": "2026-08-26 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "CELJE - SLOVAN BRATISLAVA",
-          "datetime": "2026-08-26 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "LYON - FENERBAHçE",
-          "datetime": "2026-08-26 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "PRESTON NORTH END - EVERTON",
-          "datetime": "2026-08-26 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
           "time": "20:00",
           "name": "REAL MADRID - REAL SOCIEDAD",
           "datetime": "2026-08-26 20:00:00",
@@ -149,18 +52,6 @@
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "VIKING - DINAMO ZAGREB",
-          "datetime": "2026-08-26 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
             }
           ]
         },
@@ -300,18 +191,6 @@
           ]
         },
         {
-          "sport": "FIGHTING",
-          "time": "10:00",
-          "name": "NIKITA TSYU - BEN MAHONEY",
-          "datetime": "2026-08-26 10:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
           "sport": "TENNIS",
           "time": "03:00",
           "name": "WTA & ATP TOURNAMENTS",
@@ -344,18 +223,6 @@
             {
               "name": "TENNIS CHANNEL",
               "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "22:00",
-          "name": "ABIERTO GNP SEGUROS",
-          "datetime": "2026-08-26 22:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
             }
           ]
         },
@@ -417,54 +284,6 @@
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "LEAGUE PHASE DRAW",
-          "datetime": "2026-08-27 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:30",
-          "name": "CHELSEA - LUTON TOWN",
-          "datetime": "2026-08-27 19:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "BOREHAM WOOD - BOSTON UNITED",
-          "datetime": "2026-08-27 19:45:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:00",
-          "name": "FULHAM - AFC WIMBLEDON",
-          "datetime": "2026-08-27 20:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
             }
           ]
         },
@@ -555,219 +374,6 @@
           ]
         },
         {
-          "sport": "BASKETBALL",
-          "time": "13:00",
-          "name": "GUINEA - SOUTH SUDAN",
-          "datetime": "2026-08-27 13:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "13:30",
-          "name": "ANGOLA - D.R. CONGO",
-          "datetime": "2026-08-27 13:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "16:00",
-          "name": "NIGERIA - CAMEROON",
-          "datetime": "2026-08-27 16:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "16:30",
-          "name": "FINLAND - SWEDEN",
-          "datetime": "2026-08-27 16:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "16:30",
-          "name": "MALI - IVORY COAST",
-          "datetime": "2026-08-27 16:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "17:00",
-          "name": "HUNGARY - ESTONIA",
-          "datetime": "2026-08-27 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "17:00",
-          "name": "QATAR - CHINA",
-          "datetime": "2026-08-27 17:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "18:00",
-          "name": "SAUDI ARABIA - JAPAN",
-          "datetime": "2026-08-27 18:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "CROATIA - LATVIA",
-          "datetime": "2026-08-27 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "GERMANY - NETHERLANDS",
-          "datetime": "2026-08-27 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "ISRAEL - POLAND",
-          "datetime": "2026-08-27 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "LEBANON - SOUTH KOREA",
-          "datetime": "2026-08-27 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "TUNISIA - CAPE VERDE",
-          "datetime": "2026-08-27 19:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:30",
-          "name": "EGYPT - SENEGAL",
-          "datetime": "2026-08-27 19:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:30",
-          "name": "FRANCE - SLOVENIA",
-          "datetime": "2026-08-27 19:30:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "23:10",
-          "name": "ARGENTINA - PUERTO RICO",
-          "datetime": "2026-08-27 23:10:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:10",
-          "name": "BRAZIL - DOMINICAN REPUBLIC",
-          "datetime": "2026-08-28 00:10:00",
-          "channels": []
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:10",
-          "name": "CHILE - USA",
-          "datetime": "2026-08-28 00:10:00",
-          "channels": []
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:10",
-          "name": "URUGUAY - BAHAMAS",
-          "datetime": "2026-08-28 00:10:00",
-          "channels": []
-        },
-        {
           "sport": "EQUESTRIAN",
           "time": "18:00",
           "name": "SARATOGA LIVE",
@@ -840,18 +446,6 @@
           ]
         },
         {
-          "sport": "MOTORSPORTS",
-          "time": "15:00",
-          "name": "RALLY DEL PARAGUAY",
-          "datetime": "2026-08-27 15:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
-        },
-        {
           "sport": "RUGBY LEAGUE",
           "time": "10:50",
           "name": "BRISBANE BRONCOS - MELBOURNE STORM",
@@ -914,18 +508,6 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "22:00",
-          "name": "ABIERTO GNP SEGUROS",
-          "datetime": "2026-08-27 22:00:00",
-          "channels": [
-            {
-              "name": "DAZN CANADA",
-              "category": "SPORT | DAZN"
-            }
-          ]
         }
       ]
     },
@@ -954,11 +536,12 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 02 - no_brand_title: One Charged and 11 Arrested After Fatal Teesside Crash - 25/08/2026 13:04 - 12:56",
-        "BBC Events 03 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 26/08/2026 06:00 - 12:00",
         "BBC Events 04 - no_brand_title: Newborns Killed After Fire at Pakistan Hospital - 26/08/2026 07:16 - 06:55",
-        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 25/08/2026 عالم الظهيرة - 25/08/2026 11:12 - 11:11",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 26/08/2026 06:09 - 19:16",
-        "BBC Events 07 - no_brand_title: Tributes Flow for Dolly Parton - 26/08/2026 07:37 - 05:05"
+        "BBC Events 07 - no_brand_title: Tributes Flow for Dolly Parton - 26/08/2026 07:37 - 05:05",
+        "BBC Events 08 - no_brand_title: Thousands Gather for World’s Biggest Food Fight - 26/08/2026 10:20 - 12:15",
+        "BBC Events 09 - no_brand_title: Celebrities from Around the World Pay Tribute - 26/08/2026 11:18 - 11:14",
+        "BBC Events 10 - no_brand_title: Sleep and Dream live - 26/08/2026 11:40 - 11:39"
       ],
       "sections": [],
       "events": []
@@ -1281,7 +864,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: World Rowing Championships D3 S1 - 12:00 26/08/2026",
         "Sky Sport 2 - LIVE: ICF: Poznan Day 1 Session 2 - 13:00 26/08/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 5 - 13:50 26/08/2026",
         "Sky Sport 1 UHD - LIVE: La Vuelta Stage 5 - 13:50 26/08/2026",
@@ -1289,14 +871,14 @@
         "Sky Sport 2 - LIVE: US Open Pool: Day 2 - 17:00 26/08/2026",
         "Sky Sport 1 - LIVE: CPL: Trinbago v St Lucia - 23:30 26/08/2026",
         "Sky Sport 1 UHD - LIVE: CPL: Trinbago v St Lucia - 23:30 26/08/2026",
+        "Sky Sport 3 - LIVE: ICF: Poznan Day 2 Session 1 - 08:00 27/08/2026",
         "Sky Sport 1 - LIVE: NPC: Southland v Hawke's Bay - 08:00 27/08/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Southland v Hawke's Bay - 08:00 27/08/2026",
-        "Sky Sport 3 - LIVE: ICF: Poznan Day 2 Session 1 - 08:00 27/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Broncos v Storm - 09:30 27/08/2026",
+        "Sky Sport 2 - LIVE: NRL: Broncos v Storm - 10:00 27/08/2026",
         "Sky Sport 1 - LIVE: England v Pakistan: 2nd Test D1 - 10:05 27/08/2026",
         "Sky Sport 1 UHD - LIVE: England v Pakistan: 2nd Test D1 - 10:05 27/08/2026",
         "Sky Sport 6 - LIVE: World Rowing Championships D4 S1 - 12:00 27/08/2026",
-        "Sky Sport 3 - LIVE: DP World Tour: Round 1 - 12:30 27/08/2026",
+        "Sky Sport 3 - LIVE: DP World Tour: Round 1 - 12:25 27/08/2026",
         "Sky Sport 5 - LIVE: ICF: Poznan Day 2 Session 2 - 13:00 27/08/2026",
         "Sky Sport 2 - LIVE: La Vuelta Stage 6 - 13:50 27/08/2026",
         "Sky Sport 4 - LIVE: LPGA: Round 1 - 14:00 27/08/2026",
@@ -1305,24 +887,23 @@
         "Sky Sport 5 - LIVE: UCI Mtb: WChamps  Elite XCC W - 16:35 27/08/2026",
         "Sky Sport 4 - LIVE: US Open Pool: Day 3 - 17:00 27/08/2026",
         "Sky Sport 5 - LIVE: UCI Mtb: WChamps Elite XCC M - 17:20 27/08/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 19:00 27/08/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 19:00 27/08/2026",
+        "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 18:00 27/08/2026",
         "Sky Sport 2 - LIVE: CPL: St Kitts v Jamaica - 23:30 27/08/2026",
+        "Sky Sport 3 - LIVE: ICF: Poznan Day 3 Session 1 - 08:00 28/08/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Sea Eagles v Dragons - 08:00 28/08/2026",
         "Sky Sport 1 - LIVE: NPC: Auckland v Bay of Plenty - 08:00 28/08/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Auckland v Bay of Plenty - 08:00 28/08/2026",
-        "Sky Sport 2 - LIVE: NRL 2026: Sea Eagles v Dragons - 08:00 28/08/2026",
-        "Sky Sport 3 - LIVE: ICF: Poznan Day 3 Session 1 - 08:00 28/08/2026",
         "Sky Sport Select - LIVE: AFL Western Bulldogs v Collingwood - 10:20 28/08/2026",
+        "Sky Sport 2 - LIVE: NRL: Panthers v Bulldogs - 10:55 28/08/2026",
         "Sky Sport 1 - LIVE: England v Pakistan: 2nd Test D2 - 10:55 28/08/2026",
         "Sky Sport 1 UHD - LIVE: England v Pakistan: 2nd Test D2 - 10:55 28/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Panthers v Bulldogs - 10:55 28/08/2026",
         "Sky Sport 7 - LIVE: World Rowing Championships D5 S1 - 12:00 28/08/2026",
         "Sky Sport 3 - LIVE: La Vuelta Stage 7 - 12:25 28/08/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 28/08/2026",
         "Sky Sport 5 - LIVE: ICF: Poznan Day 3 Session 2 - 13:15 28/08/2026",
         "Sky Sport 2 - LIVE: LPGA: Round 2 - 14:00 28/08/2026",
-        "Sky Sport 7 - LIVE: World Rowing D5 S2 - 15:00 28/08/2026",
         "Sky Sport Select - LIVE: Boxing: MVPW-06: Weigh-In - 15:00 28/08/2026",
+        "Sky Sport 7 - LIVE: World Rowing D5 S2 - 15:00 28/08/2026",
         "Sky Sport 6 - LIVE: Currie Cup: Lions v Stormers - 16:00 28/08/2026",
         "Sky Sport 9 - LIVE: US Open Pool: Day 4 - 17:00 28/08/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 2 - 18:00 28/08/2026",
@@ -1333,24 +914,24 @@
         "Sky Sport 1 - LIVE: NPC: Taranaki v Canterbury - 03:00 29/08/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Taranaki v Canterbury - 03:00 29/08/2026",
         "Sky Sport 5 - LIVE: AFLW: North Melbourne v Western - 03:30 29/08/2026",
-        "Sky Sport 2 - LIVE: NRLW : Titans v Raiders R9 - 03:30 29/08/2026",
-        "Sky Sport 5 - LIVE: AFLW: Adelaide v West Coast - 05:30 29/08/2026",
-        "Sky Sport 2 - LIVE: NRL 2026: Titans v Rabbitohs - 05:30 29/08/2026",
+        "Sky Sport 2 - LIVE: NRLW : Titans v Raiders R9 - 03:40 29/08/2026",
         "Sky Sport 3 - LIVE: FPC: Manawatu v Bay of Plenty - 05:30 29/08/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Titans v Rabbitohs - 05:30 29/08/2026",
+        "Sky Sport 5 - LIVE: AFLW: Adelaide v West Coast - 05:30 29/08/2026",
         "Sky Sport 1 - LIVE: NPC: Otago v Waikato - 06:00 29/08/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Otago v Waikato - 06:00 29/08/2026",
         "Sky Sport 4 - LIVE: NRLW : Roosters v Sharks R9 - 06:10 29/08/2026",
         "Sky Sport 6 - LIVE: AFLW: Sydney v St Kilda - 07:30 29/08/2026",
         "Sky Sport 2 - LIVE: NRL 2026: Roosters v Dolphins - 07:55 29/08/2026",
-        "Sky Sport 5 - LIVE: ICF: Poznan Day 4 Session 1 - 08:00 29/08/2026",
         "Sky Sport 1 - LIVE: NPC: Manawatu v North Harbour - 08:00 29/08/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Manawatu v North Harbour - 08:00 29/08/2026",
+        "Sky Sport 5 - LIVE: ICF: Poznan Day 4 Session 1 - 08:00 29/08/2026",
         "Sky Sport 4 - LIVE: NRLW: Cowboys v Knights R9 - 08:10 29/08/2026",
-        "Sky Sport 9 - LIVE: World Rowing Championships D6 S1 - 09:00 29/08/2026",
+        "Sky Sport 7 - LIVE: World Rowing Championships D6 S1 - 09:00 29/08/2026",
         "Sky Sport Select - LIVE: AFL Melbourne v Carlton - 10:15 29/08/2026",
+        "Sky Sport 2 - LIVE: England v Pakistan: 2nd Test D3 - 10:25 29/08/2026",
         "Sky Sport 1 - LIVE: NRL: Cowboys v Wests Tigers - 10:25 29/08/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Cowboys v Wests Tigers - 10:25 29/08/2026",
-        "Sky Sport 2 - LIVE: England v Pakistan: 2nd Test D3 - 10:25 29/08/2026",
         "Sky Sport 8 - LIVE: PL: Liverpool v Nott'm Forest - 11:30 29/08/2026",
         "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 12:00 29/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite Downhill W - 12:05 29/08/2026",
@@ -1359,12 +940,12 @@
         "Sky Sport 4 - LIVE: La Vuelta Stage 8 - 13:50 29/08/2026",
         "Sky Sport 7 - LIVE: World Rowing Championships D6 S2 - 14:00 29/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite Downhill M - 14:45 29/08/2026",
+        "Sky Sport Select - LIVE: PL: Coventry City v Hull City - 14:50 29/08/2026",
         "Sky Sport 8 - LIVE: PL: Bournemouth v Everton - 14:50 29/08/2026",
-        "Sky Sport 5 - LIVE: PL: Coventry City v Hull City - 15:00 29/08/2026",
         "Sky Sport 1 - LIVE: Springboks v All Blacks 2nd Test - 15:00 29/08/2026",
         "Sky Sport 1 UHD - LIVE: Springboks v All Blacks 2nd Test - 15:00 29/08/2026",
         "Sky Sport 7 - LIVE: Boxing: MVPW-06 - 16:00 29/08/2026",
-        "Sky Sport Select - LIVE: INDYCAR: Milwaukee Mile Qualifying - 16:00 29/08/2026",
+        "Sky Sport 5 - LIVE: INDYCAR: Milwaukee Mile Qualifying - 16:00 29/08/2026",
         "Sky Sport 6 - LIVE: US Open Pool: Day 5 - 17:00 29/08/2026",
         "Sky Sport 8 - LIVE: PL: Spurs v Newcastle United - 17:20 29/08/2026",
         "Sky Sport 3 - LIVE: PGA Tour: Round 3 - 18:00 29/08/2026",
@@ -1381,41 +962,43 @@
         "Sky Sport 1 - LIVE: NRL 2026: Warriors v Knights - 04:30 30/08/2026",
         "Sky Sport 1 UHD - LIVE: NRL 2026: Warriors v Knights - 04:30 30/08/2026",
         "Sky Sport 3 - LIVE: NRLW: Eels v Broncos R9 - 04:40 30/08/2026",
-        "Sky Sport 5 - LIVE: AFLW: Gold Coast v Geelong - 06:00 30/08/2026",
         "Sky Sport 2 - LIVE: NPC: Northland v Tasman (RS) - 06:00 30/08/2026",
+        "Sky Sport 5 - LIVE: AFLW: Gold Coast v Geelong - 06:00 30/08/2026",
         "Sky Sport 3 - LIVE: NRL: Eels v Sharks - 06:55 30/08/2026",
         "Sky Sport 4 - LIVE: World Rowing Championships D7 S1 - 07:00 30/08/2026",
-        "Sky Sport 5 - LIVE: AFLW: Fremantle v Carlton - 08:00 30/08/2026",
         "Sky Sport 4 - LIVE: ICF: Poznan Day 5 Session 1 - 08:00 30/08/2026",
+        "Sky Sport 5 - LIVE: AFLW: Fremantle v Carlton - 08:00 30/08/2026",
         "Sky Sport 2 - LIVE: NRLW: Tigers v Bulldogs R9 - 09:10 30/08/2026",
         "Sky Sport 3 - LIVE: England v Pakistan: 2nd Test D4 - 10:15 30/08/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 9 - 11:00 30/08/2026",
         "Sky Sport 1 UHD - LIVE: La Vuelta Stage 9 - 11:00 30/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite XCO W - 11:50 30/08/2026",
-        "Sky Sport 5 - LIVE: World Rowing Championships D7 S2 - 12:00 30/08/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 4 - 12:00 30/08/2026",
-        "Sky Sport 6 - LIVE: ICF: Poznan Day 5 Session 2 - 13:00 30/08/2026",
+        "Sky Sport 5 - LIVE: World Rowing Championships D7 S2 - 12:00 30/08/2026",
         "Sky Sport 8 - LIVE: Premier League Goal Rush - 13:00 30/08/2026",
-        "Sky Sport 7 - LIVE: PL: Sunderland v Fulham - 13:50 30/08/2026",
+        "Sky Sport 6 - LIVE: ICF: Poznan Day 5 Session 2 - 13:00 30/08/2026",
         "Sky Sport Select - LIVE: PL: Leeds v Brentford - 13:50 30/08/2026",
+        "Sky Sport 7 - LIVE: PL: Sunderland v Fulham - 13:50 30/08/2026",
         "Sky Sport 2 - LIVE: Currie Cup: Kavaliers v Griquas - 13:55 30/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite XCO M - 14:05 30/08/2026",
         "Sky Sport 8 - LIVE: PL: Man Utd v Ipswich Town - 16:20 30/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
-        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 2 - LIVE: LPGA: Round 4 - 18:00 30/08/2026",
+        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 5 - LIVE: US Open Pool: Day 6 Aft - 19:00 30/08/2026",
         "Sky Sport 6 - LIVE: PGA Champions Tour: R3 - 20:00 30/08/2026",
+        "Sky Sport 5 - LIVE: US Open Pool: Day 6 Eve - 22:00 30/08/2026",
         "Sky Sport 1 - LIVE: CPL: St Kitts v Antigua - 23:30 30/08/2026",
         "Sky Sport 1 UHD - LIVE: CPL: St Kitts v Antigua - 23:30 30/08/2026",
         "Sky Sport Select - LIVE: UCI Mtb: WChamps Elite Downhill M - 06:15 31/08/2026",
-        "Sky Sport 4 - LIVE: US Open Pool: Day 6 Eve - 10:00 31/08/2026",
         "Sky Sport 2 - LIVE: England v Pakistan: 2nd Test D5 - 10:15 31/08/2026",
         "Sky Sport 3 - LIVE: WST: British Open: D1 Aft - 13:00 31/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite Downhill M - 14:30 31/08/2026",
+        "Sky Sport 8 - LIVE: PL: Aston Villa v Arsenal - 19:00 31/08/2026",
         "Sky Sport 2 - LIVE: WST: British Open: D1 Eve - 19:00 31/08/2026",
-        "Sky Sport 8 - LIVE: PL: Aston Villa v Arsenal - 19:00 31/08/2026"
+        "Sky Sport 1 - LIVE: CPL: Trinbago v Guyana - 21:30 31/08/2026",
+        "Sky Sport 1 UHD - LIVE: CPL: Trinbago v Guyana - 21:30 31/08/2026"
       ],
       "sections": [],
       "events": []
@@ -1475,7 +1058,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: August 25 - Wed 26/08 10:00am",
         "Sportsnet 01 : Jays Talk Plus: August 26 - Wed 26/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 26 - Wed 26/08 9:00pm",
         "Sportsnet 02 : The FAN Pregame: August 26 - Wed 26/08 11:00pm",
@@ -1498,7 +1080,8 @@
         "Sportsnet 02 : St Helens vs. Leeds Rhinos - Fri 28/08 7:30pm",
         "Sportsnet 03 : Castleford Tigers vs. Catalans Dragons - Fri 28/08 7:50pm",
         "Sportsnet 04 : Huddersfield Giants vs. Leigh Leopards - Fri 28/08 7:50pm",
-        "Sportsnet 01 : Blair & Barker: August 28 - Fri 28/08 9:00pm"
+        "Sportsnet 01 : Blair & Barker: August 28 - Fri 28/08 9:00pm",
+        "Sportsnet 05 : The FAN Pregame: August 28 - Fri 28/08 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -1594,7 +1177,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : US Open: Qualifying Day #3 - Court TBD - Wed 26/08 4:00pm",
+        "TSN 07 : US Open: Qualifying Day #3 - Court 14 (ft. Galarneau) - Wed 26/08 4:00pm",
+        "TSN 06 : US Open: Qualifying Day #3 - Court 6 (ft. Marino, Draxl) - Wed 26/08 4:00pm",
+        "TSN 01 : US Open: Qualifying Day #3 - Court 7 (ft. Branstine, Andreescu) - Wed 26/08 4:00pm",
+        "TSN 08 : US Open: Qualifying Day #3 - Stadium 17 - Wed 26/08 4:00pm",
         "TSN 03 : Pat McAfee Show - Wed 26/08 5:00pm",
         "TSN 02 : Rich Eisen Show - Wed 26/08 5:00pm",
         "TSN 05 : ATP 250 Tennis: Winston-Salem - Day #4 - Wed 26/08 7:00pm",
