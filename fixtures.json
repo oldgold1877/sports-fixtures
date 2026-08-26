@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26T11:26:32.993117+00:00",
+  "scraped_at": "2026-08-26T17:01:02.423404+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,81 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 26 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 19:45-21:45 - EFL Cup: Tottenham Hotspur vs Charlton Athletic 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 19:45-21:45 - EFL Cup: Newcastle United vs West Bromwich Albion 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 07 - 19:45-21:45 - EFL Cup: Bradford City vs Burnley 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 19:45-21:45 - EFL Cup: Tottenham Hotspur vs Charlton Athletic 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - La Liga: Real Madrid vs Real Sociedad 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - UCL: Olympique Lyonnais vs Fenerbahçe 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - EFL Cup: Preston North End vs Everton 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 - 19:30-21:30 - EFL Cup: Tottenham vs. Charlton Athletic"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 19:30-21:30 - EFL Cup: Newcastle United vs. West Bromwich Albion"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 14 - 19:30-21:30 - EFL Cup: Preston North End vs. Everton"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 15 - 19:30-21:30 - EFL Cup: Bradford City vs. Burnley"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 16 - 20:00-22:00 - Uefa Champions League: Lyon vs. Fenerbahçe"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 17 - 20:00-22:00 - Uefa Champions League: Celje vs. Slovan Bratislava"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 18 - 20:00-22:00 - Uefa Champions League: AEK Athens vs. Levski Sofia"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 19 - 20:00-22:00 - Uefa Champions League: Viking vs. GNK Dinamo"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,7 +90,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 26-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E12 -Chinese Taipei v Japan[Live] [HK]",
+        "EVENT 01 - 26-Aug 05:30PM-07:30PM - 2026 US Open Qualifying -C. Wong vs L. Neumayer[Live] [HK]",
         "EVENT 01 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27 -AEK Athens vs Levski Sofia - Play-Offs,2nd Leg[Live] [HK]",
         "EVENT 02 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27 E12 -Viking vs Dinamo Zagreb - Play-Offs,2nd Leg[Live] [HK]",
         "EVENT 03 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27 E14 -Lyon vs Fenerbahce - Play-Offs,2nd Leg[Live] [HK]",
@@ -24,13 +98,14 @@
         "EVENT 05 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27: Lyon vs Fenerbahce - Play-Offs,2nd Leg [SG]",
         "EVENT 06 - 26-Aug 07:55PM-10:00PM - UEFA Champions League 2026/27: Viking vs Dinamo Zagreb - Play-Offs,2nd Leg [SG]",
         "EVENT 07 - 26-Aug 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD01 -Real Madrid vs Real Sociedad[Live] [HK]",
-        "EVENT 01 - 27-Aug 03:30AM-06:00AM - WBWC '26 Gr. Tainan E13 -Venezuela v Philipinnes[Live] [HK]",
-        "EVENT 01 - 27-Aug 07:30AM-10:00AM - WBWC '26 Gr. Tainan E14 -Japan v Cuba[Live] [HK]",
-        "EVENT 01 - 27-Aug 11:30AM-02:00PM - WBWC '26 Gr. Tainan E15 -Great Britain v Chinese Taipei[Live] [HK]",
         "EVENT 02 - 27-Aug 07:25PM-09:30PM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]",
         "EVENT 03 - 27-Aug 07:55PM-10:00PM - LaLiga 2026/27: Barcelona vs Athletic Bilbao [SG]",
         "EVENT 04 - 27-Aug 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD01 -FC Barcelona vs Athletic Club[Live] [HK]",
-        "EVENT 01 - 28-Aug 04:40AM-06:40AM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]"
+        "EVENT 01 - 28-Aug 04:40AM-06:40AM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]",
+        "EVENT 03 - 28-Aug 05:20PM-07:25PM - Bundesliga 2 2026/27 -Bochum vs Osnabruck[Live] [HK]",
+        "EVENT 05 - 28-Aug 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Bochum vs Osnabruck [SG]",
+        "EVENT 02 - 28-Aug 05:55PM-08:10PM - LaLiga 2026/27: Racing de Santander vs Elche [SG]",
+        "EVENT 04 - 28-Aug 06:00PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD03 -Racing Club vs Elche CF[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -92,10 +167,6 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -107,6 +178,10 @@
           "channels": [
             {
               "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -122,6 +197,13 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "00:00",
+          "name": "GREAT LAKES - SOUTHEAST",
+          "datetime": "2026-08-27 00:00:00",
+          "channels": []
         },
         {
           "sport": "BASEBALL",
@@ -535,7 +617,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 02 - no_brand_title: One Charged and 11 Arrested After Fatal Teesside Crash - 25/08/2026 13:04 - 12:56",
+        "BBC Events 03 - no_brand_title: MENA LIVE STREAMING - 26/08/202 عالم الظهيرة - 26/08/2026 12:26 - 12:25",
         "BBC Events 04 - no_brand_title: Newborns Killed After Fire at Pakistan Hospital - 26/08/2026 07:16 - 06:55",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 26/08/2026 06:09 - 19:16",
         "BBC Events 07 - no_brand_title: Tributes Flow for Dolly Parton - 26/08/2026 07:37 - 05:05",
@@ -863,11 +945,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: ICF: Poznan Day 1 Session 2 - 13:00 26/08/2026",
-        "Sky Sport 1 - LIVE: La Vuelta Stage 5 - 13:50 26/08/2026",
-        "Sky Sport 1 UHD - LIVE: La Vuelta Stage 5 - 13:50 26/08/2026",
-        "Sky Sport 3 - LIVE: World Rowing Championships D3 S2 - 15:00 26/08/2026",
-        "Sky Sport 2 - LIVE: US Open Pool: Day 2 - 17:00 26/08/2026",
         "Sky Sport 1 - LIVE: CPL: Trinbago v St Lucia - 23:30 26/08/2026",
         "Sky Sport 1 UHD - LIVE: CPL: Trinbago v St Lucia - 23:30 26/08/2026",
         "Sky Sport 3 - LIVE: ICF: Poznan Day 2 Session 1 - 08:00 27/08/2026",
@@ -1057,7 +1134,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Jays Talk Plus: August 26 - Wed 26/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 26 - Wed 26/08 9:00pm",
         "Sportsnet 02 : The FAN Pregame: August 26 - Wed 26/08 11:00pm",
         "Sportsnet 03 : Kansas City @ Toronto - Wed 26/08 11:30pm",
@@ -1080,7 +1156,9 @@
         "Sportsnet 03 : Castleford Tigers vs. Catalans Dragons - Fri 28/08 7:50pm",
         "Sportsnet 04 : Huddersfield Giants vs. Leigh Leopards - Fri 28/08 7:50pm",
         "Sportsnet 01 : Blair & Barker: August 28 - Fri 28/08 9:00pm",
-        "Sportsnet 05 : The FAN Pregame: August 28 - Fri 28/08 11:00pm"
+        "Sportsnet 05 : The FAN Pregame: August 28 - Fri 28/08 11:00pm",
+        "Sportsnet 06 : Los Angeles Dodgers @ Detroit - Fri 28/08 11:30pm",
+        "Sportsnet 07 : Texas @ Milwaukee - Sat 29/08 12:30am"
       ],
       "sections": [],
       "events": []
@@ -1091,8 +1169,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Anyang v Incheon - K League 2026 - Wed 26/08 11:25am",
-        "Stan 01 : Daejeon v Ulsan - K League 2026 - Wed 26/08 11:25am",
         "Stan 01 : Monterrey: Day 4 - WTA 500 - Wed 26/08 10:00pm",
         "Stan 02 : Day 2 Mixed Doubles - US Open 2026 - Thu 27/08 12:00am",
         "Stan 03 : Svitolina/Monfils v Bencic/Cobolli - Mixed Doubles Semi Final US Open 2026 - Thu 27/08 12:00am",
@@ -1156,7 +1232,9 @@
         "Stan 01 : Roger Federer - Hall of Fame 2026 - Sat 29/08 11:30pm",
         "Stan 03 : Orlando Pride v Utah Royals - NWSL 2026 - Sun 30/08 12:00am",
         "Stan 05 : Monterrey: Day 7 - WTA 500 - Sun 30/08 12:30am",
-        "Stan 04 : Wellington v Counties Manukau - NPC Round 5 2026 - Sun 30/08 3:00am"
+        "Stan 04 : Wellington v Counties Manukau - NPC Round 5 2026 - Sun 30/08 3:00am",
+        "Stan 06 : Brothers v Wests - Hospital Cup Grand Final 2026 - Sun 30/08 5:30am",
+        "Stan 01 : China Day 3: Afternoon Session - UIPM Pentathlon World Championships 2026 - Sun 30/08 6:00am"
       ],
       "sections": [],
       "events": []
@@ -1183,7 +1261,8 @@
         "TSN 03 : Pat McAfee Show - Wed 26/08 5:00pm",
         "TSN 02 : Rich Eisen Show - Wed 26/08 5:00pm",
         "TSN 05 : ATP 250 Tennis: Winston-Salem - Day #4 - Wed 26/08 7:00pm",
-        "TSN 04 : PGA TOUR Live: TOUR Championship - On the Range - Wed 26/08 7:00pm"
+        "TSN 04 : PGA TOUR Live: TOUR Championship - On the Range - Wed 26/08 7:00pm",
+        "TSN 09 : 2026 Little League Baseball World Series: Mountain vs. Midwest - Wed 26/08 8:00pm"
       ],
       "sections": [],
       "events": []
