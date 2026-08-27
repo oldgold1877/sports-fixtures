@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-27T18:01:34.311990+00:00",
+  "scraped_at": "2026-08-27T20:53:38.433491+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,27 +17,11 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 05 - 19:30-21:30 - EFL Cup: Chelsea vs Luton Town 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 19:30-21:30 - EFL Cup: Chelsea vs Luton Town 720p"
-            },
-            {
-              "type": "fixture",
               "text": "SPORTS SCENE 03 - 20:00-22:00 - La Liga: Barcelona vs Athletic Club 1080p"
             },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 06 - 20:00-22:00 - EFL Cup: Fulham vs AFC Wimbledon 1080p"
-            },
-            {
-              "type": "date",
-              "text": "Additional"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 02 - 19:30-21:30 - UEFA: Brighton vs Tromso"
             }
           ]
         },
@@ -59,7 +43,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 27-Aug 07:25PM-09:30PM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]",
         "EVENT 03 - 27-Aug 07:55PM-10:00PM - LaLiga 2026/27: Barcelona vs Athletic Bilbao [SG]",
         "EVENT 04 - 27-Aug 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD01 -FC Barcelona vs Athletic Club[Live] [HK]",
         "EVENT 01 - 28-Aug 04:40AM-06:40AM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]",
@@ -101,7 +84,14 @@
         "EVENT 05 - 29-Aug 05:20PM-07:30PM - Tottenham Hotspur v Newcastle United (MW02) [SG]",
         "EVENT 07 - 29-Aug 05:23PM-07:38PM - Serie A 2026/27 E12 -Fiorentina vs Frosinone[Live] [HK]",
         "EVENT 06 - 29-Aug 05:55PM-08:10PM - LaLiga 2026/27: Real Sociedad vs Espanyol [SG]",
-        "EVENT 09 - 29-Aug 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD03 -Real Sociedad vs RCD Espanyol[Live] [HK]"
+        "EVENT 09 - 29-Aug 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD03 -Real Sociedad vs RCD Espanyol[Live] [HK]",
+        "EVENT 02 - 29-Aug 07:25PM-09:30PM - Bundesliga 2 2026/27: Nuremberg vs Arminia Bielefeld [SG]",
+        "EVENT 11 - 29-Aug 07:38PM-09:45PM - Serie A 2026/27 E15 -Juventus vs Parma[Live] [HK]",
+        "EVENT 04 - 29-Aug 07:40PM-09:45PM - Ligue 1 2026/27 -Brest vs Toulouse[Live] [HK]",
+        "EVENT 12 - 29-Aug 07:40PM-09:45PM - Ligue 1 2026/27 E15 -Lyon vs Le Havre[Live] [HK]",
+        "EVENT 05 - 29-Aug 08:22PM-10:30PM - LaLiga 2 2026/27: Girona vs Las Palmas [SG]",
+        "EVENT 06 - 29-Aug 08:25PM-10:30PM - LaLiga 2026/27: Sevilla vs Atletico Madrid [SG]",
+        "EVENT 07 - 29-Aug 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD03 -Sevilla FC vs Atlético de Madrid[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1277,9 +1267,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Women's Elite Cross-Country Short Track - UCI Mountain Bike World Championships 2026 - Thu 27/08 4:35pm",
-        "Stan 02 : League Phase Draw - UEFA Champions League 2026/27 - Thu 27/08 5:00pm",
-        "Stan 03 : Men's Elite Cross-Country Short Track - UCI Mountain Bike World Championships 2026 - Thu 27/08 5:20pm",
         "Stan 04 : Monterrey: Day 5 - WTA 500 - Thu 27/08 10:00pm",
         "Stan 05 : Stars of the Open - US Open 2026 - Thu 27/08 11:00pm",
         "Stan 01 : China Day 1: Afternoon Session - UIPM Pentathlon World Championships 2026 - Fri 28/08 6:00am",
@@ -1341,7 +1328,10 @@
         "Stan 02 : China Day 3: Night Session - UIPM Pentathlon World Championships 2026 - Sun 30/08 9:30am",
         "Stan 03 : SS18 Encarnacion 1 - WRC Paraguay 2026 - Sun 30/08 11:00am",
         "Stan 04 : Gwangju v Seoul - K League 2026 - Sun 30/08 11:25am",
-        "Stan 05 : Incheon v Jeonbuk - K League 2026 - Sun 30/08 11:25am"
+        "Stan 05 : Incheon v Jeonbuk - K League 2026 - Sun 30/08 11:25am",
+        "Stan 01 : Women's Elite Cross-country Olympic - UCI Mountain Bike World Championships 2026 - Sun 30/08 11:50am",
+        "Stan 03 : Goal Rush: Chelsea v Brighton & Hove Albion • 30 August - Premier League 2026/2027 - Sun 30/08 1:00pm",
+        "Stan 06 : PL Live • 30 August - Premier League 2026/27 - Sun 30/08 1:00pm"
       ],
       "sections": [],
       "events": []
@@ -1368,10 +1358,7 @@
         "TSN 07 : US Open: Qualifying Day #4 - Court 5 - Thu 27/08 4:00pm",
         "TSN 06 : US Open: Qualifying Day #4 - Court 7 (ft. Andreescu, Draxl) - Thu 27/08 4:00pm",
         "TSN 05 : US Open: Qualifying Day #4 - Stadium 17 - Thu 27/08 4:00pm",
-        "TSN 10 : Pat McAfee Show - Thu 27/08 5:00pm",
-        "TSN 09 : Rich Eisen Show - Thu 27/08 5:00pm",
         "TSN 01 : ATP 250 Tennis: Winston-Salem - Quarterfinals - Thu 27/08 7:00pm",
-        "TSN 11 : LaLiga: Celta vs. Osasuna - Thu 27/08 7:18pm",
         "TSN 12 : LaLiga: Barcelona vs. Athletic Club - Thu 27/08 7:30pm",
         "TSN 09 : 2026 US Open Tennis: Stars of the Open - Thu 27/08 11:00pm"
       ],
