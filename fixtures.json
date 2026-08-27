@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-27T17:00:54.257744+00:00",
+  "scraped_at": "2026-08-27T18:01:34.311990+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,14 +14,6 @@
             {
               "type": "date",
               "text": "Thursday 27 August 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 11:00-19:00 - 2nd Test: England vs Pakistan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:00-19:00 - UEFA Champions League Draw 1080p"
             },
             {
               "type": "fixture",
@@ -45,11 +37,16 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 01 - 17:00-19:00 - Uefa: FK Jablonec v Rangers"
-            },
+              "text": "SPORTS SCENE 02 - 19:30-21:30 - UEFA: Brighton vs Tromso"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 02 - 19:30-21:30 - UEFA: Brighton vs Tromso"
+              "text": "UEFA  | 01 - Freiburg vs Motherwell"
             }
           ]
         }
@@ -62,7 +59,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 05 - 27-Aug 04:00PM-06:00PM - 2026 US Open Qualifying -C. Wong vs D. Lajovic[Live] [HK]",
         "EVENT 02 - 27-Aug 07:25PM-09:30PM - LaLiga 2026/27: Celta Vigo vs Osasuna [SG]",
         "EVENT 03 - 27-Aug 07:55PM-10:00PM - LaLiga 2026/27: Barcelona vs Athletic Bilbao [SG]",
         "EVENT 04 - 27-Aug 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD01 -FC Barcelona vs Athletic Club[Live] [HK]",
@@ -723,10 +719,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 27/08/2026 05:47 - 22:35",
         "BBC Events 02 - no_brand_title: Hundreds Missing After Flash Floods on Nepal-Tibet Border - 27/08/2026 07:25 - 01:41",
+        "BBC Events 03 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 27/08/2026 18:15 - 00:00",
         "BBC Events 04 - no_brand_title: Over 800 Missing After Flash Floods on Nepal-Tibet Border - 27/08/2026 07:39 - 07:33",
-        "BBC Events 05 - UEFA Champions League: 26/27 Champions League: League Phase draw - 27/08/2026 16:49 - 18:30",
         "BBC Events 06 - no_brand_title: Treatment Involving Family Could Cut Psychiatric Admissions - 27/08/2026 08:26 - 06:31",
-        "BBC Events 07 - UEFA Champions League: Match of the Day: Play-Offs, Second Legs - 27/08/2026 12:00 - 18:15",
         "BBC Events 08 - no_brand_title: Rutte and Colby Deliver Joint Statements at Nato - 27/08/2026 12:04 - 11:45"
       ],
       "sections": [],
@@ -1195,6 +1190,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 22 | Fulham vs Afc Wimbledon",
         "Castleford Tigers vs Catalans Dragons",
         "Wakefield Trinity vs York Rlfc Knights",
         "Birmingham vs Southampton",
@@ -1231,7 +1227,6 @@
         "Exeter vs Barnet",
         "Fleetwood vs Oldham",
         "Northampton vs Crawley",
-        "Fulham vs Afc Wimbledon",
         "Rochdale vs Shrewsbury",
         "Salford vs Newport",
         "Swindon vs Port Vale",
