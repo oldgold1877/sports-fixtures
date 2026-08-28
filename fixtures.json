@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-28T07:15:29.281922+00:00",
+  "scraped_at": "2026-08-28T11:00:54.177802+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,27 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 11:00-19:00 - 2nd Test: England vs Pakistan 1080p"
-            },
-            {
-              "type": "date",
-              "text": "Additional"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 17:00-19:00 - Uefa: FK Jablonec v Rangers"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 02 - 19:30-21:30 - UEFA: Brighton vs Tromso"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "UEFA  | 01 - Freiburg vs Motherwell"
             }
           ]
         }
@@ -1114,12 +1093,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Athletes Descend on Birmingham for Special Olympics - 28/08/2026 07:07 - 03:16",
-        "BBC Events 02 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 28/08/2026 06:00 - 12:00",
         "BBC Events 03 - no_brand_title: England's Largest Illegal Waste Site Cleaned Up - 28/08/2026 06:04 - 03:00",
+        "BBC Events 04 - no_brand_title: Risk of Second Flood on Nepal-Tibet Border - 28/08/2026 08:20 - 12:30",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 28/08/2026 06:09 - 22:02",
         "BBC Events 06 - no_brand_title: Norway's King Harald Dies Aged 89 - 28/08/2026 07:57 - 07:49",
         "BBC Events 07 - no_brand_title: 'Cowboy Builders' Targeted in New Government Clampdown - 28/08/2026 06:36 - 03:56",
-        "BBC Events 08 - no_brand_title: Rutte and Colby Deliver Joint Statements at Nato - 27/08/2026 12:04 - 11:45"
+        "BBC Events 11 - no_brand_title: Norway's King Harald Dies at 89 - 28/08/2026 10:16 - 12:30",
+        "BBC Events 12 - no_brand_title: MENA LIVE STREAMING - 28/08/202 عالم الظهيرة - 28/08/2026 11:22 - 11:21"
       ],
       "sections": [],
       "events": []
@@ -1478,11 +1458,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: AFL Western Bulldogs v Collingwood - 10:20 28/08/2026",
-        "Sky Sport 2 - LIVE: NRL: Panthers v Bulldogs - 10:55 28/08/2026",
-        "Sky Sport 1 - LIVE: England v Pakistan: 2nd Test D2 - 10:55 28/08/2026",
-        "Sky Sport 1 UHD - LIVE: England v Pakistan: 2nd Test D2 - 10:55 28/08/2026",
-        "Sky Sport 7 - LIVE: World Rowing Championships D5 S1 - 12:00 28/08/2026",
         "Sky Sport 3 - LIVE: La Vuelta Stage 7 - 12:25 28/08/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 28/08/2026",
         "Sky Sport 5 - LIVE: ICF: Poznan Day 3 Session 2 - 13:15 28/08/2026",
@@ -1643,7 +1618,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: August 27 - Fri 28/08 10:00am",
         "Sportsnet 02 : Panthers vs. Bulldogs - Fri 28/08 10:50am",
         "Sportsnet 01 : Jays Talk Plus: August 28 - Fri 28/08 3:00pm",
         "Sportsnet 02 : St Helens vs. Leeds Rhinos - Fri 28/08 7:30pm",
@@ -1678,8 +1652,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : China Day 1: Afternoon Session - UIPM Pentathlon World Championships 2026 - Fri 28/08 6:00am",
-        "Stan 02 : Auckland v Bay Of Plenty - NPC Round 5 2026 - Fri 28/08 8:00am",
         "Stan 03 : China Day 1: Night Session - UIPM Pentathlon World Championships 2026 - Fri 28/08 9:30am",
         "Stan 12 : League Phase Draw - UEFA Europa/Conference League 2026/27 - Fri 28/08 12:00pm",
         "Stan 01 : Lions v Stormers - Currie Cup Round 7 2026 - Fri 28/08 4:00pm",
@@ -1743,7 +1715,10 @@
         "Stan 06 : PL Live • 30 August - Premier League 2026/27 - Sun 30/08 1:00pm",
         "Stan 08 : Chelsea v Brighton & Hove Albion - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
         "Stan 09 : Leeds United v Brentford - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
-        "Stan 07 : Sunderland v Fulham - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm"
+        "Stan 07 : Sunderland v Fulham - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
+        "Stan 10 : Boland Kavaliers v Griquas - Currie Cup Round 7 2026 - Sun 30/08 1:55pm",
+        "Stan 11 : Men's Elite Cross-country Olympic - UCI Mountain Bike World Championships 2026 - Sun 30/08 2:05pm",
+        "Stan 02 : Courtside: Day 1 - US Open 2026 - Sun 30/08 4:00pm"
       ],
       "sections": [],
       "events": []
@@ -1764,6 +1739,10 @@
       "status": "ok",
       "fixtures": [
         "TSN 01 : PGA TOUR Live: TOUR Championship - Second Round: Main Feed - Fri 28/08 4:00pm",
+        "TSN 13 : US Open: Qualifying Day #5 - Court 16 (ft. Draxl) - Fri 28/08 4:00pm",
+        "TSN 12 : US Open: Qualifying Day #5 - Court 5 - Fri 28/08 4:00pm",
+        "TSN 11 : US Open: Qualifying Day #5 - Court 7 (ft. Andreescu) - Fri 28/08 4:00pm",
+        "TSN 14 : US Open: Qualifying Day #5 - Stadium 17 - Fri 28/08 4:00pm",
         "TSN 02 : PGA TOUR Live: TOUR Championship - Second Round: Featured Groups - Fri 28/08 4:45pm",
         "TSN 04 : Pat McAfee Show - Fri 28/08 5:00pm",
         "TSN 03 : Rich Eisen Show - Fri 28/08 5:00pm",
