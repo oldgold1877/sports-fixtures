@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T12:54:57.624344+00:00",
+  "scraped_at": "2026-08-29T15:28:09.229167+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,18 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 11:00-18:30 - 2nd Test: England vs Pakistan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 12:30-14:30 - EPL: Liverpool vs Nottingham Forest 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 12:30-14:30 - EPL: Liverpool vs Nottingham Forest 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 12:30-14:30 - EPL: Liverpool vs Nottingham Forest 720p"
             },
             {
               "type": "fixture",
@@ -68,6 +56,91 @@
               "text": "SPORTS SCENE 08 - 20:30-22:30 - La Liga: Sevilla vs Atlético Madrid 1080p"
             }
           ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 3am/6am UFC Fight Night Nurmagomedov v Song"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 12pm MVPW 06 Mayer v Cameron"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 6pm BKFC 92 Stewart v Gigliotti"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 6pm Perry v Jenkins"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 1am No Turning Back 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 11am/2pm Moses v Hrgovic"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 11am Finishers Summer Bash"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 4:30pmAPFC IPBL Hyderabad v Delhi"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 2pm True Grit Wrestling New Grit Rising"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 5pm Top Level Pro 24 Summer Jam"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 8pm Lara v Ornelas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 8pm Lopez v Cruz (En Espanol)"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 8pm BKB 58 Trujillo v Terrill"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 8pm HAW Uninvited VI"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 1:45pmPDRA Drag Wars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 10am/1pm AMA Supercross Championship Crawfordsville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 9:45pmINEX Legends Riverhead"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 10:30pmMillbridge Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 10:45pmLucas Oil Late Models Port Royal"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 6pm Land of Legends Late Models"
+            }
+          ]
         }
       ],
       "events": []
@@ -78,12 +151,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 29-Aug 11:00AM-02:00PM - UFC Fight Night 2026 FN 21: Nurmagomedov vs Song - FN 21: Nurmagomedov vs Song [SG]",
-        "EVENT 01 - 29-Aug 11:50AM-02:00PM - Bundesliga 2 2026/27 E22 -Karlsruher vs Wolfsburg[Live] [HK]",
-        "EVENT 05 - 29-Aug 11:50AM-02:00PM - Bundesliga 2 2026/27: Karlsruher vs Wolfsburg [SG]",
-        "EVENT 06 - 29-Aug 12:00PM-02:30PM - Premier League 26/27 -Liverpool vs Nottingham Forest[Live] [HK]",
-        "EVENT 07 - 29-Aug 12:00PM-02:30PM - Premier League 26/27 -Liverpool vs Nottingham Forest[Live] [HK]",
-        "EVENT 13 - 29-Aug 12:20PM-02:50PM - Liverpool v Nottingham Forest (MW02) (290826) [SG]",
         "EVENT 01 - 29-Aug 02:20PM-04:25PM - Bundesliga 2026/27 E2 -Leipzig vs Monchengladbach[Live] [HK]",
         "EVENT 03 - 29-Aug 02:20PM-04:30PM - Bundesliga 2026/27 E6 -Elversberg vs Leverkusen[Live] [HK]",
         "EVENT 04 - 29-Aug 02:20PM-04:30PM - Bundesliga 2026/27: Elversberg vs Leverkusen [SG]",
@@ -1471,12 +1538,12 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Nepal-Tibet Flood Deaths Jump to 626 - 29/08/2026 05:24 - 05:03",
+        "BBC Events 02 - Final Score: 29/08/2026 - 29/08/2026 14:45 - 17:15",
         "BBC Events 04 - no_brand_title: Will Itauma Become World Champion at 21? - 29/08/2026 06:56 - 02:56",
         "BBC Events 05 - no_brand_title: Reading + Leeds 2026 Friday YT WW A - 28/08/2026 17:22 - 17:21",
         "BBC Events 06 - no_brand_title: Nepal-Tibet Flood Death Toll Jumps Above 600 - 29/08/2026 08:54 - 08:35",
         "BBC Events 07 - no_brand_title: BBC Weather Live - 29/08/2026 05:51 - 20:30",
         "BBC Events 08 - no_brand_title: Reading + Leeds 2026 Friday YT WW B - 28/08/2026 17:27 - 17:00",
-        "BBC Events 09 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 29/08/2026 12:00 - 14:45",
         "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 29/08/202 عالم الظهيرة - 29/08/2026 12:07 - 12:06"
       ],
       "sections": [],
@@ -1813,13 +1880,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: World Rowing Championships D6 S2 - 14:00 29/08/2026",
-        "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite Downhill M - 14:45 29/08/2026",
-        "Sky Sport Select - LIVE: PL: Coventry City v Hull City - 14:50 29/08/2026",
-        "Sky Sport 1 - LIVE: Springboks v All Blacks 2nd Test - 15:00 29/08/2026",
-        "Sky Sport 1 UHD - LIVE: Springboks v All Blacks 2nd Test - 15:00 29/08/2026",
-        "Sky Sport 7 - LIVE: Boxing: MVPW-06 - 15:55 29/08/2026",
-        "Sky Sport 5 - LIVE: INDYCAR: Milwaukee Mile Qualifying - 16:00 29/08/2026",
         "Sky Sport 6 - LIVE: US Open Pool: Day 5 - 17:00 29/08/2026",
         "Sky Sport 3 - LIVE: PGA Tour: Round 3 - 18:00 29/08/2026",
         "Sky Sport 5 - LIVE: INDYCAR: Milwaukee Mile R1 - 19:30 29/08/2026",
@@ -1839,24 +1899,24 @@
         "Sky Sport 2 - LIVE: NPC: Northland v Tasman (RS) - 06:00 30/08/2026",
         "Sky Sport 3 - LIVE: NRL: Eels v Sharks - 06:55 30/08/2026",
         "Sky Sport 4 - LIVE: World Rowing Championships D7 S1 - 07:00 30/08/2026",
-        "Sky Sport 4 - LIVE: ICF: Poznan Day 5 Session 1 - 08:00 30/08/2026",
         "Sky Sport 6 - LIVE: AFLW: Fremantle v Carlton - 08:00 30/08/2026",
+        "Sky Sport 4 - LIVE: ICF: Poznan Day 5 Session 1 - 08:00 30/08/2026",
         "Sky Sport 2 - LIVE: NRLW: Tigers v Bulldogs R9 - 09:10 30/08/2026",
         "Sky Sport 3 - LIVE: England v Pakistan: 2nd Test D4 - 10:15 30/08/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 9 - 11:00 30/08/2026",
         "Sky Sport 1 UHD - LIVE: La Vuelta Stage 9 - 11:00 30/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite XCO W - 11:50 30/08/2026",
-        "Sky Sport 4 - LIVE: DP World Tour: Round 4 - 12:00 30/08/2026",
         "Sky Sport 5 - LIVE: World Rowing Championships D7 S2 - 12:00 30/08/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 4 - 12:00 30/08/2026",
         "Sky Sport 6 - LIVE: ICF: Poznan Day 5 Session 2 - 13:00 30/08/2026",
-        "Sky Sport Select - LIVE: PL: Leeds v Brentford - 13:50 30/08/2026",
         "Sky Sport 7 - LIVE: PL: Sunderland v Fulham - 13:50 30/08/2026",
+        "Sky Sport Select - LIVE: PL: Leeds v Brentford - 13:50 30/08/2026",
         "Sky Sport 2 - LIVE: Currie Cup: Kavaliers v Griquas - 13:55 30/08/2026",
         "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite XCO M - 14:05 30/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
-        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 2 - LIVE: LPGA: Round 4 - 18:00 30/08/2026",
+        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 5 - LIVE: US Open Pool: Day 6 Aft - 19:00 30/08/2026",
         "Sky Sport 6 - LIVE: PGA Champions Tour: R3 - 20:00 30/08/2026",
         "Sky Sport 5 - LIVE: US Open Pool: Day 6 Eve - 22:00 30/08/2026",
@@ -1895,7 +1955,22 @@
         "Sky Sport 5 - LIVE: ICF: Vaires-sur-Marne Day 1 S2 - 15:25 03/09/2026",
         "Sky Sport 3 - LIVE: WST: British Open: D4 Eve - 19:00 03/09/2026",
         "Sky Sport 1 - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026",
-        "Sky Sport 1 UHD - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026"
+        "Sky Sport 1 UHD - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Practice - 07:35 04/09/2026",
+        "Sky Sport 4 - LIVE: ICF: Vaires-sur-Marne Day 2 S1 - 07:55 04/09/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Titans v Dolphins R27 - 08:00 04/09/2026",
+        "Sky Sport 1 - LIVE: NPC: Hawke's Bay v Otago - 08:00 04/09/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Hawke's Bay v Otago - 08:00 04/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd10 Practice - 09:00 04/09/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Rabbitohs v Roosters R27 - 10:55 04/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 1: Italy GP Practice 1 - 11:00 04/09/2026",
+        "Sky Sport Select - LIVE: ICF: Vaires-sur-Marne Day 2 S2 - 11:55 04/09/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 04/09/2026",
+        "Sky Sport 6 - LIVE: WST: British Open: D5 Aft - 13:00 04/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Qualifying - 13:00 04/09/2026",
+        "Sky Sport 1 - LIVE: La Vuelta Stage 13 - 13:50 04/09/2026",
+        "Sky Sport 1 UHD - LIVE: La Vuelta Stage 13 - 13:50 04/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd10 Qualifying - 13:55 04/09/2026"
       ],
       "sections": [],
       "events": []
@@ -1906,11 +1981,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Derby vs Swansea",
-        "Sky Sports+ 7 | Blackpool vs Peterborough",
-        "Sky Sports+ 8 | Mk Dons vs Leicester",
-        "Sky Sports+ 14 | Barnet vs Cheltenham",
-        "Sky Sports+ 15 | Port Vale vs Crewe",
+        "Sky Sports+ 22 | Wakefield Trinity vs York Rlfc Knights",
+        "Sky Sports+ 23 | Hull Fc vs Warrington Wolves",
         "Birmingham vs Southampton",
         "Qpr vs Cardiff",
         "Bradford Bulls vs Castleford Tigers",
@@ -1937,8 +2009,6 @@
         "Exeter vs Barnet",
         "Fleetwood vs Oldham",
         "Northampton vs Crawley",
-        "Wakefield Trinity vs York Rlfc Knights",
-        "Hull Fc vs Warrington Wolves",
         "Toulouse Olympique vs Bradford Bulls"
       ],
       "sections": [],
@@ -1950,7 +2020,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Tissot Sprint - Grand Prix of Aragon - Sat 29/08 1:30pm",
         "Sportsnet 02 : Hull FC vs. Warrington Wolves - Sat 29/08 5:20pm",
         "Sportsnet 03 : Wakefield Trinity vs. York Knights - Sat 29/08 5:20pm",
         "Sportsnet 04 : AZ Alkmaar vs. Go Ahead Eagles - Sat 29/08 5:35pm",
@@ -1985,21 +2054,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Boland Kavaliers v Griquas - Currie Cup Round 7 2026 - Sat 29/08 10:45am",
-        "Stan 08 : Urawa Red Diamonds v Yokohama F. Marinos - J.League 2026 - Sat 29/08 10:55am",
-        "Stan 12 : Vissel Kobe v Cerezo Osaka - J.League 2026 - Sat 29/08 10:55am",
-        "Stan 07 : Kawasaki Frontale v Chiba - J.League 2026 - Sat 29/08 10:55am",
-        "Stan 14 : Bucheon v Anyang - K League 2026 - Sat 29/08 11:25am",
-        "Stan 13 : Ulsan v Gimcheon - K League 2026 - Sat 29/08 11:25am",
-        "Stan 15 : Liverpool v Nottingham Forest - Premier League Matchweek 2 2026/2027 - Sat 29/08 11:30am",
-        "Stan 16 : Women's Elite Downhill - UCI Mountain Bike World Championships 2026 - Sat 29/08 12:05pm",
-        "Stan 10 : 4K • Liverpool v Nottingham Forest - Premier League Matchweek 2 2026/2027 - Sat 29/08 12:20pm",
-        "Stan 06 : Pumas v Cheetahs - Currie Cup Round 7 2026 - Sat 29/08 12:55pm",
         "Stan 01 : SS11 Hohenau 1 - WRC Paraguay 2026 - Sat 29/08 2:00pm",
         "Stan 09 : South Africa v New Zealand: SuperSport Coverage - NZL Tour of RSA Second Test 2026 - Sat 29/08 2:30pm",
         "Stan 02 : Men's Elite Downhill - UCI Mountain Bike World Championships 2026 - Sat 29/08 2:45pm",
-        "Stan 11 : Bournemouth v Everton - Premier League Matchweek 2 2026/2027 - Sat 29/08 2:50pm",
         "Stan 17 : Coventry City v Hull City - Premier League Matchweek 2 2026/2027 - Sat 29/08 2:50pm",
+        "Stan 11 : Bournemouth v Everton - Premier League Matchweek 2 2026/2027 - Sat 29/08 2:52pm",
         "Stan 18 : South Africa v New Zealand: Sky NZ Coverage - NZL Tour of RSA Second Test 2026 - Sat 29/08 3:00pm",
         "Stan 05 : Qualifying: Grand Prix of Milwaukee - Indycar 2026 - Sat 29/08 4:00pm",
         "Stan 03 : Tottenham Hotspur v Newcastle United - Premier League Matchweek 2 2026/2027 - Sat 29/08 5:20pm",
@@ -2045,10 +2104,18 @@
         "Stan 28 : Van Assche v Norrie - Men's Singles R1 US Open 2026 - Sun 30/08 5:30pm",
         "Stan 25 : Wong v Paul - Men's Singles R1 US Open 2026 - Sun 30/08 5:30pm",
         "Stan 26 : Zhang v Fernandez - Women's Singles R1 US Open 2026 - Sun 30/08 5:30pm",
+        "Stan 30 : Harris v Kennedy - Men's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
+        "Stan 32 : Kalieva v Tararudee - Women's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
         "Stan 29 : Kostyuk v Hunter - Women's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
+        "Stan 31 : Munar v Atmane - Men's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
         "Stan 04 : Race 2: Grand Prix of Milwaukee - Indycar 2026 - Sun 30/08 6:00pm",
         "Stan 05 : SS22 Encarnacion 2 (Wolf Power Stage) - WRC Paraguay 2026 - Sun 30/08 6:00pm",
+        "Stan 33 : Samuel v Machac - Men's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
+        "Stan 34 : Stefanini v Yastremska - Women's Singles R1 US Open 2026 - Sun 30/08 6:00pm",
+        "Stan 35 : Medvedev v Gaston - Men's Singles R1 US Open 2026 - Sun 30/08 6:30pm",
+        "Stan 36 : Faria v Brooksby - Men's Singles R1 US Open 2026 - Sun 30/08 7:00pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 2 - Aug 31 - Sun 30/08 7:00pm",
+        "Stan 10 : Tirante v Mannarino - Men's Singles R1 US Open 2026 - Sun 30/08 7:00pm",
         "Stan 02 : Seattle Reign v Houston Dash - NWSL 2026 - Mon 31/08 12:00am",
         "Stan 01 : Courtside: Day 2 - US Open 2026 - Mon 31/08 4:00pm",
         "Stan 02 : Aston Villa v Arsenal - Premier League Matchweek 2 2026/2027 - Mon 31/08 7:00pm",
