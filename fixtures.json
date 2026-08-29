@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T15:28:09.229167+00:00",
+  "scraped_at": "2026-08-29T17:00:47.113603+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,22 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 11:00-18:30 - 2nd Test: England vs Pakistan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 15:00-17:00 - EPL: AFC Bournemouth vs Everton 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 15:00-17:00 - EPL: Coventry City vs Hull City 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 15:00-17:00 - EFL Championship: Cardiff City vs Sheffield United 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 15:00-17:00 - EPL: AFC Bournemouth vs Everton 720p"
             },
             {
               "type": "fixture",
@@ -82,7 +66,11 @@
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 06 - 11am/2pm Moses v Hrgovic"
+              "text": "LIVE EVENT 06 - 11am Moses v Hrgovic"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 2pm Moses v Hrgovic"
             },
             {
               "type": "fixture",
@@ -151,14 +139,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 29-Aug 02:20PM-04:25PM - Bundesliga 2026/27 E2 -Leipzig vs Monchengladbach[Live] [HK]",
-        "EVENT 03 - 29-Aug 02:20PM-04:30PM - Bundesliga 2026/27 E6 -Elversberg vs Leverkusen[Live] [HK]",
-        "EVENT 04 - 29-Aug 02:20PM-04:30PM - Bundesliga 2026/27: Elversberg vs Leverkusen [SG]",
-        "EVENT 05 - 29-Aug 02:30PM-05:00PM - Premier League 26/27 -Bournemouth vs Everton[Live] [HK]",
-        "EVENT 06 - 29-Aug 02:50PM-05:00PM - Premier League 26/27 -Coventry City vs Hull City[Live] [HK]",
-        "EVENT 07 - 29-Aug 02:50PM-05:20PM - Bournemouth v Everton (MW02) [SG]",
-        "EVENT 14 - 29-Aug 02:50PM-05:00PM - Bournemouth vs Everton (MW02) (290826) - Premier League 2026/27 [SG]",
-        "EVENT 15 - 29-Aug 02:50PM-05:00PM - Coventry City vs Hull City (MW02) - Premier League 2026/27 [SG]",
         "EVENT 02 - 29-Aug 04:00PM-06:00PM - LALIGA EA SPORTS 2026/2027 MD03 -Levante UD vs Real Betis[Live] [HK]",
         "EVENT 09 - 29-Aug 04:00PM-05:55PM - LaLiga 2026/27: Levante vs Real Betis [SG]",
         "EVENT 12 - 29-Aug 04:25PM-06:15PM - Ligue 1 2026/27 (Join In Progress) E11 -Strasbourg vs Lens[Live] [HK]",
@@ -166,7 +146,7 @@
         "EVENT 03 - 29-Aug 05:00PM-07:30PM - Premier League 26/27 -Tottenham Hotspur vs Newcastle United[Live] [HK]",
         "EVENT 04 - 29-Aug 05:20PM-07:30PM - Bundesliga 2026/27 -Dortmund vs Hamburg[Live] [HK]",
         "EVENT 05 - 29-Aug 05:20PM-07:25PM - Bundesliga 2026/27: Dortmund vs Hamburg [SG]",
-        "EVENT 13 - 29-Aug 05:20PM-07:30PM - Tottenham Hotspur v Newcastle United (MW02) (300826) [SG]",
+        "EVENT 06 - 29-Aug 05:20PM-07:30PM - Tottenham Hotspur v Newcastle United (MW02) [SG]",
         "EVENT 08 - 29-Aug 05:23PM-07:38PM - Serie A 2026/27 E12 -Fiorentina vs Frosinone[Live] [HK]",
         "EVENT 07 - 29-Aug 05:55PM-08:10PM - LaLiga 2026/27: Real Sociedad vs Espanyol [SG]",
         "EVENT 10 - 29-Aug 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD03 -Real Sociedad vs RCD Espanyol[Live] [HK]",
@@ -184,8 +164,6 @@
         "EVENT 05 - 30-Aug 01:50PM-04:00PM - Premier League 26/27 -Leeds United vs Brentford[Live] [HK]",
         "EVENT 07 - 30-Aug 01:50PM-04:00PM - Premier League 26/27 -Sunderland vs Fulham[Live] [HK]",
         "EVENT 08 - 30-Aug 01:50PM-04:20PM - Chelsea v Brighton & Hove Albion (MW02) (Goal Rush) [SG]",
-        "EVENT 18 - 30-Aug 01:50PM-04:00PM - Chelsea vs Brighton and Hove Albion (MW02) (300826) - Premier League 2026/27 [SG]",
-        "EVENT 19 - 30-Aug 01:50PM-04:00PM - Leeds United vs Brentford (MW02) (300826) - Premier League 2026/27 [SG]",
         "EVENT 20 - 30-Aug 01:50PM-05:00PM - Sunderland vs Fulham (MW02) - Premier League 2026/27 [SG]",
         "EVENT 12 - 30-Aug 01:55PM-04:00PM - Ligue 1 2026/27 E16 -Paris FC vs Nice[Live] [HK]",
         "EVENT 06 - 30-Aug 02:25PM-04:25PM - Bundesliga 2026/27 E8 -Freiburg vs Werder Bremen[Live] [HK]",
@@ -194,7 +172,7 @@
         "EVENT 15 - 30-Aug 04:00PM-06:30PM - Premier League 26/27 -Manchester United vs Ipswich Town [Live Chat][Live] [HK]",
         "EVENT 16 - 30-Aug 04:00PM-06:10PM - LaLiga 2026/27: Real Madrid vs Malaga [SG]",
         "EVENT 17 - 30-Aug 04:10PM-06:15PM - Ligue 1 2026/27 E17 -Rennes vs Le Mans[Live] [HK]",
-        "EVENT 09 - 30-Aug 04:20PM-06:30PM - Manchester United v Ipswich Town (MW02) (300826) [SG]",
+        "EVENT 01 - 30-Aug 04:20PM-06:30PM - Manchester United v Ipswich Town (MW02) [SG]",
         "EVENT 03 - 30-Aug 04:25PM-06:30PM - Bundesliga 2026/27 E9 -Augsburg vs Schalke[Live] [HK]",
         "EVENT 05 - 30-Aug 04:25PM-06:30PM - Bundesliga 2026/27: Augsburg vs Schalke [SG]",
         "EVENT 06 - 30-Aug 04:55PM-07:00PM - Serie A Women's Cup '26 E4 -Roma v Sassuolo[Live] [HK]",
@@ -207,7 +185,8 @@
         "EVENT 09 - 30-Aug 07:40PM-09:45PM - Ligue 1 2026/27 E18 -Monaco vs Marseille[Live] [HK]",
         "EVENT 01 - 30-Aug 08:25PM-10:30PM - LaLiga 2026/27: Celta Vigo vs Athletic Bilbao [SG]",
         "EVENT 04 - 30-Aug 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD03 -Celta vs Athletic Club[Live] [HK]",
-        "EVENT 02 - 30-Aug 10:00PM-12:00AM - Leeds United vs Brentford (MW02) - E17 - Premier League 2026/27 [SG]"
+        "EVENT 02 - 30-Aug 10:00PM-12:00AM - Leeds United vs Brentford (MW02) - E17 - Premier League 2026/27 [SG]",
+        "EVENT 04 - 31-Aug 05:23PM-07:38PM - Serie A 2026/27 E19 -Lecce vs Roma[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1538,13 +1517,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Nepal-Tibet Flood Deaths Jump to 626 - 29/08/2026 05:24 - 05:03",
-        "BBC Events 02 - Final Score: 29/08/2026 - 29/08/2026 14:45 - 17:15",
         "BBC Events 04 - no_brand_title: Will Itauma Become World Champion at 21? - 29/08/2026 06:56 - 02:56",
-        "BBC Events 05 - no_brand_title: Reading + Leeds 2026 Friday YT WW A - 28/08/2026 17:22 - 17:21",
         "BBC Events 06 - no_brand_title: Nepal-Tibet Flood Death Toll Jumps Above 600 - 29/08/2026 08:54 - 08:35",
         "BBC Events 07 - no_brand_title: BBC Weather Live - 29/08/2026 05:51 - 20:30",
-        "BBC Events 08 - no_brand_title: Reading + Leeds 2026 Friday YT WW B - 28/08/2026 17:27 - 17:00",
-        "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 29/08/202 عالم الظهيرة - 29/08/2026 12:07 - 12:06"
+        "BBC Events 09 - no_brand_title: Reading + Leeds 2026 Saturday YT WW A - 29/08/2026 16:45 - 00:15",
+        "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 29/08/202 عالم الظهيرة - 29/08/2026 12:07 - 12:06",
+        "BBC Events 12 - Radio 1 at Reading and Leeds Festival: Reading Festival Channel Saturday 2026 - 29/08/2026 17:30 - 00:14",
+        "BBC Events 13 - no_brand_title: 2026 Welsh Open Darts Championships - 29/08/2026 17:17 - 19:45"
       ],
       "sections": [],
       "events": []
@@ -1880,8 +1859,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: US Open Pool: Day 5 - 17:00 29/08/2026",
-        "Sky Sport 3 - LIVE: PGA Tour: Round 3 - 18:00 29/08/2026",
         "Sky Sport 5 - LIVE: INDYCAR: Milwaukee Mile R1 - 19:30 29/08/2026",
         "Sky Sport 2 - LIVE: Argentina v Australia - 19:55 29/08/2026",
         "Sky Sport 4 - LIVE: LPGA: Round 3 - 20:00 29/08/2026",
@@ -2043,7 +2020,8 @@
         "Sportsnet 01 : Sportsnet Central: August 30 - Mon 31/08 10:00am",
         "Sportsnet 01 : Jays Talk Plus: August 31 - Mon 31/08 3:00pm",
         "Sportsnet 01 : Blair & Barker: August 31 - Mon 31/08 9:00pm",
-        "Sportsnet 02 : The FAN Pregame: August 31 - Mon 31/08 11:00pm"
+        "Sportsnet 02 : The FAN Pregame: August 31 - Mon 31/08 11:00pm",
+        "Sportsnet 03 : New York Mets @ Tampa Bay - Mon 31/08 11:30pm"
       ],
       "sections": [],
       "events": []
@@ -2054,7 +2032,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : SS11 Hohenau 1 - WRC Paraguay 2026 - Sat 29/08 2:00pm",
         "Stan 09 : South Africa v New Zealand: SuperSport Coverage - NZL Tour of RSA Second Test 2026 - Sat 29/08 2:30pm",
         "Stan 02 : Men's Elite Downhill - UCI Mountain Bike World Championships 2026 - Sat 29/08 2:45pm",
         "Stan 17 : Coventry City v Hull City - Premier League Matchweek 2 2026/2027 - Sat 29/08 2:50pm",
@@ -2140,8 +2117,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : LaLiga: Levante vs. Real Betis - Sat 29/08 3:48pm",
-        "TSN 02 : IndyCar Qualifying: Snap-on Makers and Fixers 250 - Sat 29/08 4:00pm",
         "TSN 04 : PGA TOUR Live: TOUR Championship - Third Round: Featured Group - Sat 29/08 5:00pm",
         "TSN 03 : PGA TOUR Live: TOUR Championship - Third Round: Main Feed - Sat 29/08 5:00pm",
         "TSN 05 : 2026 Little League Baseball World Series: International Final - Sat 29/08 5:30pm",
