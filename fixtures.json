@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T12:29:25.867267+00:00",
+  "scraped_at": "2026-08-30T15:09:17.650146+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -18,22 +18,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 11:00-18:30 - 2nd Test: England vs Pakistan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 14:00-16:00 - EPL: Leeds United vs Brentford 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 14:00-16:00 - EPL: Chelsea vs Brighton & Hove Albion 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 14:00-16:00 - EPL: Sunderland vs Fulham 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 14:00-16:00 - EPL: Chelsea vs Brighton & Hove Albion 720p"
             },
             {
               "type": "fixture",
@@ -66,14 +50,6 @@
             {
               "type": "date",
               "text": "Additional"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 12:00-14:00 - SPFL: Aberdeen vs. Rangers [Rangers TV]"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 12 - 12:00-14:00 - SPFL: Aberdeen vs. Rangers [US]"
             },
             {
               "type": "fixture",
@@ -123,6 +99,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 08 - 8pm Anthony Pettis FC 25"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 1:30amAmerican Sprint Car Series Sheridan"
             }
           ]
         }
@@ -135,8 +115,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 30-Aug 12:20PM-02:25PM - Bundesliga 2 2026/27 E25 -St. Pauli vs Kaiserslautern[Live] [HK]",
-        "EVENT 02 - 30-Aug 12:20PM-02:25PM - Bundesliga 2 2026/27: St. Pauli vs Kaiserslautern [SG]",
         "EVENT 03 - 30-Aug 01:30PM-04:00PM - Premier League 26/27 -Chelsea vs Brighton & Hove Albion[Live] [HK]",
         "EVENT 05 - 30-Aug 01:50PM-04:00PM - Premier League 26/27 -Leeds United vs Brentford[Live] [HK]",
         "EVENT 07 - 30-Aug 01:50PM-04:00PM - Premier League 26/27 -Sunderland vs Fulham[Live] [HK]",
@@ -967,14 +945,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - UCI Mountain Bike World Championships: Women’s Elite Cross-Country - 30/08/2026 11:30 - 13:40",
+        "BBC Events 01 - Derry City Live - League of Ireland: Derry City v Shamrock Rovers - 30/08/2026 15:24 - 19:00",
         "BBC Events 02 - no_brand_title: Reading + Leeds 2026 Saturday YT WW B - 29/08/2026 17:19 - 17:18",
+        "BBC Events 03 - no_brand_title: 2026 Welsh Open Darts Championships - 30/08/2026 15:46 - 19:15",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 30/08/2026 05:23 - 23:50",
         "BBC Events 05 - no_brand_title: Reading + Leeds 2026 Saturday YT WW A - 29/08/2026 16:45 - 16:44",
         "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 30/08/202 عالم الظهيرة - 30/08/2026 12:40 - 12:39",
         "BBC Events 07 - no_brand_title: Cymro Cryfa 2026 - 30/08/2026 12:44 - 17:00",
         "BBC Events 08 - no_brand_title: Wales's Strongest Man 2026 - 30/08/2026 12:44 - 17:00",
-        "BBC Events 09 - Sportscene: Scottish Women's Premier League: Sportscene: Celtic v Hibernian - 30/08/2026 12:45 - 15:10"
+        "BBC Events 10 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 30/08/2026 13:15 - 18:00",
+        "BBC Events 11 - UCI Mountain Bike World Championships: Men’s Elite Cross-Country - 30/08/2026 13:48 - 16:25"
       ],
       "sections": [],
       "events": []
@@ -1279,20 +1259,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: PL: Leeds v Brentford - 13:50 30/08/2026",
-        "Sky Sport 7 - LIVE: PL: Sunderland v Fulham - 13:50 30/08/2026",
-        "Sky Sport 2 - LIVE: Currie Cup: Kavaliers v Griquas - 13:55 30/08/2026",
-        "Sky Sport 9 - LIVE: UCI Mtb: WChamps Elite XCO M - 14:05 30/08/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:00 30/08/2026",
-        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 2 - LIVE: LPGA: Round 4 - 18:00 30/08/2026",
+        "Sky Sport 4 - LIVE: INDYCAR: Milwaukee Mile R2 - 18:00 30/08/2026",
         "Sky Sport 5 - LIVE: US Open Pool: Day 6 Aft - 19:00 30/08/2026",
         "Sky Sport 6 - LIVE: PGA Champions Tour: R3 - 20:00 30/08/2026",
         "Sky Sport 5 - LIVE: US Open Pool: Day 6 Eve - 22:00 30/08/2026",
         "Sky Sport 1 - LIVE: CPL: St Kitts v Antigua - 23:30 30/08/2026",
         "Sky Sport 1 UHD - LIVE: CPL: St Kitts v Antigua - 23:30 30/08/2026",
+        "Sky Sport 3 - LIVE: AFL 360 - 09:30 31/08/2026",
         "Sky Sport 2 - LIVE: England v Pakistan: 2nd Test D5 - 10:15 31/08/2026",
+        "Sky Sport 3 - LIVE: AFL On The Couch - 10:30 31/08/2026",
         "Sky Sport 3 - LIVE: WST: British Open: D1 Aft - 13:00 31/08/2026",
         "Sky Sport 2 - LIVE: WST: British Open: D1 Eve - 19:00 31/08/2026",
         "Sky Sport 1 - LIVE: CPL: Trinbago v Guyana - 21:30 31/08/2026",
@@ -1319,8 +1297,8 @@
         "Sky Sport 5 - LIVE: ICF: Vaires-sur-Marne Day 1 S1 - 11:25 03/09/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 12 - 11:50 03/09/2026",
         "Sky Sport 1 UHD - LIVE: La Vuelta Stage 12 - 11:50 03/09/2026",
-        "Sky Sport 4 - LIVE: England v Ireland: 2nd ODI - 12:30 03/09/2026",
         "Sky Sport 3 - LIVE: DP World Tour: Round 1 - 12:30 03/09/2026",
+        "Sky Sport 4 - LIVE: England v Ireland: 2nd ODI - 12:30 03/09/2026",
         "Sky Sport 6 - LIVE: WST: British Open: D4 Aft - 13:00 03/09/2026",
         "Sky Sport 5 - LIVE: ICF: Vaires-sur-Marne Day 1 S2 - 15:25 03/09/2026",
         "Sky Sport 3 - LIVE: WST: British Open: D4 Eve - 19:00 03/09/2026",
@@ -1328,9 +1306,9 @@
         "Sky Sport 1 UHD - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Practice - 07:35 04/09/2026",
         "Sky Sport 4 - LIVE: ICF: Vaires-sur-Marne Day 2 S1 - 07:55 04/09/2026",
+        "Sky Sport 2 - LIVE: NRL 2026: Titans v Dolphins R27 - 08:00 04/09/2026",
         "Sky Sport 1 - LIVE: NPC: Hawke's Bay v Otago - 08:00 04/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Hawke's Bay v Otago - 08:00 04/09/2026",
-        "Sky Sport 2 - LIVE: NRL 2026: Titans v Dolphins R27 - 08:00 04/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 2: Rd10 Practice - 09:00 04/09/2026",
         "Sky Sport 2 - LIVE: NRL 2026: Rabbitohs v Roosters R27 - 10:55 04/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 1: Italy GP Practice 1 - 11:00 04/09/2026",
@@ -1350,7 +1328,35 @@
         "Sky Sport 9 - LIVE: INDYCAR: Laguna Seca Practice 1 - 22:00 04/09/2026",
         "Sky Sport 5 - LIVE: CPL: Guyana v Jamaica - 23:30 04/09/2026",
         "Sky Sport 1 - LIVE: FPC: Bay of Plenty v Canterbury - 00:30 05/09/2026",
-        "Sky Sport 1 UHD - LIVE: FPC: Bay of Plenty v Canterbury - 00:30 05/09/2026"
+        "Sky Sport 1 UHD - LIVE: FPC: Bay of Plenty v Canterbury - 00:30 05/09/2026",
+        "Sky Sport 2 - LIVE: NPC: Bay of Plenty v Manawatu - 03:00 05/09/2026",
+        "Sky Sport 7 - LIVE: AFLW: Bulldogs v Swans - 03:30 05/09/2026",
+        "Sky Sport 1 - LIVE: NRLW: Warriors v Sharks R10 - 03:30 05/09/2026",
+        "Sky Sport 1 UHD - LIVE: NRLW: Warriors v Sharks R10 - 03:30 05/09/2026",
+        "Sky Sport 7 - LIVE: AFLW: Port Adelaide v SUNS - 05:30 05/09/2026",
+        "Sky Sport 3 - LIVE: FPC: Waikato v Auckland - 05:30 05/09/2026",
+        "Sky Sport 1 - LIVE: NRL 2026:Warriors v Sea Eagles R27 - 05:30 05/09/2026",
+        "Sky Sport 1 UHD - LIVE: NRL 2026:Warriors v Sea Eagles R27 - 05:30 05/09/2026",
+        "Sky Sport 2 - LIVE: NPC: Tasman v Wellington - 06:00 05/09/2026",
+        "Sky Sport 6 - LIVE: AFL Sydney Swans v Brisbane Lions - 06:00 05/09/2026",
+        "Sky Sport 4 - LIVE: NRLW: Cowboys v Roosters R10 - 06:10 05/09/2026",
+        "Sky Sport 7 - LIVE: AFLW: Brisbane Lions v GWS Giants - 07:30 05/09/2026",
+        "Sky Sport 2 - LIVE: NPC: Waikato v Canterbury - 08:00 05/09/2026",
+        "Sky Sport 4 - LIVE: NRLW: Knights v Bulldogs R10 - 08:10 05/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Sprint Race - 08:25 05/09/2026",
+        "Sky Sport 1 - LIVE: NRL: Cowboys v Raiders R27 - 08:30 05/09/2026",
+        "Sky Sport 1 UHD - LIVE: NRL: Cowboys v Raiders R27 - 08:30 05/09/2026",
+        "Sky Sport 5 - LIVE: ICF: Vaires-sur-Marne Day 3 S1 - 09:30 05/09/2026",
+        "Sky Sport 3 - LIVE: Porsche Supercup: Rd8 Qualifying - 09:45 05/09/2026",
+        "Sky Sport 2 - LIVE: NRL: Sharks v Storm R27 - 10:25 05/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 1: Italy GP Practice 3 - 11:15 05/09/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 3 - 11:30 05/09/2026",
+        "Sky Sport 1 - LIVE: Springboks v Black Ferns - 11:45 05/09/2026",
+        "Sky Sport 1 UHD - LIVE: Springboks v Black Ferns - 11:45 05/09/2026",
+        "Sky Sport 5 - LIVE: ICF: Vaires-sur-Marne Day 3 S2 - 13:00 05/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 2: Rd10 Sprint Race - 13:10 05/09/2026",
+        "Sky Sport 2 - LIVE: La Vuelta Stage 14 - 13:50 05/09/2026",
+        "Sky Sport 3 - LIVE: FIA Formula 1: Italy GP Qualifying - 14:15 05/09/2026"
       ],
       "sections": [],
       "events": []
@@ -1403,8 +1409,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : FC Utrecht vs. PSV Eindhoven - Sun 30/08 11:05am",
-        "Sportsnet 03 : Grand Prix of Aragon - Sun 30/08 12:00pm",
         "Sportsnet 04 : Feyenoord vs. ADO Den Haag - Sun 30/08 1:20pm",
         "Sportsnet 01 : Telstar vs. AFC Ajax - Sun 30/08 3:35pm",
         "Sportsnet 02 : Seattle @ Toronto - Sun 30/08 6:00pm",
@@ -1426,7 +1430,9 @@
         "Sportsnet 04 : Dana White's Contender Series - Episode 4 - Wed 02/09 12:00am",
         "Sportsnet 05 : Detroit @ Minnesota - Wed 02/09 12:30am",
         "Sportsnet 01 : New York Yankees @ Los Angeles Angels - Wed 02/09 2:30am",
-        "Sportsnet 06 : St. Louis @ Los Angeles Dodgers - Wed 02/09 3:00am"
+        "Sportsnet 06 : St. Louis @ Los Angeles Dodgers - Wed 02/09 3:00am",
+        "Sportsnet 01 : Sportsnet Central: Sep. 1 - Wed 02/09 10:00am",
+        "Sportsnet 01 : Jays Talk Plus: Sep. 2 - Wed 02/09 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -1437,17 +1443,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : SS18 Encarnacion 1 - WRC Paraguay 2026 - Sun 30/08 11:00am",
-        "Stan 04 : Gwangju v Seoul - K League 2026 - Sun 30/08 11:25am",
-        "Stan 05 : Incheon v Jeonbuk - K League 2026 - Sun 30/08 11:25am",
-        "Stan 01 : Women's Elite Cross-country Olympic - UCI Mountain Bike World Championships 2026 - Sun 30/08 11:50am",
         "Stan 03 : Goal Rush: Chelsea v Brighton & Hove Albion • 30 August - Premier League 2026/2027 - Sun 30/08 1:00pm",
         "Stan 06 : PL Live • 30 August - Premier League 2026/27 - Sun 30/08 1:00pm",
         "Stan 08 : Chelsea v Brighton & Hove Albion - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
-        "Stan 09 : Leeds United v Brentford - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
         "Stan 07 : Sunderland v Fulham - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
+        "Stan 09 : Leeds United v Brentford - Premier League Matchweek 2 2026/2027 - Sun 30/08 1:50pm",
         "Stan 10 : Boland Kavaliers v Griquas - Currie Cup Round 7 2026 - Sun 30/08 1:55pm",
-        "Stan 41 : Race 1: Grand Prix of Milwaukee - Indycar 2026 - Sun 30/08 2:00pm",
         "Stan 11 : Men's Elite Cross-country Olympic - UCI Mountain Bike World Championships 2026 - Sun 30/08 2:05pm",
         "Stan 02 : Courtside: Day 1 - US Open 2026 - Sun 30/08 4:00pm",
         "Stan 23 : Gibson v Vekic - Women's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
@@ -1456,6 +1457,7 @@
         "Stan 17 : Merida v Fucsovics - Men's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
         "Stan 15 : Paolini v Erjavec - Women's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
         "Stan 20 : Prizmic v Shevchenko - Men's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
+        "Stan 41 : Race 1: Grand Prix of Milwaukee - Indycar 2026 - Sun 30/08 4:00pm",
         "Stan 14 : Rakhimova v Krejcikova - Women's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
         "Stan 21 : Shimabukuro v Rinderknech - Men's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
         "Stan 19 : Wu v Walton - Men's Singles R1 US Open 2026 - Sun 30/08 4:00pm",
@@ -1496,9 +1498,14 @@
         "Stan 12 : Svitolina v Sierra - Women's Singles R1 US Open 2026 - Mon 31/08 12:00am",
         "Stan 04 : Bublik v Wolf - Men's Singles R1 US Open 2026 - Mon 31/08 1:30am",
         "Stan 01 : V. Williams v Kenin - Women's Singles R1 US Open 2026 - Mon 31/08 2:00am",
+        "Stan 09 : Cilic v Rublev - Men's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
         "Stan 01 : Courtside: Day 2 - US Open 2026 - Mon 31/08 4:00pm",
+        "Stan 07 : Dart v Stearns - Women's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
+        "Stan 06 : Jacquemot v Bouzkova - Women's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
         "Stan 04 : Kalinina v Sakatsume - Women's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
+        "Stan 10 : Sawangkaew v Udvardy - Women's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
         "Stan 05 : Tagger v Korpatsch - Women's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
+        "Stan 08 : Vacherot v Kovacevic - Men's Singles R1 US Open 2026 - Mon 31/08 4:00pm",
         "Stan 02 : Aston Villa v Arsenal - Premier League Matchweek 2 2026/2027 - Mon 31/08 7:00pm",
         "Stan 03 : 4K • Aston Villa v Arsenal - Premier League Matchweek 2 2026/2027 - Mon 31/08 7:50pm",
         "Stan 01 : Courtside: Day 3 - US Open 2026 - Tue 01/09 4:00pm"
