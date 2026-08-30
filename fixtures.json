@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T11:00:43.118428+00:00",
+  "scraped_at": "2026-08-30T12:29:25.867267+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -115,6 +115,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 06 - 7pm UWC 59"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 12:25amHusets Late Models"
             },
             {
               "type": "fixture",
@@ -965,10 +969,12 @@
       "fixtures": [
         "BBC Events 01 - UCI Mountain Bike World Championships: Women’s Elite Cross-Country - 30/08/2026 11:30 - 13:40",
         "BBC Events 02 - no_brand_title: Reading + Leeds 2026 Saturday YT WW B - 29/08/2026 17:19 - 17:18",
-        "BBC Events 03 - Rugby League: Super League: Wakefield v York - 30/08/2026 11:00 - 13:14",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 30/08/2026 05:23 - 23:50",
         "BBC Events 05 - no_brand_title: Reading + Leeds 2026 Saturday YT WW A - 29/08/2026 16:45 - 16:44",
-        "BBC Events 10 - no_brand_title: MENA LIVE STREAMING - 29/08/202 عالم الظهيرة - 29/08/2026 12:07 - 12:06"
+        "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 30/08/202 عالم الظهيرة - 30/08/2026 12:40 - 12:39",
+        "BBC Events 07 - no_brand_title: Cymro Cryfa 2026 - 30/08/2026 12:44 - 17:00",
+        "BBC Events 08 - no_brand_title: Wales's Strongest Man 2026 - 30/08/2026 12:44 - 17:00",
+        "BBC Events 09 - Sportscene: Scottish Women's Premier League: Sportscene: Celtic v Hibernian - 30/08/2026 12:45 - 15:10"
       ],
       "sections": [],
       "events": []
@@ -1015,7 +1021,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "GaaTv 01: Fri 18:45 | Armagh: Maghery v Granemore | Senior Football Championship"
+        "GaaTv 01: Sun 13:30 | Armagh: St Peters v Ballymacnab",
+        "GaaTv 02: Sun 13:30 | Down: Ballyholland v Mayobridge",
+        "GaaTv 03: Sun 16:15 | Armagh: Clann Eireann v Mullaghbawn",
+        "GaaTv 04: Sun 16:30 | Down: An Ríocht v Loughinisland",
+        "GaaTv 05: Sun 17:00 | Antrim: Oisin Glenariffe vs Cushendall"
       ],
       "sections": [],
       "events": []
@@ -1269,7 +1279,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: ICF: Poznan Day 5 Session 2 - 13:00 30/08/2026",
         "Sky Sport Select - LIVE: PL: Leeds v Brentford - 13:50 30/08/2026",
         "Sky Sport 7 - LIVE: PL: Sunderland v Fulham - 13:50 30/08/2026",
         "Sky Sport 2 - LIVE: Currie Cup: Kavaliers v Griquas - 13:55 30/08/2026",
@@ -1352,6 +1361,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 7 | Wimbledon vs Wigan",
         "Birmingham vs Southampton",
         "Qpr vs Cardiff",
         "Bradford Bulls vs Castleford Tigers",
@@ -1366,7 +1376,6 @@
         "Burton vs Wimbledon",
         "Sheff Utd vs Bolton",
         "Swansea vs Watford",
-        "Wimbledon vs Wigan",
         "Bradford vs Cambridge U",
         "Bromley vs Leyton Orient",
         "Doncaster vs Notts County",
@@ -1428,7 +1437,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : China Day 3: Night Session - UIPM Pentathlon World Championships 2026 - Sun 30/08 9:30am",
         "Stan 03 : SS18 Encarnacion 1 - WRC Paraguay 2026 - Sun 30/08 11:00am",
         "Stan 04 : Gwangju v Seoul - K League 2026 - Sun 30/08 11:25am",
         "Stan 05 : Incheon v Jeonbuk - K League 2026 - Sun 30/08 11:25am",
