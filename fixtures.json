@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-31T11:00:55.040574+00:00",
+  "scraped_at": "2026-08-31T14:43:53.482294+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,33 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Monday 31 August 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - EPL: Aston Villa vs Arsenal 4K"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Aston Villa vs Arsenal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Aston Villa vs Arsenal 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:30-22:30 - La Liga: Barcelona vs Rayo Vallecano 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -386,9 +412,9 @@
         "BBC Events 03 - no_brand_title: Reading + Leeds 2026 Monday YT WW B - 31/08/2026 00:14 - 00:13",
         "BBC Events 04 - no_brand_title: US Strikes Iranian Launchers on Larak Island - 31/08/2026 05:20 - 01:14",
         "BBC Events 05 - no_brand_title: Rescuers in Nepal Search for People Trapped in Tunnels - 31/08/2026 05:52 - 02:18",
-        "BBC Events 06 - no_brand_title: MENA LIVE STREAMING - 30/08/202 عالم الظهيرة - 30/08/2026 12:40 - 12:39",
+        "BBC Events 06 - Cymru Premier: Cymru Premier - Caernarfon Town vs The New Saints - 31/08/2026 14:45 - 17:30",
         "BBC Events 08 - no_brand_title: BBC Weather Live - 31/08/2026 05:59 - 20:49",
-        "BBC Events 09 - Major League Baseball: Boston Red Sox v New York Yankees - 31/08/2026 10:00 - 13:04"
+        "BBC Events 10 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 31/08/2026 13:05 - 17:00"
       ],
       "sections": [],
       "events": []
@@ -679,7 +705,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: WST: British Open: D1 Aft - 13:00 31/08/2026",
         "Sky Sport 2 - LIVE: AFL 360 - 17:00 31/08/2026",
         "Sky Sport 2 - LIVE: AFL On The Couch - 18:00 31/08/2026",
         "Sky Sport 2 - LIVE: WST: British Open: D1 Eve - 19:00 31/08/2026",
@@ -875,7 +900,8 @@
         "Sportsnet 03 : New York Mets @ Tampa Bay - Wed 02/09 11:30pm",
         "Sportsnet 04 : Detroit @ Minnesota - Thu 03/09 12:30am",
         "Sportsnet 01 : New York Yankees @ Los Angeles Angels - Thu 03/09 2:30am",
-        "Sportsnet 05 : St. Louis @ Los Angeles Dodgers - Thu 03/09 3:00am"
+        "Sportsnet 05 : St. Louis @ Los Angeles Dodgers - Thu 03/09 3:00am",
+        "Sportsnet 01 : Sportsnet Central: Sep. 2 - Thu 03/09 10:00am"
       ],
       "sections": [],
       "events": []
