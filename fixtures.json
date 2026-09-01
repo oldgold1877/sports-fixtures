@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-01T12:16:51.496280+00:00",
+  "scraped_at": "2026-09-01T15:22:33.064577+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,50 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 - 17:00-19:00 - Serie A: Parma vs. Cremonese"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 - 19:45-21:45 - English Football League: West Ham United vs. Wolves"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 14 - 19:45-21:45 - English Football League: Leicester City vs. Plymouth Argyle"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 15 - 19:45-21:45 - Serie A: Torino vs. Monza"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 16 - 19:45-21:45 - English Football League: Birmingham City vs. Southampton"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 17 - 20:00-22:00 - English Football League: Stoke City vs. Norwich City"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 7pm Dana White Contender Series S10W04"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 8pm Country BOX Where Music Meets Boxing"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -403,12 +446,13 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: no_episode_title - 01/09/2026 09:32 - 09:29",
         "BBC Events 02 - no_brand_title: Man Accused of Drugging and Raping Wife Faces Trial - 01/09/2026 05:44 - 02:35",
-        "BBC Events 03 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 01/09/2026 12:49 - 15:00",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 01/09/2026 06:00 - 22:34",
         "BBC Events 05 - no_brand_title: Government Responds to Prison Overcrowding - 01/09/2026 06:27 - 06:05",
         "BBC Events 06 - no_brand_title: Duane 'Keffe D' Davis Found Guilty of Tupac Shakur Murder - 01/09/2026 08:15 - 07:33",
         "BBC Events 07 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 01/09/2026 12:00 - 18:00",
-        "BBC Events 08 - no_brand_title: Richard Tice Speaks to BBC Local Radio - 01/09/2026 09:54 - 09:53"
+        "BBC Events 08 - no_brand_title: Richard Tice Speaks to BBC Local Radio - 01/09/2026 09:54 - 09:53",
+        "BBC Events 11 - no_brand_title: Politics Scotland: Programme for Government - 01/09/2026 14:55 - 17:00",
+        "BBC Events 12 - no_brand_title: Andy Burnham Makes First Commons Speech as Prime Minister - 01/09/2026 15:06 - 17:30"
       ],
       "sections": [],
       "events": []
@@ -708,8 +752,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: La Vuelta Stage 10 - 13:50 01/09/2026",
-        "Sky Sport 1 UHD - LIVE: La Vuelta Stage 10 - 13:50 01/09/2026",
         "Sky Sport 3 - LIVE: WST: British Open: D2 Eve - 19:00 01/09/2026",
         "Sky Sport 1 - LIVE: PGA: Presidents Cup Selection Show - 22:00 01/09/2026",
         "Sky Sport 1 UHD - LIVE: PGA: Presidents Cup Selection Show - 22:00 01/09/2026",
@@ -930,7 +972,8 @@
         "Sportsnet 01 : Jays Talk Plus: Sep. 3 - Thu 03/09 3:00pm",
         "Sportsnet 02 : Toronto @ Cleveland - Thu 03/09 5:30pm",
         "Sportsnet 03 : Chicago White Sox @ Houston - Thu 03/09 7:00pm",
-        "Sportsnet 04 : Bradford Bulls vs. Castleford Tigers - Thu 03/09 7:50pm"
+        "Sportsnet 04 : Bradford Bulls vs. Castleford Tigers - Thu 03/09 7:50pm",
+        "Sportsnet 01 : Blair & Barker: Sep. 3 - Thu 03/09 9:00pm"
       ],
       "sections": [],
       "events": []
