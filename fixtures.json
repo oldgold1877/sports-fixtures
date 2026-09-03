@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T17:00:47.238693+00:00",
+  "scraped_at": "2026-09-03T19:39:59.120669+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,17 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 19:45-21:45 - SPL: Hibernian vs. Heart of Midlothian [Hibs TV]"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -57,7 +67,15 @@
         "EVENT 04 - 05-Sep 05:20PM-07:30PM - Hull City v Aston Villa (MW03) [SG]",
         "EVENT 09 - 05-Sep 05:20PM-07:30PM - Bundesliga 2026/27 -Schalke vs Bayern[Live] [HK]",
         "EVENT 05 - 05-Sep 05:30PM-07:40PM - LaLiga 2026/27: Rayo Vallecano vs Racing de Santander [SG]",
-        "EVENT 10 - 05-Sep 05:30PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Rayo Vallecano vs Racing Club[Live] [HK]"
+        "EVENT 10 - 05-Sep 05:30PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Rayo Vallecano vs Racing Club[Live] [HK]",
+        "EVENT 14 - 05-Sep 06:10PM-08:00PM - Super Lig 2026/27 [Join in Progress]: Fenerbahce vs Besiktas [SG]",
+        "EVENT 02 - 05-Sep 07:25PM-09:30PM - Bundesliga 2 2026/27: Dynamo Dresden vs Bochum [SG]",
+        "EVENT 08 - 05-Sep 07:38PM-09:45PM - Serie A 2026/27 E24 -Roma vs Atalanta[Live] [HK]",
+        "EVENT 11 - 05-Sep 07:40PM-09:45PM - Ligue 1 2026/27 -Le Havre vs Brest[Live] [HK]",
+        "EVENT 12 - 05-Sep 07:40PM-09:45PM - Ligue 1 2026/27 E23 -Nice vs Le Mans[Live] [HK]",
+        "EVENT 01 - 05-Sep 07:55PM-10:00PM - LaLiga 2026/27: Villarreal vs Deportivo [SG]",
+        "EVENT 05 - 05-Sep 08:00PM-11:00PM - UFC Fight Night 2026 FN 22: Hooker vs Parnasse - FN 22: Hooker vs Parnasse [SG]",
+        "EVENT 09 - 05-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Villarreal CF vs RC Deportivo[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -616,6 +634,7 @@
         "BBC Events 02 - no_brand_title: Unveiling the Bayeux Tapestry - 03/09/2026 05:19 - 03:04",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 03/09/2026 05:57 - 22:37",
         "BBC Events 05 - no_brand_title: UN Warns of 'Supersized' El Niño - 03/09/2026 09:13 - 09:07",
+        "BBC Events 06 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 03/09/2026 18:00 - 23:00",
         "BBC Events 07 - no_brand_title: BBC Weather Live - 03/09/2026 11:03 - 10:54"
       ],
       "sections": [],
@@ -965,7 +984,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: WST: British Open: D4 Eve - 19:00 03/09/2026",
         "Sky Sport 1 - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026",
         "Sky Sport 1 UHD - LIVE: CPL: St Kitts v St Lucia - 23:30 03/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Practice - 07:35 04/09/2026",
@@ -1104,7 +1122,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Bradford Bulls vs Castleford Tigers",
+        "Sky Sports+ 1 | Bradford Bulls vs Castleford Tigers",
         "Toulouse Olympique vs Hull Fc",
         "Catalans Dragons vs York Rlfc Knights",
         "Blackburn vs Sheff Utd",
@@ -1159,7 +1177,8 @@
         "Sportsnet 04 : Women's NRL - Warriors vs. Sharks - Sat 05/09 3:35am",
         "Sportsnet 01 : Sportsnet Central: Sep. 4 - Sat 05/09 10:00am",
         "Sportsnet 02 : Chelsea vs. Aston Villa - Sat 05/09 12:20pm",
-        "Sportsnet 01 : Wakefield Trinity vs. Warrington Wolves - Sat 05/09 2:50pm"
+        "Sportsnet 01 : Wakefield Trinity vs. Warrington Wolves - Sat 05/09 2:50pm",
+        "Sportsnet 03 : NEC vs. Feyenoord - Sat 05/09 3:20pm"
       ],
       "sections": [],
       "events": []
@@ -1170,50 +1189,37 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Auger-Aliassime v Khachanov - Men's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 05 : Darderi v Svrcina - Men's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 11 : Fernandez/Tjen v Haverlag/Radisic - Women's Doubles R1 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 04 : Keys v Bondar - Women's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 12 : Kostyuk/Ruse v Udvardy/Pigossi - Women's Doubles R1 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 10 : Kozyreva/Ninomiya v Kempen/Panova - Women's Doubles R1 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 09 : Liu/Pareja v Wang/Xu - Women's Doubles R1 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 07 : Potapova v Jeanjean - Women's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 08 : Struff v Cerundolo - Men's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 01 : Swiatek v Podoroska - Women's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 06 : Timofeeva v Mertens - Women's Singles R2 US Open 2026 - Thu 03/09 4:00pm",
-        "Stan 13 : Osaka v Siniakova - Women's Singles R2 US Open 2026 - Thu 03/09 4:30pm",
-        "Stan 19 : Aoyama/Liang v Neel/Olmos - Women's Doubles R1 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 17 : Bennett/Esposito Cogan v Hunter/Krawczyk - Women's Doubles R1 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 16 : Dart v Bouzkova - Women's Singles R2 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 21 : Detiuc/Khromacheva v Dabrowski/Stefani - Women's Doubles R1 US Open 2026 - Thu 03/09 5:30pm",
         "Stan 20 : Eikeri/Gleason v Uchijima/Wang - Women's Doubles R1 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 18 : Perez/Schuurs v Tikhonova/Zarazua - Women's Doubles R1 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 14 : Sweeny v Musetti - Men's Singles R2 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 15 : Tagger v Anisimova - Women's Singles R2 US Open 2026 - Thu 03/09 5:30pm",
-        "Stan 25 : Blockx v Trungelliti - Men's Singles R2 US Open 2026 - Thu 03/09 6:00pm",
-        "Stan 22 : Fritz v Bellucci - Men's Singles R2 US Open 2026 - Thu 03/09 6:00pm",
-        "Stan 23 : Oliynykova v Eala - Women's Singles R2 US Open 2026 - Thu 03/09 6:00pm",
-        "Stan 24 : Zheng v Putintseva - Women's Singles R2 US Open 2026 - Thu 03/09 6:00pm",
-        "Stan 29 : Bucsa v Sakatsume - Women's Singles R2 US Open 2026 - Thu 03/09 7:00pm",
-        "Stan 28 : Mensik v Rodionov - Men's Singles R2 US Open 2026 - Thu 03/09 7:00pm",
-        "Stan 30 : Piter/Siskova v Pridankina/Tang - Women's Doubles R1 US Open 2026 - Thu 03/09 7:00pm",
-        "Stan 27 : Popyrin v Tabilo - Men's Singles R2 US Open 2026 - Thu 03/09 7:00pm",
-        "Stan 26 : Schoolkate v Cobolli - Men's Singles R2 US Open 2026 - Thu 03/09 7:00pm",
-        "Stan 02 : Andreeva v Lys - Women's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 15 : Tagger v Anisimova - Women's Singles R2 US Open 2026 - Thu 03/09 5:34pm",
+        "Stan 19 : Aoyama/Liang v Neel/Olmos - Women's Doubles R1 US Open 2026 - Thu 03/09 5:34pm",
+        "Stan 16 : Dart v Bouzkova - Women's Singles R2 US Open 2026 - Thu 03/09 5:44pm",
+        "Stan 18 : Perez/Schuurs v Tikhonova/Zarazua - Women's Doubles R1 US Open 2026 - Thu 03/09 6:04pm",
+        "Stan 21 : Detiuc/Khromacheva v Dabrowski/Stefani - Women's Doubles R1 US Open 2026 - Thu 03/09 6:27pm",
+        "Stan 30 : Piter/Siskova v Pridankina/Tang - Women's Doubles R1 US Open 2026 - Thu 03/09 6:57pm",
+        "Stan 22 : Fritz v Bellucci - Men's Singles R2 US Open 2026 - Thu 03/09 7:05pm",
+        "Stan 14 : Sweeny v Musetti - Men's Singles R2 US Open 2026 - Thu 03/09 7:15pm",
         "Stan 31 : Bartunkova v Maria - Women's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
-        "Stan 32 : Siniakova/Townsend v Brantmeier/Broadus - Women's Doubles R1 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 28 : Mensik v Rodionov - Men's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 23 : Oliynykova v Eala - Women's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 27 : Popyrin v Tabilo - Men's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 26 : Schoolkate v Cobolli - Men's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 24 : Zheng v Putintseva - Women's Singles R2 US Open 2026 - Thu 03/09 7:30pm",
+        "Stan 25 : Blockx v Trungelliti - Men's Singles R2 US Open 2026 - Thu 03/09 7:45pm",
+        "Stan 29 : Bucsa v Sakatsume - Women's Singles R2 US Open 2026 - Thu 03/09 8:00pm",
         "Stan 34 : Guo/Mladenovic v Chwalinska/Linette - Women's Doubles R1 US Open 2026 - Thu 03/09 8:00pm",
         "Stan 35 : Li/Tauson v Routliffe/Sutjiadi - Women's Doubles R1 US Open 2026 - Thu 03/09 8:00pm",
-        "Stan 33 : Sakkari v Starodubtseva - Women's Singles R2 US Open 2026 - Thu 03/09 8:00pm",
-        "Stan 36 : Krueger/Montgomery v Noskova/Sramkova - Women's Doubles R1 US Open 2026 - Thu 03/09 8:30pm",
+        "Stan 32 : Siniakova/Townsend v Brantmeier/Broadus - Women's Doubles R1 US Open 2026 - Thu 03/09 8:30pm",
+        "Stan 33 : Sakkari v Starodubtseva - Women's Singles R2 US Open 2026 - Thu 03/09 8:45pm",
+        "Stan 02 : Andreeva v Lys - Women's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
         "Stan 43 : Bergs v de Jong - Men's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
         "Stan 38 : Birrell/Stearns v Shibahara/Tararudee - Women's Doubles R1 US Open 2026 - Thu 03/09 9:00pm",
         "Stan 41 : Bonzi v Buse - Men's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
-        "Stan 39 : Bouzkova/Sorribes Tormo v Kessler/McNally - Women's Doubles R1 US Open 2026 - Thu 03/09 9:00pm",
         "Stan 42 : Bu v Zheng - Men's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
-        "Stan 40 : Jovic v Jones - Women's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
-        "Stan 37 : Svajda v Gea - Men's Singles R2 US Open 2026 - Thu 03/09 9:00pm",
         "Stan 44 : Van De Zandschulp v de Minaur - Men's Singles R2 US Open 2026 - Thu 03/09 9:30pm",
+        "Stan 37 : Svajda v Gea - Men's Singles R2 US Open 2026 - Thu 03/09 9:45pm",
+        "Stan 39 : Bouzkova/Sorribes Tormo v Kessler/McNally - Women's Doubles R1 US Open 2026 - Thu 03/09 10:00pm",
+        "Stan 36 : Krueger/Montgomery v Noskova/Sramkova - Women's Doubles R1 US Open 2026 - Thu 03/09 10:15pm",
+        "Stan 40 : Jovic v Jones - Women's Singles R2 US Open 2026 - Thu 03/09 10:30pm",
         "Stan 04 : Badosa v Gauff - Women's Singles R2 US Open 2026 - Fri 04/09 12:00am",
         "Stan 01 : Monfils v Tien - Men's Singles R2 US Open 2026 - Fri 04/09 12:00am",
         "Stan 05 : Zverev v Halys - Men's Singles R2 US Open 2026 - Fri 04/09 1:30am",
@@ -1294,10 +1300,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : US Open: Day #5 - Court TBD - Thu 03/09 4:00pm",
+        "TSN 09 : US Open: Day #5 - Court 13 (ft. Fernandez Doubles) - Thu 03/09 4:00pm",
+        "TSN 02 : US Open: Day #5 - Court 5 (ft. Cerundolo, Sakkari) - Thu 03/09 4:00pm",
+        "TSN 10 : US Open: Day #5 - Court 6 (ft. Dabrowski Doubles) - Thu 03/09 4:00pm",
+        "TSN 08 : US Open: Day #5 - Grandstand (ft. Swiatek, Cobolli) - Thu 03/09 4:00pm",
+        "TSN 07 : US Open: Day #5 - Louis Armstong (ft. Auger-Aliassime, Rybakina) - Thu 03/09 4:00pm",
         "TSN 01 : US Open: Day #5 - RedZone at the US Open - Thu 03/09 4:00pm",
+        "TSN 03 : US Open: Day #5 - Stadium 17 (ft. Musetti, Andreeva) - Thu 03/09 4:00pm",
+        "TSN 11 : US Open: Day #5 - Arthur Ashe (ft. Fritz, Gauff, Zverev) - Thu 03/09 4:30pm",
         "TSN 05 : Pat McAfee Show - Thu 03/09 5:00pm",
-        "TSN 04 : Rich Eisen Show - Thu 03/09 5:00pm",
         "TSN 06 : LaLiga: Real Sociedad vs. Celta - Thu 03/09 7:48pm",
         "TSN 01 : NCAA Football: Idaho vs. Utah - Fri 04/09 2:00am"
       ],
