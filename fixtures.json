@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-04T11:00:49.664784+00:00",
+  "scraped_at": "2026-09-04T11:55:29.001650+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -50,6 +50,14 @@
             },
             {
               "type": "fixture",
+              "text": "LIVE EVENT 03 - 12:15amCage Fury FC 160"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 12:30amRuiz v Knyba"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENT 05 - 9pm ONE Fight Night 47 Stamp v Flores"
             },
             {
@@ -71,6 +79,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 10 - 7pm Williams Grove Sprint Cars"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 12:15amWorld of Outlaws Sprint Cars Husets"
             }
           ]
         }
@@ -131,7 +143,10 @@
         "EVENT 05 - 05-Sep 08:00PM-11:00PM - UFC Fight Night 2026 FN 22: Hooker vs Parnasse - FN 22: Hooker vs Parnasse [SG]",
         "EVENT 09 - 05-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Villarreal CF vs RC Deportivo[Live] [HK]",
         "EVENT 01 - 06-Sep 12:00AM-02:00AM - Nottingham Forest vs Tottenham Hotspur (MW03) - E27 - Premier League 2026/27 [SG]",
-        "EVENT 01 - 06-Sep 11:50AM-01:55PM - Women's Super League 2026/27: Brighton vs Arsenal [SG]"
+        "EVENT 01 - 06-Sep 11:50AM-01:55PM - Women's Super League 2026/27: Brighton vs Arsenal [SG]",
+        "EVENT 03 - 06-Sep 12:20PM-02:30PM - Bundesliga 2 2026/27: Hertha vs Magdeburg [SG]",
+        "EVENT 04 - 06-Sep 12:20PM-02:30PM - Singapore Premier League 2026/27 Community Shield  Lion City Sailors vs Tampines Rovers - Lion City Sailors vs Tampines Rovers [SG]",
+        "EVENT 09 - 06-Sep 12:20PM-02:25PM - Bundesliga 2 2026/27 E34 -Hertha vs Magdeburg[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1152,10 +1167,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - UEFA Women's Champions League: 26/27 Women's Champions League: League Phase draw - 04/09/2026 10:46 - 12:15",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 04/09/2026 05:34 - 22:04",
         "BBC Events 04 - no_brand_title: Secrets From 50 Years of Aardman - 04/09/2026 07:02 - 02:05",
-        "BBC Events 06 - no_brand_title: Two People Rescued From Nepal Tunnel - 04/09/2026 07:22 - 06:34"
+        "BBC Events 05 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 04/09/2026 12:00 - 18:00",
+        "BBC Events 06 - no_brand_title: Two People Rescued From Nepal Tunnel - 04/09/2026 07:22 - 06:34",
+        "BBC Events 07 - no_brand_title: Reform UK Conference Overshadowed by Funding Investigation - 04/09/2026 12:04 - 17:01"
       ],
       "sections": [],
       "events": []
@@ -1515,7 +1531,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 04/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd8 Qualifying - 13:00 04/09/2026",
         "Sky Sport 6 - LIVE: WST: British Open: D5 Aft - 13:00 04/09/2026",
         "Sky Sport 1 - LIVE: La Vuelta Stage 13 - 13:50 04/09/2026",
@@ -1837,15 +1852,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : 2026 FIBA Women's World Cup: Australia vs. Puerto Rico - Fri 04/09 10:30am",
-        "TSN 01 : 2026 FIBA Women's World Cup: Japan vs. Mali - Fri 04/09 10:30am",
-        "TSN 04 : Formula 1 Driver Tracker - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 07 : Formula 1 Mixed On-Board Camera - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 08 : Formula 1 On-Board Camera: Lance Stroll - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 05 : Formula 1 On-Board Camera: Lando Norris - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 03 : Formula 1 On-Board Camera: Max Verstappen - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 09 : Formula 1 Pit Lane - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
-        "TSN 06 : Formula 1 Timing Channel - Italian Grand Prix Practice #1 - Fri 04/09 11:20am",
         "TSN 10 : Formula 3 Qualifying: Monza - Fri 04/09 12:58pm",
         "TSN 11 : 2026 FIBA Women's World Cup: United States vs. China - Fri 04/09 1:15pm",
         "TSN 12 : 2026 FIBA Women's World Cup: Korea vs. Nigeria - Fri 04/09 1:30pm",
