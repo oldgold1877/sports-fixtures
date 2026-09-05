@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T17:00:41.692495+00:00",
+  "scraped_at": "2026-09-05T18:49:05.421564+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 5 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 17:00-19:00 - Serie A: Internazionale vs Napoli 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:30-19:30 - EPL: Hull City vs Aston Villa 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:30-19:30 - EPL: Hull City vs Aston Villa 720p"
             },
             {
               "type": "fixture",
@@ -50,6 +38,95 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 10 - 17:00-23:00 - MMA: UFC Fight Night: Hooker vs. Parnasse [Prelims+Main]"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 - 18:00-22:00 - Boxing: Gorilla Promotions Preston"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 12pm UFC Fight Night Hooker v Parnasse"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 11am/2pm Taylor v Pili"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 12pm Spomer v Abubakari"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 12pm/2pm Glory 109"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 12pm Real American Freestyle Moscow"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 5:30pmSenshi 33"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 6:30pmBrave CF Croatia"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 10am AMSOIL Championship Off-Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 3:30pmRadical Cup COTA"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 3:30pmAmerican Flat Track Mile Springfield"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 11am USAC Ted Horn 100 Du Quoin"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 2pm Zenith Racing Series Homestead-Miami"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 10:15pmSMART Modifieds Carteret"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 10:30pmButch Renninger Memorial Port Royal"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 10:40pmNWMT Oswego"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 6pm Volusia Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 6pm NAPA All Star Sprints Wayne County"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 11:15pmLand of Legends Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 11:30pmHillbilly 100 WVMS"
+            },
+            {
+              "type": "fixture",
+              "text": "Calistoga"
             }
           ]
         }
@@ -62,12 +139,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 11 - 05-Sep 04:53PM-07:00PM - Serie A 2026/27 E23 -Inter vs Napoli[Live] [HK]",
         "EVENT 06 - 05-Sep 05:00PM-08:00PM - UFC Fight Night 2026 FN 22: Prelims: Hooker vs Parnasse - FN 22: Prelims: Hooker vs Parnasse [SG]",
-        "EVENT 19 - 05-Sep 05:00PM-07:30PM - Premier League 26/27 -Hull City vs Aston Villa[Live] [HK]",
-        "EVENT 01 - 05-Sep 05:20PM-07:25PM - Bundesliga 2026/27: Schalke vs Bayern [SG]",
-        "EVENT 04 - 05-Sep 05:20PM-07:30PM - Hull City v Aston Villa (MW03) [SG]",
-        "EVENT 09 - 05-Sep 05:20PM-07:30PM - Bundesliga 2026/27 -Schalke vs Bayern[Live] [HK]",
         "EVENT 05 - 05-Sep 05:30PM-07:40PM - LaLiga 2026/27: Rayo Vallecano vs Racing de Santander [SG]",
         "EVENT 10 - 05-Sep 05:30PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Rayo Vallecano vs Racing Club[Live] [HK]",
         "EVENT 14 - 05-Sep 06:10PM-08:00PM - Super Lig 2026/27 [Join in Progress]: Fenerbahce vs Besiktas [SG]",
@@ -105,7 +177,8 @@
         "EVENT 03 - 07-Sep 05:55PM-08:10PM - LaLiga 2026/27: Getafe vs Celta Vigo [SG]",
         "EVENT 06 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27: Goztepe vs Gaziantep [SG]",
         "EVENT 08 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27 E16 -Goztepe vs Gaziantep[Live] [HK]",
-        "EVENT 09 - 07-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Getafe CF vs Celta[Live] [HK]"
+        "EVENT 09 - 07-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Getafe CF vs Celta[Live] [HK]",
+        "EVENT 02 - 07-Sep 07:38PM-09:45PM - Serie A 2026/27 E30 -Udinese vs Lazio[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1446,10 +1519,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Nottingham Police to Enforce Balaclava Ban - 05/09/2026 07:09 - 04:21",
         "BBC Events 02 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 04.09 - 05/09/2026 12:49 - 12:48",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 05/09/2026 05:57 - 19:20",
-        "BBC Events 05 - no_brand_title: Sgorio: Y Seintiau Newydd v Y Barri - 05/09/2026 16:52 - 19:15",
-        "BBC Events 07 - no_brand_title: Cymru Prem: The New Saints v Barry Town - 05/09/2026 16:52 - 19:15",
-        "BBC Events 09 - no_brand_title: Robert Jenrick Making Speech at Reform UK's Conference - 05/09/2026 12:25 - 08:14"
+        "BBC Events 09 - no_brand_title: Robert Jenrick Making Speech at Reform UK's Conference - 05/09/2026 12:25 - 08:14",
+        "BBC Events 10 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 05/09/2026 18:00 - 00:00"
       ],
       "sections": [],
       "events": []
@@ -1495,10 +1566,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "Gaago 01| Down: Castlewellan V Saul | 18:15 GMT",
-        "Gaago 02 | Armagh: Derrynoose v Tir na Nog | 19:30 GMT"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1794,8 +1862,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: WST: British Open: D6 Eve - 19:00 05/09/2026",
-        "Sky Sport 9 - LIVE: WCPL: Barbados v Trinbago - 19:45 05/09/2026",
         "Sky Sport Select - LIVE: INDYCAR: Laguna Seca Qualifying - 21:30 05/09/2026",
         "Sky Sport 2 - LIVE: Argentina v Australia 2nd Test - 21:55 05/09/2026",
         "Sky Sport 6 - LIVE: Champ of Champs Mixed Pairs Final - 00:15 06/09/2026",
@@ -1918,7 +1984,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : NEC vs. Feyenoord - Sat 05/09 3:20pm",
         "Sportsnet 04 : Catalans Dragons vs. York Knights - Sat 05/09 5:50pm",
         "Sportsnet 02 : AFC Ajax vs. PSV Eindhoven - Sat 05/09 6:50pm",
         "Sportsnet 05 : Leeds Rhinos vs. Wigan Warriors - Sat 05/09 7:50pm",
@@ -1940,7 +2005,10 @@
         "Sportsnet 01 : Tampa Bay @ Texas - Sun 06/09 7:30pm",
         "Sportsnet 02 : New York Yankees @ San Diego - Sun 06/09 9:00pm",
         "Sportsnet 01 : Washington @ Los Angeles Dodgers - Mon 07/09 3:00am",
-        "Sportsnet 01 : Sportsnet Central: Sep. 6 - Mon 07/09 10:00am"
+        "Sportsnet 01 : Sportsnet Central: Sep. 6 - Mon 07/09 10:00am",
+        "Sportsnet 01 : Jays Talk Plus: Sep. 7 - Mon 07/09 3:00pm",
+        "Sportsnet 02 : Cleveland @ Baltimore - Mon 07/09 6:30pm",
+        "Sportsnet 01 : Blair & Barker: Sep. 7 - Mon 07/09 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -1951,58 +2019,41 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 14 : Brighton & Hove Albion v Leeds United - Premier League Matchweek 3 2026/2027 - Sat 05/09 2:50pm",
-        "Stan 05 : Fulham v Crystal Palace - Premier League Matchweek 3 2026/2027 - Sat 05/09 2:50pm",
-        "Stan 12 : Nottingham Forest v Tottenham Hotspur - Premier League Matchweek 3 2026/2027 - Sat 05/09 2:50pm",
-        "Stan 13 : Brentford v Sunderland - Premier League Matchweek 3 2026/2027 - Sat 05/09 2:50pm",
-        "Stan 15 : Manchester City v Coventry City - Premier League Matchweek 3 2026/2027 - Sat 05/09 2:50pm",
-        "Stan 04 : Goal Rush: Manchester City v Coventry City • 5 September - Premier League 2026/2027 - Sat 05/09 2:55pm",
-        "Stan 16 : South Africa v New Zealand: Sky NZ Coverage - NZL Tour of RSA Third Test 2026 - Sat 05/09 3:00pm",
-        "Stan 03 : South Africa v New Zealand: SuperSport Coverage - NZL Tour of RSA Third Test 2026 - Sat 05/09 3:00pm",
-        "Stan 22 : Demoliner/Ho v Lammons/Withrow - Men's Doubles R1 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 26 : Fernandez/Tjen v Routliffe/Sutjiadi - Women's Doubles R2 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 21 : Jebens/Reyes-Varela v Granollers/Zeballos - Men's Doubles R1 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 19 : Keys v Zheng - Women's Singles R3 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 23 : Perez/Schuurs v Pridankina/Tang - Women's Doubles R2 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 25 : Pieczonka/Stevens v Krajicek/Mektic - Men's Doubles R1 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 20 : Potapova v Anisimova - Women's Singles R3 US Open 2026 - Sat 05/09 4:00pm",
-        "Stan 24 : Seggerman/Trhac v Bhambri/Venus - Men's Doubles R1 US Open 2026 - Sat 05/09 4:00pm",
         "Stan 27 : Fritz v Cerundolo - Men's Singles R3 US Open 2026 - Sat 05/09 4:30pm",
-        "Stan 17 : Free Practice 3: Lone Star Le Mans - WEC 2026 - Sat 05/09 4:50pm",
-        "Stan 18 : Hull City v Aston Villa - Premier League Matchweek 3 2026/2027 - Sat 05/09 5:20pm",
-        "Stan 29 : Andreeva v Bartunkova - Women's Singles R3 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 28 : Blockx v Cobolli - Men's Singles R3 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 34 : Bublik/Shang v Baez/Marozsan - Men's Doubles R1 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 30 : Chwalinska/Linette v Bondar/Kalinina - Women's Doubles R2 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 31 : Reymond/Sanchez v Harrison/Skupski - Men's Doubles R1 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 32 : Reynolds/Watt v Andreozzi/Guinard - Men's Doubles R1 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 33 : Siniakova/Townsend v Wang/Xu - Women's Doubles R2 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 07 : Swiatek v Bouzkova - Women's Singles R3 US Open 2026 - Sat 05/09 5:30pm",
-        "Stan 35 : Alvarez/Johnston v Schnaitter/Wallner - Men's Doubles R1 US Open 2026 - Sat 05/09 6:00pm",
-        "Stan 08 : Neel/Olmos v Shibahara/Tararudee - Women's Doubles R2 US Open 2026 - Sat 05/09 6:00pm",
+        "Stan 18 : Hull City v Aston Villa - Premier League Matchweek 3 2026/2027 - Sat 05/09 5:24pm",
+        "Stan 34 : Bublik/Shang v Baez/Marozsan - Men's Doubles R1 US Open 2026 - Sat 05/09 5:25pm",
+        "Stan 30 : Chwalinska/Linette v Bondar/Kalinina - Women's Doubles R2 US Open 2026 - Sat 05/09 5:50pm",
+        "Stan 29 : Andreeva v Bartunkova - Women's Singles R3 US Open 2026 - Sat 05/09 5:56pm",
         "Stan 01 : Practice 2: Grand Prix of Laguna Seca - Indycar 2026 - Sat 05/09 6:00pm",
-        "Stan 09 : Bucsa v Gauff - Women's Singles R3 US Open 2026 - Sat 05/09 6:30pm",
-        "Stan 10 : Darderi v Sweeny - Men's Singles R3 US Open 2026 - Sat 05/09 7:00pm",
-        "Stan 38 : Fery/Paris v Martin Etcheverry/Ugo Carabelli - Men's Doubles R1 US Open 2026 - Sat 05/09 7:00pm",
-        "Stan 40 : Kempen/Panova v Hunter/Krawczyk - Women's Doubles R2 US Open 2026 - Sat 05/09 7:00pm",
-        "Stan 36 : Khachanov v Bonzi - Men's Singles R3 US Open 2026 - Sat 05/09 7:00pm",
+        "Stan 28 : Blockx v Cobolli - Men's Singles R3 US Open 2026 - Sat 05/09 6:00pm",
+        "Stan 35 : Alvarez/Johnston v Schnaitter/Wallner - Men's Doubles R1 US Open 2026 - Sat 05/09 6:00pm",
+        "Stan 08 : Neel/Olmos v Shibahara/Tararudee - Women's Doubles R2 US Open 2026 - Sat 05/09 6:02pm",
+        "Stan 33 : Siniakova/Townsend v Wang/Xu - Women's Doubles R2 US Open 2026 - Sat 05/09 6:05pm",
+        "Stan 31 : Reymond/Sanchez v Harrison/Skupski - Men's Doubles R1 US Open 2026 - Sat 05/09 6:29pm",
+        "Stan 32 : Reynolds/Watt v Andreozzi/Guinard - Men's Doubles R1 US Open 2026 - Sat 05/09 6:30pm",
+        "Stan 40 : Kempen/Panova v Hunter/Krawczyk - Women's Doubles R2 US Open 2026 - Sat 05/09 6:37pm",
+        "Stan 07 : Swiatek v Bouzkova - Women's Singles R3 US Open 2026 - Sat 05/09 6:54pm",
         "Stan 37 : Milavsky/Shick v Cabral/Tracy - Men's Doubles R1 US Open 2026 - Sat 05/09 7:00pm",
-        "Stan 39 : Uchijima/Wang v Krueger/Montgomery - Women's Doubles R2 US Open 2026 - Sat 05/09 7:00pm",
-        "Stan 11 : Zheng v Gea - Men's Singles R3 US Open 2026 - Sat 05/09 7:00pm",
         "Stan 42 : Doumbia/Reboul v Stevenson/Willis - Men's Doubles R1 US Open 2026 - Sat 05/09 7:30pm",
-        "Stan 41 : Johnson/Zielinski v Arevalo/Pavic - Men's Doubles R1 US Open 2026 - Sat 05/09 7:30pm",
+        "Stan 36 : Khachanov v Bonzi - Men's Singles R3 US Open 2026 - Sat 05/09 7:30pm",
+        "Stan 09 : Bucsa v Gauff - Women's Singles R3 US Open 2026 - Sat 05/09 7:30pm",
+        "Stan 10 : Darderi v Sweeny - Men's Singles R3 US Open 2026 - Sat 05/09 8:00pm",
+        "Stan 41 : Johnson/Zielinski v Arevalo/Pavic - Men's Doubles R1 US Open 2026 - Sat 05/09 8:00pm",
         "Stan 02 : PL Saturday Wrap: Matchweek 3 - Sep 6 - Sat 05/09 8:00pm",
+        "Stan 39 : Uchijima/Wang v Krueger/Montgomery - Women's Doubles R2 US Open 2026 - Sat 05/09 8:00pm",
         "Stan 05 : Brooksby/Giron v Kiger/Kovacevic - Men's Doubles R1 US Open 2026 - Sat 05/09 8:30pm",
-        "Stan 44 : Errani/Tagger v Dabrowski/Stefani - Women's Doubles R2 US Open 2026 - Sat 05/09 8:30pm",
+        "Stan 38 : Fery/Paris v Chandrasekar/Liutarevich - Men's Doubles R1 US Open 2026 - Sat 05/09 8:30pm",
         "Stan 43 : Golubev/Nedovyesov v Pavlasek/Rikl - Men's Doubles R1 US Open 2026 - Sat 05/09 8:30pm",
+        "Stan 11 : Zheng v Gea - Men's Singles R3 US Open 2026 - Sat 05/09 8:30pm",
         "Stan 06 : Qualifying: Lone Star Le Mans - WEC 2026 - Sat 05/09 8:50pm",
         "Stan 04 : Argentina v Australia - Men's International 2026 - Sat 05/09 9:30pm",
         "Stan 12 : Bergs v Van De Zandschulp - Men's Singles R3 US Open 2026 - Sat 05/09 9:30pm",
+        "Stan 44 : Errani/Tagger v Dabrowski/Stefani - Women's Doubles R2 US Open 2026 - Sat 05/09 9:30pm",
         "Stan 03 : Qualifying: Grand Prix of Laguna Seca - Indycar 2026 - Sat 05/09 9:30pm",
         "Stan 14 : Bonzi/Rinderknech v Arribage/Olivetti - Men's Doubles R1 US Open 2026 - Sat 05/09 10:00pm",
-        "Stan 13 : Starodubtseva v Rybakina - Women's Singles R3 US Open 2026 - Sat 05/09 10:00pm",
         "Stan 15 : Darderi/Kestelboim v Cash/Glasspool - Men's Doubles R1 US Open 2026 - Sat 05/09 10:30pm",
         "Stan 05 : Racing Louisville v Angel City FC - NWSL 2026 - Sat 05/09 11:30pm",
+        "Stan 13 : Starodubtseva v Rybakina - Women's Singles R3 US Open 2026 - Sat 05/09 11:30pm",
         "Stan 16 : Jovic v Eala - Women's Singles R3 US Open 2026 - Sun 06/09 12:00am",
         "Stan 17 : Osaka v Mertens - Women's Singles R3 US Open 2026 - Sun 06/09 12:00am",
         "Stan 01 : Counties Manukau v Manawatū - Farah Palmer Cup Round 2 2026 - Sun 06/09 12:30am",
@@ -2050,7 +2101,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 14 : 2026 Walker Cup: Day One - Sat 05/09 2:00pm",
         "TSN 25 : US Open: Day #7 - Court 11 (ft. Dabrowski Doubles) - Sat 05/09 4:00pm",
         "TSN 03 : US Open: Day #7 - Court 5 (ft. Darderi, Sweeny) - Sat 05/09 4:00pm",
         "TSN 24 : US Open: Day #7 - Court 7 (ft. Men's & Women's Doubles) - Sat 05/09 4:00pm",
@@ -2058,11 +2108,7 @@
         "TSN 26 : US Open: Day #7 - Louis Armstong (ft. Anisimova, Cobolli, Osaka) - Sat 05/09 4:00pm",
         "TSN 23 : US Open: Day #7 - Stadium 17 (ft. Fernandez Doubles, Andreeva) - Sat 05/09 4:00pm",
         "TSN 27 : US Open: Day #7 - Arthur Ashe (ft. Fritz, Gauff, Zverev) - Sat 05/09 4:30pm",
-        "TSN 05 : 2026 FIFA U-20 Women's World Cup: Mexico vs. Benin - Sat 05/09 4:48pm",
-        "TSN 06 : 2026 FIBA Women's World Cup: Germany vs. Japan - Sat 05/09 5:00pm",
         "TSN 07 : NCAA Football: Oregon State vs. Houston - Sat 05/09 5:00pm",
-        "TSN 01 : LaLiga: Rayo Vallecano vs. Racing Santander - Sat 05/09 5:18pm",
-        "TSN 08 : IndyCar Practice 2: Mission Grand Prix of Monterey - Sat 05/09 6:00pm",
         "TSN 02 : 2026 NASCAR ORAP Series Practice & Qualifying: Fleetio 200 - Sat 05/09 6:30pm",
         "TSN 09 : 2026 FIBA Women's World Cup: France vs. Korea - Sat 05/09 7:45pm",
         "TSN 10 : LaLiga: Villarreal vs. Deportivo - Sat 05/09 7:48pm",
