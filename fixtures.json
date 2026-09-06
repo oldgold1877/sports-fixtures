@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T13:55:00.024944+00:00",
+  "scraped_at": "2026-09-06T17:00:42.396184+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,26 +17,6 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 03 - 13:55-16:00 - F1: Italian GP - Race 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 14:00-16:00 - EPL: Everton vs Manchester United 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 14:00-16:00 - EPL: Everton vs Manchester United 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 14:00-16:00 - EPL: Everton vs Manchester United 720p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 15:15-17:15 - La Liga: Valencia vs Barcelona 1080p"
-            },
-            {
-              "type": "fixture",
               "text": "SPORTS SCENE 04 - 16:30-18:30 - EPL: Arsenal vs Chelsea 4K"
             },
             {
@@ -50,6 +30,14 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 08 - 19:45-21:45 - Serie A: Juventus vs Milan 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 16:30-18:30 - EPL: Arsenal vs Chelsea 4K US"
             }
           ]
         },
@@ -143,12 +131,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 17 - 06-Sep 01:30PM-04:00PM - Premier League 26/27 -Everton vs Manchester United [Live Chat][Live] [HK]",
-        "EVENT 07 - 06-Sep 01:50PM-04:20PM - Everton v Manchester United (MW03) [SG]",
-        "EVENT 05 - 06-Sep 02:25PM-04:25PM - Bundesliga 2026/27 E17 -Hamburg vs Mainz[Live] [HK]",
-        "EVENT 01 - 06-Sep 03:10PM-05:25PM - LaLiga 2026/27: Valencia vs Barcelona [SG]",
-        "EVENT 06 - 06-Sep 03:15PM-05:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Valencia CF vs FC Barcelona[Live] [HK]",
-        "EVENT 18 - 06-Sep 03:15PM-05:30PM - LALIGA EA SPORTS 26/27 -Valencia vs Barcelona[Live] [HK]",
         "EVENT 16 - 06-Sep 04:00PM-06:30PM - Premier League 26/27 -Arsenal vs Chelsea [Live Chat][Live] [HK]",
         "EVENT 02 - 06-Sep 04:20PM-06:30PM - Arsenal v Chelsea (MW03) [SG]",
         "EVENT 08 - 06-Sep 04:20PM-06:30PM - Premier League Xtra Select -Arsenal vs Chelsea[Live] [HK]",
@@ -161,6 +143,7 @@
         "EVENT 03 - 06-Sep 07:52PM-10:00PM - LaLiga 2 2026/27: Almeria vs Cadiz [SG]",
         "EVENT 04 - 06-Sep 07:55PM-10:00PM - LaLiga 2026/27: Espanyol vs Sevilla [SG]",
         "EVENT 08 - 06-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD04 -RCD Espanyol vs Sevilla FC[Live] [HK]",
+        "EVENT 09 - 06-Sep 08:00PM-10:30PM - 2026 US Open -Women's Doubles Rd 2 - X. Jiang/S. Zhang vs E. Chong/Z. Yang[Live] [HK]",
         "EVENT 07 - 07-Sep 05:23PM-07:38PM - Serie A 2026/27 E29 -Cagliari vs Lecce[Live] [HK]",
         "EVENT 03 - 07-Sep 05:55PM-08:10PM - LaLiga 2026/27: Getafe vs Celta Vigo [SG]",
         "EVENT 06 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27: Goztepe vs Gaziantep [SG]",
@@ -170,7 +153,11 @@
         "EVENT 01 - 07-Sep 08:25PM-10:30PM - LaLiga 2026/27: Elche vs Real Sociedad [SG]",
         "EVENT 03 - 07-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Elche CF vs Real Sociedad[Live] [HK]",
         "EVENT 08 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
-        "EVENT 09 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]"
+        "EVENT 09 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]",
+        "EVENT 02 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: AEK Athens vs LASK - MD1 [SG]",
+        "EVENT 05 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
+        "EVENT 08 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E15 -AEK Athens vs LASK - MD1[Live] [HK]",
+        "EVENT 09 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E16 -Club Brugge vs Aston Villa - MD1[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1081,10 +1068,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - no_brand_title: Adran Prem: Abertawe v Caerdydd - 06/09/2026 16:47 - 19:15",
+        "BBC Events 02 - no_brand_title: Adran Prem: Swansea City  v Cardiff City - 06/09/2026 16:47 - 19:15",
         "BBC Events 03 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 06.09 - 06/09/2026 12:11 - 12:10",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 06/09/2026 05:59 - 04:37",
-        "BBC Events 05 - Sportscene: Scottish Women's Premier League: Sportscene: Partick Thistle v Celtic - 06/09/2026 12:14 - 15:15",
-        "BBC Events 06 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 06/09/2026 13:35 - 18:00",
         "BBC Events 07 - no_brand_title: Jaguar Land Rover to Announce Job Cuts in Britain - 06/09/2026 13:25 - 12:59"
       ],
       "sections": [],
@@ -1131,7 +1118,13 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "GaaTv 01:   Donegal: CLG An Tearmainn v An Clochan Liath - 3pm GMT",
+        "GaaTv 02: Mayo: Breaffy v Knockmore -  3:30pm",
+        "GaaTv 03: Armagh: Madden V Granemore 4pm GMT",
+        "GaaTv 04: Antrim: Erin's Own Cargin vs St Galls 4pm GMT",
+        "GaaTv 05: Down: Portaferry V Ballygalget | 16:30 GMT"
+      ],
       "sections": [],
       "events": []
     },
@@ -1384,10 +1377,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: FIA F1: Italy GP Chequered Flag - 16:00 06/09/2026",
-        "Sky Sport 1 UHD - LIVE: FIA F1: Italy GP Chequered Flag - 16:00 06/09/2026",
-        "Sky Sport 1 - LIVE: Ted's Notebook: Italy - 17:00 06/09/2026",
-        "Sky Sport 1 UHD - LIVE: Ted's Notebook: Italy - 17:00 06/09/2026",
         "Sky Sport 4 - LIVE: WST: British Open: D7 Eve - 19:00 06/09/2026",
         "Sky Sport 1 - LIVE: INDYCAR: Laguna Seca - 19:30 06/09/2026",
         "Sky Sport 1 UHD - LIVE: INDYCAR: Laguna Seca - 19:30 06/09/2026",
@@ -1480,9 +1469,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 11 | Spurs vs West Ham",
-        "Sky Sports+ 12 | Charlton vs Liverpool",
-        "Sky Sports+ 13 | Crystal Palace vs Everton",
         "Blackburn vs Sheff Utd",
         "Derby vs West Brom",
         "Leyton Orient vs Wycombe",
@@ -1509,10 +1495,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : sc Heerenveen vs. AZ Alkmaar - Sun 06/09 1:20pm",
-        "Sportsnet 02 : Charlton Athletic vs. Liverpool - Sun 06/09 1:50pm",
-        "Sportsnet 06 : Crystal Palace vs. Everton - Sun 06/09 1:50pm",
-        "Sportsnet 07 : Manchester City vs. Birmingham City - Sun 06/09 2:20pm",
         "Sportsnet 03 : Toronto @ Kansas City - Sun 06/09 6:30pm",
         "Sportsnet 01 : Tampa Bay @ Texas - Sun 06/09 7:30pm",
         "Sportsnet 02 : New York Yankees @ San Diego - Sun 06/09 9:00pm",
@@ -1544,19 +1526,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 08 : FC Tokyo v Kyoto Sanga - J.League 2026 - Sun 06/09 11:25am",
-        "Stan 09 : Brighton & Hove Albion v Arsenal - WSL 2026/27 - Sun 06/09 11:50am",
-        "Stan 10 : Tottenham Hotspur v West Ham United - WSL 2026/27 - Sun 06/09 11:50am",
-        "Stan 11 : Griquas v Lions - Currie Cup Semi Final 2026 - Sun 06/09 11:55am",
-        "Stan 03 : Everton v Manchester United - Premier League Matchweek 3 2026/2027 - Sun 06/09 1:00pm",
-        "Stan 12 : PL Live • 6 September - Premier League 2026/27 - Sun 06/09 1:00pm",
-        "Stan 13 : 4K • Everton v Manchester United - Premier League Matchweek 3 2026/2027 - Sun 06/09 1:50pm",
-        "Stan 15 : Charlton Athletic v Liverpool - WSL 2026/27 - Sun 06/09 1:50pm",
-        "Stan 14 : Crystal Palace v Everton - WSL 2026/27 - Sun 06/09 1:50pm",
-        "Stan 17 : Race Day Part 2: Turkey - MXGP 2026 - Sun 06/09 2:00pm",
-        "Stan 16 : Manchester City v Birmingham City - WSL 2026/27 - Sun 06/09 2:20pm",
-        "Stan 18 : Cheetahs v Pumas - Currie Cup Semi Final 2026 - Sun 06/09 2:25pm",
-        "Stan 20 : Carpico/Samuel Filin v Melo/Peers - Men's Doubles R2 US Open 2026 - Sun 06/09 4:00pm",
+        "Stan 20 : Carpico/Filin v Melo/Peers - Men's Doubles R2 US Open 2026 - Sun 06/09 4:00pm",
         "Stan 22 : Gonzalez/Molteni v Nouza/Oberleitner - Men's Doubles R2 US Open 2026 - Sun 06/09 4:00pm",
         "Stan 21 : Heliovaara/Patten v Arnaldi/Struff - Men's Doubles R2 US Open 2026 - Sun 06/09 4:00pm",
         "Stan 19 : 4K • Arsenal v Chelsea - Premier League Matchweek 3 2026/2027 - Sun 06/09 4:20pm",
@@ -1574,10 +1544,10 @@
         "Stan 05 : PL Weekend Wrap: Matchweek 3 - Sep 7 - Sun 06/09 7:00pm",
         "Stan 10 : Paul v Alcaraz - Men's Singles R4 US Open 2026 - Sun 06/09 7:00pm",
         "Stan 11 : Pavlasek/Rikl v Cash/Glasspool - Men's Doubles R2 US Open 2026 - Sun 06/09 7:00pm",
-        "Stan 29 : Michelsen v Martin Etcheverry - Men's Singles R4 US Open 2026 - Sun 06/09 7:30pm",
+        "Stan 29 : Michelsen v Etcheverry - Men's Singles R4 US Open 2026 - Sun 06/09 7:30pm",
         "Stan 06 : Race: Grand Prix of Laguna Seca - Indycar 2026 - Sun 06/09 7:30pm",
         "Stan 31 : Fossa Huergo/Korpatsch v Chan/Joint - Women's Doubles R2 US Open 2026 - Sun 06/09 8:00pm",
-        "Stan 30 : Jiang/Zhang v Wong Chong/Yang - Women's Doubles R2 US Open 2026 - Sun 06/09 8:00pm",
+        "Stan 30 : Jiang/Zhang v Chong/Yang - Women's Doubles R2 US Open 2026 - Sun 06/09 8:00pm",
         "Stan 12 : Medvedev v Tiafoe - Men's Singles R4 US Open 2026 - Sun 06/09 8:00pm",
         "Stan 13 : Kichenok/Kichenok v Kato/Wu - Women's Doubles R2 US Open 2026 - Sun 06/09 8:30pm",
         "Stan 14 : Ram/Salisbury v Arribage/Olivetti - Men's Doubles R2 US Open 2026 - Sun 06/09 8:30pm",
@@ -1628,18 +1598,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 FIBA Women's World Cup: China vs. Czechia - Sun 06/09 1:30pm",
         "TSN 11 : 2026 Walker Cup: Day Two - Sun 06/09 1:30pm",
-        "TSN 03 : Formula 1 Driver Tracker - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 07 : Formula 1 Mixed On-Board Camera - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 10 : Formula 1 On-Board Camera: Lance Stroll - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 08 : Formula 1 On-Board Camera: Lando Norris - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 05 : Formula 1 On-Board Camera: Max Verstappen - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 09 : Formula 1 Pit Lane - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 06 : Formula 1 Timing Channel - Italian Grand Prix - Sun 06/09 1:30pm",
-        "TSN 12 : 2026 FIFA U-20 Women's World Cup: France vs. Korea Republic - Sun 06/09 1:48pm",
-        "TSN 13 : 2026 FIFA U-20 Women's World Cup: Japan vs. New Zealand - Sun 06/09 1:48pm",
-        "TSN 14 : LaLiga: Valencia vs. Barcelona - Sun 06/09 2:45pm",
         "TSN 22 : US Open: Day #8 - Court 10 (ft. Mercier, Azar) - Sun 06/09 4:00pm",
         "TSN 23 : US Open: Day #8 - Court 15 (ft. Lagaev) - Sun 06/09 4:00pm",
         "TSN 20 : US Open: Day #8 - Court 5 (ft. Juniors & Doubles) - Sun 06/09 4:00pm",
