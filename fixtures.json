@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T11:28:14.427297+00:00",
+  "scraped_at": "2026-09-06T13:55:00.024944+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -127,6 +127,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 18 - 8pm Louie Vermeil Classic Calistoga"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 1:15amAmerican Sprint Car Series Electric City"
             }
           ]
         }
@@ -139,11 +143,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 07 - 06-Sep 11:25AM-01:30PM - Serie A Women's Cup '26 E6 -Juventus v Milan[Live] [HK]",
-        "EVENT 01 - 06-Sep 11:50AM-01:55PM - Women's Super League 2026/27: Brighton vs Arsenal [SG]",
-        "EVENT 03 - 06-Sep 12:20PM-02:30PM - Bundesliga 2 2026/27: Hertha vs Magdeburg [SG]",
-        "EVENT 04 - 06-Sep 12:20PM-02:30PM - Singapore Premier League 2026/27 Community Shield  Lion City Sailors vs Tampines Rovers - Lion City Sailors vs Tampines Rovers [SG]",
-        "EVENT 09 - 06-Sep 12:20PM-02:25PM - Bundesliga 2 2026/27 E34 -Hertha vs Magdeburg[Live] [HK]",
         "EVENT 17 - 06-Sep 01:30PM-04:00PM - Premier League 26/27 -Everton vs Manchester United [Live Chat][Live] [HK]",
         "EVENT 07 - 06-Sep 01:50PM-04:20PM - Everton v Manchester United (MW03) [SG]",
         "EVENT 05 - 06-Sep 02:25PM-04:25PM - Bundesliga 2026/27 E17 -Hamburg vs Mainz[Live] [HK]",
@@ -169,7 +168,9 @@
         "EVENT 09 - 07-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Getafe CF vs Celta[Live] [HK]",
         "EVENT 02 - 07-Sep 07:38PM-09:45PM - Serie A 2026/27 E30 -Udinese vs Lazio[Live] [HK]",
         "EVENT 01 - 07-Sep 08:25PM-10:30PM - LaLiga 2026/27: Elche vs Real Sociedad [SG]",
-        "EVENT 03 - 07-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Elche CF vs Real Sociedad[Live] [HK]"
+        "EVENT 03 - 07-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Elche CF vs Real Sociedad[Live] [HK]",
+        "EVENT 08 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
+        "EVENT 09 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]"
       ],
       "sections": [],
       "events": []
@@ -1080,9 +1081,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Rugby League: Super League: Wakefield v Warrington - 06/09/2026 11:20 - 13:34",
-        "BBC Events 02 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 04.09 - 05/09/2026 12:49 - 12:48",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 06/09/2026 05:59 - 04:37"
+        "BBC Events 03 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 06.09 - 06/09/2026 12:11 - 12:10",
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 06/09/2026 05:59 - 04:37",
+        "BBC Events 05 - Sportscene: Scottish Women's Premier League: Sportscene: Partick Thistle v Celtic - 06/09/2026 12:14 - 15:15",
+        "BBC Events 06 - Movies With Ali Plumb: The Story So Far: The Best Of, Part 4 - 06/09/2026 13:35 - 18:00",
+        "BBC Events 07 - no_brand_title: Jaguar Land Rover to Announce Job Cuts in Britain - 06/09/2026 13:25 - 12:59"
       ],
       "sections": [],
       "events": []
@@ -1381,16 +1384,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: FIA Formula 1: Italy GP Pre Race - 12:30 06/09/2026",
-        "Sky Sport 1 UHD - LIVE: FIA Formula 1: Italy GP Pre Race - 12:30 06/09/2026",
-        "Sky Sport 7 - LIVE: WST: British Open: D7 Aft - 13:00 06/09/2026",
-        "Sky Sport 9 - LIVE: Walker Cup: Day 2 Afternoon - 13:30 06/09/2026",
-        "Sky Sport 3 - LIVE: La Vuelta Stage 15 - 13:50 06/09/2026",
-        "Sky Sport 1 - LIVE: FIA Formula 1:  Italy Grand Prix - 13:55 06/09/2026",
-        "Sky Sport 1 UHD - LIVE: FIA Formula 1:  Italy Grand Prix - 13:55 06/09/2026",
-        "Sky Sport Select - LIVE: SuperTri Pro Series: Final - 14:00 06/09/2026",
-        "Sky Sport 5 - LIVE: Currie Cup: Cheetahs v Pumas SF2 - 14:25 06/09/2026",
-        "Sky Sport 6 - LIVE: PSA London Classic: F - 14:30 06/09/2026",
         "Sky Sport 1 - LIVE: FIA F1: Italy GP Chequered Flag - 16:00 06/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Italy GP Chequered Flag - 16:00 06/09/2026",
         "Sky Sport 1 - LIVE: Ted's Notebook: Italy - 17:00 06/09/2026",
@@ -1488,6 +1481,8 @@
       "status": "ok",
       "fixtures": [
         "Sky Sports+ 11 | Spurs vs West Ham",
+        "Sky Sports+ 12 | Charlton vs Liverpool",
+        "Sky Sports+ 13 | Crystal Palace vs Everton",
         "Blackburn vs Sheff Utd",
         "Derby vs West Brom",
         "Leyton Orient vs Wycombe",
@@ -1503,9 +1498,7 @@
         "Palace vs Middlesbrough",
         "Sunderland vs Hull",
         "Doncaster vs Huddersfield",
-        "Exeter vs Spurs U21",
-        "Charlton vs Liverpool",
-        "Crystal Palace vs Everton"
+        "Exeter vs Spurs U21"
       ],
       "sections": [],
       "events": []
@@ -1516,9 +1509,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : FC Groningen vs. FC Twente - Sun 06/09 11:05am",
-        "Sportsnet 04 : Brighton & Hove Albion vs. Arsenal - Sun 06/09 11:50am",
-        "Sportsnet 05 : Tottenham Hotspur vs. West Ham United - Sun 06/09 11:50am",
         "Sportsnet 01 : sc Heerenveen vs. AZ Alkmaar - Sun 06/09 1:20pm",
         "Sportsnet 02 : Charlton Athletic vs. Liverpool - Sun 06/09 1:50pm",
         "Sportsnet 06 : Crystal Palace vs. Everton - Sun 06/09 1:50pm",
@@ -1540,7 +1530,10 @@
         "Sportsnet 02 : Jays Talk Plus: Sep. 8 - Tue 08/09 3:00pm",
         "Sportsnet 01 : Blair & Barker: Sep. 8 - Tue 08/09 9:00pm",
         "Sportsnet 02 : The FAN Pregame: Sep. 8 - Tue 08/09 11:00pm",
-        "Sportsnet 03 : Cleveland @ Baltimore - Tue 08/09 11:30pm"
+        "Sportsnet 03 : Cleveland @ Baltimore - Tue 08/09 11:30pm",
+        "Sportsnet 05 : Colorado @ New York Yankees - Wed 09/09 12:00am",
+        "Sportsnet 04 : Dana White's Contender Series - Episode 5 - Wed 09/09 12:00am",
+        "Sportsnet 01 : Toronto @ Athletics - Wed 09/09 2:00am"
       ],
       "sections": [],
       "events": []
@@ -1551,11 +1544,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Kashima Antlers v Urawa Red Diamonds - J.League 2026 - Sun 06/09 9:55am",
-        "Stan 04 : Anyang v Gangwon - K League 2026 - Sun 06/09 10:54am",
-        "Stan 05 : Gimcheon v Gwangju - K League 2026 - Sun 06/09 10:55am",
-        "Stan 06 : Kashiwa Reysol v Yokohama F. Marinos - J.League 2026 - Sun 06/09 10:56am",
-        "Stan 07 : Race Day Part 1: Turkey - MXGP 2026 - Sun 06/09 11:00am",
         "Stan 08 : FC Tokyo v Kyoto Sanga - J.League 2026 - Sun 06/09 11:25am",
         "Stan 09 : Brighton & Hove Albion v Arsenal - WSL 2026/27 - Sun 06/09 11:50am",
         "Stan 10 : Tottenham Hotspur v West Ham United - WSL 2026/27 - Sun 06/09 11:50am",
@@ -1640,8 +1628,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : 2026 Walker Cup: Day Two - Sun 06/09 8:00am",
-        "TSN 04 : 2026 FIBA Women's World Cup: Turkiye vs. Australia - Sun 06/09 10:30am",
         "TSN 01 : 2026 FIBA Women's World Cup: China vs. Czechia - Sun 06/09 1:30pm",
         "TSN 11 : 2026 Walker Cup: Day Two - Sun 06/09 1:30pm",
         "TSN 03 : Formula 1 Driver Tracker - Italian Grand Prix - Sun 06/09 1:30pm",
