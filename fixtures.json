@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-07T13:12:07.510356+00:00",
+  "scraped_at": "2026-09-07T16:16:04.205148+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -12,89 +12,20 @@
           "section": "Sports Scene",
           "entries": [
             {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 16:30-18:30 - EPL: Arsenal vs Chelsea 4K US"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 8pm WWE Sunday Night MAIN EVENT"
+              "type": "date",
+              "text": "Monday 7 September 2026"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 02 - 1am Pancrase 365"
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - EFL League One: Bromley vs AFC Wimbledon 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Tuesday 8 September 2026"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 03 - 2:40pmRadical Cup COTA"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 3:30pmAmerican Flat Track Mile Springfield"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 05 - 4:30pmBudweiser Int'l Classic Oswego"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 06 - 2pm Zenith Racing Series Homestead-Miami"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 07 - 4pm Labor Day Classic Thunder Road"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 08 - 5pm Cole Cup Utica-Rome"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 09 - 10:20pmWeekly Racing Slinger"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 10 - 10:45pmUSAC National Midgets Angell Park"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 11 - 10:45pmSuper DIRTcar Series Weedsport"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 12 - 6pm NAPA All Star Sprints Wayne County"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 13 - 6pm IRA Sprints The Hill"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 14 - 6pm Baltes Classic Eldora"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 15 - 11:30pmHillbilly 100 WVMS"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 16 - 12:15amWorld of Outlaws Sprint Cars Husets"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 17 - 12:15amPorsche Sprint Challenge Laguna Seca"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 18 - 8pm Louie Vermeil Classic Calistoga"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 19 - 1:15amAmerican Sprint Car Series Electric City"
+              "text": "SPORTS SCENE 05 - 01:00-04:00 - WWE Monday Night RAW 1080p"
             }
           ]
         }
@@ -107,28 +38,24 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 07 - 07-Sep 05:23PM-07:38PM - Serie A 2026/27 E29 -Cagliari vs Lecce[Live] [HK]",
-        "EVENT 03 - 07-Sep 05:55PM-08:10PM - LaLiga 2026/27: Getafe vs Celta Vigo [SG]",
-        "EVENT 06 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27: Goztepe vs Gaziantep [SG]",
-        "EVENT 08 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27 E16 -Goztepe vs Gaziantep[Live] [HK]",
+        "EVENT 03 - 07-Sep 05:23PM-07:38PM - Serie A 2026/27 E29 -Cagliari vs Lecce[Live] [HK]",
+        "EVENT 06 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27 E16 -Goztepe vs Gaziantep[Live] [HK]",
+        "EVENT 07 - 07-Sep 05:55PM-08:10PM - LaLiga 2026/27: Getafe vs Celta Vigo [SG]",
+        "EVENT 08 - 07-Sep 05:55PM-08:00PM - Super Lig 2026/27: Goztepe vs Gaziantep [SG]",
         "EVENT 09 - 07-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD04 -Getafe CF vs Celta[Live] [HK]",
         "EVENT 02 - 07-Sep 07:38PM-09:45PM - Serie A 2026/27 E30 -Udinese vs Lazio[Live] [HK]",
-        "EVENT 01 - 07-Sep 08:25PM-10:30PM - LaLiga 2026/27: Elche vs Real Sociedad [SG]",
-        "EVENT 03 - 07-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Elche CF vs Real Sociedad[Live] [HK]",
-        "EVENT 08 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
-        "EVENT 10 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27 E1 -Club Brugge vs Aston Villa - MD1[Live] [HK]",
-        "EVENT 09 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]",
-        "EVENT 11 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E2 -Real Madrid vs Inter - MD1[Live] [HK]",
-        "EVENT 02 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: AEK Athens vs LASK - MD1 [SG]",
-        "EVENT 05 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
-        "EVENT 08 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E15 -AEK Athens vs LASK - MD1[Live] [HK]",
-        "EVENT 09 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E16 -Club Brugge vs Aston Villa - MD1[Live] [HK]",
-        "EVENT 01 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Dortmund vs Villarreal - MD1 [SG]",
-        "EVENT 03 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Porto vs Man City - MD1 [SG]",
-        "EVENT 06 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs Inter - MD1 [SG]",
-        "EVENT 07 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -Dortmund vs Villarreal - MD1[Live] [HK]",
-        "EVENT 10 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E18 -Porto vs Man City - MD1[Live] [HK]",
-        "EVENT 11 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E20 -Real Madrid vs Inter - MD1[Live] [HK]"
+        "EVENT 03 - 07-Sep 08:25PM-10:30PM - LaLiga 2026/27: Elche vs Real Sociedad [SG]",
+        "EVENT 04 - 07-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD04 -Elche CF vs Real Sociedad[Live] [HK]",
+        "EVENT 01 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27 E1 -Club Brugge vs Aston Villa - MD1[Live] [HK]",
+        "EVENT 02 - 08-Sep 12:55PM-02:55PM - UEFA Youth League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
+        "EVENT 04 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E2 -Real Madrid vs Inter - MD1[Live] [HK]",
+        "EVENT 05 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]",
+        "EVENT 08 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: AEK Athens vs LASK - MD1 [SG]",
+        "EVENT 09 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
+        "EVENT 07 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Dortmund vs Villarreal - MD1 [SG]",
+        "EVENT 10 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Porto vs Man City - MD1 [SG]",
+        "EVENT 11 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs Inter - MD1 [SG]",
+        "EVENT 06 - 09-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Liverpool vs Atletico Madrid - MD1 [SG]"
       ],
       "sections": [],
       "events": []
@@ -625,9 +552,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports UHD 2 - Live: US Open 2026 - Day 8 - Mon 07/09 12:00am",
-        "Sky Sports F1 UHD - IndyCar NXT Series - Grand Prix of Monterey: Race - Mon 07/09 12:15am",
-        "Sky Sports F1 UHD - IndyCar Series Racing - Grand Prix of Monterey: Race - Mon 07/09 1:15am",
+        "Sky Sports UHD 2 - Live: US Open 2026 - Men's Fourth Round: Ben Shelton v Stefanos Tsitsipas - Mon 07/09 12:00am",
+        "Sky Sports F1 UHD - IndyCar NXT Series - Grand Prix of Monterey: Race - Mon 07/09 12:40am",
+        "Sky Sports F1 UHD - IndyCar Series Racing - Grand Prix of Monterey: Race - Mon 07/09 1:40am",
         "Sky Sports F1 UHD - Formula 1 - Italian Grand Prix: Grand Prix Sunday - Mon 07/09 6:00am",
         "Sky Sports Main Event UHD - The EFL Show - Mon 07/09 2:00pm",
         "Sky Sports UHD 1 - Live: EFL League One - Bromley v AFC Wimbledon - Mon 07/09 7:30pm",
@@ -647,9 +574,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Chancellor John Healey Speaks to BBC News - 07/09/2026 12:09 - 12:06",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 07/09/2026 05:22 - 00:10",
-        "BBC Events 03 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 07/09/2026 13:06 - 16:59",
-        "BBC Events 04 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 07/09/2026 12:14 - 15:00",
+        "BBC Events 04 - no_brand_title: Policing Minister Statement on Small Boats Protests - 07/09/2026 16:07 - 18:00",
         "BBC Events 05 - no_brand_title: Chancellor to Give Speech Ahead of Budget - 07/09/2026 08:51 - 07:41",
+        "BBC Events 06 - Major League Baseball: Chicago Cubs v Miami Marlins - 07/09/2026 17:00 - 20:04",
         "BBC Events 08 - no_brand_title: German Chancellor Comments on AfD's Saxony-Anhalt Win - 07/09/2026 12:22 - 11:51",
         "BBC Events 09 - no_brand_title: BBC News Presenter Reveals She Has Blood Cancer - 07/09/2026 12:34 - 12:29"
       ],
@@ -883,7 +810,12 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "PDC Darts 1 : Australian Darts Association 2026 - Weekend 6, Day 1 - 2026 ADA Tour - Fri 11/09 9:00am",
+        "PDC Darts 2 : European Tour 13 - Flanders Darts Trophy | Day 1 - Afternoon Session - European Tour - Main Feed - Fri 11/09 12:00pm",
+        "PDC Darts 3 : European Tour 13 - Flanders Darts Trophy | Day 1 - Evening Session - European Tour - Main Feed - Fri 11/09 6:00pm",
+        "PDC Darts 4 : Australian Darts Association 2026 - Weekend 6, Day 2 - 2026 ADA Tour - Sat 12/09 12:30am"
+      ],
       "sections": [],
       "events": []
     },
@@ -1093,7 +1025,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Jays Talk Plus: Sep. 7 - Mon 07/09 3:00pm",
         "Sportsnet 02 : Cleveland @ Baltimore - Mon 07/09 6:30pm",
         "Sportsnet 01 : Blair & Barker: Sep. 7 - Mon 07/09 9:00pm",
         "Sportsnet 03 : Washington @ San Diego - Mon 07/09 10:00pm",
@@ -1229,10 +1160,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : 2026 FIBA Women's World Cup: Hungary vs. Korea - Mon 07/09 1:30pm",
-        "TSN 04 : 2026 FIBA Women's World Cup: Nigeria vs. France - Mon 07/09 1:30pm",
-        "TSN 06 : 2026 FIFA U-20 Women's World Cup: Korea DPR vs. Portugal - Mon 07/09 1:48pm",
-        "TSN 05 : 2026 FIFA U-20 Women's World Cup: New Caledonia vs. China PR - Mon 07/09 1:48pm",
         "TSN 14 : US Open: Day #9 - Court 15 (ft. Alexander) - Mon 07/09 4:00pm",
         "TSN 16 : US Open: Day #9 - Court 5 (ft. Juniors & Doubles) - Mon 07/09 4:00pm",
         "TSN 02 : US Open: Day #9 - Grandstand (ft. Dabrowski Doubles) - Mon 07/09 4:00pm",
