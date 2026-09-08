@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T17:00:49.577181+00:00",
+  "scraped_at": "2026-09-08T19:45:06.898208+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Tuesday 8 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Club Brugge vs Aston Villa 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: AEK Athens vs LASK Linz 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Club Brugge vs Aston Villa 720p"
             },
             {
               "type": "fixture",
@@ -70,10 +58,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 04 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E15 -AEK Athens vs LASK - MD1[Live] [HK]",
-        "EVENT 05 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E16 -Club Brugge vs Aston Villa - MD1[Live] [HK]",
-        "EVENT 08 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: AEK Athens vs LASK - MD1 [SG]",
-        "EVENT 12 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
         "EVENT 02 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -Dortmund vs Villarreal - MD1[Live] [HK]",
         "EVENT 03 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E18 -Porto vs Man City - MD1[Live] [HK]",
         "EVENT 06 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E20 -Real Madrid vs Inter - MD1[Live] [HK]",
@@ -97,7 +81,15 @@
         "EVENT 03 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 -PSV vs Shakhtar - MD1[Live] [HK]",
         "EVENT 04 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E27 -Fenerbahce vs Roma - MD1[Live] [HK]",
         "EVENT 05 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Fenerbahce vs Roma - MD1 [SG]",
-        "EVENT 06 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: PSV vs Shakhtar - MD1 [SG]"
+        "EVENT 06 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: PSV vs Shakhtar - MD1 [SG]",
+        "EVENT 01 - 10-Sep 07:30PM-07:55PM - The UCL Preview Show 2026/27 E3 -Man United vs Sabah FK - MD1[Live] [HK]",
+        "EVENT 02 - 10-Sep 07:30PM-07:55PM - The UCL Preview Show 2026/27 Man United vs Sabah FK - MD1 - Man United vs Sabah FK - MD1 [SG]",
+        "EVENT 07 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -Como 1907 vs Leipzig - MD1[Live] [HK]",
+        "EVENT 08 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E30 -Bayern vs Bodo/Glimt - MD1[Live] [HK]",
+        "EVENT 09 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E31 -Man United vs Sabah FK - MD1[Live] [HK]",
+        "EVENT 10 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Bayern vs Bodo/Glimt - MD1 [SG]",
+        "EVENT 11 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Como 1907 vs Leipzig - MD1 [SG]",
+        "EVENT 12 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Man United vs Sabah FK - MD1 [SG]"
       ],
       "sections": [],
       "events": []
@@ -278,6 +270,10 @@
           "name": "U.S. OPEN",
           "datetime": "2026-09-08 16:30:00",
           "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 1",
               "category": "SPORT | USA & CANADA"
@@ -478,8 +474,8 @@
       "status": "ok",
       "fixtures": [
         "Sky Sports UHD 2 - Live: US Open 2026 - Women's Fourth Round: Iva Jovic v Coco Gauff - Tue 08/09 12:00am",
-        "Sky Sports F1 UHD - FIA Formula 3 Championship - Italy: Sprint Race - Tue 08/09 4:15pm",
-        "Sky Sports F1 UHD - FIA Formula 2 Championship - Italy: Sprint Race - Tue 08/09 6:15pm",
+        "Sky Sports F1 UHD - FIA Formula 3 Championship - Italy: Feature Race - Tue 08/09 5:00pm",
+        "Sky Sports F1 UHD - FIA Formula 2 Championship - Italy: Feature Race - Tue 08/09 6:15pm",
         "Sky Sports Main Event UHD - Live: EFL Cup - Round 3: Millwall v Newcastle United - Tue 08/09 7:30pm",
         "Sky Sports UHD 1 - Live: EFL Championship - Bolton Wanderers v West Ham United - Tue 08/09 7:55pm",
         "Sky Sports F1 UHD - IndyCar Series Racing - Grand Prix of Monterey: Highlights - Tue 08/09 9:00pm",
@@ -499,9 +495,9 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 02 - no_brand_title: Miliband to Announce Sanctions on West Bank Settlements - 08/09/2026 12:54 - 11:15",
-        "BBC Events 03 - no_brand_title: BBC Weather Live - 08/09/2026 05:51 - 20:00",
         "BBC Events 04 - no_brand_title: Phone-In: How To Police Migrant Protests? - 08/09/2026 08:54 - 08:36",
-        "BBC Events 05 - no_brand_title: Phone-In: Are West Bank Sanctions Right? - 08/09/2026 09:56 - 09:46"
+        "BBC Events 05 - no_brand_title: Phone-In: Are West Bank Sanctions Right? - 08/09/2026 09:56 - 09:46",
+        "BBC Events 06 - UEFA Champions League: 08/09/2026 - 08/09/2026 19:00 - 22:29"
       ],
       "sections": [],
       "events": []
@@ -763,10 +759,10 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Club Brugge vs. Aston Villa",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: AEK Athens vs. LASK",
-        "Paramount+ Event 03 - 18:00 - Uefa Champions League: Real Madrid vs. Inter",
-        "Paramount+ Event 05 - 18:00 - Uefa Champions League: Porto vs. Man. City",
-        "Paramount+ Event 06 - 18:00 - Uefa Champions League: Dortmund vs. Villarreal",
-        "Paramount+ Event 07 - 18:00 - Uefa Champions League: Lille vs. Real Betis",
+        "Paramount+ Event 03 - 18:00 - UEFA Champions League: Lille vs. Real Betis",
+        "Paramount+ Event 04 - 18:00 - UEFA Champions League: Porto vs. Man. City",
+        "Paramount+ Event 06 - 18:00 - UEFA Champions League: Real Madrid vs. Inter",
+        "Paramount+ Event 07 - 18:00 - UEFA Champions League: Dortmund vs. Villarreal",
         "Paramount+ Event 08 - 19:05 - English Football League: Wrexham vs. Burnley",
         "Paramount+ Event 09 - 19:05 - Efl Cup: Sunderland vs. Hull City",
         "Paramount+ Event 10 - 19:05 - Efl Cup: AFC Bournemouth vs. Lincoln City",
@@ -775,10 +771,10 @@
         "Paramount+ Event 13 - 23:20 - Concacaf Champions Cup: Club Sando FC vs. Delfines del Este FC",
         "Paramount+ Event 01 - 16:30 - Uefa Champions League: Barcelona vs. Feyenoord",
         "Paramount+ Event 02 - 16:30 - Uefa Champions League: Stuttgart vs. Viking",
-        "Paramount+ Event 03 - 18:30 - Uefa Champions League: PSG vs. Slovan Bratislava",
-        "Paramount+ Event 04 - 18:30 - Uefa Champions League: Sporting CP vs. Galatasaray",
-        "Paramount+ Event 05 - 18:30 - Uefa Champions League: Napoli vs. Arsenal",
-        "Paramount+ Event 07 - 18:30 - Uefa Champions League: Liverpool vs. Atlético Madrid",
+        "Paramount+ Event 03 - 18:30 - Uefa Champions League: Liverpool vs. Atlético Madrid",
+        "Paramount+ Event 04 - 18:30 - Uefa Champions League: Napoli vs. Arsenal",
+        "Paramount+ Event 06 - 18:30 - Uefa Champions League: PSG vs. Slovan Bratislava",
+        "Paramount+ Event 07 - 18:30 - Uefa Champions League: Sporting CP vs. Galatasaray",
         "Paramount+ Event 08 - 19:05 - English Football League: Norwich City vs. Birmingham City",
         "Paramount+ Event 09 - 19:20 - English Football League: Charlton Athletic vs. Queens Park Rangers",
         "Paramount+ Event 10 - 19:20 - Efl Cup: Chelsea vs. Leeds United",
@@ -986,25 +982,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 1 | Blackburn vs Sheff Utd",
+        "Sky Sports+ 2 | Cardiff vs Stoke",
+        "Sky Sports+ 3 | Southampton vs Swansea",
+        "Sky Sports+ 4 | Watford vs Preston",
+        "Sky Sports+ 5 | Bournemouth vs Lincoln",
+        "Sky Sports+ 6 | L Orient vs Bradford",
+        "Sky Sports+ 7 | Palace vs Middlesbrough",
+        "Sky Sports+ 8 | Sunderland vs Hull",
         "Sky Sports+ 9 | Doncaster vs Huddersfield",
         "Sky Sports+ 10 | Exeter vs Spurs U21",
-        "Blackburn vs Sheff Utd",
         "Derby vs West Brom",
         "Leyton Orient vs Wycombe",
         "Birmingham vs Brighton",
-        "Cardiff vs Stoke",
         "Norwich vs Birmingham",
         "Notts County vs Bradford",
         "Everton vs Charlton",
-        "Southampton vs Swansea",
         "Crawley vs Cheltenham",
         "Liverpool vs Spurs",
-        "Watford vs Preston",
-        "Grimsby vs Bristol Rovers",
-        "Bournemouth vs Lincoln",
-        "L Orient vs Bradford",
-        "Palace vs Middlesbrough",
-        "Sunderland vs Hull"
+        "Grimsby vs Bristol Rovers"
       ],
       "sections": [],
       "events": []
@@ -1037,7 +1033,9 @@
         "Sportsnet 03 : Blair & Barker: Sep. 10 - Thu 10/09 9:00pm",
         "Sportsnet 04 : Texas @ Seattle - Thu 10/09 9:00pm",
         "Sportsnet 05 : The FAN Pregame: Sep. 10 - Thu 10/09 11:00pm",
-        "Sportsnet 02 : Pittsburgh @ Chicago White Sox - Fri 11/09 12:30am"
+        "Sportsnet 02 : Pittsburgh @ Chicago White Sox - Fri 11/09 12:30am",
+        "Sportsnet 01 : TNA iMPACT! - Fri 11/09 1:00am",
+        "Sportsnet 01 : Sportsnet Central: Sep. 10 - Fri 11/09 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1048,7 +1046,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 08 : Real Madrid U19 v Internazionale U19 - UEFA Youth League 2026/2027 - Tue 08/09 2:55pm",
         "Stan 04 : AEK Athens v LASK - UEFA Champions League 2026/2027 - Tue 08/09 5:40pm",
         "Stan 03 : Club Brugge v Aston Villa - UEFA Champions League 2026/2027 - Tue 08/09 5:40pm",
         "Stan 01 : Football Zone: MD1 Wednesday - UEFA Champions League 2026/27 - Tue 08/09 7:40pm",
@@ -1132,11 +1129,7 @@
         "TSN 12 : US Open: Day #10 - Louis Armstong (ft. Azar) - Tue 08/09 4:00pm",
         "TSN 11 : US Open: Day #10 - Stadium 17 (ft. Alexander, Dabrowski Doubles) - Tue 08/09 4:00pm",
         "TSN 13 : US Open: Day #10 - Arthur Ashe (ft. Sabalenka, Pegula, Alcaraz) - Tue 08/09 4:30pm",
-        "TSN 04 : 2026 FIBA Women's World Cup: Hungary vs. Japan - Tue 08/09 4:45pm",
-        "TSN 06 : 2026 FIFA U-20 Women's World Cup: England vs. Tanzania - Tue 08/09 4:48pm",
-        "TSN 05 : 2026 FIFA U-20 Women's World Cup: Poland vs. Mexico - Tue 08/09 4:48pm",
         "TSN 08 : Pat McAfee Show - Tue 08/09 5:00pm",
-        "TSN 07 : Rich Eisen Show - Tue 08/09 5:00pm",
         "TSN 01 : 2026 FIBA Women's World Cup: Germany vs. South Korea - Tue 08/09 7:45pm",
         "TSN 04 : ManningCast Schedule Reveal - Tue 08/09 11:00pm"
       ],
