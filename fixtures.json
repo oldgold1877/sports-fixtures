@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T14:52:05.509183+00:00",
+  "scraped_at": "2026-09-08T17:00:49.577181+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -70,12 +70,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 04 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E2 -Real Madrid vs Inter - MD1[Live] [HK]",
-        "EVENT 05 - 08-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Real Madrid vs Inter - MD1 [SG]",
         "EVENT 04 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E15 -AEK Athens vs LASK - MD1[Live] [HK]",
         "EVENT 05 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E16 -Club Brugge vs Aston Villa - MD1[Live] [HK]",
         "EVENT 08 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: AEK Athens vs LASK - MD1 [SG]",
-        "EVENT 09 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 (090926) [SG]",
+        "EVENT 12 - 08-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Club Brugge vs Aston Villa - MD1 [SG]",
         "EVENT 02 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -Dortmund vs Villarreal - MD1[Live] [HK]",
         "EVENT 03 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E18 -Porto vs Man City - MD1[Live] [HK]",
         "EVENT 06 - 08-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E20 -Real Madrid vs Inter - MD1[Live] [HK]",
@@ -95,7 +93,11 @@
         "EVENT 09 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Napoli vs Arsenal - MD1 [SG]",
         "EVENT 10 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: PSG vs Slovan Bratislava - MD1 [SG]",
         "EVENT 04 - 10-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E4 -Bayern vs Bodo/Glimt - MD1[Live] [HK]",
-        "EVENT 05 - 10-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Bayern vs Bodo/Glimt - MD1 [SG]"
+        "EVENT 05 - 10-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Bayern vs Bodo/Glimt - MD1 [SG]",
+        "EVENT 03 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 -PSV vs Shakhtar - MD1[Live] [HK]",
+        "EVENT 04 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E27 -Fenerbahce vs Roma - MD1[Live] [HK]",
+        "EVENT 05 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Fenerbahce vs Roma - MD1 [SG]",
+        "EVENT 06 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: PSV vs Shakhtar - MD1 [SG]"
       ],
       "sections": [],
       "events": []
@@ -276,10 +278,6 @@
           "name": "U.S. OPEN",
           "datetime": "2026-09-08 16:30:00",
           "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
             {
               "name": "TSN 1",
               "category": "SPORT | USA & CANADA"
@@ -503,8 +501,7 @@
         "BBC Events 02 - no_brand_title: Miliband to Announce Sanctions on West Bank Settlements - 08/09/2026 12:54 - 11:15",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 08/09/2026 05:51 - 20:00",
         "BBC Events 04 - no_brand_title: Phone-In: How To Police Migrant Protests? - 08/09/2026 08:54 - 08:36",
-        "BBC Events 05 - no_brand_title: Phone-In: Are West Bank Sanctions Right? - 08/09/2026 09:56 - 09:46",
-        "BBC Events 07 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 08/09/2026 12:00 - 18:00"
+        "BBC Events 05 - no_brand_title: Phone-In: Are West Bank Sanctions Right? - 08/09/2026 09:56 - 09:46"
       ],
       "sections": [],
       "events": []
@@ -764,8 +761,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: Club Brugge vs. Aston Villa",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: AEK Athens vs. LASK",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Club Brugge vs. Aston Villa",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: AEK Athens vs. LASK",
         "Paramount+ Event 03 - 18:00 - Uefa Champions League: Real Madrid vs. Inter",
         "Paramount+ Event 05 - 18:00 - Uefa Champions League: Porto vs. Man. City",
         "Paramount+ Event 06 - 18:00 - Uefa Champions League: Dortmund vs. Villarreal",
@@ -989,6 +986,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 9 | Doncaster vs Huddersfield",
+        "Sky Sports+ 10 | Exeter vs Spurs U21",
         "Blackburn vs Sheff Utd",
         "Derby vs West Brom",
         "Leyton Orient vs Wycombe",
@@ -1005,9 +1004,7 @@
         "Bournemouth vs Lincoln",
         "L Orient vs Bradford",
         "Palace vs Middlesbrough",
-        "Sunderland vs Hull",
-        "Doncaster vs Huddersfield",
-        "Exeter vs Spurs U21"
+        "Sunderland vs Hull"
       ],
       "sections": [],
       "events": []
@@ -1018,7 +1015,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Jays Talk Plus: Sep. 8 - Tue 08/09 3:00pm",
         "Sportsnet 01 : Blair & Barker: Sep. 8 - Tue 08/09 9:00pm",
         "Sportsnet 02 : The FAN Pregame: Sep. 8 - Tue 08/09 11:00pm",
         "Sportsnet 03 : Cleveland @ Baltimore - Tue 08/09 11:30pm",
@@ -1129,9 +1125,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 FIFA U-20 Women's World Cup: Benin vs. Argentina - Tue 08/09 1:48pm",
-        "TSN 02 : US Open: Day #10 - Court TBD - Tue 08/09 4:00pm",
-        "TSN 03 : US Open: Day #10 - Court TBD - Tue 08/09 4:30pm",
+        "TSN 09 : US Open: Day #10 - Court 14 (ft. Wheelchair Doubles) - Tue 08/09 4:00pm",
+        "TSN 03 : US Open: Day #10 - Court 15 (ft. Wheelchair Doubles) - Tue 08/09 4:00pm",
+        "TSN 02 : US Open: Day #10 - Court 8 (ft. Lagaev Doubles) - Tue 08/09 4:00pm",
+        "TSN 10 : US Open: Day #10 - Grandstand (ft. Azar Doubles) - Tue 08/09 4:00pm",
+        "TSN 12 : US Open: Day #10 - Louis Armstong (ft. Azar) - Tue 08/09 4:00pm",
+        "TSN 11 : US Open: Day #10 - Stadium 17 (ft. Alexander, Dabrowski Doubles) - Tue 08/09 4:00pm",
+        "TSN 13 : US Open: Day #10 - Arthur Ashe (ft. Sabalenka, Pegula, Alcaraz) - Tue 08/09 4:30pm",
         "TSN 04 : 2026 FIBA Women's World Cup: Hungary vs. Japan - Tue 08/09 4:45pm",
         "TSN 06 : 2026 FIFA U-20 Women's World Cup: England vs. Tanzania - Tue 08/09 4:48pm",
         "TSN 05 : 2026 FIFA U-20 Women's World Cup: Poland vs. Mexico - Tue 08/09 4:48pm",
