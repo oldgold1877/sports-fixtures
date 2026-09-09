@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T15:00:11.276554+00:00",
+  "scraped_at": "2026-09-09T17:00:50.099300+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -64,6 +64,39 @@
               "text": "SPORTS SCENE 11 - 01:20-04:30 - NFL: New England Patriots at Seattle Seahawks 720p"
             }
           ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01- Barcelona vs Feyenoord 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Stuttgart vs Viking 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - UCL Goals Show 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Liverpool vs Atletico Madrid 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Napoli vs Arsenal 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - PSG vs Slovan Bratislava 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Sporting cp vs Galatasaray 1:00am"
+            }
+          ]
         }
       ],
       "events": []
@@ -74,8 +107,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 05 - 09-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E3 -Liverpool vs Atletico Madrid - MD1[Live] [HK]",
-        "EVENT 06 - 09-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Liverpool vs Atletico Madrid - MD1 [SG]",
         "EVENT 05 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E21 -Barcelona vs Feyenoord - MD1[Live] [HK]",
         "EVENT 06 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E22 -Stuttgart vs Viking - MD1[Live] [HK]",
         "EVENT 07 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Barcelona vs Feyenoord - MD1 [SG]",
@@ -84,8 +115,8 @@
         "EVENT 02 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E23 -Liverpool vs Atletico Madrid - MD1[Live] [HK]",
         "EVENT 03 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E26 -Napoli vs Arsenal - MD1[Live] [HK]",
         "EVENT 04 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Liverpool vs Atletico Madrid - MD1 [SG]",
-        "EVENT 09 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Napoli vs Arsenal - MD1 [SG]",
         "EVENT 10 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: PSG vs Slovan Bratislava - MD1 [SG]",
+        "EVENT 11 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Napoli vs Arsenal - MD1 (100926) [SG]",
         "EVENT 04 - 10-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27 E4 -Bayern vs Bodo/Glimt - MD1[Live] [HK]",
         "EVENT 05 - 10-Sep 02:55PM-05:00PM - UEFA Youth League 2026/27: Bayern vs Bodo/Glimt - MD1 [SG]",
         "EVENT 03 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 -PSV vs Shakhtar - MD1[Live] [HK]",
@@ -99,11 +130,15 @@
         "EVENT 09 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E31 -Man United vs Sabah FK - MD1[Live] [HK]",
         "EVENT 10 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Bayern vs Bodo/Glimt - MD1 [SG]",
         "EVENT 11 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Como 1907 vs Leipzig - MD1 [SG]",
-        "EVENT 12 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Man United vs Sabah FK - MD1 [SG]",
+        "EVENT 13 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27: Man United vs Sabah FK - MD1 (110926) [SG]",
         "EVENT 02 - 10-Sep 10:00PM-10:45PM - The UCL Review Show 2026/27 E3 -Man United vs Sabah FK - MD1[Live] [HK]",
         "EVENT 03 - 10-Sep 10:00PM-10:30PM - The UCL Review Show 2026/27 Man United vs Sabah FK - MD1 - Man United vs Sabah FK - MD1 [SG]",
         "EVENT 02 - 10-Sep 11:00PM-12:50AM - UEFA Champions League 2026/27: PSV vs Shakhtar - MD1 [SG]",
-        "EVENT 06 - 11-Sep 12:20PM-02:30PM - Singapore Premier Lge 2026/27 Tampines Rovers FC vs Balestier Khalsa FC - Tampines Rovers FC vs Balestier Khalsa FC [SG]"
+        "EVENT 06 - 11-Sep 12:20PM-02:30PM - Singapore Premier Lge 2026/27 Tampines Rovers FC vs Balestier Khalsa FC - Tampines Rovers FC vs Balestier Khalsa FC [SG]",
+        "EVENT 01 - 11-Sep 05:20PM-07:25PM - Bundesliga 2 2026/27 -Nuremberg vs Hannover[Live] [HK]",
+        "EVENT 05 - 11-Sep 05:30PM-07:25PM - Bundesliga 2 2026/27 E37 -Darmstadt vs Arminia Bielefeld[Live] [HK]",
+        "EVENT 06 - 11-Sep 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Nuremberg vs Hannover [SG]",
+        "EVENT 07 - 11-Sep 05:55PM-08:00PM - Super Lig 2026/27: Besiktas vs Erzurumspor [SG]"
       ],
       "sections": [],
       "events": []
@@ -263,10 +298,6 @@
           "name": "QINWEN ZHENG - ELENA RYBAKINA",
           "datetime": "2026-09-09 16:30:00",
           "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
             {
               "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
@@ -501,7 +532,6 @@
         "BBC Events 01 - no_brand_title: More Flight Delays Expected After Air Traffic Control Glitch - 09/09/2026 05:27 - 01:46",
         "BBC Events 02 - no_brand_title: PM: Britain Showing Leadership on Israeli-Palestinian Conflict - 09/09/2026 13:02 - 12:50",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 09/09/2026 06:53 - 20:00",
-        "BBC Events 04 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 09/09/2026 12:00 - 18:00",
         "BBC Events 05 - no_brand_title: Commons Statement from Transport Secretary After Flight Disruption - 09/09/2026 15:18 - 11:07",
         "BBC Events 07 - no_brand_title: Reaction to UK's Sanctions on Occupies West Bank - 09/09/2026 07:07 - 03:23",
         "BBC Events 08 - no_brand_title: Funeral Held for Norway's King Harald V - 09/09/2026 10:30 - 07:46"
@@ -776,8 +806,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: Barcelona vs. Feyenoord",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: Stuttgart vs. Viking",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Barcelona vs. Feyenoord",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Stuttgart vs. Viking",
         "Paramount+ Event 03 - 18:30 - Uefa Champions League: Liverpool vs. Atlético Madrid",
         "Paramount+ Event 04 - 18:30 - Uefa Champions League: Napoli vs. Arsenal",
         "Paramount+ Event 06 - 18:30 - Uefa Champions League: PSG vs. Slovan Bratislava",
@@ -879,7 +909,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: AFL 360 - 17:30 09/09/2026",
         "Sky Sport 3 - LIVE: AFL 360 - 19:00 09/09/2026",
         "Sky Sport Select - LIVE: AFL 360 - 22:30 09/09/2026",
         "Sky Sport 1 - LIVE: CPL: Guyana v St Lucia - 23:30 09/09/2026",
@@ -1046,7 +1075,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Jays Talk Plus: Sep. 9 - Wed 09/09 3:00pm",
         "Sportsnet 01 : Toronto @ Athletics - Wed 09/09 7:30pm",
         "Sportsnet 02 : Cleveland @ Baltimore - Wed 09/09 11:30pm",
         "Sportsnet 03 : Colorado @ New York Yankees - Thu 10/09 12:00am",
