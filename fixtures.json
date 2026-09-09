@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T17:00:50.099300+00:00",
+  "scraped_at": "2026-09-09T19:36:42.770132+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Wednesday 9 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Barcelona vs Feyenoord 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Stuttgart vs Viking 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Barcelona vs Feyenoord 720p"
             },
             {
               "type": "fixture",
@@ -62,6 +50,14 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 11 - 01:20-04:30 - NFL: New England Patriots at Seattle Seahawks 720p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 19:45-21:45 - SPL: Rangers vs St Mirren [Rangers TV]"
             }
           ]
         },
@@ -107,10 +103,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 05 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E21 -Barcelona vs Feyenoord - MD1[Live] [HK]",
-        "EVENT 06 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E22 -Stuttgart vs Viking - MD1[Live] [HK]",
-        "EVENT 07 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Barcelona vs Feyenoord - MD1 [SG]",
-        "EVENT 08 - 09-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Stuttgart vs Viking - MD1 [SG]",
         "EVENT 01 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -PSG vs Slovan Bratislava - MD1[Live] [HK]",
         "EVENT 02 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E23 -Liverpool vs Atletico Madrid - MD1[Live] [HK]",
         "EVENT 03 - 09-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E26 -Napoli vs Arsenal - MD1[Live] [HK]",
@@ -138,7 +130,13 @@
         "EVENT 01 - 11-Sep 05:20PM-07:25PM - Bundesliga 2 2026/27 -Nuremberg vs Hannover[Live] [HK]",
         "EVENT 05 - 11-Sep 05:30PM-07:25PM - Bundesliga 2 2026/27 E37 -Darmstadt vs Arminia Bielefeld[Live] [HK]",
         "EVENT 06 - 11-Sep 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Nuremberg vs Hannover [SG]",
-        "EVENT 07 - 11-Sep 05:55PM-08:00PM - Super Lig 2026/27: Besiktas vs Erzurumspor [SG]"
+        "EVENT 07 - 11-Sep 05:55PM-08:00PM - Super Lig 2026/27: Besiktas vs Erzurumspor [SG]",
+        "EVENT 02 - 11-Sep 07:25PM-09:30PM - Bundesliga 2026/27 -FC Union vs Schalke[Live] [HK]",
+        "EVENT 08 - 11-Sep 07:25PM-09:30PM - Bundesliga 2026/27: FC Union vs Schalke [SG]",
+        "EVENT 03 - 11-Sep 07:38PM-09:45PM - Serie A 2026/27 E31 -Venezia vs Fiorentina[Live] [HK]",
+        "EVENT 01 - 11-Sep 07:40PM-09:45PM - Ligue 1 2026/27 E28 -Rennes vs Marseille[Live] [HK]",
+        "EVENT 04 - 11-Sep 07:55PM-10:00PM - LaLiga 2026/27: Sevilla vs Valencia [SG]",
+        "EVENT 05 - 11-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD05 -Sevilla FC vs Valencia CF[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -531,7 +529,7 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: More Flight Delays Expected After Air Traffic Control Glitch - 09/09/2026 05:27 - 01:46",
         "BBC Events 02 - no_brand_title: PM: Britain Showing Leadership on Israeli-Palestinian Conflict - 09/09/2026 13:02 - 12:50",
-        "BBC Events 03 - no_brand_title: BBC Weather Live - 09/09/2026 06:53 - 20:00",
+        "BBC Events 04 - UEFA Champions League: 09/09/2026 - 09/09/2026 19:00 - 22:29",
         "BBC Events 05 - no_brand_title: Commons Statement from Transport Secretary After Flight Disruption - 09/09/2026 15:18 - 11:07",
         "BBC Events 07 - no_brand_title: Reaction to UK's Sanctions on Occupies West Bank - 09/09/2026 07:07 - 03:23",
         "BBC Events 08 - no_brand_title: Funeral Held for Norway's King Harald V - 09/09/2026 10:30 - 07:46"
@@ -808,13 +806,13 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Barcelona vs. Feyenoord",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: Stuttgart vs. Viking",
-        "Paramount+ Event 03 - 18:30 - Uefa Champions League: Liverpool vs. Atlético Madrid",
-        "Paramount+ Event 04 - 18:30 - Uefa Champions League: Napoli vs. Arsenal",
-        "Paramount+ Event 06 - 18:30 - Uefa Champions League: PSG vs. Slovan Bratislava",
-        "Paramount+ Event 07 - 18:30 - Uefa Champions League: Sporting CP vs. Galatasaray",
-        "Paramount+ Event 08 - 19:05 - English Football League: Norwich City vs. Birmingham City",
+        "Paramount+ Event 03 - 18:30 - UEFA Champions League: Liverpool vs. Atlético Madrid",
+        "Paramount+ Event 04 - 18:30 - UEFA Champions League: Napoli vs. Arsenal",
+        "Paramount+ Event 05 - 18:30 - UEFA Champions League: PSG vs. Slovan Bratislava",
+        "Paramount+ Event 06 - 18:30 - UEFA Champions League: Sporting CP vs. Galatasaray",
+        "Paramount+ Event 07 - 19:05 - English Football League: Norwich City vs. Birmingham City",
         "Paramount+ Event 09 - 19:20 - English Football League: Charlton Athletic vs. Queens Park Rangers",
-        "Paramount+ Event 10 - 19:20 - Efl Cup: Chelsea vs. Leeds United",
+        "Paramount+ Event 10 - 19:20 - Carabao Cup: Chelsea vs. Leeds United",
         "Paramount+ Event 11 - 23:20 - Concacaf Champions Cup: Portmore United FC vs. Mount Pleasant FA",
         "Paramount+ Event 12 - 23:20 - Concacaf Champions Cup: SV Broki vs. Violette AC",
         "Paramount+ Event 01 - 01:20 - Concacaf Champions Cup: Saprissa vs. CS Cartaginés",
@@ -909,11 +907,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: AFL 360 - 19:00 09/09/2026",
-        "Sky Sport Select - LIVE: AFL 360 - 22:30 09/09/2026",
         "Sky Sport 1 - LIVE: CPL: Guyana v St Lucia - 23:30 09/09/2026",
         "Sky Sport 1 UHD - LIVE: CPL: Guyana v St Lucia - 23:30 09/09/2026",
-        "Sky Sport 4 - LIVE: AFL 360 - 04:30 10/09/2026",
         "Sky Sport 1 - LIVE: NPC: Manawatu v Taranaki - 08:00 10/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Manawatu v Taranaki - 08:00 10/09/2026",
         "Sky Sport 1 - LIVE: England v Pakistan: 3rd Test D2 - 10:15 10/09/2026",
@@ -923,7 +918,6 @@
         "Sky Sport 2 - LIVE: DP World Tour: Round 1 - 13:30 10/09/2026",
         "Sky Sport 3 - LIVE: La Vuelta Stage 18 - 13:50 10/09/2026",
         "Sky Sport 5 - LIVE: WCPL: Trinbago v Jamaica - 14:30 10/09/2026",
-        "Sky Sport 9 - LIVE: AFL 360 - 19:00 10/09/2026",
         "Sky Sport 2 - LIVE: Korn Ferry Tour: Round 1 - 21:00 10/09/2026",
         "Sky Sport 1 - LIVE: CPL: Barbados v St Kitts - 23:30 10/09/2026",
         "Sky Sport 1 UHD - LIVE: CPL: Barbados v St Kitts - 23:30 10/09/2026",
@@ -935,7 +929,7 @@
         "Sky Sport 5 - LIVE: NRLW: Tigers v Raiders R11 - 08:35 11/09/2026",
         "Sky Sport 6 - LIVE: FIA Formula 3: Rd9 Practice - 08:55 11/09/2026",
         "Sky Sport 2 - LIVE: NRL: Rabbitohs v Knights EF1 - 09:20 11/09/2026",
-        "Sky Sport 7 - LIVE: DP World Tour: Round 2 - 09:30 11/09/2026",
+        "Sky Sport 7 - LIVE: DP World Tour: Round 2 Morning - 09:30 11/09/2026",
         "Sky Sport 6 - LIVE: FIA Formula 2: Rd11 Practice - 10:05 11/09/2026",
         "Sky Sport 3 - LIVE: England v Pakistan: 3rd Test D3 - 10:15 11/09/2026",
         "Sky Sport 5 - LIVE: AFL Fremantle v Geelong Cats - 10:50 11/09/2026",
@@ -943,12 +937,12 @@
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Spain GP Practice 1 - 12:00 11/09/2026",
         "Sky Sport 4 - LIVE: La Vuelta Stage 19 - 12:15 11/09/2026",
         "Sky Sport 9 - LIVE: ICF: La Seu d'Urgell Day 2 S2 - 13:00 11/09/2026",
-        "Sky Sport 6 - LIVE: DP World Tour: Round 2 - 13:00 11/09/2026",
         "Sky Sport 1 - LIVE: FIA Formula 2: Rd11 Qualifying - 13:55 11/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 2: Rd11 Qualifying - 13:55 11/09/2026",
         "Sky Sport 7 - LIVE: ICF: La Seu d'Urgell Day 2 S3 - 15:30 11/09/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Spain GP Practice 2 - 15:45 11/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Spain GP Practice 2 - 15:45 11/09/2026",
+        "Sky Sport 6 - LIVE: DP World Tour: Round 2 Afternoon - 17:00 11/09/2026",
         "Sky Sport 1 - LIVE: FIA Formula 3: Rd9 Qualifying - 17:20 11/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 3: Rd9 Qualifying - 17:20 11/09/2026",
         "Sky Sport 1 - LIVE: The F1 Show: Spanish Grand Prix - 18:20 11/09/2026",
@@ -961,9 +955,9 @@
         "Sky Sport 6 - LIVE: NRLW: Eels v Cowboys R11 - 02:55 12/09/2026",
         "Sky Sport 1 - LIVE: NPC: Auckland v Counties Manukau - 03:00 12/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Auckland v Counties Manukau - 03:00 12/09/2026",
+        "Sky Sport 2 - LIVE: NPC: Northland v Waikato (RS) - 06:00 12/09/2026",
         "Sky Sport 1 - LIVE: NRL: Warriors v Dolphins QF1 - 06:00 12/09/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Warriors v Dolphins QF1 - 06:00 12/09/2026",
-        "Sky Sport 2 - LIVE: NPC: Northland v Waikato (RS) - 06:00 12/09/2026",
         "Sky Sport 9 - LIVE: AFLW: Eagles v Lions - 07:30 12/09/2026",
         "Sky Sport Select - LIVE: PNC: Fiji v Canada - 07:50 12/09/2026",
         "Sky Sport 2 - LIVE: NPC: Canterbury v Wellington - 08:00 12/09/2026",
@@ -977,25 +971,25 @@
         "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Practice 3 - 11:00 12/09/2026",
         "Sky Sport 4 - LIVE: La Vuelta Stage 20 - 11:20 12/09/2026",
         "Sky Sport 7 - LIVE: ICF: La Seu d'Urgell Day 3 S2 - 12:30 12/09/2026",
-        "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 12:30 12/09/2026",
         "Sky Sport 9 - LIVE: WSL: West Ham v London City - 12:35 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 2: Rd11 Sprint Race - 13:10 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Qualifying - 14:15 12/09/2026",
-        "Sky Sport 5 - LIVE: PL: Bournemouth v Brentford - 14:50 12/09/2026",
-        "Sky Sport Select - LIVE: PL: Chelsea v Hull City - 14:50 12/09/2026",
-        "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
+        "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 14:30 12/09/2026",
         "Sky Sport 7 - LIVE: WXV: England v Australia - 14:50 12/09/2026",
+        "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
+        "Sky Sport Select - LIVE: PL: Chelsea v Hull City - 14:50 12/09/2026",
+        "Sky Sport 5 - LIVE: PL: Bournemouth v Brentford - 14:50 12/09/2026",
         "Sky Sport 1 - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd9 Feature Race - 16:55 12/09/2026",
         "Sky Sport 3 - LIVE: Ted's Notebook: Spain Quali - 18:00 12/09/2026",
         "Sky Sport 9 - LIVE: PGA Champions Tour: R2 - 19:00 12/09/2026",
         "Sky Sport 4 - LIVE: WCPL: Barbados v Jamaica - 19:30 12/09/2026",
+        "Sky Sport 7 - LIVE: Korn Ferry Tour: Round 3 - 21:00 12/09/2026",
         "Sky Sport 1 - LIVE: Springboks v All Blacks 4th Test - 21:00 12/09/2026",
         "Sky Sport 1 UHD - LIVE: Springboks v All Blacks 4th Test - 21:00 12/09/2026",
-        "Sky Sport 7 - LIVE: Korn Ferry Tour: Round 3 - 21:00 12/09/2026",
-        "Sky Sport 4 - LIVE: CPL: Barbados v Jamaica - 00:30 13/09/2026",
         "Sky Sport 2 - LIVE: FPC: Hawke's Bay v Wellington - 00:30 13/09/2026",
+        "Sky Sport 4 - LIVE: CPL: Barbados v Jamaica - 00:30 13/09/2026",
         "Sky Sport 2 - LIVE: NRLW: Broncos v Warriors R11 - 02:55 13/09/2026",
         "Sky Sport 1 - LIVE: NPC: Hawke's Bay v North Harbour - 03:00 13/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Hawke's Bay v North Harbour - 03:00 13/09/2026",
@@ -1003,8 +997,8 @@
         "Sky Sport 7 - LIVE: NRLW: Knights v Titans R11 - 04:40 13/09/2026",
         "Sky Sport 1 - LIVE: NRL: Panthers v Roosters QF2 - 05:30 13/09/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Panthers v Roosters QF2 - 05:30 13/09/2026",
-        "Sky Sport 9 - LIVE: AFLW: North Melbourne v Carlton - 06:00 13/09/2026",
         "Sky Sport 2 - LIVE: NPC: Southland v Bay of Plenty - 06:00 13/09/2026",
+        "Sky Sport 9 - LIVE: AFLW: North Melbourne v Carlton - 06:00 13/09/2026",
         "Sky Sport 9 - LIVE: AFLW: Freemantle v Essendon - 08:00 13/09/2026",
         "Sky Sport 5 - LIVE: ICF: La Seu d'Urgell Day 4 S1 - 09:00 13/09/2026",
         "Sky Sport 3 - LIVE: England v Pakistan: 3rd Test D5 - 10:15 13/09/2026",
@@ -1014,8 +1008,8 @@
         "Sky Sport 1 - LIVE: FIA Formula 1: Spain GP Pre Race - 12:30 13/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Spain GP Pre Race - 12:30 13/09/2026",
         "Sky Sport 2 - LIVE: DP World Tour: Round 4 - 13:30 13/09/2026",
-        "Sky Sport Select - LIVE: WSL: Everton v Charlton - 13:50 13/09/2026",
         "Sky Sport 9 - LIVE: WSL: Birmingham v Brighton - 13:50 13/09/2026",
+        "Sky Sport Select - LIVE: WSL: Everton v Charlton - 13:50 13/09/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Spain Grand Prix - 13:55 13/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Spain Grand Prix - 13:55 13/09/2026",
         "Sky Sport 5 - LIVE: WSL: Liverpool v Spurs - 14:00 13/09/2026",
@@ -1040,10 +1034,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Norwich vs Birmingham",
+        "Sky Sports+ 1 | Norwich vs Birmingham",
+        "Sky Sports+ 2 | Derby vs West Brom",
         "Bolton vs Cardiff",
         "Bristol City vs Lincoln",
-        "Derby vs West Brom",
         "Middlesbrough vs Millwall",
         "Leyton Orient vs Wycombe",
         "Peterborough vs Barnsley",
@@ -1097,7 +1091,9 @@
         "Sportsnet 03 : Jays Talk Plus: Sep. 11 - Fri 11/09 3:00pm",
         "Sportsnet 01 : AZ Alkmaar vs. Willem II - Fri 11/09 6:50pm",
         "Sportsnet 02 : Leeds Rhinos vs. Hull FC - Fri 11/09 7:50pm",
-        "Sportsnet 04 : Leigh Leopards vs. Wakefield Trinity - Fri 11/09 7:50pm"
+        "Sportsnet 04 : Leigh Leopards vs. Wakefield Trinity - Fri 11/09 7:50pm",
+        "Sportsnet 05 : St Helens vs. Hull KR - Fri 11/09 7:50pm",
+        "Sportsnet 06 : Warrington Wolves vs. Toulouse Olympique - Fri 11/09 7:50pm"
       ],
       "sections": [],
       "events": []
@@ -1108,16 +1104,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 08 : Zheng v Rybakina - Women's Singles Quarter Final US Open 2026 - Wed 09/09 4:30pm",
-        "Stan 09 : Andreeva v Gauff - Women's Singles Quarter Final US Open 2026 - Wed 09/09 5:30pm",
-        "Stan 03 : Barcelona v Feyenoord - UEFA Champions League 2026/2027 - Wed 09/09 5:40pm",
-        "Stan 04 : Stuttgart v Viking - UEFA Champions League 2026/2027 - Wed 09/09 5:40pm",
-        "Stan 10 : Khachanov v Blockx - Men's Singles Quarter Final US Open 2026 - Wed 09/09 7:00pm",
+        "Stan 03 : Barcelona v Feyenoord - UEFA Champions League 2026/2027 - Wed 09/09 5:39pm",
+        "Stan 04 : Stuttgart v Viking - UEFA Champions League 2026/2027 - Wed 09/09 5:39pm",
+        "Stan 09 : Andreeva v Gauff - Women's Singles Quarter Final US Open 2026 - Wed 09/09 6:30pm",
         "Stan 01 : Football Zone: MD1 Thursday - UEFA Champions League 2026/27 - Wed 09/09 7:40pm",
         "Stan 05 : Liverpool v Atlético de Madrid - UEFA Champions League 2026/2027 - Wed 09/09 7:55pm",
         "Stan 02 : Napoli v Arsenal - UEFA Champions League 2026/2027 - Wed 09/09 7:55pm",
         "Stan 06 : Paris Saint-Germain v Slovan Bratislava - UEFA Champions League 2026/2027 - Wed 09/09 7:55pm",
         "Stan 07 : Sporting CP v Galatasaray - UEFA Champions League 2026/2027 - Wed 09/09 7:55pm",
+        "Stan 10 : Khachanov v Blockx - Men's Singles Quarter Final US Open 2026 - Wed 09/09 8:00pm",
         "Stan 11 : Siniakova/Townsend v Mertens/Shnaider - Women's Doubles Semi Final US Open 2026 - Wed 09/09 9:00pm",
         "Stan 12 : Krueger/Montgomery v Dabrowski/Stefani - Women's Doubles Semi Final US Open 2026 - Wed 09/09 10:30pm",
         "Stan 13 : Krawietz/Puetz v Arevalo/Pavic - Men's Doubles Quarter Final US Open 2026 - Wed 09/09 11:00pm",
@@ -1202,11 +1197,7 @@
         "TSN 10 : US Open: Day #11 - Louis Armstong (ft. Dabrowski Doubles) - Wed 09/09 4:00pm",
         "TSN 12 : US Open: Day #11 - Stadium 17 (ft. Junior Singles & Doubles) - Wed 09/09 4:00pm",
         "TSN 14 : US Open: Day #11 - Arthur Ashe (ft. Rybakina, Gauff, Zverev) - Wed 09/09 4:30pm",
-        "TSN 05 : 2026 FIBA Women's World Cup: Puerto Rico vs. China - Wed 09/09 4:45pm",
-        "TSN 07 : 2026 FIFA U-20 Women's World Cup: France vs. Ecuador - Wed 09/09 4:48pm",
-        "TSN 06 : 2026 FIFA U-20 Women's World Cup: Japan vs. USA - Wed 09/09 4:48pm",
         "TSN 09 : Pat McAfee Show - Wed 09/09 5:00pm",
-        "TSN 08 : Rich Eisen Show - Wed 09/09 5:00pm",
         "TSN 01 : 2026 FIBA Women's World Cup: Italy vs. Australia - Wed 09/09 7:45pm"
       ],
       "sections": [],
