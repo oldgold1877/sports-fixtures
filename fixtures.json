@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T17:00:48.532364+00:00",
+  "scraped_at": "2026-09-10T19:28:04.116470+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Thursday 10 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: PSV vs Shakhtar Donetsk 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Fenerbahçe vs Roma 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: PSV vs Shakhtar Donetsk 720p"
             },
             {
               "type": "fixture",
@@ -119,12 +107,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 -PSV vs Shakhtar - MD1[Live] [HK]",
-        "EVENT 04 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27 E27 -Fenerbahce vs Roma - MD1[Live] [HK]",
-        "EVENT 05 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: Fenerbahce vs Roma - MD1 [SG]",
-        "EVENT 06 - 10-Sep 05:40PM-07:55PM - UEFA Champions League 2026/27: PSV vs Shakhtar - MD1 [SG]",
-        "EVENT 01 - 10-Sep 07:30PM-07:55PM - The UCL Preview Show 2026/27 E3 -Man United vs Sabah FK - MD1[Live] [HK]",
-        "EVENT 02 - 10-Sep 07:30PM-07:55PM - The UCL Preview Show 2026/27 Man United vs Sabah FK - MD1 - Man United vs Sabah FK - MD1 [SG]",
         "EVENT 07 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 -Como 1907 vs Leipzig - MD1[Live] [HK]",
         "EVENT 08 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E30 -Bayern vs Bodo/Glimt - MD1[Live] [HK]",
         "EVENT 09 - 10-Sep 07:55PM-10:00PM - UEFA Champions League 2026/27 E31 -Man United vs Sabah FK - MD1[Live] [HK]",
@@ -172,7 +154,18 @@
         "EVENT 03 - 12-Sep 05:20PM-07:25PM - Bundesliga 2026/27: Cologne vs Werder Bremen [SG]",
         "EVENT 04 - 12-Sep 05:20PM-07:50PM - Tottenham Hotspur v Everton (MW04) [SG]",
         "EVENT 07 - 12-Sep 05:25PM-07:30PM - LaLiga 2026/27: Athletic Bilbao vs Elche [SG]",
-        "EVENT 11 - 12-Sep 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD05 -Athletic Club vs Elche CF[Live] [HK]"
+        "EVENT 11 - 12-Sep 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD05 -Athletic Club vs Elche CF[Live] [HK]",
+        "EVENT 06 - 12-Sep 07:00PM-10:00PM - UFC Fight Night 2026 FN 23: Prelims: Silva vs Delgado - FN 23: Prelims: Silva vs Delgado [SG]",
+        "EVENT 05 - 12-Sep 07:25PM-09:35PM - Bundesliga 2 2026/27 -St. Pauli vs Wolfsburg[Live] [HK]",
+        "EVENT 08 - 12-Sep 07:25PM-09:30PM - Bundesliga 2 2026/27: St. Pauli vs Wolfsburg [SG]",
+        "EVENT 14 - 12-Sep 07:25PM-09:30PM - Serie A Women's Cup '26 E8 -SF1 Juventus v Inter[Live] [HK]",
+        "EVENT 09 - 12-Sep 07:30PM-10:00PM - Premier League 26/27 -Sunderland vs Arsenal[Live] [HK]",
+        "EVENT 13 - 12-Sep 07:38PM-09:45PM - Serie A 2026/27 E34 -Atalanta vs Cagliari[Live] [HK]",
+        "EVENT 02 - 12-Sep 07:40PM-09:45PM - Ligue 1 2026/27 E33 -Paris FC vs Lyon[Live] [HK]",
+        "EVENT 03 - 12-Sep 07:50PM-10:00PM - Sunderland v Arsenal (MW04) [SG]",
+        "EVENT 07 - 12-Sep 07:52PM-10:00PM - LaLiga 2 2026/27: Cordoba vs Almeria [SG]",
+        "EVENT 10 - 12-Sep 07:55PM-10:00PM - LaLiga 2026/27: Real Madrid vs Rayo Vallecano [SG]",
+        "EVENT 11 - 12-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD05 -Real Madrid vs Rayo Vallecano[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -417,6 +410,13 @@
           "channels": []
         },
         {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "NORTH POLK - ADM",
+          "datetime": "2026-09-12 00:30:00",
+          "channels": []
+        },
+        {
           "sport": "AUSSIE RULES",
           "time": "11:10",
           "name": "FREMANTLE DOCKERS - GEELONG CATS",
@@ -627,13 +627,12 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Five Dead and Dozens Missing After Philippines Ferry Fire - 10/09/2026 05:06 - 04:03",
-        "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 10/09/2026 13:50 - 19:00",
         "BBC Events 03 - no_brand_title: England's Mayors to Be Given Power to Introduce Tourist Tax - 10/09/2026 13:29 - 12:47",
         "BBC Events 04 - no_brand_title: Five Killed After Ferry Fire Breaks in Philippines - 10/09/2026 01:56 - 01:40",
+        "BBC Events 05 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 10/09/2026 19:00 - 00:00",
         "BBC Events 06 - no_brand_title: Trump Makes Cash Promise In a Bid to Rally Votes - 10/09/2026 05:38 - 05:26",
         "BBC Events 08 - no_brand_title: Phone In: Is AI Out of Control? - 10/09/2026 08:51 - 08:33",
         "BBC Events 09 - no_brand_title: Trump Speaks At Republican Midterm Convention - 10/09/2026 01:57 - 00:11",
-        "BBC Events 10 - no_brand_title: BBC Weather Live - 10/09/2026 06:04 - 20:00",
         "BBC Events 11 - no_brand_title: Funeral To Take Place for Second Officer Killed In Teesside - 10/09/2026 06:32 - 01:28",
         "BBC Events 12 - no_brand_title: no_episode_title - 10/09/2026 09:40 - 09:36",
         "BBC Events 13 - no_brand_title: Phone In: Should Tourists Pay More? - 10/09/2026 09:45 - 09:11",
@@ -903,10 +902,10 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: PSV vs. Shakhtar Donetsk",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: Fenerbahçe vs. Roma",
-        "Paramount+ Event 03 - 18:30 - Uefa Champions League: Man. United vs. Sabah",
-        "Paramount+ Event 04 - 18:30 - Uefa Champions League: Como vs. RB Leipzig",
-        "Paramount+ Event 06 - 18:30 - Uefa Champions League: Bayern vs. Bodø/Glimt",
-        "Paramount+ Event 07 - 18:30 - Uefa Champions League: Slavia Praha vs. Lens",
+        "Paramount+ Event 03 - 18:30 - UEFA Champions League: Como vs. RB Leipzig",
+        "Paramount+ Event 05 - 18:30 - UEFA Champions League: Man. United vs. Sabah",
+        "Paramount+ Event 06 - 18:30 - UEFA Champions League: Slavia Praha vs. Lens",
+        "Paramount+ Event 07 - 18:30 - UEFA Champions League: Bayern vs. Bodø/Glimt",
         "Paramount+ Event 08 - 19:20 - English Football League: Stevenage vs. Luton Town",
         "Paramount+ Event 09 - 23:20 - Concacaf Champions Cup: Salcedo FC vs. Cibao FC",
         "Paramount+ Event 01 - 00:30 - Zuffa Boxing: Garcia vs. Benn: Press Conference",
@@ -1073,8 +1072,8 @@
         "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Qualifying - 14:15 12/09/2026",
         "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 14:30 12/09/2026",
         "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
-        "Sky Sport 7 - LIVE: WXV: England v Australia - 14:50 12/09/2026",
         "Sky Sport Select - LIVE: PL: Chelsea v Hull City - 14:50 12/09/2026",
+        "Sky Sport 7 - LIVE: WXV: England v Australia - 14:50 12/09/2026",
         "Sky Sport 1 - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd9 Feature Race - 16:55 12/09/2026",
@@ -1093,8 +1092,8 @@
         "Sky Sport 7 - LIVE: NRLW: Knights v Titans R11 - 04:40 13/09/2026",
         "Sky Sport 1 - LIVE: NRL: Panthers v Roosters QF2 - 05:30 13/09/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Panthers v Roosters QF2 - 05:30 13/09/2026",
-        "Sky Sport 2 - LIVE: NPC: Southland v Bay of Plenty - 06:00 13/09/2026",
         "Sky Sport 9 - LIVE: AFLW: North Melbourne v Carlton - 06:00 13/09/2026",
+        "Sky Sport 2 - LIVE: NPC: Southland v Bay of Plenty - 06:00 13/09/2026",
         "Sky Sport 9 - LIVE: AFLW: Freemantle v Essendon - 08:00 13/09/2026",
         "Sky Sport 5 - LIVE: ICF: La Seu d'Urgell Day 4 S1 - 09:00 13/09/2026",
         "Sky Sport 4 - LIVE: FIA Formula 2: Rd11 Feature Race - 10:20 13/09/2026",
@@ -1115,12 +1114,14 @@
         "Sky Sport 1 - LIVE: Ted's Notebook: Spain - 17:00 13/09/2026",
         "Sky Sport 1 UHD - LIVE: Ted's Notebook: Spain - 17:00 13/09/2026",
         "Sky Sport Select - LIVE: WSL: Aston Villa v Man City - 18:20 13/09/2026",
+        "Sky Sport 3 - LIVE: PGA Champions Tour: R3 - 18:30 13/09/2026",
         "Sky Sport 5 - LIVE: WCPL: Guyana v Barbados - 18:30 13/09/2026",
-        "Sky Sport 3 - LIVE: PGA Champions Tour: R3 - 19:00 13/09/2026",
         "Sky Sport 6 - LIVE: Korn Ferry Tour: Round 4 - 21:00 13/09/2026",
         "Sky Sport 2 - LIVE: CPL: Barbados v Guyana - 23:30 13/09/2026",
         "Sky Sport 1 - LIVE: England v Sri Lanka: 1st T20 - 18:00 15/09/2026",
-        "Sky Sport 1 UHD - LIVE: England v Sri Lanka: 1st T20 - 18:00 15/09/2026"
+        "Sky Sport 1 UHD - LIVE: England v Sri Lanka: 1st T20 - 18:00 15/09/2026",
+        "Sky Sport 1 - LIVE: WCPL: Play-Off - 14:30 16/09/2026",
+        "Sky Sport 1 UHD - LIVE: WCPL: Play-Off - 14:30 16/09/2026"
       ],
       "sections": [],
       "events": []
@@ -1131,6 +1132,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 14 | York Rlfc Knights vs Bradford Bulls",
         "Bolton vs Cardiff",
         "Bristol City vs Lincoln",
         "Everton vs Wolves",
@@ -1151,7 +1153,6 @@
         "Birmingham vs Brighton",
         "Everton vs Charlton",
         "Liverpool vs Spurs",
-        "York Rlfc Knights vs Bradford Bulls",
         "Leigh Leopards vs Wakefield Trinity",
         "Huddersfield Giants vs Castleford Tigers",
         "Saint Helens Rlfc vs Hull Kingston Rovers",
@@ -1188,7 +1189,9 @@
         "Sportsnet 08 : The FAN Pregame: Sep. 11 - Fri 11/09 11:00pm",
         "Sportsnet 09 : Baltimore @ Toronto - Fri 11/09 11:30pm",
         "Sportsnet 10 : New York Mets @ New York Yankees - Sat 12/09 12:00am",
-        "Sportsnet 01 : Cleveland @ Minnesota - Sat 12/09 1:00am"
+        "Sportsnet 01 : Cleveland @ Minnesota - Sat 12/09 1:00am",
+        "Sportsnet 02 : FINALS - Week 1 - Warriors vs. Dolphins - Sat 12/09 6:55am",
+        "Sportsnet 01 : Sportsnet Central: Sep. 11 - Sat 12/09 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1199,20 +1202,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 13 : Bos v De Groot - Women's Wheelchair Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 12 : Chasteau v Wang - Women's Wheelchair Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 16 : Kamiji v Bernal - Women's Wheelchair Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 11 : Lazarte v Kaplan - Quad Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 10 : Sasson v Els - Quad Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 14 : Van Koot v Zhu - Women's Wheelchair Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 15 : Vink v Pena - Quad Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 09 : Wenzel v Schroder - Quad Singles QF US Open 2026 - Thu 10/09 4:00pm",
-        "Stan 17 : De La Puente v Spaargaren - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:30pm",
-        "Stan 19 : Ji v Fernandez - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:30pm",
-        "Stan 18 : Oda v Reid - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:30pm",
-        "Stan 20 : Ratzlaff v Hewett - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:30pm",
-        "Stan 02 : Fenerbahçe v Roma - UEFA Champions League 2026/2027 - Thu 10/09 5:40pm",
-        "Stan 01 : PSV v Shakhtar Donetsk - UEFA Champions League 2026/2027 - Thu 10/09 5:40pm",
+        "Stan 17 : De La Puente v Spaargaren - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:22pm",
+        "Stan 02 : Fenerbahçe v Roma - UEFA Champions League 2026/2027 - Thu 10/09 5:39pm",
+        "Stan 01 : PSV v Shakhtar Donetsk - UEFA Champions League 2026/2027 - Thu 10/09 5:39pm",
+        "Stan 20 : Ratzlaff v Hewett - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 5:39pm",
+        "Stan 18 : Oda v Reid - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 6:09pm",
+        "Stan 19 : Ji v Fernandez - Men's Wheelchair Singles QF US Open 2026 - Thu 10/09 6:51pm",
         "Stan 03 : Football Zone: MD1 Friday - UEFA Champions League 2026/27 - Thu 10/09 7:40pm",
         "Stan 05 : Bayern München v Bodø / Glimt - UEFA Champions League 2026/2027 - Thu 10/09 7:55pm",
         "Stan 06 : Como v RB Leipzig - UEFA Champions League 2026/2027 - Thu 10/09 7:55pm",
@@ -1307,11 +1302,7 @@
         "TSN 14 : US Open: Day #12 - Court 13 (ft. Juniors & Wheelchair Singles) - Thu 10/09 4:00pm",
         "TSN 11 : US Open: Day #12 - Louis Armstrong (ft. Men's Doubles Semifinals) - Thu 10/09 4:00pm",
         "TSN 12 : US Open: Day #12 - Stadium 17 (ft. Junior Singles & Doubles) - Thu 10/09 4:00pm",
-        "TSN 01 : 2026 FIBA Women's World Cup: Quarterfinal - Belgium vs. Germany - Thu 10/09 4:45pm",
-        "TSN 05 : 2026 FIFA U-20 Women's World Cup: China PR vs. Nigeria - Thu 10/09 4:48pm",
-        "TSN 06 : 2026 FIFA U-20 Women's World Cup: Colombia vs. Portugal - Thu 10/09 4:48pm",
         "TSN 08 : Pat McAfee Show - Thu 10/09 5:00pm",
-        "TSN 07 : Rich Eisen Show - Thu 10/09 5:00pm",
         "TSN 02 : 2026 FIBA Women's World Cup: Quarterfinal - Australia vs. Spain - Thu 10/09 7:45pm",
         "TSN 01 : NCAA Football: Florida A&M vs. Miami - Fri 11/09 1:00am"
       ],
