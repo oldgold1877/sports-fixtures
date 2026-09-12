@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T11:24:56.575544+00:00",
+  "scraped_at": "2026-09-12T13:51:15.395127+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -22,6 +22,10 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 14:55-17:00 - F1: Spanish GP - Qualifying 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 15:00-17:00 - EPL Goal Rush 1080p"
             },
             {
               "type": "fixture",
@@ -82,6 +86,99 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Sunderland vs Arsenal 720p"
+            },
+            {
+              "type": "date",
+              "text": "Sunday 13 September 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 01:00-06:00 - Boxing: Garcia vs. Benn 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 2pm Noche UFC Silva v Delgado"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 5pm Garcia v Benn"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 6am Eternal MMA 110"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 9am ACA 207 Goncharov v Almeida"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 12pm Fight Club Rush 30"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 12pm Gamebred FC"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 12pm Oktagon 93 Rousal v Magard"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 1pm McCann v Big Stacks"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 2pm Toman v Dilshad"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 6pm FLEX Hangar Havoc"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 11pm GCW No Signal in the Hills 5"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 1:25pmUSAC Road Racing at Road Atlanta"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 9am/3pm AMA Supercross Championship Columbus"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 12pm MotoAmerica Superbikes Texas"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 3pm IMCA Super Nationals Championship Day"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 9:30pmCARS Tour at Tri-County"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 5pm Super Late Models at Berlin"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 10:30pmWorld 100 at Eldora"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 10:30pmCecil Palm Tree 66 at Riverhead"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 10:45pmSuper DIRTcar Series Can Am"
             }
           ]
         }
@@ -94,9 +191,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 12-Sep 10:52AM-01:05PM - Pacific Nations Cup 2026 E2 -Japan vs USA[Live] [HK]",
-        "EVENT 06 - 12-Sep 11:50AM-02:00PM - Bundesliga 2 2026/27: Braunschweig vs Dynamo Dresden [SG]",
-        "EVENT 07 - 12-Sep 12:20PM-02:30PM - Singapore Premier Lge 2026/27 Hougang United FC vs Lion City Sailors FC - Hougang United FC vs Lion City Sailors FC [SG]",
         "EVENT 02 - 12-Sep 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD05 -Racing Club vs Deportivo Alavés[Live] [HK]",
         "EVENT 09 - 12-Sep 02:20PM-04:30PM - Bundesliga 2026/27 E20 -Dortmund vs Paderborn[Live] [HK]",
         "EVENT 10 - 12-Sep 02:20PM-04:30PM - Bundesliga 2026/27: Dortmund vs Paderborn [SG]",
@@ -630,6 +724,10 @@
           "datetime": "2026-09-12 15:30:00",
           "channels": [
             {
+              "name": "TBS",
+              "category": "TV | USA & CANADA"
+            },
+            {
               "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
@@ -641,6 +739,10 @@
           "name": "SPAIN - USA",
           "datetime": "2026-09-12 19:00:00",
           "channels": [
+            {
+              "name": "TBS",
+              "category": "TV | USA & CANADA"
+            },
             {
               "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
@@ -1531,10 +1633,10 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Trump Arrives In Ireland - 12/09/2026 07:52 - 07:47",
+        "BBC Events 02 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 12/09/2026 13:49 - 15:00",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 12/09/2026 06:30 - 23:10",
         "BBC Events 04 - no_brand_title: Trump Arrives In Ireland for Two-Day Visit - 12/09/2026 08:29 - 08:25",
-        "BBC Events 05 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 12/09/2026 12:00 - 14:45",
-        "BBC Events 06 - no_brand_title: SDLP conference: Leader's Speech - 12/09/2026 11:52 - 12:40"
+        "BBC Events 07 - Radio 2 in the Park: Radio 2 in the Park Channel Saturday - 12/09/2026 12:29 - 21:20"
       ],
       "sections": [],
       "events": []
@@ -1914,14 +2016,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: ICF: La Seu d'Urgell Day 3 S2 - 12:30 12/09/2026",
-        "Sky Sport 9 - LIVE: WSL: West Ham v London City - 12:35 12/09/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd11 Sprint Race - 13:10 12/09/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Qualifying - 14:15 12/09/2026",
-        "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 14:30 12/09/2026",
-        "Sky Sport Select - LIVE: PL: Chelsea v Hull City - 14:50 12/09/2026",
-        "Sky Sport 7 - LIVE: WXV: England v Australia - 14:50 12/09/2026",
-        "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
         "Sky Sport 1 - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd9 Feature Race - 16:55 12/09/2026",
@@ -2003,6 +2097,7 @@
         "Sky Sports+ 4 | Notts County vs Bradford",
         "Sky Sports+ 5 | Crawley vs Cheltenham",
         "Sky Sports+ 6 | Grimsby vs Bristol Rovers",
+        "Sky Sports+ 14 | Huddersfield Giants vs Castleford Tigers",
         "Bristol City vs Lincoln",
         "Everton vs Wolves",
         "Man City vs Norwich",
@@ -2018,8 +2113,7 @@
         "York vs Newcastle U21",
         "Birmingham vs Brighton",
         "Everton vs Charlton",
-        "Liverpool vs Spurs",
-        "Huddersfield Giants vs Castleford Tigers"
+        "Liverpool vs Spurs"
       ],
       "sections": [],
       "events": []
@@ -2030,7 +2124,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : FINALS - Week 1 - Sharks vs. Cowboys - Sat 12/09 10:40am",
         "Sportsnet 04 : West Ham United vs. London City Lionesses  - Sat 12/09 12:35pm",
         "Sportsnet 01 : Tissot Sprint - Grand Prix of San Marino - Sat 12/09 1:30pm",
         "Sportsnet 02 : Huddersfield Giants vs. Castleford Tigers - Sat 12/09 2:50pm",
@@ -2054,7 +2147,8 @@
         "Sportsnet 06 : Arsenal vs. Crystal Palace - Sun 13/09 2:35pm",
         "Sportsnet 07 : PEC Zwolle vs. Feyenoord - Sun 13/09 3:35pm",
         "Sportsnet 02 : Baltimore @ Toronto - Sun 13/09 6:00pm",
-        "Sportsnet 03 : Aston Villa vs. Manchester City - Sun 13/09 6:20pm"
+        "Sportsnet 03 : Aston Villa vs. Manchester City - Sun 13/09 6:20pm",
+        "Sportsnet 08 : PSV Eindhoven vs. Sparta Rotterdam - Sun 13/09 6:50pm"
       ],
       "sections": [],
       "events": []
@@ -2065,10 +2159,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 09 : Japan v USA - Pacific Nations Cup Semi Final 2026 - Sat 12/09 10:52am",
-        "Stan 03 : Sanfrecce Hiroshima v Cerezo Osaka - J.League 2026 - Sat 12/09 10:55am",
-        "Stan 08 : Machida Zelvia v Yokohama F. Marinos - J.League 2026 - Sat 12/09 10:55am",
-        "Stan 07 : Gamba Osaka v FC Tokyo - J.League 2026 - Sat 12/09 10:55am",
         "Stan 10 : West Ham United v London City Lionesses - WSL 2026/27 - Sat 12/09 12:35pm",
         "Stan 01 : PL Live • 12 September - Premier League 2026/27 - Sat 12/09 1:30pm",
         "Stan 17 : Griquas v Pumas - Currie Cup Final 2026 - Sat 12/09 1:50pm",
@@ -2147,15 +2237,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 08 : Formula 1 Driver Tracker - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 06 : Formula 1 Mixed On-Board Camera - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 07 : Formula 1 On-Board Camera: Charles Leclerc - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 04 : Formula 1 On-Board Camera: George Russell - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 05 : Formula 1 On-Board Camera: Lance Stroll - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 02 : Formula 1 Pit Lane - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
-        "TSN 03 : Formula 1 Timing Channel - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
         "TSN 09 : LaLiga: Racing Santander vs. Alaves - Sat 12/09 12:48pm",
-        "TSN 10 : Formula 2 Sprint Race: Madrid - Sat 12/09 1:10pm",
         "TSN 12 : 2026 FIFA U-20 Women's World Cup: Italy vs. Japan - Sat 12/09 1:48pm",
         "TSN 11 : 2026 FIFA U-20 Women's World Cup: New Zealand vs. USA - Sat 12/09 1:48pm",
         "TSN 13 : Formula 1 Driver Tracker - Spanish Grand Prix Qualifying - Sat 12/09 2:50pm",
