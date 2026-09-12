@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T07:15:24.174027+00:00",
+  "scraped_at": "2026-09-12T11:00:50.264264+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -94,8 +94,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 12-Sep 07:49AM-10:00AM - Pacific Nations Cup 2026 -Fiji vs Canada[Live] [HK]",
-        "EVENT 02 - 12-Sep 07:49AM-10:00AM - Pacific Nations Cup 2026: Fiji vs Canada [SG]",
         "EVENT 01 - 12-Sep 10:52AM-01:05PM - Pacific Nations Cup 2026 E2 -Japan vs USA[Live] [HK]",
         "EVENT 06 - 12-Sep 11:50AM-02:00PM - Bundesliga 2 2026/27: Braunschweig vs Dynamo Dresden [SG]",
         "EVENT 07 - 12-Sep 12:20PM-02:30PM - Singapore Premier Lge 2026/27 Hougang United FC vs Lion City Sailors FC - Hougang United FC vs Lion City Sailors FC [SG]",
@@ -282,7 +280,7 @@
               "category": "TV | USA & CANADA"
             },
             {
-              "name": "TSN 2",
+              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             },
             {
@@ -372,10 +370,6 @@
             {
               "name": "ABC",
               "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -636,7 +630,7 @@
           "datetime": "2026-09-12 15:30:00",
           "channels": [
             {
-              "name": "TSN 3",
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -648,7 +642,7 @@
           "datetime": "2026-09-12 19:00:00",
           "channels": [
             {
-              "name": "TSN 3",
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -745,6 +739,18 @@
           ]
         },
         {
+          "sport": "MOTORSPORTS",
+          "time": "23:00",
+          "name": "DELAWARE SPEEDWAY RACING",
+          "datetime": "2026-09-12 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "RUGBY LEAGUE",
           "time": "03:00",
           "name": "PARRAMATTA EELS W - NQ COWBOYS W",
@@ -781,6 +787,30 @@
           ]
         },
         {
+          "sport": "RUGBY UNION",
+          "time": "08:00",
+          "name": "FIJIAN DRUA - CANADA",
+          "datetime": "2026-09-12 08:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "RUGBY UNION",
+          "time": "11:05",
+          "name": "JAPAN - USA",
+          "datetime": "2026-09-12 11:05:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "TENNIS",
           "time": "17:00",
           "name": "C. HARRISON / N. SKUPSKI - K. KRAWIETZ / T. PUETZ",
@@ -798,6 +828,10 @@
           "name": "ARYNA SABALENKA - ELENA RYBAKINA",
           "datetime": "2026-09-12 21:00:00",
           "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 4",
               "category": "SPORT | USA & CANADA"
@@ -937,6 +971,18 @@
         {
           "sport": "FOOTBALL",
           "time": "17:00",
+          "name": "PENN STATE - MINNESOTA",
+          "datetime": "2026-09-13 17:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
           "name": "PORTUGAL U20 W - COSTA RICA U20",
           "datetime": "2026-09-13 17:00:00",
           "channels": [
@@ -967,6 +1013,10 @@
             {
               "name": "FOX",
               "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -1481,10 +1531,8 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Trump Arrives In Ireland - 12/09/2026 07:52 - 07:47",
-        "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 12/09/2026 06:00 - 12:00",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 12/09/2026 06:30 - 23:10",
-        "BBC Events 06 - no_brand_title: no_episode_title - 11/09/2026 09:41 - 09:29",
-        "BBC Events 07 - no_brand_title: Zack Polanski Announced As By-Election Candidate - 11/09/2026 10:36 - 10:35"
+        "BBC Events 04 - no_brand_title: Trump Arrives In Ireland for Two-Day Visit - 12/09/2026 08:29 - 08:25"
       ],
       "sections": [],
       "events": []
@@ -1761,23 +1809,23 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 02 - 10:20 - World Rugby: Japan vs. USA Eagles",
-        "Paramount+ Event 03 - 11:50 - English Football League: West Bromwich Albion vs. Queens Park Rangers",
-        "Paramount+ Event 04 - 11:50 - English Football League: Derby County vs. Birmingham City",
-        "Paramount+ Event 05 - 12:05 - Barclays Womens Super League: West Ham United vs. London City",
-        "Paramount+ Event 06 - 13:20 - Serie A: Genoa vs. Frosinone",
-        "Paramount+ Event 07 - 14:00 - English Football League: Middlesbrough vs. Norwich City",
-        "Paramount+ Event 08 - 14:00 - English Football League: Swansea City vs. Burnley",
-        "Paramount+ Event 09 - 14:00 - English Football League: Watford vs. Stoke City",
-        "Paramount+ Event 10 - 14:20 - World Rugby: England vs. Australia",
-        "Paramount+ Event 11 - 15:30 - World Rugby: Scotland vs. Canada",
-        "Paramount+ Event 12 - 16:20 - Serie A: Lazio vs. Milan",
-        "Paramount+ Event 13 - 17:10 - Scottish Professional Football League: Kilmarnock vs. Aberdeen",
-        "Paramount+ Event 17 - 18:30 - Serie A: Atalanta vs. Cagliari",
-        "Paramount+ Event 18 - 20:00 - Zuffa Boxing: Garcia vs. Benn",
-        "Paramount+ Event 19 - 21:20 - World Rugby: South Africa vs. New Zealand",
-        "Paramount+ Event 21 - 21:00 - Zuffa Boxing: Garcia vs. Benn em Português",
-        "Paramount+ Event 22 - 21:00 - Zuffa Boxing: Garcia vs. Benn en Español",
+        "Paramount+ Event 01 - 10:20 - World Rugby: Japan vs. USA Eagles",
+        "Paramount+ Event 02 - 11:50 - English Football League: West Bromwich Albion vs. Queens Park Rangers",
+        "Paramount+ Event 03 - 11:50 - English Football League: Derby County vs. Birmingham City",
+        "Paramount+ Event 04 - 12:05 - Barclays Women's Super League: West Ham United vs. London City",
+        "Paramount+ Event 05 - 13:20 - Serie A: Genoa vs. Frosinone",
+        "Paramount+ Event 06 - 14:00 - English Football League: Middlesbrough vs. Norwich City",
+        "Paramount+ Event 07 - 14:00 - English Football League: Swansea City vs. Burnley",
+        "Paramount+ Event 08 - 14:00 - English Football League: Watford vs. Stoke City",
+        "Paramount+ Event 09 - 14:20 - World Rugby: England vs. Australia",
+        "Paramount+ Event 10 - 15:30 - World Rugby: Scotland vs. Canada",
+        "Paramount+ Event 11 - 16:20 - Serie A: Lazio vs. Milan",
+        "Paramount+ Event 12 - 17:10 - Scottish Professional Football League: Kilmarnock vs. Aberdeen",
+        "Paramount+ Event 16 - 18:30 - Serie A: Atalanta vs. Cagliari",
+        "Paramount+ Event 17 - 20:00 - Zuffa Boxing: Garcia vs. Benn",
+        "Paramount+ Event 18 - 21:20 - World Rugby: South Africa vs. New Zealand",
+        "Paramount+ Event 20 - 21:00 - Zuffa Boxing: Garcia vs. Benn em Português",
+        "Paramount+ Event 21 - 21:00 - Zuffa Boxing: Garcia vs. Benn en Español",
         "Paramount+ Event 02 - 11:20 - English Football League: Sheffield United vs. Wolves",
         "Paramount+ Event 03 - 11:20 - Barclays Womens Super League: Man. United vs. Chelsea",
         "Paramount+ Event 04 - 11:25 - Scottish Professional Football League: Rangers vs. Celtic",
@@ -1864,22 +1912,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: ICF: La Seu d'Urgell Day 3 S1 - 08:30 12/09/2026",
-        "Sky Sport 1 - LIVE: NRL: Sharks v Cowboys EF2 - 09:45 12/09/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Sharks v Cowboys EF2 - 09:45 12/09/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 3: Rd9 Sprint Race - 10:00 12/09/2026",
-        "Sky Sport 2 - LIVE: England v Pakistan: 3rd Test D4 - 10:15 12/09/2026",
-        "Sky Sport Select - LIVE: PNC: Japan v USA - 10:50 12/09/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Practice 3 - 11:00 12/09/2026",
-        "Sky Sport 4 - LIVE: La Vuelta Stage 20 - 11:20 12/09/2026",
         "Sky Sport 7 - LIVE: ICF: La Seu d'Urgell Day 3 S2 - 12:30 12/09/2026",
         "Sky Sport 9 - LIVE: WSL: West Ham v London City - 12:35 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 2: Rd11 Sprint Race - 13:10 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 1: Spain GP Qualifying - 14:15 12/09/2026",
         "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 14:30 12/09/2026",
         "Sky Sport Select - LIVE: PL: Chelsea v Hull City - 14:50 12/09/2026",
-        "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
         "Sky Sport 7 - LIVE: WXV: England v Australia - 14:50 12/09/2026",
+        "Sky Sport 9 - LIVE: PL: Aston Villa v Nott'm Forest - 14:50 12/09/2026",
         "Sky Sport 1 - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: France v Black Ferns - 16:30 12/09/2026",
         "Sky Sport 3 - LIVE: FIA Formula 3: Rd9 Feature Race - 16:55 12/09/2026",
@@ -1888,7 +1928,7 @@
         "Sky Sport 4 - LIVE: WCPL: Barbados v Jamaica - 19:30 12/09/2026",
         "Sky Sport 1 - LIVE: Springboks v All Blacks 4th Test - 21:00 12/09/2026",
         "Sky Sport 1 UHD - LIVE: Springboks v All Blacks 4th Test - 21:00 12/09/2026",
-        "Sky Sport 7 - LIVE: Korn Ferry Tour: Round 3 - 21:00 12/09/2026",
+        "Sky Sport 7 - LIVE: Korn Ferry Tour: Round 3 - 22:00 12/09/2026",
         "Sky Sport 4 - LIVE: CPL: Barbados v Jamaica - 00:30 13/09/2026",
         "Sky Sport 2 - LIVE: FPC: Hawke's Bay v Wellington - 00:30 13/09/2026",
         "Sky Sport 2 - LIVE: NRLW: Broncos v Warriors R11 - 02:55 13/09/2026",
@@ -1938,7 +1978,14 @@
         "Sky Sport 5 - LIVE: Korn Ferry Tour: Round 1 - 18:00 17/09/2026",
         "Sky Sport 3 - LIVE: World Series Darts: Finals D1 - 18:00 17/09/2026",
         "Sky Sport 2 - LIVE: England v Sri Lanka: 2nd T20 - 18:00 17/09/2026",
-        "Sky Sport 4 - LIVE: WCPL: Final - 18:30 17/09/2026"
+        "Sky Sport 4 - LIVE: WCPL: Final - 18:30 17/09/2026",
+        "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
+        "Sky Sport 1 - LIVE: CPL: Qualifier 1 - 00:30 18/09/2026",
+        "Sky Sport 1 UHD - LIVE: CPL: Qualifier 1 - 00:30 18/09/2026",
+        "Sky Sport 3 - LIVE: ODC: W Australia v S Australia - 06:55 18/09/2026",
+        "Sky Sport 1 - LIVE: NPC: Tasman v Auckland - 08:00 18/09/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Tasman v Auckland - 08:00 18/09/2026"
       ],
       "sections": [],
       "events": []
@@ -1949,19 +1996,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 2 | Bolton vs Cardiff",
+        "Sky Sports+ 3 | Leyton Orient vs Wycombe",
+        "Sky Sports+ 4 | Notts County vs Bradford",
+        "Sky Sports+ 5 | Crawley vs Cheltenham",
+        "Sky Sports+ 6 | Grimsby vs Bristol Rovers",
         "Bristol City vs Lincoln",
         "Everton vs Wolves",
         "Man City vs Norwich",
-        "Bolton vs Cardiff",
         "Middlesbrough vs Millwall",
         "Fleetwood vs Sheff Utd",
-        "Leyton Orient vs Wycombe",
         "Peterborough vs Barnsley",
-        "Notts County vs Bradford",
         "West Ham vs Fulham",
-        "Crawley vs Cheltenham",
         "Reading vs Brentford",
-        "Grimsby vs Bristol Rovers",
         "Chesterfield vs Man City U21",
         "Leyton Orient vs Arsenal U21",
         "Swindon vs Crystal Palace U21",
@@ -1981,8 +2028,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : FINALS - Week 1 - Warriors vs. Dolphins - Sat 12/09 6:55am",
-        "Sportsnet 01 : Sportsnet Central: Sep. 11 - Sat 12/09 10:00am",
         "Sportsnet 03 : FINALS - Week 1 - Sharks vs. Cowboys - Sat 12/09 10:40am",
         "Sportsnet 04 : West Ham United vs. London City Lionesses  - Sat 12/09 12:35pm",
         "Sportsnet 01 : Tissot Sprint - Grand Prix of San Marino - Sat 12/09 1:30pm",
@@ -2005,7 +2050,9 @@
         "Sportsnet 01 : Everton vs. Charlton Athletic - Sun 13/09 1:50pm",
         "Sportsnet 05 : Liverpool vs. Tottenham Hotspur - Sun 13/09 1:50pm",
         "Sportsnet 06 : Arsenal vs. Crystal Palace - Sun 13/09 2:35pm",
-        "Sportsnet 07 : PEC Zwolle vs. Feyenoord - Sun 13/09 3:35pm"
+        "Sportsnet 07 : PEC Zwolle vs. Feyenoord - Sun 13/09 3:35pm",
+        "Sportsnet 02 : Baltimore @ Toronto - Sun 13/09 6:00pm",
+        "Sportsnet 03 : Aston Villa vs. Manchester City - Sun 13/09 6:20pm"
       ],
       "sections": [],
       "events": []
@@ -2016,15 +2063,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Northland v Waikato - NPC Round 7 2026 - Sat 12/09 6:00am",
-        "Stan 02 : Fiji v Canada - Pacific Nations Cup Semi Final 2026 - Sat 12/09 7:50am",
-        "Stan 04 : Canterbury v Wellington - NPC Round 7 2026 - Sat 12/09 8:00am",
-        "Stan 05 : Jeonbuk v Seoul - K League 2026 - Sat 12/09 8:25am",
-        "Stan 06 : Ulsan v Incheon - K League 2026 - Sat 12/09 8:25am",
-        "Stan 09 : Japan v USA - Pacific Nations Cup Semi Final 2026 - Sat 12/09 10:50am",
-        "Stan 07 : Gamba Osaka v FC Tokyo - J.League 2026 - Sat 12/09 10:55am",
-        "Stan 08 : Machida Zelvia v Yokohama F. Marinos - J.League 2026 - Sat 12/09 10:55am",
+        "Stan 09 : Japan v USA - Pacific Nations Cup Semi Final 2026 - Sat 12/09 10:52am",
         "Stan 03 : Sanfrecce Hiroshima v Cerezo Osaka - J.League 2026 - Sat 12/09 10:55am",
+        "Stan 08 : Machida Zelvia v Yokohama F. Marinos - J.League 2026 - Sat 12/09 10:55am",
+        "Stan 07 : Gamba Osaka v FC Tokyo - J.League 2026 - Sat 12/09 10:55am",
         "Stan 10 : West Ham United v London City Lionesses - WSL 2026/27 - Sat 12/09 12:35pm",
         "Stan 01 : PL Live • 12 September - Premier League 2026/27 - Sat 12/09 1:30pm",
         "Stan 17 : Griquas v Pumas - Currie Cup Final 2026 - Sat 12/09 1:50pm",
@@ -2082,7 +2124,8 @@
         "Stan 01 : PL Weekend Wrap: Matchweek 4 - Sep 14 - Sun 13/09 7:00pm",
         "Stan 02 : Guadalajara: Day 1 - WTA 500 - Sun 13/09 8:00pm",
         "Stan 03 : Portland Thorns v Chicago Stars - NWSL 2026 - Mon 14/09 12:00am",
-        "Stan 01 : Leeds United v Newcastle United - Premier League Matchweek 4 2026/2027 - Mon 14/09 7:30pm"
+        "Stan 01 : Leeds United v Newcastle United - Premier League Matchweek 4 2026/2027 - Mon 14/09 7:30pm",
+        "Stan 05 : Guadalajara: Day 2 - WTA 500 - Mon 14/09 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -2102,7 +2145,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : Formula 3 Sprint Race: Madrid - Sat 12/09 9:45am",
         "TSN 08 : Formula 1 Driver Tracker - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
         "TSN 06 : Formula 1 Mixed On-Board Camera - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
         "TSN 07 : Formula 1 On-Board Camera: Charles Leclerc - Spanish Grand Prix Practice #3 - Sat 12/09 11:20am",
@@ -2123,12 +2165,15 @@
         "TSN 01 : Formula 1 Timing Channel - Spanish Grand Prix Qualifying - Sat 12/09 2:50pm",
         "TSN 19 : LaLiga: Osasuna vs. Espanyol - Sat 12/09 3:03pm",
         "TSN 02 : 2026 WXV Global Series Rugby: Scotland vs. Canada - Sat 12/09 4:00pm",
+        "TSN 21 : US Open: Day #14 - Court 11 (ft. Wheelchair Men's Final) - Sat 12/09 4:00pm",
+        "TSN 08 : US Open: Day #14 - Court 12 (ft. Junior Boys' Final) - Sat 12/09 4:00pm",
+        "TSN 23 : US Open: Day #14 - Court 13 (ft. Wheelchair Women's Final) - Sat 12/09 4:00pm",
+        "TSN 22 : US Open: Day #14 - Court 7 (ft. Junior Girls' Final) - Sat 12/09 4:00pm",
         "TSN 04 : 2026 FIFA U-20 Women's World Cup: Ghana vs. France - Sat 12/09 4:48pm",
         "TSN 03 : 2026 FIFA U-20 Women's World Cup: Korea Republic vs. Ecuador - Sat 12/09 4:48pm",
         "TSN 05 : Formula 3 Feature Race 1: Madrid - Sat 12/09 4:55pm",
         "TSN 06 : NCAA Football: Oregon vs. Oklahoma State - Sat 12/09 5:00pm",
         "TSN 07 : NCAA Football: Penn State vs. Temple - Sat 12/09 5:00pm",
-        "TSN 08 : US Open: Day #14 - Court TBD - Sat 12/09 5:00pm",
         "TSN 10 : LaLiga: Athletic Club vs. Elche - Sat 12/09 5:18pm",
         "TSN 20 : NCAA Football: Western Kentucky vs. Georgia - Sat 12/09 5:45pm",
         "TSN 09 : 2026 NASCAR ORAP Series Practice & Qualifying: Nu Way 225 - Sat 12/09 6:00pm",
@@ -2149,8 +2194,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P1M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":2065,\"currency\":\"EUR\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_Q2n7HRBBGQTAAw4sE1QP_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":67,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":24322,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":467,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":11140,\"currency\":\"PLN\",\"scale\":2,\"amount\":12799,\"taxInclusive\":true,\"sku\":\"ufc_IysyyM7JWAT8mmTxd9bI_PLN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2987,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":12799,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":427,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":155722,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769155477000,\"default\":false},{\"id\":11134,\"currency\":\"HKD\",\"scale\":2,\"amount\":10300,\"taxInclusive\":true,\"sku\":\"ufc_djvVJZmYYE8lNOAYKq8X_HKD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":344,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":10300,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":125317,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2404,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769114711000,\"default\":false},{\"id\":11158,\"currency\":\"TRY\",\"scale\":2,\"amount\":89999,\"taxInclusive\":true,\"sku\":\"ufc_QqElPHD5iQluMNkJM6mF_TRY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":1094988,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":89999,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":21000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":11139,\"currency\":\"EUR\",\"scale\":2,\"amount\":2849,\"taxInclusive\":true,\"sku\":\"ufc_jotac4RiWFKXEKKK9Sce_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":2849,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":665,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":34663,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":95,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769154857000,\"default\":false},{\"id\":2063,\"currency\":\"PHP\",\"scale\":2,\"amount\":115000,\"taxInclusive\":true,\"sku\":\"ufc_BS5bV7NhQcVlwhm8OUTR_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":26834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":1399167,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":3834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":115000,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1748641949000,\"default\":false},{\"id\":2067,\"currency\":\"EUR\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_xALgAMslgDnpYfQ9Aiui_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":84,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":30405,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2499,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":584,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":1569,\"currency\":\"JPY\",\"scale\":0,\"amount\":2189,\"taxInclusive\":true,\"sku\":\"ufc_r8YPoyBbyxOpDzdBFU9n_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":26633,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":511,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":2189,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":73,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"}],\"effectiveFrom\":1680727604000,\"default\":true},{\"id\":4122,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":true,\"sku\":\"ufc_6t6q3TH30ggDoV2kv0sd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1647019044000,\"default\":false},{\"id\":11135,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":false,\"sku\":\"ufc_6IkzDQZ8D06qgSQIaT5k_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769115732000,\"default\":false},{\"id\":4119,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":false,\"sku\":\"ufc_qcfXGEh3IKruN9x37SvR_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1647018996000,\"default\":false},{\"id\":4120,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_6ao2dCcgc1WcY7Ntqwy0_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641848000,\"default\":false},{\"id\":2066,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_E3RhVJbdyPda5hpQDvcL_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":4123,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":true,\"sku\":\"ufc_9BM8waqBs90X7GQa5Fzd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1748641961000,\"default\":false},{\"id\":11141,\"currency\":\"ILS\",\"scale\":2,\"amount\":9190,\"taxInclusive\":true,\"sku\":\"ufc_h7Ty2VjjtPUcDcfb6quf_ILS\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9190,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":111812,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":307,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2145,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769155650000,\"default\":false},{\"id\":4121,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_s1fGZ7L0WqGCyODgvdSx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748642352000,\"default\":false},{\"id\":11157,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_i77LSWODdVStZeRfctUo_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":4124,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":false,\"sku\":\"ufc_uwWNHMgrrCLIbNb9ru6N_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1748641904000,\"default\":false},{\"id\":2064,\"currency\":\"USD\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_yNe71XeuKRT2PnFvi7t9_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2499,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":30405,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":584,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":84,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1605009870000,\"default\":false},{\"id\":11138,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":true,\"sku\":\"ufc_3bjMuuLNOQBqm2eL8cNv_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769153993000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"}],\"rokuIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"amazonIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
-        "\"EventDescription\": \"UFC FIGHT PASS LIVE - FIGHT CLUB RUSH 30, Live from Fortnox Arena V\\u00e4xj\\u00f6, Sweden\",",
         "ETERNAL MMA 110 - Sat 12/09 11:00am",
         "FIGHT CLUB RUSH 30 - Sat 12/09 5:00pm",
         "NOCHE UFC: SILVA VS DELGADO PRELIMS - Sat 12/09 7:00pm",
