@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-13T17:00:46.593483+00:00",
+  "scraped_at": "2026-09-13T19:12:43.889248+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,22 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 13 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 16:30-18:30 - Bundesliga: Elversberg vs Bayern München 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 16:30-18:30 - EPL: Manchester United vs Manchester City 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 16:30-18:30 - EPL: Manchester United vs Manchester City 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 16:30-18:30 - EPL: Manchester United vs Manchester City 720p"
             },
             {
               "type": "fixture",
@@ -56,10 +40,6 @@
         {
           "section": "Live Events",
           "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 1:25pmUSAC Road Racing Road Atlanta"
-            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 02 - 12pm MotoAmerica Superbikes Texas"
@@ -95,14 +75,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 06 - 13-Sep 04:00PM-06:30PM - Premier League 26/27 -Manchester United vs Manchester City [Live Chat][Live] [HK]",
-        "EVENT 07 - 13-Sep 04:00PM-06:00PM - WSWC '27 Gr. C E44 -China v New Zealand[Live] [HK]",
-        "EVENT 01 - 13-Sep 04:20PM-06:30PM - Premier League Xtra Select -Manchester United vs Manchester City[Live] [HK]",
-        "EVENT 10 - 13-Sep 04:20PM-06:30PM - Manchester United v Manchester City (MW04) [SG]",
-        "EVENT 11 - 13-Sep 04:25PM-06:30PM - Bundesliga 2026/27 E27 -Elversberg vs Bayern[Live] [HK]",
-        "EVENT 12 - 13-Sep 04:25PM-06:30PM - Bundesliga 2026/27: Elversberg vs Bayern [SG]",
-        "EVENT 04 - 13-Sep 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD05 -Getafe CF vs RC Deportivo[Live] [HK]",
-        "EVENT 05 - 13-Sep 05:30PM-07:40PM - LaLiga 2026/27: Getafe vs Deportivo [SG]",
         "EVENT 07 - 13-Sep 06:30PM-08:30PM - Women's Super League 2026/27 [Join in Progress]: Aston Villa vs Man City [SG]",
         "EVENT 01 - 13-Sep 07:00PM-09:00PM - WSWC '27 Gr. C E45 -USA v Brazil[Live] [HK]",
         "EVENT 03 - 13-Sep 07:38PM-09:45PM - Serie A 2026/27 E39 -Sassuolo vs Juventus[Live] [HK]",
@@ -127,7 +99,9 @@
         "EVENT 01 - 15-Sep 01:00AM-03:00AM - WSWC '27 Gr. C E51 -USA v New Zealand[Live] [HK]",
         "EVENT 01 - 15-Sep 04:00PM-06:00PM - WSWC '27 Gr. C E52 -Brazil v Netherlands[Live] [HK]",
         "EVENT 02 - 15-Sep 05:55PM-08:00PM - LaLiga 2026/27: Rayo Vallecano vs Espanyol [SG]",
-        "EVENT 03 - 15-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD06 -Rayo Vallecano vs RCD Espanyol[Live] [HK]"
+        "EVENT 03 - 15-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD06 -Rayo Vallecano vs RCD Espanyol[Live] [HK]",
+        "EVENT 01 - 15-Sep 06:55PM-09:00PM - LaLiga 2026/27: Alaves vs Valencia [SG]",
+        "EVENT 04 - 15-Sep 07:00PM-09:00PM - WSWC '27 Gr. C E53 -Mexico v China[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -800,6 +774,10 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -994,9 +972,9 @@
       "fixtures": [
         "BBC Events 02 - Radio 2 in the Park: Radio 2 in the Park Channel Sunday - 13/09/2026 12:29 - 12:28",
         "BBC Events 03 - no_brand_title: Donald Trump Says United Ireland Would be a 'Great Thing' - 13/09/2026 05:13 - 04:18",
-        "BBC Events 04 - no_brand_title: Sgorio: Caerdydd v Wrecsam - 13/09/2026 16:41 - 19:20",
+        "BBC Events 05 - Major League Baseball: New York Mets @ New York Yankees - 13/09/2026 18:11 - 21:30",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 13/09/2026 05:46 - 20:16",
-        "BBC Events 07 - no_brand_title: Adran Premier: Cardiff City v Wrexham - 13/09/2026 16:41 - 19:20"
+        "BBC Events 08 - Women's Super League: Arsenal v Crystal Palace - 13/09/2026 20:00 - 22:29"
       ],
       "sections": [],
       "events": []
@@ -1249,17 +1227,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 11:20 - English Football League: Sheffield United vs. Wolves",
-        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Man. United vs. Chelsea",
-        "Paramount+ Event 03 - 11:25 - Scottish Professional Football League: Rangers vs. Celtic",
-        "Paramount+ Event 04 - 13:20 - Serie A: Lecce vs. Monza",
-        "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: Birmingham City vs. Brighton",
-        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Everton vs. Charlton Athletic",
-        "Paramount+ Event 07 - 13:20 - Barclays Women's Super League: Liverpool vs. Tottenham",
-        "Paramount+ Event 08 - 13:30 - Barclays Women's Super League: Arsenal vs. Crystal Palace",
-        "Paramount+ Event 09 - 16:15 - Barclays Women's Super League: Aston Villa vs. Man. City",
-        "Paramount+ Event 10 - 16:20 - Serie A: Napoli vs. Bologna",
-        "Paramount+ Event 11 - 18:30 - Serie A: Sassuolo vs. Juventus",
+        "Paramount+ Event 01 - 16:15 - Barclays Women's Super League: Aston Villa vs. Man. City",
+        "Paramount+ Event 02 - 16:20 - Serie A: Napoli vs. Bologna",
+        "Paramount+ Event 03 - 18:30 - Serie A: Sassuolo vs. Juventus",
         "Paramount+ Event 01 - 16:50 - Serie A: Como vs. Parma",
         "Paramount+ Event 02 - 16:50 - Serie A: Torino vs. Roma",
         "Paramount+ Event 03 - 19:05 - Serie A: Inter vs. Udinese",
@@ -1319,9 +1289,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport Select - LIVE: WSL: Aston Villa v Man City - 18:20 13/09/2026",
-        "Sky Sport 5 - LIVE: WCPL: Guyana v Barbados - 18:30 13/09/2026",
-        "Sky Sport 3 - LIVE: PGA Champions Tour: R3 - 18:30 13/09/2026",
         "Sky Sport 6 - LIVE: Korn Ferry Tour: Round 4 - 21:00 13/09/2026",
         "Sky Sport 2 - LIVE: CPL: Barbados v Guyana - 23:30 13/09/2026",
         "Sky Sport 1 - LIVE: England v Sri Lanka: 1st T20 - 18:00 15/09/2026",
@@ -1409,7 +1376,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 07 : PEC Zwolle vs. Feyenoord - Sun 13/09 3:35pm",
         "Sportsnet 02 : Baltimore @ Toronto - Sun 13/09 6:00pm",
         "Sportsnet 03 : Aston Villa vs. Manchester City - Sun 13/09 6:20pm",
         "Sportsnet 08 : PSV Eindhoven vs. Sparta Rotterdam - Sun 13/09 6:50pm",
@@ -1429,7 +1395,12 @@
         "Sportsnet 02 : Jays Talk Plus: Sep. 15 - Tue 15/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 15 - Tue 15/09 5:00pm",
         "Sportsnet 01 : AFC Ajax vs. Willem II - Tue 15/09 6:50pm",
-        "Sportsnet 02 : Blair & Barker: Sep. 15 - Tue 15/09 9:00pm"
+        "Sportsnet 02 : Blair & Barker: Sep. 15 - Tue 15/09 9:00pm",
+        "Sportsnet 03 : The FAN Pregame: Sep. 15 - Tue 15/09 11:00pm",
+        "Sportsnet 05 : Chicago White Sox @ Cleveland - Tue 15/09 11:30pm",
+        "Sportsnet 04 : Detroit @ Toronto - Tue 15/09 11:30pm",
+        "Sportsnet 06 : Dana White's Contender Series - Episode 6 - Wed 16/09 12:00am",
+        "Sportsnet 01 : Boston @ Texas - Wed 16/09 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1440,10 +1411,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Arsenal v Crystal Palace - WSL 2026/27 - Sun 13/09 2:35pm",
-        "Stan 06 : 4K • Manchester United v Manchester City - Premier League Matchweek 4 2026/2027 - Sun 13/09 4:20pm",
-        "Stan 05 : Manchester United v Manchester City - Premier League Matchweek 4 2026/2027 - Sun 13/09 4:20pm",
-        "Stan 03 : SS16 BioBio 2 (Wolf Power Stage) - WRC Chile 2026 - Sun 13/09 5:00pm",
+        "Stan 03 : SS16 BioBio 2 (Wolf Power Stage) - WRC Chile 2026 - Sun 13/09 5:07pm",
         "Stan 11 : Aston Villa v Manchester City - WSL 2026/27 - Sun 13/09 6:20pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 4 - Sep 14 - Sun 13/09 7:00pm",
         "Stan 12 : Zverev v Shelton - Men's Singles Final US Open 2026 - Sun 13/09 7:00pm",
@@ -1494,7 +1462,15 @@
         "Stan 04 : 4K • Tottenham Hotspur v Aston Villa - Premier League Matchweek 5 2026/2027 - Sat 19/09 12:20pm",
         "Stan 11 : Charlton Athletic v London City Lionesses - WSL 2026/27 - Sat 19/09 12:20pm",
         "Stan 06 : Chelsea v Birmingham City - WSL 2026/27 - Sat 19/09 12:35pm",
-        "Stan 12 : Italy v Japan - WXV 2026 - Sat 19/09 1:20pm"
+        "Stan 12 : Italy v Japan - WXV 2026 - Sat 19/09 1:20pm",
+        "Stan 05 : Brighton & Hove Albion v Arsenal - Premier League Matchweek 5 2026/2027 - Sat 19/09 2:50pm",
+        "Stan 14 : England v Canada - WXV 2026 - Sat 19/09 2:50pm",
+        "Stan 15 : Everton v Ipswich Town - Premier League Matchweek 5 2026/2027 - Sat 19/09 2:50pm",
+        "Stan 13 : Goal Rush: Brighton & Hove Albion v Arsenal • 19 September - Premier League 2026/2027 - Sat 19/09 2:50pm",
+        "Stan 16 : Newcastle United v Hull City - Premier League Matchweek 5 2026/2027 - Sat 19/09 2:50pm",
+        "Stan 06 : France v Australia - WXV 2026 - Sat 19/09 4:35pm",
+        "Stan 02 : Scotland v New Zealand - WXV 2026 - Sat 19/09 5:00pm",
+        "Stan 01 : São Paulo: Day 6 - WTA 250 - Sat 19/09 5:00pm"
       ],
       "sections": [],
       "events": []
@@ -1514,10 +1490,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 14 : 2026 FIFA U-20 Women's World Cup: Colombia vs. Korea DPR - Sun 13/09 4:48pm",
-        "TSN 13 : 2026 FIFA U-20 Women's World Cup: Portugal vs. Costa Rica - Sun 13/09 4:48pm",
-        "TSN 15 : LaLiga 2: Mallorca vs. CE Sabadell - Sun 13/09 5:18pm",
-        "TSN 16 : LaLiga: Getafe vs. Deportivo - Sun 13/09 5:18pm",
         "TSN 17 : NFL RedZone - Sun 13/09 6:00pm",
         "TSN 02 : NFL on TSN: Ravens vs. Colts - Sun 13/09 6:00pm",
         "TSN 04 : NASCAR Cup Series On-Board Camera: Enjoy Illinois 300 - Joey Logano - Sun 13/09 8:00pm",
