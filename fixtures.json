@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T17:00:50.538393+00:00",
+  "scraped_at": "2026-09-14T20:45:45.755344+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Monday 14 September 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 19:45-21:45 - Serie A: Internazionale vs Udinese 1080p"
             },
             {
               "type": "fixture",
@@ -54,12 +50,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 14-Sep 04:00PM-06:00PM - WSWC '27 Gr. C E48 -Mexico v Brazil[Live] [HK]",
-        "EVENT 03 - 14-Sep 05:23PM-07:38PM - Serie A 2026/27 E35 -Torino vs Roma[Live] [HK]",
-        "EVENT 04 - 14-Sep 05:23PM-07:30PM - Serie A 2026/27 E36 -Como 1907 vs Parma[Live] [HK]",
-        "EVENT 05 - 14-Sep 05:55PM-08:00PM - Super Lig 2026/27 -Gaziantep vs Fenerbahce[Live] [HK]",
-        "EVENT 06 - 14-Sep 05:55PM-08:00PM - Super Lig 2026/27: Gaziantep vs Fenerbahce [SG]",
-        "EVENT 01 - 14-Sep 07:00PM-09:00PM - WSWC '27 Gr. C E49 -China v Netherlands[Live] [HK]",
         "EVENT 07 - 14-Sep 07:38PM-09:45PM - Serie A 2026/27 E40 -Inter vs Udinese[Live] [HK]",
         "EVENT 04 - 14-Sep 07:50PM-10:00PM - Premier League 26/27 -Leeds United vs Newcastle United[Live] [HK]",
         "EVENT 08 - 14-Sep 07:50PM-10:00PM - Leeds United v Newcastle United (MW04) [SG]",
@@ -82,7 +72,15 @@
         "EVENT 05 - 16-Sep 05:40PM-07:55PM - Omonoia vs Celta Vigo - MD1 UEFA Europa League 2026/27 [SG]",
         "EVENT 06 - 16-Sep 05:40PM-07:55PM - UEFA Europa League 2026/27: Ararat-Armenia vs Sparta Prague - MD1 [SG]",
         "EVENT 07 - 16-Sep 05:55PM-08:00PM - LaLiga 2026/27: Atletico Madrid vs Osasuna [SG]",
-        "EVENT 08 - 16-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD06 -Atlético de Madrid vs CA Osasuna[Live] [HK]"
+        "EVENT 08 - 16-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD06 -Atlético de Madrid vs CA Osasuna[Live] [HK]",
+        "EVENT 02 - 16-Sep 07:00PM-09:00PM - WSWC '27 Gr. C E57 -C2 v C1[Live] [HK]",
+        "EVENT 03 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27 -Anderlecht vs Lyon - MD1[Live] [HK]",
+        "EVENT 09 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27 E3 -Milan vs Benfica - MD1[Live] [HK]",
+        "EVENT 10 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27 E4 -Leverkusen vs Celje - MD1[Live] [HK]",
+        "EVENT 11 - 16-Sep 07:55PM-10:00PM - Milan vs Benfica - MD1 UEFA Europa League 2026/27 [SG]",
+        "EVENT 12 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27: Leverkusen vs Celje - MD1 [SG]",
+        "EVENT 01 - 16-Sep 08:25PM-10:30PM - LaLiga 2026/27: Barcelona vs Racing de Santander [SG]",
+        "EVENT 04 - 16-Sep 08:30PM-10:30PM - LALIGA EA SPORTS 2026/2027 MD06 -FC Barcelona vs Racing Club[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -279,6 +277,13 @@
           "channels": []
         },
         {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "MICHIGAN STATE - NORTHWESTERN",
+          "datetime": "2026-09-16 00:00:00",
+          "channels": []
+        },
+        {
           "sport": "BASEBALL",
           "time": "23:40",
           "name": "CINCINNATI REDS - LOS ANGELES DODGERS",
@@ -419,15 +424,16 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Holidaymakers Warned of Methanol Poisoning - 14/09/2026 03:47 - 02:29",
-        "BBC Events 02 - Major League Baseball: New York Mets v New York Yankees - 14/09/2026 17:00 - 19:57",
         "BBC Events 03 - no_brand_title: TUC Annual Congress Taking Place in Brighton - 14/09/2026 10:51 - 09:00",
         "BBC Events 04 - no_brand_title: Should Reform UK Hand Back £72m? - 14/09/2026 08:47 - 08:26",
         "BBC Events 05 - no_brand_title: MPs and Peers Call for New AI Legislation - 14/09/2026 06:24 - 04:13",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 14/09/2026 06:52 - 21:52",
+        "BBC Events 07 - no_brand_title: House of Lords Debates Political Donations - 14/09/2026 15:10 - 22:00",
         "BBC Events 08 - no_brand_title: Reform's £72m Donations 'In Line With Law', Jenrick Says - 14/09/2026 10:11 - 10:10",
         "BBC Events 09 - no_brand_title: First Ministers Meet in Cardiff - 14/09/2026 10:42 - 09:30",
         "BBC Events 10 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 14.09.26 - 14/09/2026 11:50 - 11:49",
-        "BBC Events 11 - no_brand_title: The Human Risk of Artificial Intelligence - 14/09/2026 12:20 - 11:46"
+        "BBC Events 11 - no_brand_title: The Human Risk of Artificial Intelligence - 14/09/2026 12:20 - 11:46",
+        "BBC Events 12 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 14/09/2026 20:00 - 00:00"
       ],
       "sections": [],
       "events": []
@@ -856,7 +862,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Sep. 14 - Mon 14/09 5:00pm",
         "Sportsnet 01 : Blair & Barker: Sep. 14 - Mon 14/09 9:00pm",
         "Sportsnet 02 : The FAN Pregame: Sep. 14 - Mon 14/09 11:00pm",
         "Sportsnet 04 : Chicago White Sox @ Cleveland - Mon 14/09 11:30pm",
@@ -878,7 +883,9 @@
         "Sportsnet 02 : Jays Talk Plus: Sep. 16 - Wed 16/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 16 - Wed 16/09 5:00pm",
         "Sportsnet 01 : Detroit @ Toronto - Wed 16/09 7:30pm",
-        "Sportsnet 02 : Blair & Barker: Sep. 16 - Wed 16/09 11:00pm"
+        "Sportsnet 02 : Blair & Barker: Sep. 16 - Wed 16/09 11:00pm",
+        "Sportsnet 03 : Baltimore @ New York Mets - Thu 17/09 12:00am",
+        "Sportsnet 04 : Kansas City @ Houston - Thu 17/09 1:00am"
       ],
       "sections": [],
       "events": []
@@ -968,8 +975,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : Pat McAfee Show - Mon 14/09 5:00pm",
-        "TSN 01 : Rich Eisen Show - Mon 14/09 5:00pm",
         "TSN 03 : LaLiga: Villarreal vs. Real Betis - Mon 14/09 7:48pm",
         "TSN 01 : Monday Night Football with Peyton and Eli: Broncos vs. Chiefs - Tue 15/09 1:15am"
       ],
