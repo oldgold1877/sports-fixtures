@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T12:23:58.596184+00:00",
+  "scraped_at": "2026-09-15T15:26:10.596255+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,45 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 15 September 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 19:30-21:30 - EFL Cup: Peterborough United vs Barnsley 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 19:45-21:45 - EFL Cup: West Ham United vs Fulham 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EFL Cup: Liverpool vs Tottenham Hotspur 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - EFL Cup: Ipswich Town vs Arsenal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - EFL Cup: Reading vs Brentford 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EFL Cup: Liverpool vs Tottenham Hotspur 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:30-22:30 - La Liga: Elche vs Real Madrid 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -248,18 +286,6 @@
         },
         {
           "sport": "FOOTBALL",
-          "time": "17:30",
-          "name": "ITALY U20 W - CHINA U20 W",
-          "datetime": "2026-09-16 17:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
           "time": "20:30",
           "name": "FC BARCELONA - RACING SANTANDER",
           "datetime": "2026-09-16 20:30:00",
@@ -423,6 +449,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "23:30",
+          "name": "SãO PAULO OPEN",
+          "datetime": "2026-09-16 23:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -450,10 +488,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - no_brand_title: Sessão Extraordinária STF 15/9 - 15/09/2026 13:31 - 12:54",
         "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 15/09/2026 12:00 - 18:00",
         "BBC Events 03 - no_brand_title: Thirlwall Inquiry into Letby Crimes to Release Report - 15/09/2026 12:07 - 17:45",
+        "BBC Events 04 - no_brand_title: no_episode_title - 15/09/2026 16:11 - 10:39",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 15/09/2026 06:27 - 22:52",
-        "BBC Events 06 - no_brand_title: Anthropic Co-founder Calls For Mandatory AI 'Kill Switch' - 15/09/2026 02:46 - 02:35"
+        "BBC Events 06 - no_brand_title: Anthropic Co-founder Calls For Mandatory AI 'Kill Switch' - 15/09/2026 02:46 - 02:35",
+        "BBC Events 07 - no_brand_title: Shabana Mahmood At Home Affairs Committee - 15/09/2026 14:38 - 17:00",
+        "BBC Events 08 - no_brand_title: Politics Scotland: Scottish Parliament Chamber - 15/09/2026 14:53 - 17:35"
       ],
       "sections": [],
       "events": []
@@ -930,7 +972,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 15 - Tue 15/09 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: Sep. 15 - Tue 15/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 15 - Tue 15/09 5:00pm",
         "Sportsnet 01 : AFC Ajax vs. Willem II - Tue 15/09 6:50pm",
