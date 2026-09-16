@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T12:21:45.656250+00:00",
+  "scraped_at": "2026-09-16T15:18:59.373576+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -113,6 +113,18 @@
           "time": "14:00",
           "name": "BRAZIL U20 - UNITED STATES U20",
           "datetime": "2026-09-16 14:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:30",
+          "name": "SPAIN U20 - PORTUGAL U20 W",
+          "datetime": "2026-09-16 17:30:00",
           "channels": [
             {
               "name": "FOX SPORTS 2",
@@ -327,7 +339,7 @@
         {
           "sport": "FOOTBALL",
           "time": "17:30",
-          "name": "POLAND U20 W - COLOMBIA U20",
+          "name": "KOREA DPR U20 - JAPAN U20",
           "datetime": "2026-09-17 17:30:00",
           "channels": [
             {
@@ -588,6 +600,7 @@
         "BBC Events 02 - no_brand_title: Phone-in: Nicky Campbell Takes Calls on Ed Sheeran Row - 16/09/2026 08:42 - 08:04",
         "BBC Events 03 - no_brand_title: Letby Inquiry Finds Some Babies Could Have Been Saved - 16/09/2026 05:43 - 02:43",
         "BBC Events 04 - no_brand_title: Hundreds Searching For Missing Boy in Suffolk - 16/09/2026 11:37 - 10:49",
+        "BBC Events 05 - no_brand_title: Police Update After Boy Goes Missing in Suffolk - 16/09/2026 13:16 - 12:56",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 16/09/2026 06:44 - 22:50",
         "BBC Events 07 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 16/09/2026 12:00 - 18:00",
         "BBC Events 08 - no_brand_title: العالم هذا المساء من بي بي سي نيوز عربي 15.09.26 - 16/09/2026 12:11 - 12:10"
@@ -857,7 +870,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Europa League: Ararat-Armenia vs. Sparta Praha",
+        "Paramount+ Event 01 - 16:30 - UEFA Europa League: Ararat-Armenia vs. Sparta Praha",
         "Paramount+ Event 02 - 16:30 - Uefa Europa League: Omonia vs. Celta Vigo",
         "Paramount+ Event 03 - 18:30 - Uefa Europa League: Anderlecht vs. Lyon",
         "Paramount+ Event 04 - 18:30 - Uefa Europa League: Sturm Graz vs. Rennes",
@@ -957,18 +970,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: WCPL: Play-Off Barbados v Guyana - 14:30 16/09/2026",
-        "Sky Sport 1 UHD - LIVE: WCPL: Play-Off Barbados v Guyana - 14:30 16/09/2026",
         "Sky Sport 1 - LIVE: CPL: Barbados v Jamaica EL - 23:30 16/09/2026",
         "Sky Sport 1 UHD - LIVE: CPL: Barbados v Jamaica EL - 23:30 16/09/2026",
         "Sky Sport 1 - LIVE: NPC: Counties Manukau v Otago - 08:00 17/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Counties Manukau v Otago - 08:00 17/09/2026",
-        "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 12:00 17/09/2026",
-        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 12:00 17/09/2026",
+        "Sky Sport 3 - LIVE: DP World Tour: Round 1 - 12:00 17/09/2026",
         "Sky Sport 6 - LIVE: PSA Qatar Classic: SF - 13:30 17/09/2026",
         "Sky Sport 5 - LIVE: Korn Ferry Tour: Round 1 - 18:00 17/09/2026",
-        "Sky Sport 2 - LIVE: England v Sri Lanka: 2nd T20 - 18:00 17/09/2026",
         "Sky Sport 3 - LIVE: World Series Darts: Finals D1 - 18:00 17/09/2026",
+        "Sky Sport 2 - LIVE: England v Sri Lanka: 2nd T20 - 18:00 17/09/2026",
         "Sky Sport 4 - LIVE: WCPL: Final - 18:30 17/09/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
@@ -986,8 +996,8 @@
         "Sky Sport 1 UHD - LIVE: DP World Tour: Round 2 - 12:00 18/09/2026",
         "Sky Sport 6 - LIVE: PSA Qatar Classic: F - 15:00 18/09/2026",
         "Sky Sport 5 - LIVE: Ultimate Sevens: Biarritz - 17:30 18/09/2026",
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 18:00 18/09/2026",
         "Sky Sport 2 - LIVE: World Series Darts: Finals D2 - 18:00 18/09/2026",
+        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 18:00 18/09/2026",
         "Sky Sport 6 - LIVE: WSL: Man City v Liverpool - 18:50 18/09/2026",
         "Sky Sport 1 - LIVE: WXV: Wales v South Africa - 19:05 18/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Wales v South Africa - 19:05 18/09/2026",
@@ -1014,24 +1024,24 @@
         "Sky Sport 1 - LIVE: NRL: Roosters v Sharks SF1 - 09:15 19/09/2026",
         "Sky Sport 1 UHD - LIVE: NRL: Roosters v Sharks SF1 - 09:15 19/09/2026",
         "Sky Sport 2 - LIVE: PNC: Fiji v Japan Final - 10:50 19/09/2026",
-        "Sky Sport 4 - LIVE: DP World Tour: Round 3 - 12:00 19/09/2026",
         "Sky Sport 3 - LIVE: World Series Darts: Finals D3 Aft - 12:00 19/09/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 3 - 12:00 19/09/2026",
         "Sky Sport 7 - LIVE: WSL: Charlton v London City - 12:20 19/09/2026",
         "Sky Sport 9 - LIVE: WSL: Chelsea v Birmingham - 12:35 19/09/2026",
         "Sky Sport 1 - LIVE: WXV: Italy v Japan - 13:45 19/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Italy v Japan - 13:45 19/09/2026",
         "Sky Sport 5 - LIVE: England v Sri Lanka: 3rd T20 - 14:00 19/09/2026",
-        "Sky Sport 7 - LIVE: PL: Newcastle United v Hull City - 14:50 19/09/2026",
-        "Sky Sport 2 - LIVE: WXV: England v Canada - 14:50 19/09/2026",
         "Sky Sport 6 - LIVE: PL: Leeds United v Crystal Palace - 14:50 19/09/2026",
         "Sky Sport Select - LIVE: PL: Manchester City v Sunderland - 14:50 19/09/2026",
+        "Sky Sport 7 - LIVE: PL: Newcastle United v Hull City - 14:50 19/09/2026",
+        "Sky Sport 2 - LIVE: WXV: England v Canada - 14:50 19/09/2026",
         "Sky Sport 9 - LIVE: PL: Everton v Ipswich Town - 14:50 19/09/2026",
         "Sky Sport 1 - LIVE: WXV: Scotland v Black Ferns - 16:30 19/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Scotland v Black Ferns - 16:30 19/09/2026",
         "Sky Sport 3 - LIVE: WXV: France v Australia - 16:35 19/09/2026",
         "Sky Sport 6 - LIVE: WSL: Arsenal v Man Utd - 17:20 19/09/2026",
-        "Sky Sport 4 - LIVE: World Series Darts: Finals D3 Eve - 18:00 19/09/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 3 - 18:00 19/09/2026",
+        "Sky Sport 4 - LIVE: World Series Darts: Finals D3 Eve - 18:00 19/09/2026",
         "Sky Sport 5 - LIVE: Korn Ferry Tour: Round 3 - 20:00 19/09/2026",
         "Sky Sport 5 - LIVE: PGA Champions Tour: R2 - 23:00 19/09/2026",
         "Sky Sport 1 - LIVE: FPC: North Harbour v Tasman - 00:30 20/09/2026",
@@ -1052,8 +1062,8 @@
         "Sky Sport 2 - LIVE: World Series Darts: Finals D4 Aft - 12:00 20/09/2026",
         "Sky Sport 3 - LIVE: WXV: Ireland v USA - 13:35 20/09/2026",
         "Sky Sport 5 - LIVE: UCI Road World Championships - 13:50 20/09/2026",
-        "Sky Sport 7 - LIVE: WSL: Brighton v Aston Villa - 13:50 20/09/2026",
         "Sky Sport Select - LIVE: WSL: West Ham v Everton - 13:50 20/09/2026",
+        "Sky Sport 7 - LIVE: WSL: Brighton v Aston Villa - 13:50 20/09/2026",
         "Sky Sport 9 - LIVE: WSL: Crystal Palace v Spurs - 13:50 20/09/2026",
         "Sky Sport 3 - LIVE: UCI Road World Championships - 17:35 20/09/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 18:00 20/09/2026",
@@ -1066,7 +1076,12 @@
         "Sky Sport 1 - LIVE: UCI Road World Championships - 13:50 21/09/2026",
         "Sky Sport 1 UHD - LIVE: UCI Road World Championships - 13:50 21/09/2026",
         "Sky Sport 1 - LIVE: UCI Road World Championships - 16:50 21/09/2026",
-        "Sky Sport 1 UHD - LIVE: UCI Road World Championships - 16:50 21/09/2026"
+        "Sky Sport 1 UHD - LIVE: UCI Road World Championships - 16:50 21/09/2026",
+        "Sky Sport 3 - LIVE: ODC: Queensland v New South Wales - 04:55 22/09/2026",
+        "Sky Sport 1 - LIVE: England v Sri Lanka: 1st ODI - 12:00 22/09/2026",
+        "Sky Sport 1 UHD - LIVE: England v Sri Lanka: 1st ODI - 12:00 22/09/2026",
+        "Sky Sport 4 - LIVE: CRO Race 2026: Stage 1 - 13:00 22/09/2026",
+        "Sky Sport 2 - LIVE: UCI Road World Championships - 13:20 22/09/2026"
       ],
       "sections": [],
       "events": []
@@ -1121,7 +1136,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 16 - Wed 16/09 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: Sep. 16 - Wed 16/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 16 - Wed 16/09 5:00pm",
         "Sportsnet 01 : Detroit @ Toronto - Wed 16/09 7:30pm",
@@ -1235,8 +1249,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : 2026 FIFA U-20 Women's World Cup: Round of 16 - Argentina vs. Korea Republic - Wed 16/09 1:48pm",
-        "TSN 01 : 2026 FIFA U-20 Women's World Cup: Round of 16 - Brazil vs. USA - Wed 16/09 1:48pm",
         "TSN 03 : Max vs 100 - Wed 16/09 5:00pm",
         "TSN 05 : Pat McAfee Show - Wed 16/09 5:00pm",
         "TSN 04 : Rich Eisen Show - Wed 16/09 5:00pm",
