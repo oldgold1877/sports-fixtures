@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T17:00:48.981203+00:00",
+  "scraped_at": "2026-09-16T19:51:20.779925+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -66,13 +66,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 16-Sep 04:00PM-06:00PM - WSWC '27 Gr. C E56 -C6 v C5[Live] [HK]",
-        "EVENT 01 - 16-Sep 05:40PM-07:55PM - UEFA Europa League 2026/27 E1 -Ararat-Armenia vs Sparta Prague - MD1[Live] [HK]",
-        "EVENT 04 - 16-Sep 05:40PM-07:55PM - UEFA Europa League 2026/27 E2 -Omonoia vs Celta Vigo - MD1[Live] [HK]",
-        "EVENT 05 - 16-Sep 05:40PM-07:55PM - Ararat-Armenia vs Sparta Prague - MD1 UEFA Europa League 2026/27 [SG]",
-        "EVENT 06 - 16-Sep 05:40PM-07:55PM - Omonoia vs Celta Vigo - MD1 UEFA Europa League 2026/27 [SG]",
-        "EVENT 07 - 16-Sep 05:55PM-08:00PM - LaLiga 2026/27: Atletico Madrid vs Osasuna [SG]",
-        "EVENT 08 - 16-Sep 06:00PM-08:00PM - LALIGA EA SPORTS 2026/2027 MD06 -Atlético de Madrid vs CA Osasuna[Live] [HK]",
         "EVENT 02 - 16-Sep 07:00PM-09:00PM - WSWC '27 Gr. C E57 -C2 v C1[Live] [HK]",
         "EVENT 03 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27 -Anderlecht vs Lyon - MD1[Live] [HK]",
         "EVENT 09 - 16-Sep 07:55PM-10:00PM - UEFA Europa League 2026/27 E3 -Milan vs Benfica - MD1[Live] [HK]",
@@ -99,7 +92,16 @@
         "EVENT 04 - 18-Sep 05:20PM-07:25PM - Bundesliga 2 2026/27 -Wolfsburg vs Darmstadt[Live] [HK]",
         "EVENT 05 - 18-Sep 05:20PM-07:30PM - Bundesliga 2 2026/27 E47 -Greuther Furth vs Magdeburg[Live] [HK]",
         "EVENT 06 - 18-Sep 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Wolfsburg vs Darmstadt [SG]",
-        "EVENT 02 - 18-Sep 05:55PM-07:55PM - Super Lig 2026/27: Kasimpasa vs Konyaspor [SG]"
+        "EVENT 02 - 18-Sep 05:55PM-07:55PM - Super Lig 2026/27: Kasimpasa vs Konyaspor [SG]",
+        "EVENT 01 - 18-Sep 06:50PM-09:00PM - Women's Super League 2026/27: Man City vs Liverpool [SG]",
+        "EVENT 08 - 18-Sep 07:25PM-09:30PM - Bundesliga 2026/27 -Bayern vs FC Union[Live] [HK]",
+        "EVENT 09 - 18-Sep 07:25PM-09:30PM - Bundesliga 2026/27: Bayern vs FC Union [SG]",
+        "EVENT 11 - 18-Sep 07:38PM-09:45PM - Serie A 2026/27 E41 -Monza vs Sassuolo[Live] [HK]",
+        "EVENT 04 - 18-Sep 07:40PM-09:45PM - Ligue 1 2026/27 E37 -Monaco vs Lens[Live] [HK]",
+        "EVENT 05 - 18-Sep 07:50PM-10:00PM - Premier League 26/27 -Brentford vs Chelsea[Live] [HK]",
+        "EVENT 06 - 18-Sep 07:50PM-10:00PM - Brentford v Chelsea (MW05) [SG]",
+        "EVENT 12 - 18-Sep 07:55PM-10:00PM - LaLiga 2026/27: Espanyol vs Elche [SG]",
+        "EVENT 13 - 18-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD07 -RCD Espanyol vs Elche CF[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -292,6 +294,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "21:00",
+          "name": "SãO PAULO OPEN",
+          "datetime": "2026-09-16 21:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "23:30",
           "name": "GUADALAJARA OPEN",
           "datetime": "2026-09-16 23:30:00",
@@ -303,16 +317,11 @@
           ]
         },
         {
-          "sport": "TENNIS",
-          "time": "23:30",
-          "name": "SãO PAULO OPEN",
-          "datetime": "2026-09-16 23:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "sport": "VOLLEYBALL",
+          "time": "00:00",
+          "name": "NEBRASKA - CREIGHTON",
+          "datetime": "2026-09-17 00:00:00",
+          "channels": []
         }
       ]
     },
@@ -601,6 +610,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 16/09/2026 18:00 - 00:00",
         "BBC Events 02 - no_brand_title: Phone-in: Nicky Campbell Takes Calls on Ed Sheeran Row - 16/09/2026 08:42 - 08:04",
         "BBC Events 03 - no_brand_title: Letby Inquiry Finds Some Babies Could Have Been Saved - 16/09/2026 05:43 - 02:43",
         "BBC Events 04 - no_brand_title: Hundreds Searching For Missing Boy in Suffolk - 16/09/2026 11:37 - 10:49",
@@ -875,16 +885,16 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Europa League: Ararat-Armenia vs. Sparta Praha",
         "Paramount+ Event 02 - 16:30 - UEFA Europa League: Omonia vs. Celta Vigo",
-        "Paramount+ Event 03 - 18:30 - Uefa Europa League: Anderlecht vs. Lyon",
-        "Paramount+ Event 04 - 18:30 - Uefa Europa League: Sturm Graz vs. Rennes",
-        "Paramount+ Event 05 - 18:30 - Uefa Europa League: Bayer Leverkusen vs. Celje",
-        "Paramount+ Event 06 - 18:30 - Uefa Europa League: Sunderland vs. AZ Alkmaar",
-        "Paramount+ Event 07 - 18:30 - Uefa Europa League: Hapoel Beer-Sheva vs. Dinamo Zagreb",
-        "Paramount+ Event 08 - 18:30 - Uefa Europa League: Olympiacos vs. Jagiellonia Białystok",
-        "Paramount+ Event 10 - 18:30 - Uefa Europa League: Milan vs. Benfica",
-        "Paramount+ Event 11 - 19:05 - Efl Cup: Everton vs. Wolves",
-        "Paramount+ Event 12 - 19:20 - Efl Cup: Man. United vs. Brighton",
-        "Paramount+ Event 13 - 19:20 - Efl Cup: Coventry City vs. Aston Villa",
+        "Paramount+ Event 03 - 18:30 - UEFA Europa League: Sturm Graz vs. Rennes",
+        "Paramount+ Event 04 - 18:30 - UEFA Europa League: Bayer Leverkusen vs. Celje",
+        "Paramount+ Event 05 - 18:30 - UEFA Europa League: Hapoel Beer-Sheva vs. Dinamo Zagreb",
+        "Paramount+ Event 07 - 18:30 - UEFA Europa League: Anderlecht vs. Lyon",
+        "Paramount+ Event 08 - 18:30 - UEFA Europa League: Olympiacos vs. Jagiellonia Białystok",
+        "Paramount+ Event 09 - 18:30 - UEFA Europa League: Sunderland vs. AZ Alkmaar",
+        "Paramount+ Event 10 - 18:30 - UEFA Europa League: Milan vs. Benfica",
+        "Paramount+ Event 11 - 19:05 - Carabao Cup: Everton vs. Wolves",
+        "Paramount+ Event 12 - 19:20 - Carabao Cup: Man. United vs. Brighton",
+        "Paramount+ Event 13 - 19:20 - Carabao Cup: Coventry City vs. Aston Villa",
         "Paramount+ Event 14 - 23:00 - Us Open Cup: Columbus Crew vs. Orlando City SC",
         "Paramount+ Event 01 - 00:50 - Concacaf Champions Cup: CS Cartaginés vs. Saprissa",
         "Paramount+ Event 02 - 01:30 - Us Open Cup: Colorado Rapids vs. St. Louis CITY SC",
@@ -1095,6 +1105,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 6 | Everton vs Wolves",
+        "Sky Sports+ 7 | Fleetwood vs Sheff Utd",
         "Cardiff vs Charlton",
         "Norwich vs Bolton",
         "Accrington vs Sunderland U21",
@@ -1106,10 +1118,8 @@
         "Chesterfield vs Port Vale",
         "Walsall vs Port Vale",
         "Crewe vs Aston Villa U21",
-        "Everton vs Wolves",
         "Man City vs Norwich",
         "Gillingham vs Cambridge U",
-        "Fleetwood vs Sheff Utd",
         "Leicester vs Fulham U21",
         "Luton vs Ipswich U21",
         "Mk Dons vs Crawley",
@@ -1139,7 +1149,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Sep. 16 - Wed 16/09 5:00pm",
         "Sportsnet 01 : Detroit @ Toronto - Wed 16/09 7:30pm",
         "Sportsnet 02 : Blair & Barker: Sep. 16 - Wed 16/09 11:00pm",
         "Sportsnet 03 : Baltimore @ New York Mets - Thu 17/09 12:00am",
@@ -1161,7 +1170,9 @@
         "Sportsnet 01 : The JD Bunkis Podcast: Sep. 18 - Fri 18/09 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: Sep. 18 - Fri 18/09 3:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Sep. 18 - Fri 18/09 5:00pm",
-        "Sportsnet 01 : Manchester City vs. Liverpool - Fri 18/09 6:50pm"
+        "Sportsnet 01 : Manchester City vs. Liverpool - Fri 18/09 6:50pm",
+        "Sportsnet 04 : Elimination Final - Wakefield Trinity vs. Leigh Leopards - Fri 18/09 7:30pm",
+        "Sportsnet 03 : Blair & Barker: Sep. 18 - Fri 18/09 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -1172,8 +1183,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Ararat-Armenia v Sparta Praha - UEFA Europa League 2026/2027 - Wed 16/09 5:40pm",
-        "Stan 02 : Omonia Nicosia v Celta de Vigo - UEFA Europa League 2026/2027 - Wed 16/09 5:40pm",
+        "Stan 02 : Omonia Nicosia v Celta de Vigo - UEFA Europa League 2026/2027 - Wed 16/09 5:39pm",
+        "Stan 01 : Ararat-Armenia v Sparta Praha - UEFA Europa League 2026/2027 - Wed 16/09 5:39pm",
         "Stan 09 : Anderlecht v Olympique Lyonnais - UEFA Europa League 2026/2027 - Wed 16/09 7:55pm",
         "Stan 05 : Bayer 04 Leverkusen v Celje - UEFA Europa League 2026/2027 - Wed 16/09 7:55pm",
         "Stan 06 : Hapoel Be'er Sheva v Dinamo Zagreb - UEFA Europa League 2026/2027 - Wed 16/09 7:55pm",
@@ -1251,13 +1262,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Max vs 100 - Wed 16/09 5:00pm",
         "TSN 05 : Pat McAfee Show - Wed 16/09 5:00pm",
-        "TSN 04 : Rich Eisen Show - Wed 16/09 5:00pm",
-        "TSN 06 : 2026 FIFA U-20 Women's World Cup: Round of 16 - Italy vs. China PR - Wed 16/09 5:18pm",
-        "TSN 07 : 2026 FIFA U-20 Women's World Cup: Round of 16 - Spain vs. Portugal - Wed 16/09 5:18pm",
-        "TSN 08 : LaLiga: Atletico Madrid vs. Osasuna - Wed 16/09 5:48pm",
-        "TSN 09 : LaLiga: Deportivo vs. Sevilla - Wed 16/09 5:48pm",
         "TSN 01 : LaLiga: Levante vs. Athletic Club - Wed 16/09 8:18pm"
       ],
       "sections": [],
