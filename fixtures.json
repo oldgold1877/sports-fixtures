@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T15:25:28.774248+00:00",
+  "scraped_at": "2026-09-17T17:00:46.877418+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -54,6 +54,47 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 05 - 01:15-04:30 - NFL: Detroit Lions at Buffalo Bills 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Levski Sofia vs RB Salzburg 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - OFI Crete vs Hoffenheim 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Beşiktaş vs Marseille 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Lillestrøm vs Torreense 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Celtic vs Ferencváros 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Crystal Palace vs Lech Poznań 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Juventus vs NEC Nijmegen 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Real Sociedad vs Bournemouth 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Plzeň vs R. Union SG 1:00am"
             }
           ]
         }
@@ -112,7 +153,16 @@
         "EVENT 16 - 19-Sep 02:50PM-05:00PM - Newcastle United vs Hull City (MW05) - Premier League 2026/27 [SG]",
         "EVENT 03 - 19-Sep 03:10PM-05:25PM - LaLiga 2026/27: Athletic Bilbao vs Alaves [SG]",
         "EVENT 08 - 19-Sep 03:15PM-05:30PM - LALIGA EA SPORTS 2026/2027 MD07 -Athletic Club vs Deportivo Alavés[Live] [HK]",
-        "EVENT 09 - 19-Sep 04:10PM-06:15PM - Ligue 1 2026/27 E38 -Paris FC vs Strasbourg[Live] [HK]"
+        "EVENT 09 - 19-Sep 04:10PM-06:15PM - Ligue 1 2026/27 E38 -Paris FC vs Strasbourg[Live] [HK]",
+        "EVENT 01 - 19-Sep 04:53PM-07:00PM - Serie A 2026/27 E44 -Roma vs Inter[Live] [HK]",
+        "EVENT 02 - 19-Sep 04:55PM-07:00PM - Serie A Women's Cup '26 E10 -FINAL Juventus v Roma[Live] [HK]",
+        "EVENT 04 - 19-Sep 05:00PM-07:30PM - Premier League 26/27 -Nottingham Forest vs Coventry City[Live] [HK]",
+        "EVENT 05 - 19-Sep 05:20PM-07:30PM - Bundesliga 2026/27 -Stuttgart vs Dortmund[Live] [HK]",
+        "EVENT 06 - 19-Sep 05:20PM-07:25PM - Bundesliga 2026/27: Stuttgart vs Dortmund [SG]",
+        "EVENT 10 - 19-Sep 05:20PM-07:30PM - Nottingham Forest v Coventry City (MW05) [SG]",
+        "EVENT 11 - 19-Sep 05:25PM-07:40PM - LaLiga 2026/27: Celta Vigo vs Racing de Santander [SG]",
+        "EVENT 12 - 19-Sep 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD07 -Celta vs Racing Club[Live] [HK]",
+        "EVENT 03 - 19-Sep 05:55PM-08:00PM - Super Lig 2026/27: Trabzonspor vs Galatasaray [SG]"
       ],
       "sections": [],
       "events": []
@@ -786,7 +836,6 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 03 - no_brand_title: BBC Weather Live - 17/09/2026 06:38 - 01:44",
-        "BBC Events 04 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 17/09/2026 12:00 - 18:00",
         "BBC Events 06 - no_brand_title: Microsoft CEO Warns We Might 'Lose Control' of AI - 17/09/2026 07:12 - 06:56",
         "BBC Events 07 - no_brand_title: Carney Calls For Stronger EU-Canada Cooperation - 17/09/2026 10:23 - 07:57",
         "BBC Events 09 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي 17.09.26 - 17/09/2026 11:39 - 11:38",
@@ -1190,9 +1239,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Korn Ferry Tour: Round 1 - 18:00 17/09/2026",
-        "Sky Sport 3 - LIVE: World Series Darts: Finals D1 - 18:00 17/09/2026",
-        "Sky Sport 2 - LIVE: England v Sri Lanka: 2nd T20 - 18:00 17/09/2026",
         "Sky Sport 4 - LIVE: WCPL: Guyana v Trinbago F - 18:30 17/09/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 20:00 17/09/2026",
@@ -1352,7 +1398,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Jays Talk Plus: Sep. 17 - Thu 17/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 17 - Thu 17/09 5:00pm",
         "Sportsnet 01 : Athletics @ Tampa Bay - Thu 17/09 6:00pm",
         "Sportsnet 02 : Blair & Barker: Sep. 17 - Thu 17/09 9:00pm",
