@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T14:46:27.986808+00:00",
+  "scraped_at": "2026-09-18T17:00:49.717667+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -137,6 +137,8 @@
         "EVENT 12 - 18-Sep 07:55PM-10:00PM - LaLiga 2026/27: Espanyol vs Elche [SG]",
         "EVENT 13 - 18-Sep 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD07 -RCD Espanyol vs Elche CF[Live] [HK]",
         "EVENT 02 - 19-Sep 12:30AM-02:30AM - USL Superleague '26 E3 -Ft. Lauderdale v Dallas Trinity[Live] [HK]",
+        "EVENT 07 - 19-Sep 07:50AM-10:00AM - Pacific Nations Cup 2026: Canada vs USA - Third Place Play-off [SG]",
+        "EVENT 11 - 19-Sep 10:55AM-01:05PM - Pacific Nations Cup 2026: Fiji vs Japan - Final [SG]",
         "EVENT 04 - 19-Sep 11:50AM-02:00PM - Bundesliga 2 2026/27 -Karlsruher vs Nuremberg[Live] [HK]",
         "EVENT 05 - 19-Sep 11:50AM-02:00PM - Bundesliga 2 2026/27: Karlsruher vs Nuremberg [SG]",
         "EVENT 06 - 19-Sep 12:00PM-02:30PM - Premier League 26/27 -Tottenham Hotspur vs Aston Villa [Live Chat][Live] [HK]",
@@ -193,7 +195,17 @@
         "EVENT 17 - 20-Sep 02:25PM-04:25PM - Bundesliga 2026/27: Leverkusen vs Leipzig [SG]",
         "EVENT 03 - 20-Sep 02:55PM-05:00PM - Super Lig 2026/27: Fenerbahce vs Eyupspor [SG]",
         "EVENT 04 - 20-Sep 03:10PM-05:25PM - LaLiga 2026/27: Atletico Madrid vs Real Madrid [SG]",
-        "EVENT 18 - 20-Sep 03:15PM-05:30PM - LALIGA EA SPORTS 2026/2027 MD07 -Atlético de Madrid vs Real Madrid[Live] [HK]"
+        "EVENT 18 - 20-Sep 03:15PM-05:30PM - LALIGA EA SPORTS 2026/2027 MD07 -Atlético de Madrid vs Real Madrid[Live] [HK]",
+        "EVENT 05 - 20-Sep 04:00PM-06:30PM - Premier League 26/27 -Fulham vs Manchester United[Live] [HK]",
+        "EVENT 06 - 20-Sep 04:10PM-06:15PM - Ligue 1 2026/27 E44 -Nice vs Lille[Live] [HK]",
+        "EVENT 01 - 20-Sep 04:20PM-06:30PM - Premier League Xtra Select -Fulham vs Manchester United[Live] [HK]",
+        "EVENT 08 - 20-Sep 04:20PM-06:30PM - Fulham v Manchester United (MW05) [SG]",
+        "EVENT 09 - 20-Sep 04:25PM-06:25PM - Bundesliga 2026/27 -Schalke vs Elversberg[Live] [HK]",
+        "EVENT 10 - 20-Sep 04:25PM-06:25PM - Bundesliga 2026/27: Schalke vs Elversberg [SG]",
+        "EVENT 07 - 20-Sep 04:53PM-07:00PM - Serie A 2026/27 E49 -Juventus vs Atalanta[Live] [HK]",
+        "EVENT 03 - 20-Sep 05:25PM-07:40PM - LaLiga 2026/27: Deportivo vs Real Betis [SG]",
+        "EVENT 11 - 20-Sep 05:25PM-07:30PM - LaLiga 2026/27: Villarreal vs Levante [SG]",
+        "EVENT 12 - 20-Sep 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD07 -RC Deportivo vs Real Betis[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1282,8 +1294,7 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: Sisters of 'Putney Pusher' Suspect Speak to BBC - 18/09/2026 09:24 - 09:17",
         "BBC Events 03 - no_brand_title: King 'Elated' at Princess Diana's Death, Her Brother Says - 18/09/2026 06:07 - 03:59",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 18/09/2026 06:17 - 06:16",
-        "BBC Events 06 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 18/09/2026 12:00 - 18:00"
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 18/09/2026 06:17 - 06:16"
       ],
       "sections": [],
       "events": []
@@ -1693,9 +1704,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Ultimate Sevens: Biarritz - 17:30 18/09/2026",
-        "Sky Sport 2 - LIVE: World Series Darts: Finals D2 - 18:00 18/09/2026",
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 18:00 18/09/2026",
         "Sky Sport 6 - LIVE: WSL: Man City v Liverpool - 18:50 18/09/2026",
         "Sky Sport 1 - LIVE: WXV: Wales v South Africa - 19:05 18/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Wales v South Africa - 19:05 18/09/2026",
@@ -1835,7 +1843,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Jays Talk Plus: Sep. 18 - Fri 18/09 3:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Sep. 18 - Fri 18/09 5:00pm",
         "Sportsnet 01 : Manchester City vs. Liverpool - Fri 18/09 6:50pm",
         "Sportsnet 04 : Elimination Final - Wakefield Trinity vs. Leigh Leopards - Fri 18/09 7:30pm",
