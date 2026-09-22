@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T12:16:42.546582+00:00",
+  "scraped_at": "2026-09-22T15:24:32.182019+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -33,7 +33,9 @@
         "EVENT 05 - 23-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E8 -Chelsea vs Austria Wien - MD1[Live] [HK]",
         "EVENT 06 - 23-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E9 -Barcelona vs Paris - MD1[Live] [HK]",
         "EVENT 07 - 23-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Barcelona vs Paris - MD1 [SG]",
-        "EVENT 08 - 23-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Chelsea vs Austria Wien - MD1 [SG]"
+        "EVENT 08 - 23-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Chelsea vs Austria Wien - MD1 [SG]",
+        "EVENT 03 - 24-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Namibia vs Congo[Live] [HK]",
+        "EVENT 04 - 24-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Namibia vs Congo [SG]"
       ],
       "sections": [],
       "events": []
@@ -445,9 +447,33 @@
         },
         {
           "sport": "TENNIS",
+          "time": "09:00",
+          "name": "HANGZHOU OPEN",
+          "datetime": "2026-09-23 09:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "11:30",
           "name": "SINGAPORE OPEN",
           "datetime": "2026-09-23 11:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "13:00",
+          "name": "SINGAPORE OPEN",
+          "datetime": "2026-09-23 13:00:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -502,9 +528,11 @@
         "BBC Events 01 - no_brand_title: UN General Assembly Begins in New York - 22/09/2026 12:43 - 10:07",
         "BBC Events 02 - no_brand_title: Nicky Campbell Phone-in: Should Burnham Be Tough On Trump? - 22/09/2026 08:51 - 07:46",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 22/09/2026 06:35 - 20:00",
-        "BBC Events 04 - Billie Jean King Cup: Czech Republic v Great Britain - 22/09/2026 09:44 - 16:00",
         "BBC Events 05 - no_brand_title: no_episode_title - 22/09/2026 09:46 - 09:42",
-        "BBC Events 07 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 22/09/2026 12:00 - 18:00"
+        "BBC Events 07 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 22/09/2026 12:00 - 18:00",
+        "BBC Events 09 - no_brand_title: ستريمنغ: الأمم المتحدة مباشر-خطابات ولقاءات وأحداث - 22/09/2026 13:26 - 20:00",
+        "BBC Events 10 - no_brand_title: 81a Assembleia Geral da ONU - BBC News Brasil - 22/09/2026 13:46 - 18:00",
+        "BBC Events 11 - no_brand_title: Politics Scotland: Scottish Parliament Chamber - 22/09/2026 14:20 - 17:00"
       ],
       "sections": [],
       "events": []
@@ -780,7 +808,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Bayern vs. Man. City",
+        "Paramount+ Event 01 - 16:30 - UEFA Women's Champions League: Bayern vs. Man. City",
         "Paramount+ Event 02 - 16:30 - Uefa Womens Champions League: Inter vs. BK Häcken",
         "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Benfica",
         "Paramount+ Event 04 - 19:15 - Uefa Womens Champions League: Real Madrid vs. PSG",
@@ -828,7 +856,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: UCI Road World Championships - 13:25 22/09/2026",
         "Sky Sport 2 - LIVE: UCI Road World Championships - 17:05 22/09/2026",
         "Sky Sport 2 - LIVE: UCI Road World Championships - 20:05 22/09/2026",
         "Sky Sport 3 - LIVE: ODC: S Australia v Tasmania - 01:25 23/09/2026",
@@ -996,7 +1023,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 22 - Tue 22/09 2:00pm",
         "Sportsnet 02 : Jays Talk Plus: Sep. 22 - Tue 22/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 22 - Tue 22/09 5:00pm",
         "Sportsnet 01 : Tampa Bay @ New York Yankees - Tue 22/09 6:00pm",
