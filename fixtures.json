@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T17:00:54.565920+00:00",
+  "scraped_at": "2026-09-22T20:01:08.298611+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -16,10 +16,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 22-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E1 -Bayern vs Man City - MD1[Live] [HK]",
-        "EVENT 02 - 22-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E2 -Inter vs Hacken - MD1[Live] [HK]",
-        "EVENT 03 - 22-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Bayern vs Man City - MD1 [SG]",
-        "EVENT 04 - 22-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Inter vs Hacken - MD1 [SG]",
         "EVENT 05 - 22-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 -Juventus vs Benfica - MD1[Live] [HK]",
         "EVENT 06 - 22-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E3 -Arsenal vs HB Koge - MD1[Live] [HK]",
         "EVENT 07 - 22-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E5 -Real Madrid vs PSG - MD1[Live] [HK]",
@@ -41,7 +37,13 @@
         "EVENT 03 - 24-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E4 -Libya vs Botswana[Live] [HK]",
         "EVENT 04 - 24-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: DR Congo vs Equatorial Guinea [SG]",
         "EVENT 05 - 24-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Libya vs Botswana [SG]",
-        "EVENT 06 - 24-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Mauritania vs Central African Republic [SG]"
+        "EVENT 06 - 24-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Mauritania vs Central African Republic [SG]",
+        "EVENT 01 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Cameroon vs Comoros[Live] [HK]",
+        "EVENT 02 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E5 -Ivory Coast vs Ghana[Live] [HK]",
+        "EVENT 03 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E8 -Tunisia vs Uganda[Live] [HK]",
+        "EVENT 04 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Cameroon vs Comoros [SG]",
+        "EVENT 05 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ivory Coast vs Ghana [SG]",
+        "EVENT 06 - 24-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Uganda [SG]"
       ],
       "sections": [],
       "events": []
@@ -95,18 +97,6 @@
             {
               "name": "YES",
               "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "23:35",
-          "name": "BALTIMORE ORIOLES - TORONTO BLUE JAYS",
-          "datetime": "2026-09-22 23:35:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -332,6 +322,18 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "18:35",
+          "name": "BALTIMORE ORIOLES - TORONTO BLUE JAYS",
+          "datetime": "2026-09-23 18:35:00",
+          "channels": [
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "23:35",
           "name": "BALTIMORE ORIOLES - TORONTO BLUE JAYS",
           "datetime": "2026-09-23 23:35:00",
@@ -533,10 +535,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: UN General Assembly Begins in New York - 22/09/2026 12:43 - 10:07",
         "BBC Events 02 - no_brand_title: Nicky Campbell Phone-in: Should Burnham Be Tough On Trump? - 22/09/2026 08:51 - 07:46",
-        "BBC Events 03 - no_brand_title: BBC Weather Live - 22/09/2026 06:35 - 20:00",
-        "BBC Events 04 - no_brand_title: Pumpkin mosaic revealed live from Sunnyfields Farm - 22/09/2026 17:45 - 19:00",
         "BBC Events 05 - no_brand_title: no_episode_title - 22/09/2026 09:46 - 09:42",
-        "BBC Events 09 - no_brand_title: ستريمنغ: الأمم المتحدة مباشر-خطابات ولقاءات وأحداث - 22/09/2026 13:26 - 20:00"
+        "BBC Events 06 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 22/09/2026 18:00 - 21:15"
       ],
       "sections": [],
       "events": []
@@ -814,9 +814,9 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Women's Champions League: Bayern vs. Man. City",
         "Paramount+ Event 02 - 16:30 - UEFA Women's Champions League: Inter vs. BK Häcken",
-        "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Benfica",
-        "Paramount+ Event 04 - 19:15 - Uefa Womens Champions League: Real Madrid vs. PSG",
-        "Paramount+ Event 05 - 19:15 - Uefa Womens Champions League: Arsenal vs. HB Køge",
+        "Paramount+ Event 03 - 19:15 - UEFA Women's Champions League: Real Madrid vs. PSG",
+        "Paramount+ Event 04 - 19:15 - UEFA Women's Champions League: Juventus vs. Benfica",
+        "Paramount+ Event 05 - 19:15 - UEFA Women's Champions League: Arsenal vs. HB Køge",
         "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: Servette vs. Lyonnes",
         "Paramount+ Event 02 - 17:00 - Uefa Womens Champions League: OH Leuven vs. Roma",
         "Paramount+ Event 03 - 18:30 - Uefa Womens Champions League: Chelsea vs. Austria Wien",
@@ -860,7 +860,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: UCI Road World Championships - 20:05 22/09/2026",
         "Sky Sport 3 - LIVE: ODC: S Australia v Tasmania - 01:25 23/09/2026",
         "Sky Sport 1 - LIVE: CRO Race 2026: Stage 2 - 13:00 23/09/2026",
         "Sky Sport 1 UHD - LIVE: CRO Race 2026: Stage 2 - 13:00 23/09/2026",
@@ -998,6 +997,8 @@
         "Sky Sports+ 31 | Wigan vs Blackpool",
         "Sky Sports+ 32 | York vs Rotherham",
         "Sky Sports+ 33 | Cheltenham vs Exeter",
+        "Sky Sports+ 34 | Bradford vs Newcastle",
+        "Sky Sports+ 35 | Bromley vs Brentford U21",
         "Mansfield vs Leyton Orient",
         "Man Utd vs West Ham",
         "Plymouth vs Burton",
@@ -1013,9 +1014,7 @@
         "Shrewsbury vs Colchester",
         "Swindon vs Accrington",
         "Tranmere vs Walsall",
-        "York vs Gillingham",
-        "Bradford vs Newcastle",
-        "Bromley vs Brentford U21"
+        "York vs Gillingham"
       ],
       "sections": [],
       "events": []
@@ -1026,9 +1025,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Sep. 22 - Tue 22/09 5:00pm",
         "Sportsnet 01 : Tampa Bay @ New York Yankees - Tue 22/09 6:00pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Sep. 22 - Tue 22/09 8:00pm",
         "Sportsnet 04 : Blair & Barker: Sep. 22 - Tue 22/09 9:00pm",
         "Sportsnet 03 : The FAN Pregame: Sep. 22 - Tue 22/09 11:00pm",
         "Sportsnet 05 : Toronto @ Baltimore - Tue 22/09 11:00pm",
@@ -1048,7 +1045,9 @@
         "Sportsnet 02 : Jays Talk Plus: Sep. 23 - Wed 23/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 23 - Wed 23/09 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: Sep. 23 - Wed 23/09 8:00pm",
-        "Sportsnet 02 : Blair & Barker: Sep. 23 - Wed 23/09 9:00pm"
+        "Sportsnet 02 : Blair & Barker: Sep. 23 - Wed 23/09 9:00pm",
+        "Sportsnet 03 : The FAN Pregame: Sep. 23 - Wed 23/09 11:00pm",
+        "Sportsnet 04 : Toronto @ Baltimore - Wed 23/09 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -1059,7 +1058,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Men Junior Individual Time Trial - UCI Road World Championships Montreal 2026 - Tue 22/09 5:05pm",
         "Stan 01 : Women Junior Individual Time Trial - UCI Road World Championships Montreal 2026 - Tue 22/09 8:05pm",
         "Stan 01 : Singapore: Day 3 - WTA 500 - Wed 23/09 6:00am",
         "Stan 02 : Singapore: Day 4 - WTA 500 - Thu 24/09 6:00am",
@@ -1114,9 +1112,11 @@
         "Stan 03 : Singapore: Day 7 - WTA 500 - Sun 27/09 10:00am",
         "Stan 04 : Manchester United v West Ham United - WSL 2026/27 - Sun 27/09 12:50pm",
         "Stan 05 : Day 3 • Day Session - Laver Cup 2026 - Sun 27/09 1:00pm",
+        "Stan 09 : Birmingham City v Crystal Palace - WSL 2026/27 - Sun 27/09 1:50pm",
         "Stan 08 : Liverpool v Everton - WSL 2026/27 - Sun 27/09 1:50pm",
         "Stan 06 : Men Elite Road Race - UCI Road World Championships Montreal 2026 - Sun 27/09 1:50pm",
-        "Stan 07 : Tottenham Hotspur v Aston Villa - WSL 2026/27 - Sun 27/09 1:50pm"
+        "Stan 07 : Tottenham Hotspur v Aston Villa - WSL 2026/27 - Sun 27/09 1:50pm",
+        "Stan 02 : Leicester v Saracens - PREM Rugby Round 1 2026/27 - Sun 27/09 2:55pm"
       ],
       "sections": [],
       "events": []
@@ -1136,8 +1136,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : Pat McAfee Show - Tue 22/09 5:00pm",
-        "TSN 01 : Rich Eisen Show - Tue 22/09 5:00pm",
         "TSN 01 : ATP 250 Tennis: Chengdu - Day #1 - Wed 23/09 6:00am"
       ],
       "sections": [],
