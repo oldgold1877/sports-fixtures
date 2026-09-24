@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T15:41:39.303405+00:00",
+  "scraped_at": "2026-09-24T17:00:51.435233+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -78,9 +78,12 @@
         "EVENT 02 - 26-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E22 -South Africa vs Guinea[Live] [HK]",
         "EVENT 03 - 26-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Kenya vs Eritrea [SG]",
         "EVENT 04 - 26-Sep 02:30PM-04:00PM - Courmayeur Cup '26 E1 -SF1 Imoco Conegliano v Novara[Live] [HK]",
-        "EVENT 06 - 26-Sep 04:00PM-07:45PM - Legends Football Match - Game 4 Hope 2026 E1 -Merseyside XI vs Rest of the World XI[Live] [HK]",
         "EVENT 07 - 26-Sep 04:00PM-07:00PM - Legends Football Match - Game 4 Hope 2026: Merseyside XI vs Rest of the World XI [SG]",
-        "EVENT 08 - 26-Sep 04:00PM-07:00PM - Legends Football Match 2026 Game4Hope: Everton & Liverpool FCs vs The World - Game4Hope: Everton & Liverpool FCs vs The World [SG]"
+        "EVENT 08 - 26-Sep 04:00PM-07:00PM - Legends Football Match 2026 Game4Hope: Everton & Liverpool FCs vs The World - Game4Hope: Everton & Liverpool FCs vs The World [SG]",
+        "EVENT 10 - 26-Sep 04:00PM-07:00PM - Legends Football Match - Game 4 Hope 2026 E1 -Merseyside XI vs Rest of the World XI[Live] [HK]",
+        "EVENT 02 - 26-Sep 04:50PM-07:00PM - Women's Super League 2026/27 E19 -London City Lionesses vs Brighton[Live] [HK]",
+        "EVENT 03 - 26-Sep 05:15PM-06:45PM - Courmayeur Cup '26 E2 -SF2 Scandicci v Milano[Live] [HK]",
+        "EVENT 04 - 26-Sep 05:22PM-07:30PM - LaLiga 2 2026/27: Tenerife vs Cadiz [SG]"
       ],
       "sections": [],
       "events": []
@@ -387,6 +390,18 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "RUTGERS - UCLA",
+          "datetime": "2026-09-25 01:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -752,9 +767,8 @@
         "BBC Events 07 - no_brand_title: OpenAI Agent Hacked Australian Government Website - 24/09/2026 07:59 - 07:29",
         "BBC Events 08 - no_brand_title: New Vocational GCSEs To Be Introduced in England - 24/09/2026 08:29 - 07:31",
         "BBC Events 09 - no_brand_title: Conservatives Promise to Prevent Welfare Payment 'Misuse' - 24/09/2026 08:30 - 08:01",
-        "BBC Events 10 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 24/09/2026 12:00 - 18:00",
         "BBC Events 11 - no_brand_title: Ban On Drinking for Football Fans is Discrimination, Says PM - 24/09/2026 13:36 - 12:41",
-        "BBC Events 13 - no_brand_title: 白宮習特會登場：中美元首出席歡迎儀式並舉行雙邊會談 - 24/09/2026 14:41 - 16:59"
+        "BBC Events 12 - no_brand_title: West Midlands Football Phone-In: Walsall Special - 24/09/2026 - 24/09/2026 17:35 - 19:00"
       ],
       "sections": [],
       "events": []
@@ -1112,8 +1126,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 17:30 24/09/2026",
-        "Sky Sport 5 - LIVE: Ultimate Sevens: Brentford - 18:00 24/09/2026",
         "Sky Sport 4 - LIVE: UCI Road World Championships - 18:20 24/09/2026",
         "Sky Sport 6 - LIVE: ODC: Victoria v New South Wales - 04:55 25/09/2026",
         "Sky Sport 5 - LIVE: AFLW: Bulldogs v Port Adelaide - 05:00 25/09/2026",
@@ -1249,7 +1261,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Jays Talk Plus: Sep. 24 - Thu 24/09 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Sep. 24 - Thu 24/09 5:00pm",
         "Sportsnet 01 : New York Mets @ Texas - Thu 24/09 7:30pm",
         "Sportsnet 02 : Real Kyper & Bourne: Sep. 24 - Thu 24/09 8:00pm",
@@ -1283,7 +1294,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Women Under 23 Road Race - UCI Road World Championships Montreal 2026 - Thu 24/09 1:50pm",
         "Stan 01 : London - Ultimate Sevens Round 3 2026 - Thu 24/09 6:00pm",
         "Stan 03 : Men Junior Road Race - UCI Road World Championships Montreal 2026 - Thu 24/09 6:20pm",
         "Stan 04 : Line Up Show - Laver Cup 2026 - Thu 24/09 7:00pm",
