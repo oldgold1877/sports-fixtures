@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T11:00:46.661494+00:00",
+  "scraped_at": "2026-09-25T12:29:45.634867+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,35 +13,107 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "Live Football 01 : Andorra vs malta 17:00 pm"
+              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 172 Superlek v Rhouni"
             },
             {
               "type": "fixture",
-              "text": "Live Football 02 : Netherlands vs Germany 19:45 pm"
+              "text": "LIVE EVENT 02 - 4:30pmAres 43"
             },
             {
               "type": "fixture",
-              "text": "Live Football 03 : Serbia vs Greece 19:45 pm"
+              "text": "LIVE EVENT 03 - 7pm Shooto Brazil 140"
             },
             {
               "type": "fixture",
-              "text": "Live Football 04 : Liechtenstein vs Lithuania 19:45 pm"
+              "text": "LIVE EVENT 04 - 8pm GCW Rock Bottom"
             },
             {
               "type": "fixture",
-              "text": "Live Football 05 : Austria vs Israel 19:45 pm"
+              "text": "LIVE EVENT 05 - 10pm MMA Mexico 9"
             },
             {
               "type": "fixture",
-              "text": "Live Football 06 : Kosovo vs Rep. Ireland 19:45 pm"
+              "text": "LIVE EVENT 07 - 12pm MotoAmerica Superbikes New Jersey"
             },
             {
               "type": "fixture",
-              "text": "Live Football 07 : Norway vs Denmark 19:45 pm"
+              "text": "LIVE EVENT 08 - 10:15pmWeekly Racing Stafford"
             },
             {
               "type": "fixture",
-              "text": "Live Football 08 : Portugal vs Wales 19:45 pm"
+              "text": "LIVE EVENT 09 - 10:45pm4 Crown Nationals Eldora"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 6pm AMSOIL Championship Off Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 6pm Southern Showcase Swainsboro"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 11:15pmLucas Oil Jackson 100 Brownstown"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 11:50pmIRA Sprints Outagamie"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 11:55pmIMCA Creek Classic 141"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 7pm Williams Grove Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 12:15amJacksonville Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 12:15amWorld of Outlaws Late Models I55 Federated"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 8pm VSCU 300 Martinsville"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 9pm Fall Nationals Silver Dollar"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 01 : Italy vs Belgium 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Turkey vs France 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Georgia vs Northen Ireland 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : Arminia vs Latvia 17:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : Hungary vs Ukraine 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Montenegro vs Cyprus 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : Poland vs Bosnia-Herzegovina 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Sweden vs Romania 19:45 pm"
             }
           ]
         }
@@ -75,7 +147,9 @@
         "EVENT 02 - 26-Sep 10:00PM-01:00AM - UFC Fight Night 2026 FN 24: Prelims: Rosas Jr. vs Barcelos - FN 24: Prelims: Rosas Jr. vs Barcelos [SG]",
         "EVENT 04 - 27-Sep 12:00AM-02:00AM - USL Superleague '26 E4 -Carolina Ascent v Sporting Jax[Live] [HK]",
         "EVENT 01 - 27-Sep 01:00AM-04:00AM - UFC Fight Night 2026 FN 24: Rosas Jr. vs Barcelos - FN 24: Rosas Jr. vs Barcelos [SG]",
-        "EVENT 01 - 27-Sep 11:55AM-02:00PM - Serie A Women 2026/27 E2 -Inter v Fiorentina[Live] [HK]"
+        "EVENT 01 - 27-Sep 11:55AM-02:00PM - Serie A Women 2026/27 E2 -Inter v Fiorentina[Live] [HK]",
+        "EVENT 04 - 27-Sep 12:50PM-03:00PM - Women's Super League 2026/27 E20 -Man United vs West Ham[Live] [HK]",
+        "EVENT 05 - 27-Sep 12:50PM-03:00PM - Women's Super League 2026/27: Man United vs West Ham [SG]"
       ],
       "sections": [],
       "events": []
@@ -263,6 +337,22 @@
         },
         {
           "sport": "BASEBALL",
+          "time": "21:05",
+          "name": "NEW YORK YANKEES - BALTIMORE ORIOLES",
+          "datetime": "2026-09-25 21:05:00",
+          "channels": [
+            {
+              "name": "MASN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "YES",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
           "time": "23:05",
           "name": "BOSTON RED SOX - CHICAGO CUBS",
           "datetime": "2026-09-25 23:05:00",
@@ -279,9 +369,9 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "00:05",
+          "time": "00:00",
           "name": "NEW YORK YANKEES - BALTIMORE ORIOLES",
-          "datetime": "2026-09-26 00:05:00",
+          "datetime": "2026-09-26 00:00:00",
           "channels": []
         },
         {
@@ -1110,6 +1200,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "03:00",
+          "name": "KOREA OPEN",
+          "datetime": "2026-09-26 03:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "04:30",
           "name": "HANGZHOU OPEN",
           "datetime": "2026-09-26 04:30:00",
@@ -1202,9 +1304,9 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: Noah Woods Left Playground Through Gap in Fence - 25/09/2026 11:33 - 10:51",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 25/09/2026 06:04 - 20:30",
-        "BBC Events 04 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 24/09/2026 12:39 - 12:38",
         "BBC Events 05 - no_brand_title: The Rapid New Test Transforming Brain Tumour Diagnosis - 25/09/2026 07:23 - 07:08",
-        "BBC Events 11 - no_brand_title: Ban On Drinking for Football Fans is Discrimination, Says PM - 24/09/2026 13:36 - 12:41"
+        "BBC Events 06 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 25/09/2026 12:00 - 18:00",
+        "BBC Events 07 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 25/09/2026 12:14 - 12:13"
       ],
       "sections": [],
       "events": []
@@ -1573,10 +1675,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 25/09/2026",
-        "Sky Sport 2 - LIVE: Laver Cup Day 1 - Day Session - 12:30 25/09/2026",
-        "Sky Sport 3 - LIVE: FIA F1: Azerbaijan GP Qualifying - 12:30 25/09/2026",
-        "Sky Sport 5 - LIVE: CRO Race 2026: Stage 4 - 13:00 25/09/2026",
         "Sky Sport 6 - LIVE: UCI Road World Championships - 13:50 25/09/2026",
         "Sky Sport 3 - LIVE: Ted's Notebook: Azerbaijan Quali - 15:00 25/09/2026",
         "Sky Sport 1 - LIVE: Presidents Cup Day 2 - 19:00 25/09/2026",
@@ -1812,7 +1910,6 @@
       "fixtures": [
         "TSN 02 : ATP 250 Tennis: Chengdu - Day #3 - Fri 25/09 6:00am",
         "TSN 03 : ATP 250 Tennis: Hangzhou - Day #3 - Fri 25/09 6:30am",
-        "TSN 10 : Formula 2 Feature Race 1: Baku - Fri 25/09 11:10am",
         "TSN 14 : Formula 1 Driver Tracker - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
         "TSN 17 : Formula 1 Mixed On-Board Camera - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
         "TSN 15 : Formula 1 On-Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
