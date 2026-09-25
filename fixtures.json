@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T12:29:45.634867+00:00",
+  "scraped_at": "2026-09-25T15:43:08.932561+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,6 +30,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 05 - 10pm MMA Mexico 9"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 3:30amTuff N Uff 157"
             },
             {
               "type": "fixture",
@@ -82,6 +86,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 19 - 9pm Fall Nationals Silver Dollar"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 2:15amWorld of Outlaws Sprint Cars Bakersfield"
             },
             {
               "type": "fixture",
@@ -149,7 +157,12 @@
         "EVENT 01 - 27-Sep 01:00AM-04:00AM - UFC Fight Night 2026 FN 24: Rosas Jr. vs Barcelos - FN 24: Rosas Jr. vs Barcelos [SG]",
         "EVENT 01 - 27-Sep 11:55AM-02:00PM - Serie A Women 2026/27 E2 -Inter v Fiorentina[Live] [HK]",
         "EVENT 04 - 27-Sep 12:50PM-03:00PM - Women's Super League 2026/27 E20 -Man United vs West Ham[Live] [HK]",
-        "EVENT 05 - 27-Sep 12:50PM-03:00PM - Women's Super League 2026/27: Man United vs West Ham [SG]"
+        "EVENT 05 - 27-Sep 12:50PM-03:00PM - Women's Super League 2026/27: Man United vs West Ham [SG]",
+        "EVENT 06 - 27-Sep 01:50PM-04:00PM - Women's Super League 2026/27 E23 -Tottenham vs Aston Villa[Live] [HK]",
+        "EVENT 07 - 27-Sep 01:50PM-04:00PM - Women's Super League 2026/27: Liverpool vs Everton [SG]",
+        "EVENT 02 - 27-Sep 02:00PM-04:00PM - Serie A Women 2026/27 E3 -Sassuolo v Roma[Live] [HK]",
+        "EVENT 02 - 27-Sep 04:20PM-06:30PM - Women's Super League 2026/27 E24 -Chelsea vs Arsenal[Live] [HK]",
+        "EVENT 03 - 27-Sep 04:20PM-06:30PM - Women's Super League 2026/27: Chelsea vs Arsenal [SG]"
       ],
       "sections": [],
       "events": []
@@ -353,9 +366,9 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "23:05",
+          "time": "22:35",
           "name": "BOSTON RED SOX - CHICAGO CUBS",
-          "datetime": "2026-09-25 23:05:00",
+          "datetime": "2026-09-25 22:35:00",
           "channels": [
             {
               "name": "NESN",
@@ -1304,6 +1317,7 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: Noah Woods Left Playground Through Gap in Fence - 25/09/2026 11:33 - 10:51",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 25/09/2026 06:04 - 20:30",
+        "BBC Events 04 - no_brand_title: Biggest Vegetables Awarded in National Championship - 25/09/2026 14:32 - 12:55",
         "BBC Events 05 - no_brand_title: The Rapid New Test Transforming Brain Tumour Diagnosis - 25/09/2026 07:23 - 07:08",
         "BBC Events 06 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 25/09/2026 12:00 - 18:00",
         "BBC Events 07 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 25/09/2026 12:14 - 12:13"
@@ -1675,8 +1689,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: UCI Road World Championships - 13:50 25/09/2026",
-        "Sky Sport 3 - LIVE: Ted's Notebook: Azerbaijan Quali - 15:00 25/09/2026",
         "Sky Sport 1 - LIVE: Presidents Cup Day 2 - 19:00 25/09/2026",
         "Sky Sport 1 UHD - LIVE: Presidents Cup Day 2 - 19:00 25/09/2026",
         "Sky Sport 2 - LIVE: Laver Cup Day 1 - Night Session - 19:00 25/09/2026",
@@ -1694,14 +1706,14 @@
         "Sky Sport 1 - LIVE: NPC: North Harbour v Otago - 08:00 26/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: North Harbour v Otago - 08:00 26/09/2026",
         "Sky Sport 5 - LIVE: Tauihi: Pouakai v Hoiho - 08:30 26/09/2026",
-        "Sky Sport 4 - LIVE: NRLW: Roosters v Raiders PF1 - 10:00 26/09/2026",
         "Sky Sport 3 - LIVE: ANZ PL Darts: Canberra - 10:00 26/09/2026",
+        "Sky Sport 4 - LIVE: NRLW: Roosters v Raiders PF1 - 10:00 26/09/2026",
         "Sky Sport 1 - LIVE: FIA F1: Azerbaijan GP Pre Race - 10:30 26/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Azerbaijan GP Pre Race - 10:30 26/09/2026",
         "Sky Sport 1 - LIVE: FIA F1: Azerbaijan GP - 11:55 26/09/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Azerbaijan GP - 11:55 26/09/2026",
-        "Sky Sport 7 - LIVE: CRO Race 2026: Stage 5 - 12:00 26/09/2026",
         "Sky Sport 6 - LIVE: DP World Tour: Round 3 - 12:00 26/09/2026",
+        "Sky Sport 7 - LIVE: CRO Race 2026: Stage 5 - 12:00 26/09/2026",
         "Sky Sport 4 - LIVE: Laver Cup Day 2 - Day Session - 13:00 26/09/2026",
         "Sky Sport 2 - LIVE: Presidents Cup Day 3 - 13:00 26/09/2026",
         "Sky Sport 5 - LIVE: WXV: Italy v South Africa - 13:20 26/09/2026",
@@ -1710,19 +1722,19 @@
         "Sky Sport 1 - LIVE: WXV: England v Black Ferns - 14:30 26/09/2026",
         "Sky Sport 1 UHD - LIVE: WXV: England v Black Ferns - 14:30 26/09/2026",
         "Sky Sport 3 - LIVE: WXV: Wales v USA - 14:45 26/09/2026",
-        "Sky Sport 7 - LIVE: PREM: Exeter Chiefs v Gloucester - 15:00 26/09/2026",
         "Sky Sport Select - LIVE: Ted's Notebook: Azerbaijan - 15:00 26/09/2026",
+        "Sky Sport 7 - LIVE: PREM: Exeter Chiefs v Gloucester - 15:00 26/09/2026",
         "Sky Sport 5 - LIVE: WXV: Scotland v Australia - 16:00 26/09/2026",
         "Sky Sport 6 - LIVE: WXV: France v Canada - 16:35 26/09/2026",
-        "Sky Sport 4 - LIVE: WSL: London City v Brighton - 17:00 26/09/2026",
         "Sky Sport Select - LIVE: Zuffa Boxing 11 - 17:00 26/09/2026",
+        "Sky Sport 4 - LIVE: WSL: London City v Brighton - 17:00 26/09/2026",
         "Sky Sport 7 - LIVE: PREM: Sale Sharks v Bristol Bears - 17:25 26/09/2026",
         "Sky Sport 4 - LIVE: Laver Cup Day 2 - Night Session - 19:00 26/09/2026",
         "Sky Sport 1 - LIVE: FPC: Wellington v Tasman - 23:30 26/09/2026",
         "Sky Sport 1 UHD - LIVE: FPC: Wellington v Tasman - 23:30 26/09/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Queens v Kahu - 02:00 27/09/2026",
         "Sky Sport 1 - LIVE: NPC: Wellington v Waikato - 02:00 27/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Wellington v Waikato - 02:00 27/09/2026",
-        "Sky Sport 3 - LIVE: Rapid League: Queens v Kahu - 02:00 27/09/2026",
         "Sky Sport 3 - LIVE: Tauihi: Queens v Kahu - 03:00 27/09/2026",
         "Sky Sport 2 - LIVE: NRLW: Titans v Broncos PF2 - 03:30 27/09/2026",
         "Sky Sport 4 - LIVE: AFLW: Adelaide Crows v Freemantle - 04:00 27/09/2026",
@@ -1735,8 +1747,8 @@
         "Sky Sport 1 UHD - LIVE: Australia v South Africa - 10:00 27/09/2026",
         "Sky Sport 2 - LIVE: England v Sri Lanka: 3rd \\ODI - 10:15 27/09/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 4 - 11:30 27/09/2026",
-        "Sky Sport 4 - LIVE: Laver Cup Day 3 - Day Session - 12:00 27/09/2026",
         "Sky Sport Select - LIVE: CRO Race 2026: Stage 6 - 12:00 27/09/2026",
+        "Sky Sport 4 - LIVE: Laver Cup Day 3 - Day Session - 12:00 27/09/2026",
         "Sky Sport 6 - LIVE: WXV: Ireland v Japan - 12:35 27/09/2026",
         "Sky Sport 9 - LIVE: WSL: Man Utd v West Ham - 12:50 27/09/2026",
         "Sky Sport 1 - LIVE: WSL: Liverpool v Everton - 13:50 27/09/2026",
@@ -1759,7 +1771,14 @@
         "Sky Sport 1 UHD - LIVE: Rugby League Dally M Awards 2026 - 11:00 30/09/2026",
         "Sky Sport 1 - LIVE: World Grand Prix Darts: D3 - 19:00 30/09/2026",
         "Sky Sport 1 UHD - LIVE: World Grand Prix Darts: D3 - 19:00 30/09/2026",
-        "Sky Sport 2 - LIVE: WNCL: NSW v Queensland - 00:25 01/10/2026"
+        "Sky Sport 2 - LIVE: WNCL: NSW v Queensland - 00:25 01/10/2026",
+        "Sky Sport 4 - LIVE: WNCL: Victoria v S Australia - 04:55 01/10/2026",
+        "Sky Sport 3 - LIVE: WNCL: W Australia v Tasmania - 06:55 01/10/2026",
+        "Sky Sport 1 - LIVE: NPC: Otago v Auckland - 07:00 01/10/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Otago v Auckland - 07:00 01/10/2026",
+        "Sky Sport 5 - LIVE: AFLW: Carlton v Hawthorn Hawks - 09:00 01/10/2026",
+        "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 12:00 01/10/2026",
+        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 12:00 01/10/2026"
       ],
       "sections": [],
       "events": []
@@ -1795,8 +1814,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Semi-Final - Dolphins vs. Roosters - Fri 25/09 10:40am",
-        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 25 - Fri 25/09 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: Sep. 25 - Fri 25/09 3:00pm",
         "Sportsnet 01 : Harlequins vs. Bath Rugby - Fri 25/09 7:35pm",
         "Sportsnet 02 : Northampton Saints vs. Newcastle Red Bulls - Fri 25/09 7:35pm",
@@ -1819,7 +1836,8 @@
         "Sportsnet 06 : Semi-Final - Wigan Warriors vs. Wakefield Trinity - Sat 26/09 5:20pm",
         "Sportsnet 03 : Cincinnati @ Toronto - Sat 26/09 7:30pm",
         "Sportsnet 07 : Scarlets vs. Cardiff  - Sat 26/09 7:35pm",
-        "Sportsnet 08 : Carolina @ Nashville - Sat 26/09 8:00pm"
+        "Sportsnet 08 : Carolina @ Nashville - Sat 26/09 8:00pm",
+        "Sportsnet 09 : Pittsburgh @ Buffalo - Sat 26/09 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -1830,7 +1848,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Day 1 • Day Session - Laver Cup 2026 - Fri 25/09 12:30pm",
         "Stan 02 : Men Under 23 Road Race - UCI Road World Championships Montreal 2026 - Fri 25/09 1:50pm",
         "Stan 01 : Day 1 • Night Session - Laver Cup 2026 - Fri 25/09 7:00pm",
         "Stan 03 : Women Junior Road Race - UCI Road World Championships Montreal 2026 - Fri 25/09 7:05pm",
@@ -1841,10 +1858,11 @@
         "Stan 07 : Gotham FC v Chicago Stars - NWSL 2026 - Sat 26/09 1:00am",
         "Stan 08 : Free Practice 3: 6 Hours of Fuji - WEC 2026 - Sat 26/09 1:20am",
         "Stan 01 : Northland v Counties Manukau - NPC Round 9 2026 - Sat 26/09 3:00am",
+        "Stan 05 : Seoul: Day 6 - WTA 250 Centre Court - Sat 26/09 3:00am",
+        "Stan 10 : Seoul: Day 6 - WTA 250 Grandstand Court - Sat 26/09 3:00am",
         "Stan 03 : North Harbour v Otago - Farah Palmer Cup Round 5 2026 - Sat 26/09 5:30am",
         "Stan 04 : Qualifying: 6 Hours of Fuji - WEC 2026 - Sat 26/09 5:50am",
         "Stan 09 : Canterbury v Southland - NPC Round 9 2026 - Sat 26/09 6:00am",
-        "Stan 05 : Seoul: Day 6 - WTA 250 - Sat 26/09 6:00am",
         "Stan 02 : Singapore: Day 6 - WTA 500 - Sat 26/09 7:30am",
         "Stan 03 : North Harbour v Otago - NPC Round 9 2026 - Sat 26/09 8:00am",
         "Stan 02 : Day 2 • Day Session - Laver Cup 2026 - Sat 26/09 1:00pm",
@@ -1908,15 +1926,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : ATP 250 Tennis: Chengdu - Day #3 - Fri 25/09 6:00am",
-        "TSN 03 : ATP 250 Tennis: Hangzhou - Day #3 - Fri 25/09 6:30am",
-        "TSN 14 : Formula 1 Driver Tracker - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 17 : Formula 1 Mixed On-Board Camera - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 15 : Formula 1 On-Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 13 : Formula 1 On-Board Camera: Lance Stroll - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 12 : Formula 1 On-Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 16 : Formula 1 Pit Lane - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
-        "TSN 11 : Formula 1 Timing Channel - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
         "TSN 02 : Pat McAfee Show - Fri 25/09 5:00pm",
         "TSN 01 : Rich Eisen Show - Fri 25/09 5:00pm",
         "TSN 01 : NCAA Football: Harvard vs. Brown - Sat 26/09 12:00am",
