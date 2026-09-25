@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T07:16:01.964068+00:00",
+  "scraped_at": "2026-09-25T11:00:46.661494+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -74,7 +74,8 @@
         "EVENT 04 - 26-Sep 05:22PM-07:30PM - LaLiga 2 2026/27: Tenerife vs Cadiz [SG]",
         "EVENT 02 - 26-Sep 10:00PM-01:00AM - UFC Fight Night 2026 FN 24: Prelims: Rosas Jr. vs Barcelos - FN 24: Prelims: Rosas Jr. vs Barcelos [SG]",
         "EVENT 04 - 27-Sep 12:00AM-02:00AM - USL Superleague '26 E4 -Carolina Ascent v Sporting Jax[Live] [HK]",
-        "EVENT 01 - 27-Sep 01:00AM-04:00AM - UFC Fight Night 2026 FN 24: Rosas Jr. vs Barcelos - FN 24: Rosas Jr. vs Barcelos [SG]"
+        "EVENT 01 - 27-Sep 01:00AM-04:00AM - UFC Fight Night 2026 FN 24: Rosas Jr. vs Barcelos - FN 24: Rosas Jr. vs Barcelos [SG]",
+        "EVENT 01 - 27-Sep 11:55AM-02:00PM - Serie A Women 2026/27 E2 -Inter v Fiorentina[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -257,22 +258,6 @@
             {
               "name": "NESN",
               "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "21:05",
-          "name": "NEW YORK YANKEES - BALTIMORE ORIOLES",
-          "datetime": "2026-09-25 21:05:00",
-          "channels": [
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "YES",
-              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -643,9 +628,9 @@
         },
         {
           "sport": "FOOTBALL",
-          "time": "17:35",
+          "time": "17:30",
           "name": "KANSAS CITY CURRENT - DENVER SUMMIT FC",
-          "datetime": "2026-09-26 17:35:00",
+          "datetime": "2026-09-26 17:30:00",
           "channels": [
             {
               "name": "CBS",
@@ -1161,6 +1146,18 @@
         },
         {
           "sport": "VOLLEYBALL",
+          "time": "03:00",
+          "name": "BYU - BAYLOR",
+          "datetime": "2026-09-26 03:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
           "time": "19:00",
           "name": "NORTHEASTERN - NORTH CAROLINA A&T",
           "datetime": "2026-09-26 19:00:00",
@@ -1203,8 +1200,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 25/09/2026 06:00 - 12:00",
-        "BBC Events 02 - no_brand_title: Phone-in: Your Views on the Tories’ Welfare Reform Plans - 24/09/2026 09:54 - 09:00",
+        "BBC Events 02 - no_brand_title: Noah Woods Left Playground Through Gap in Fence - 25/09/2026 11:33 - 10:51",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 25/09/2026 06:04 - 20:30",
         "BBC Events 04 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 24/09/2026 12:39 - 12:38",
         "BBC Events 05 - no_brand_title: The Rapid New Test Transforming Brain Tumour Diagnosis - 25/09/2026 07:23 - 07:08",
@@ -1577,11 +1573,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: Tauihi: Whai v Kahu - 08:30 25/09/2026",
-        "Sky Sport 3 - LIVE: FIA F1: Azerbaijan GP Practice 3 - 09:15 25/09/2026",
-        "Sky Sport 1 - LIVE: NRL: Dolphins v Roosters PF1 - 09:30 25/09/2026",
-        "Sky Sport 1 UHD - LIVE: NRL: Dolphins v Roosters PF1 - 09:30 25/09/2026",
-        "Sky Sport 3 - LIVE: FIA Formula 2: Rd12 Feature Race 1 - 11:10 25/09/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 12:30 25/09/2026",
         "Sky Sport 2 - LIVE: Laver Cup Day 1 - Day Session - 12:30 25/09/2026",
         "Sky Sport 3 - LIVE: FIA F1: Azerbaijan GP Qualifying - 12:30 25/09/2026",
@@ -1706,7 +1697,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Sep. 24 - Fri 25/09 10:00am",
         "Sportsnet 02 : Semi-Final - Dolphins vs. Roosters - Fri 25/09 10:40am",
         "Sportsnet 01 : The JD Bunkis Podcast: Sep. 25 - Fri 25/09 2:00pm",
         "Sportsnet 03 : Jays Talk Plus: Sep. 25 - Fri 25/09 3:00pm",
@@ -1730,7 +1720,8 @@
         "Sportsnet 05 : Sale Sharks vs. Bristol Bears - Sat 26/09 5:20pm",
         "Sportsnet 06 : Semi-Final - Wigan Warriors vs. Wakefield Trinity - Sat 26/09 5:20pm",
         "Sportsnet 03 : Cincinnati @ Toronto - Sat 26/09 7:30pm",
-        "Sportsnet 07 : Scarlets vs. Cardiff  - Sat 26/09 7:35pm"
+        "Sportsnet 07 : Scarlets vs. Cardiff  - Sat 26/09 7:35pm",
+        "Sportsnet 08 : Carolina @ Nashville - Sat 26/09 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -1741,10 +1732,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : AUS U18s vs AUS School Boys XV - Australian Schoolboys/U18s 2026 - Fri 25/09 5:00am",
-        "Stan 03 : Auckland v Manawatū - Farah Palmer Cup Round 5 2026 - Fri 25/09 5:30am",
-        "Stan 04 : Singapore: Day 5 - WTA 500 - Fri 25/09 5:40am",
-        "Stan 05 : Auckland v Manawatū - NPC Round 9 2026 - Fri 25/09 8:00am",
         "Stan 01 : Day 1 • Day Session - Laver Cup 2026 - Fri 25/09 12:30pm",
         "Stan 02 : Men Under 23 Road Race - UCI Road World Championships Montreal 2026 - Fri 25/09 1:50pm",
         "Stan 01 : Day 1 • Night Session - Laver Cup 2026 - Fri 25/09 7:00pm",
@@ -1800,7 +1787,10 @@
         "Stan 01 : Otago v Auckland - NPC Round 10 2026 - Thu 01/10 7:00am",
         "Stan 01 : Live Stage 1 - WRC Italy 2026 - Thu 01/10 3:00pm",
         "Stan 01 : Beijing: Day 3 - WTA 1000 - Fri 02/10 4:00am",
-        "Stan 02 : Southland v Northland - NPC Round 10 2026 - Fri 02/10 7:00am"
+        "Stan 02 : Southland v Northland - NPC Round 10 2026 - Fri 02/10 7:00am",
+        "Stan 01 : Cross-country Short Track: Lake Placid - UCI Mountain Bike World Series 2026 - Fri 02/10 4:30pm",
+        "Stan 02 : Bath v Exeter - PREM Rugby Round 2 2026/27 - Fri 02/10 7:40pm",
+        "Stan 01 : Manawatū v Canterbury - NPC Round 10 2026 - Sat 03/10 2:00am"
       ],
       "sections": [],
       "events": []
@@ -1821,7 +1811,20 @@
       "status": "ok",
       "fixtures": [
         "TSN 02 : ATP 250 Tennis: Chengdu - Day #3 - Fri 25/09 6:00am",
-        "TSN 03 : ATP 250 Tennis: Hangzhou - Day #3 - Fri 25/09 6:30am"
+        "TSN 03 : ATP 250 Tennis: Hangzhou - Day #3 - Fri 25/09 6:30am",
+        "TSN 10 : Formula 2 Feature Race 1: Baku - Fri 25/09 11:10am",
+        "TSN 14 : Formula 1 Driver Tracker - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 17 : Formula 1 Mixed On-Board Camera - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 15 : Formula 1 On-Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 13 : Formula 1 On-Board Camera: Lance Stroll - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 12 : Formula 1 On-Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 16 : Formula 1 Pit Lane - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 11 : Formula 1 Timing Channel - Azerbaijan Grand Prix Qualifying - Fri 25/09 12:50pm",
+        "TSN 02 : Pat McAfee Show - Fri 25/09 5:00pm",
+        "TSN 01 : Rich Eisen Show - Fri 25/09 5:00pm",
+        "TSN 01 : NCAA Football: Harvard vs. Brown - Sat 26/09 12:00am",
+        "TSN 02 : ATP 250 Tennis: Chengdu - Day #4 - Sat 26/09 6:00am",
+        "TSN 01 : ATP 250 Tennis: Hangzhou - Day #4 - Sat 26/09 6:30am"
       ],
       "sections": [],
       "events": []
