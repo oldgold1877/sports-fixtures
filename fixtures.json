@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T14:52:22.333224+00:00",
+  "scraped_at": "2026-09-26T17:00:44.790538+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -142,9 +142,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 26-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E22 -South Africa vs Guinea[Live] [HK]",
-        "EVENT 03 - 26-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Kenya vs Eritrea [SG]",
-        "EVENT 04 - 26-Sep 02:30PM-04:00PM - Courmayeur Cup '26 E1 -SF1 Imoco Conegliano v Novara[Live] [HK]",
         "EVENT 07 - 26-Sep 04:00PM-07:00PM - Legends Football Match - Game 4 Hope 2026: Merseyside XI vs Rest of the World XI [SG]",
         "EVENT 10 - 26-Sep 04:00PM-07:00PM - Legends Football Match - Game 4 Hope 2026 E1 -Merseyside XI vs Rest of the World XI[Live] [HK]",
         "EVENT 11 - 26-Sep 04:00PM-07:00PM - Legends Football Match 2026 Game4Hope: Merseyside XI vs R.O.W XI - Game4Hope: Merseyside XI vs R.O.W XI [SG]",
@@ -162,7 +159,13 @@
         "EVENT 02 - 27-Sep 02:00PM-04:00PM - Serie A Women 2026/27 E3 -Sassuolo v Roma[Live] [HK]",
         "EVENT 02 - 27-Sep 04:20PM-06:30PM - Women's Super League 2026/27 E24 -Chelsea vs Arsenal[Live] [HK]",
         "EVENT 03 - 27-Sep 04:20PM-06:30PM - Women's Super League 2026/27: Chelsea vs Arsenal [SG]",
-        "EVENT 02 - 27-Sep 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Sporting Gijon [SG]"
+        "EVENT 02 - 27-Sep 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Sporting Gijon [SG]",
+        "EVENT 01 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Equatorial Guinea vs Sierra Leone[Live] [HK]",
+        "EVENT 02 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E24 -Zimbabwe vs DR Congo[Live] [HK]",
+        "EVENT 03 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E25 -Central African Republic vs Burkina Faso[Live] [HK]",
+        "EVENT 04 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Central African Republic vs Burkina Faso [SG]",
+        "EVENT 05 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Equatorial Guinea vs Sierra Leone [SG]",
+        "EVENT 06 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zimbabwe vs DR Congo [SG]"
       ],
       "sections": [],
       "events": []
@@ -521,6 +524,18 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "22:00",
+          "name": "PORTLAND HEARTS OF PINE - TORMENTA",
+          "datetime": "2026-09-26 22:00:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "23:00",
           "name": "TEXAS STATE - INCARNATE WORD",
           "datetime": "2026-09-26 23:00:00",
@@ -542,6 +557,13 @@
           "sport": "FOOTBALL",
           "time": "00:00",
           "name": "CANADA - CHILE",
+          "datetime": "2026-09-27 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "CHARLESTON BATTERY - RHODE ISLAND",
           "datetime": "2026-09-27 00:00:00",
           "channels": []
         },
@@ -1536,11 +1558,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Netball: Netball World Cup Qualifiers - Scotland v Northern Ireland - 26/09/2026 16:48 - 19:00",
+        "BBC Events 02 - no_brand_title: no_episode_title - 26/09/2026 17:06 - 20:00",
         "BBC Events 03 - no_brand_title: Huge Crowds Cheer Pope in Paris - 26/09/2026 12:57 - 10:36",
         "BBC Events 04 - Cycling: World Road Championships: Women’s Road Race - 26/09/2026 13:37 - 19:30",
-        "BBC Events 06 - no_brand_title: BBC Weather Live - 26/09/2026 06:26 - 05:50",
-        "BBC Events 08 - Women's Rugby Union: WXV Global Series: England v New Zealand - 26/09/2026 14:37 - 17:15",
-        "BBC Events 09 - Netball: Netball World Cup Qualifiers - Republic of Ireland v Wales - 26/09/2026 14:45 - 17:00"
+        "BBC Events 05 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 26/09/2026 16:00 - 18:13",
+        "BBC Events 06 - no_brand_title: BBC Weather Live - 26/09/2026 06:26 - 05:50"
       ],
       "sections": [],
       "events": []
@@ -1816,7 +1839,7 @@
         "Paramount+ Event 09 - 14:20 - World Rugby: England vs. New Zealand",
         "Paramount+ Event 10 - 15:30 - World Rugby: Scotland vs. Australia",
         "Paramount+ Event 12 - 16:05 - World Rugby: France vs. Canada",
-        "Paramount+ Event 13 - 16:20 - Barclays Womens Super League: London City vs. Brighton",
+        "Paramount+ Event 13 - 16:20 - Barclays Women's Super League: London City vs. Brighton",
         "Paramount+ Event 14 - 16:50 - English Football League: Oldham Athletic vs. Salford City",
         "Paramount+ Event 02 - 12:05 - World Rugby: Ireland vs. Japan",
         "Paramount+ Event 03 - 12:20 - Barclays Womens Super League: Man. United vs. West Ham United",
@@ -1885,17 +1908,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: WXV: Scotland v Australia - 16:00 26/09/2026",
-        "Sky Sport 6 - LIVE: WXV: France v Canada - 16:35 26/09/2026",
-        "Sky Sport Select - LIVE: Zuffa Boxing 11 - 17:00 26/09/2026",
-        "Sky Sport 4 - LIVE: WSL: London City v Brighton - 17:00 26/09/2026",
-        "Sky Sport 7 - LIVE: PREM: Sale Sharks v Bristol Bears - 17:25 26/09/2026",
         "Sky Sport 4 - LIVE: Laver Cup Day 2 - Night Session - 19:00 26/09/2026",
         "Sky Sport 1 - LIVE: FPC: Wellington v Tasman - 23:30 26/09/2026",
         "Sky Sport 1 UHD - LIVE: FPC: Wellington v Tasman - 23:30 26/09/2026",
-        "Sky Sport 3 - LIVE: Rapid League: Queens v Kahu - 02:00 27/09/2026",
         "Sky Sport 1 - LIVE: NPC: Wellington v Waikato - 02:00 27/09/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Wellington v Waikato - 02:00 27/09/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Queens v Kahu - 02:00 27/09/2026",
         "Sky Sport 3 - LIVE: Tauihi: Queens v Kahu - 03:00 27/09/2026",
         "Sky Sport 2 - LIVE: NRLW: Titans v Broncos PF2 - 03:30 27/09/2026",
         "Sky Sport 4 - LIVE: AFLW: Adelaide Crows v Freemantle - 04:00 27/09/2026",
@@ -1908,13 +1926,13 @@
         "Sky Sport 1 UHD - LIVE: Australia v South Africa - 10:00 27/09/2026",
         "Sky Sport 2 - LIVE: England v Sri Lanka: 3rd \\ODI - 10:15 27/09/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 4 - 11:30 27/09/2026",
-        "Sky Sport Select - LIVE: CRO Race 2026: Stage 6 - 12:00 27/09/2026",
         "Sky Sport 4 - LIVE: Laver Cup Day 3 - Day Session - 12:00 27/09/2026",
+        "Sky Sport Select - LIVE: CRO Race 2026: Stage 6 - 12:00 27/09/2026",
         "Sky Sport 6 - LIVE: WXV: Ireland v Japan - 12:35 27/09/2026",
         "Sky Sport 9 - LIVE: WSL: Man Utd v West Ham - 12:50 27/09/2026",
-        "Sky Sport 7 - LIVE: UCI Road World Championships - 13:50 27/09/2026",
         "Sky Sport 1 - LIVE: WSL: Liverpool v Everton - 13:50 27/09/2026",
         "Sky Sport 1 UHD - LIVE: WSL: Liverpool v Everton - 13:50 27/09/2026",
+        "Sky Sport 7 - LIVE: UCI Road World Championships - 13:50 27/09/2026",
         "Sky Sport Select - LIVE: WSL: Spurs v Aston Villa - 14:00 27/09/2026",
         "Sky Sport 6 - LIVE: PREM: Leicester Tigers v Saracens - 15:00 27/09/2026",
         "Sky Sport Select - LIVE: WSL: Chelsea v Arsenal - 16:20 27/09/2026",
@@ -1940,10 +1958,20 @@
         "Sky Sport 5 - LIVE: AFLW: Carlton v Hawthorn Hawks - 09:00 01/10/2026",
         "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 12:00 01/10/2026",
         "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 12:00 01/10/2026",
-        "Sky Sport 2 - LIVE: World Grand Prix Darts: D4 - 19:00 01/10/2026",
         "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 1 - 19:00 01/10/2026",
+        "Sky Sport 2 - LIVE: World Grand Prix Darts: D4 - 19:00 01/10/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 22:00 01/10/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 22:00 01/10/2026"
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 22:00 01/10/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Bahrain GP P1 - 05:00 02/10/2026",
+        "Sky Sport 3 - LIVE: Rapid League: Whai v Hoiho - 06:30 02/10/2026",
+        "Sky Sport 1 - LIVE: NPC: Southland v Northland - 07:00 02/10/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Southland v Northland - 07:00 02/10/2026",
+        "Sky Sport 3 - LIVE: Tauihi: Whai v Hoiho - 07:30 02/10/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Bahrain GP P2 - 08:45 02/10/2026",
+        "Sky Sport 4 - LIVE: AFLW: Richmond v Geelong Cats - 09:00 02/10/2026",
+        "Sky Sport 2 - LIVE: The F1 Show: Bahrain - 10:15 02/10/2026",
+        "Sky Sport 1 - LIVE: DP World Tour: Round 2 - 12:00 02/10/2026",
+        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 2 - 12:00 02/10/2026"
       ],
       "sections": [],
       "events": []
@@ -1966,7 +1994,6 @@
         "Sky Sports+ 10 | Swindon vs Accrington",
         "Sky Sports+ 11 | Tranmere vs Walsall",
         "Sky Sports+ 12 | York vs Gillingham",
-        "Sky Sports+ 13 | Charlton vs Man City",
         "Man Utd vs West Ham",
         "Birmingham vs Crystal Palace",
         "Spurs vs Aston Villa"
@@ -1980,9 +2007,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Charlton Athletic vs. Manchester City - Sat 26/09 1:20pm",
-        "Sportsnet 01 : Hollywoodbets Sharks vs. Ospreys  - Sat 26/09 2:50pm",
-        "Sportsnet 04 : Exeter Chiefs vs. Gloucester Rugby - Sat 26/09 2:55pm",
         "Sportsnet 02 : London City Lionesses vs. Brighton & Hove Albion - Sat 26/09 4:50pm",
         "Sportsnet 05 : Sale Sharks vs. Bristol Bears - Sat 26/09 5:20pm",
         "Sportsnet 06 : Semi-Final - Wigan Warriors vs. Wakefield Trinity - Sat 26/09 5:20pm",
@@ -2015,10 +2039,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Day 2 • Day Session - Laver Cup 2026 - Sat 26/09 1:00pm",
-        "Stan 04 : Italy v South Africa - WXV 2026 - Sat 26/09 1:19pm",
-        "Stan 01 : Charlton Athletic v Manchester City - WSL 2026/27 - Sat 26/09 1:20pm",
-        "Stan 05 : Women Elite Road Race - UCI Road World Championships Montreal 2026 - Sat 26/09 1:50pm",
         "Stan 03 : Wales v USA - WXV 2026 - Sat 26/09 2:47pm",
         "Stan 06 : England v New Zealand - WXV 2026 - Sat 26/09 2:50pm",
         "Stan 07 : Exeter v Gloucester - PREM Rugby Round 1 2026/27 - Sat 26/09 3:00pm",
@@ -2094,8 +2114,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Hangzhou - Day #4 - Sat 26/09 6:30am",
-        "TSN 03 : NASCAR Cup Series Practice & Qualifying: Hollywood Casino 400 - Sat 26/09 3:00pm",
         "TSN 11 : 2026 FIFA U-20 Women's World Cup: Third Place - Italy vs. Colombia - Sat 26/09 4:48pm",
         "TSN 12 : NCAA Football: Colorado vs. Baylor - Sat 26/09 5:00pm",
         "TSN 02 : NCAA Football: Wake Forest vs. Louisville - Sat 26/09 5:00pm",
