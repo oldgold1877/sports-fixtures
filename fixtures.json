@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T07:15:29.161691+00:00",
+  "scraped_at": "2026-09-28T11:00:49.895620+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,45 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "Live Football 01 : Lithuania vs Azerbaijan 14:00 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 02 : Gibraltar vs Andorra 17:00 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 03 : Serbia vs Netherlands 17:00 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 04 : Austria vs Kosovo 17:00 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 05 : Denmark vs Wales 17:00 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 06 : Germany vs Greece 19:45 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 07 : Israel vs Republic of Ireland 19:45 pm"
-            },
-            {
-              "type": "fixture",
-              "text": "Live Football 08 : Norway vs Portugal 19:45 pm"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -356,6 +318,10 @@
           "datetime": "2026-09-29 19:00:00",
           "channels": [
             {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
               "name": "NBC",
               "category": "TV | USA & CANADA"
             }
@@ -428,11 +394,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: Men Arrested in Major Incident Near RAF Fairford - 27/09/2026 10:48 - 10:47",
+        "BBC Events 02 - Major League Baseball: San Diego Padres v Arizona Diamondbacks - 28/09/2026 10:00 - 13:06",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 28/09/2026 05:50 - 15:59",
-        "BBC Events 05 - no_brand_title: Major Incident Near RAF Fairford - 27/09/2026 09:26 - 09:10",
-        "BBC Events 07 - no_brand_title: Major Incident Near RAF Fairford - 27/09/2026 10:09 - 09:33",
-        "BBC Events 08 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 28/09/2026 06:50 - 10:00",
+        "BBC Events 04 - no_brand_title: Stormont Reaction to Drumcree Dispute - 28/09/2026 10:27 - 10:26",
         "BBC Events 09 - no_brand_title: Farmer Believes Tip-Off 'Foiled' RAF Fairford Incident - 28/09/2026 07:07 - 06:54"
       ],
       "sections": [],
@@ -804,7 +768,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Sep. 27 - Mon 28/09 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Sep. 28 - Mon 28/09 2:00pm",
         "Sportsnet 03 : Gotta See It - Mon 28/09 3:00pm",
         "Sportsnet 02 : Misplays of the Month - Mon 28/09 3:00pm",
@@ -828,7 +791,8 @@
         "Sportsnet 01 : The FAN Pregame: Sep. 29 - Tue 29/09 11:00pm",
         "Sportsnet 03 : Dana White's Contender Series - Episode 8 - Wed 30/09 12:00am",
         "Sportsnet 05 : Montreal @ Toronto - Wed 30/09 12:00am",
-        "Sportsnet 09 : AL Wildcard - Boston @ New York Yankees - Game 1 - Wed 30/09 1:00am"
+        "Sportsnet 09 : AL Wildcard - Boston @ New York Yankees - Game 1 - Wed 30/09 1:00am",
+        "Sportsnet 06 : New York Rangers @ Boston - Wed 30/09 1:00am"
       ],
       "sections": [],
       "events": []
