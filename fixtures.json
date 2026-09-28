@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T14:50:40.567123+00:00",
+  "scraped_at": "2026-09-28T17:00:51.144644+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,45 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "Live Football 01 : Georgia  vs Ukraine 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Armenia vs Montenegro  17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Latvia vs Cyprus 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : Belgium vs France 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : Turkey vs Italy 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Northern Ireland vs Hungary 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : Romania vs Bosnia-Herzegovina 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Sweden vs Poland 19:45 pm"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -42,7 +80,12 @@
         "EVENT 03 - 29-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E41 -Congo vs Cameroon[Live] [HK]",
         "EVENT 04 - 29-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Congo vs Cameroon [SG]",
         "EVENT 05 - 29-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Liberia vs Mali [SG]",
-        "EVENT 06 - 29-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Somalia vs Ivory Coast [SG]"
+        "EVENT 06 - 29-Sep 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Somalia vs Ivory Coast [SG]",
+        "EVENT 01 - 30-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Eritrea vs South Africa[Live] [HK]",
+        "EVENT 02 - 30-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Eritrea vs South Africa [SG]",
+        "EVENT 05 - 30-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Paris vs Arsenal - MD2 [SG]",
+        "EVENT 06 - 30-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Roma vs Barcelona - MD2 [SG]",
+        "EVENT 11 - 30-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E10 -Roma vs Barcelona - MD2[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -318,10 +361,6 @@
           "datetime": "2026-09-29 19:00:00",
           "channels": [
             {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
               "name": "NBC",
               "category": "TV | USA & CANADA"
             }
@@ -394,8 +433,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 28/09/2026 13:06 - 17:00",
-        "BBC Events 03 - no_brand_title: BBC Weather Live - 28/09/2026 05:50 - 15:59",
+        "BBC Events 02 - Major League Baseball: San Diego Padres v Arizona Diamondbacks - 28/09/2026 17:00 - 20:06",
         "BBC Events 04 - no_brand_title: Stormont Reaction to Drumcree Dispute - 28/09/2026 10:27 - 10:26",
         "BBC Events 09 - no_brand_title: Farmer Believes Tip-Off 'Foiled' RAF Fairford Incident - 28/09/2026 07:07 - 06:54"
       ],
@@ -659,8 +697,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: World Grand Prix Darts: D1 - 18:00 28/09/2026",
-        "Sky Sport 1 UHD - LIVE: World Grand Prix Darts: D1 - 18:00 28/09/2026",
         "Sky Sport 3 - LIVE: WNCL: NSW v Queensland - 00:25 29/09/2026",
         "Sky Sport 4 - LIVE: WNCL: Victoria v S Australia - 04:55 29/09/2026",
         "Sky Sport 5 - LIVE: WNCL: W Australia v Tasmania - 06:55 29/09/2026",
@@ -767,7 +803,29 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Sportsnet 05 : The FAN Hockey Show: Sep. 28 - Mon 28/09 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Sep. 28 - Mon 28/09 7:00pm",
+        "Sportsnet 02 : Blair & Barker: Sep. 28 - Mon 28/09 8:00pm",
+        "Sportsnet 03 : Real Kyper & Bourne: Sep. 28 - Mon 28/09 9:00pm",
+        "Sportsnet 01 : The FAN Pregame: Sep. 28 - Mon 28/09 11:00pm",
+        "Sportsnet 02 : World's Strongest Man - Tue 29/09 12:00am",
+        "Sportsnet 04 : Stanley Cup Champions - 2026 Carolina Hurricanes - Tue 29/09 1:00am",
+        "Sportsnet 01 : Sportsnet Central: Sep. 28 - Tue 29/09 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 29 - Tue 29/09 2:00pm",
+        "Sportsnet 02 : The FAN Hockey Show: Sep. 29 - Tue 29/09 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Sep. 29 - Tue 29/09 7:00pm",
+        "Sportsnet 07 : NL Wildcard - Philadelphia @ Atlanta - Game 1 - Tue 29/09 7:00pm",
+        "Sportsnet 03 : Blair & Barker: Sep. 29 - Tue 29/09 8:00pm",
+        "Sportsnet 04 : Real Kyper & Bourne: Sep. 29 - Tue 29/09 9:00pm",
+        "Sportsnet 08 : AL Wildcard - Chicago White Sox @ Houston - Game 1 - Tue 29/09 10:00pm",
+        "Sportsnet 02 : Florida @ Carolina - Tue 29/09 10:00pm",
+        "Sportsnet 01 : The FAN Pregame: Sep. 29 - Tue 29/09 11:00pm",
+        "Sportsnet 03 : Dana White's Contender Series - Episode 8 - Wed 30/09 12:00am",
+        "Sportsnet 05 : Montreal @ Toronto - Wed 30/09 12:00am",
+        "Sportsnet 09 : AL Wildcard - Boston @ New York Yankees - Game 1 - Wed 30/09 1:00am",
+        "Sportsnet 06 : New York Rangers @ Boston - Wed 30/09 1:00am"
+      ],
       "sections": [],
       "events": []
     },
@@ -857,8 +915,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Chengdu - Semifinals - Mon 28/09 10:00am",
-        "TSN 02 : ATP 250 Tennis: Hangzhou - Semifinals - Mon 28/09 10:30am",
         "TSN 04 : Pat McAfee Show - Mon 28/09 5:00pm",
         "TSN 03 : Rich Eisen Show - Mon 28/09 5:00pm"
       ],
