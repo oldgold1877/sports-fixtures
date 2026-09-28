@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27T19:58:21.673168+00:00",
+  "scraped_at": "2026-09-28T07:15:29.161691+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -54,7 +54,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 27-Sep 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Sporting Gijon [SG]",
         "EVENT 01 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Equatorial Guinea vs Sierra Leone[Live] [HK]",
         "EVENT 02 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E24 -Zimbabwe vs DR Congo[Live] [HK]",
         "EVENT 03 - 28-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E25 -Central African Republic vs Burkina Faso[Live] [HK]",
@@ -88,615 +87,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "OAKLAND ROOTS - PHOENIX RISING",
-          "datetime": "2026-09-27 03:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:30",
-          "name": "NEVADA - AIR FORCE",
-          "datetime": "2026-09-27 03:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:30",
-          "name": "STANFORD - GEORGIA TECH",
-          "datetime": "2026-09-27 03:30:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "04:00",
-          "name": "WASHINGTON - MINNESOTA",
-          "datetime": "2026-09-27 04:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "14:00",
-          "name": "LITHUANIA - AZERBAIJAN",
-          "datetime": "2026-09-27 14:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "SERBIA - NETHERLANDS",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "SPAIN U20 - KOREA DPR U20",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "TENNESSEE - VANDERBILT",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "BUFFALO BILLS - LOS ANGELES CHARGERS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "CLEVELAND BROWNS - CAROLINA PANTHERS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "DETROIT LIONS - NEW YORK JETS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "INDIANAPOLIS COLTS - HOUSTON TEXANS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "JACKSONVILLE JAGUARS - NEW ENGLAND PATRIOTS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "MIAMI DOLPHINS - KANSAS CITY CHIEFS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "PITTSBURGH STEELERS - CINCINNATI BENGALS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "WASHINGTON COMMANDERS - SEATTLE SEAHAWKS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:00",
-          "name": "TEXAS TECH - COLORADO",
-          "datetime": "2026-09-27 19:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "GERMANY - GREECE",
-          "datetime": "2026-09-27 19:45:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:05",
-          "name": "SAN FRANCISCO 49ERS - ARIZONA CARDINALS",
-          "datetime": "2026-09-27 21:05:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:05",
-          "name": "TAMPA BAY BUCCANEERS - MINNESOTA VIKINGS",
-          "datetime": "2026-09-27 21:05:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:25",
-          "name": "DALLAS COWBOYS - BALTIMORE RAVENS",
-          "datetime": "2026-09-27 21:25:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:25",
-          "name": "NEW ORLEANS SAINTS - LAS VEGAS RAIDERS",
-          "datetime": "2026-09-27 21:25:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "22:00",
-          "name": "BAY - ORLANDO PRIDE",
-          "datetime": "2026-09-27 22:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "HAITI - COSTA RICA",
-          "datetime": "2026-09-28 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "18:05",
-          "name": "WASHINGTON NATIONALS - NEW YORK METS",
-          "datetime": "2026-09-27 18:05:00",
-          "channels": [
-            {
-              "name": "SNY",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "MASN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "YES",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "20:05",
-          "name": "BOSTON RED SOX - CHICAGO CUBS",
-          "datetime": "2026-09-27 20:05:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "20:05",
-          "name": "SAN FRANCISCO GIANTS - LOS ANGELES DODGERS",
-          "datetime": "2026-09-27 20:05:00",
-          "channels": [
-            {
-              "name": "SPORTSNET LA",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "17:00",
-          "name": "RATIOPHARM ULM - WüRZBURG",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "19:00",
-          "name": "MINNESOTA LYNX - NEW YORK LIBERTY",
-          "datetime": "2026-09-27 19:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "21:00",
-          "name": "LAS VEGAS ACES - INDIANA FEVER",
-          "datetime": "2026-09-27 21:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "18:00",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "21:30",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-09-27 21:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "17:00",
-          "name": "PRESIDENTS CUP",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "20:00",
-          "name": "PRESIDENTS CUP",
-          "datetime": "2026-09-27 20:00:00",
-          "channels": [
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "20:00",
-          "name": "HOLLYWOOD CASINO 400",
-          "datetime": "2026-09-27 20:00:00",
-          "channels": [
-            {
-              "name": "USA NETWORK",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "20:00",
-          "name": "NATIONALS AT THE ROCK",
-          "datetime": "2026-09-27 20:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "RUGBY LEAGUE",
-          "time": "04:05",
-          "name": "GOLD COAST TITANS W - BRISBANE BRONCOS W",
-          "datetime": "2026-09-27 04:05:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "RUGBY LEAGUE",
-          "time": "07:00",
-          "name": "PENRITH PANTHERS - NEWCASTLE KNIGHTS",
-          "datetime": "2026-09-27 07:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "06:30",
-          "name": "HANGZHOU OPEN",
-          "datetime": "2026-09-27 06:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "10:30",
-          "name": "HANGZHOU OPEN",
-          "datetime": "2026-09-27 10:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:00",
-          "name": "CHENGDU OPEN",
-          "datetime": "2026-09-27 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:00",
-          "name": "LAVER CUP",
-          "datetime": "2026-09-27 12:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:30",
-          "name": "HANGZHOU OPEN",
-          "datetime": "2026-09-27 12:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "17:00",
-          "name": "MICHIGAN - WASHINGTON",
-          "datetime": "2026-09-27 17:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "18:00",
-          "name": "KENTUCKY - TEXAS",
-          "datetime": "2026-09-27 18:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "19:00",
-          "name": "MICHIGAN STATE - PENN STATE",
-          "datetime": "2026-09-27 19:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "21:00",
-          "name": "PURDUE - WISCONSIN",
-          "datetime": "2026-09-27 21:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -804,6 +194,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "12:00",
+          "name": "HUBERT HURKACZ - DENIS SHAPOVALOV",
+          "datetime": "2026-09-28 12:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "12:30",
           "name": "HANGZHOU OPEN",
           "datetime": "2026-09-28 12:30:00",
@@ -829,18 +231,189 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "JAMAICA - HONDURAS",
+          "datetime": "2026-09-29 01:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:15",
+          "name": "CHICAGO BEARS - PHILADELPHIA EAGLES",
+          "datetime": "2026-09-29 01:15:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "03:00",
+          "name": "GUATEMALA - EL SALVADOR",
+          "datetime": "2026-09-29 03:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "FINLAND - BELARUS",
+          "datetime": "2026-09-29 17:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "19:45",
+          "name": "SLOVENIA - NORTH MACEDONIA",
+          "datetime": "2026-09-29 19:45:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "19:45",
+          "name": "SPAIN - CROATIA",
+          "datetime": "2026-09-29 19:45:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "22:00",
+          "name": "FRENCH GUYANA - SINT MAARTEN",
+          "datetime": "2026-09-29 22:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "ANGUILLA - ARUBA",
+          "datetime": "2026-09-30 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "19:00",
+          "name": "ATLANTA BRAVES - PHILADELPHIA PHILLIES",
+          "datetime": "2026-09-29 19:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "22:00",
+          "name": "NB3 COLLEGIATE MATCH PLAY",
+          "datetime": "2026-09-29 22:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "22:00",
+          "name": "CAROLINA HURRICANES - FLORIDA PANTHERS",
+          "datetime": "2026-09-29 22:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "14:30",
+          "name": "HANGZHOU OPEN",
+          "datetime": "2026-09-29 14:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "00:00",
+          "name": "SIENA - MARIST",
+          "datetime": "2026-09-30 00:00:00",
+          "channels": []
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports UHD 2 - Live: One-Day International Cricket - 3rd ODI: England v Sri Lanka - Sun 27/09 10:00am",
-        "Sky Sports F1 UHD - Live: British GT Championship Motor Racing - Brands Hatch: Race - Sun 27/09 1:10pm",
-        "Sky Sports UHD 1 - Live: WSL - Liverpool v Everton - Sun 27/09 1:30pm",
-        "TNT Ultimate UHD - Live: PREM Rugby - Leicester Tigers v Saracens - Sun 27/09 2:30pm",
-        "TNT Ultimate UHD - Live: The 745 Game - Sun 27/09 5:30pm",
-        "Sky Sports Main Event UHD - Live: NFL Football - Los Angeles Chargers at Buffalo Bills - Sun 27/09 6:30pm",
         "Sky Sports Main Event UHD - Football Night in America - Episode 6 - Mon 28/09 12:30am",
+        "Sky Sports Main Event UHD - Live: NFL Football - Los Angeles Rams at Denver Broncos - Mon 28/09 1:10am",
         "Sky Sports F1 UHD - Formula 1 - Azerbaijan Grand Prix: Grand Prix Saturday - Mon 28/09 6:00am",
         "Sky Sports Main Event UHD - The Premier League Show - Episode 120 - Mon 28/09 5:00pm",
         "Sky Sports UHD 1 - Live: World Grand Prix Darts - Day 1 - Mon 28/09 6:00pm",
@@ -856,12 +429,11 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Men Arrested in Major Incident Near RAF Fairford - 27/09/2026 10:48 - 10:47",
-        "BBC Events 02 - Major League Baseball: Arizona Diamondbacks @ San Diego Padres - 27/09/2026 19:40 - 23:00",
-        "BBC Events 04 - no_brand_title: Controversial Orange Order March To Go Ahead - 27/09/2026 08:12 - 08:04",
+        "BBC Events 03 - no_brand_title: BBC Weather Live - 28/09/2026 05:50 - 15:59",
         "BBC Events 05 - no_brand_title: Major Incident Near RAF Fairford - 27/09/2026 09:26 - 09:10",
-        "BBC Events 06 - Cycling: World Road Championships: Men’s Road Race - 27/09/2026 13:36 - 21:00",
         "BBC Events 07 - no_brand_title: Major Incident Near RAF Fairford - 27/09/2026 10:09 - 09:33",
-        "BBC Events 09 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 27/09/2026 17:55 - 21:15"
+        "BBC Events 08 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 28/09/2026 06:50 - 10:00",
+        "BBC Events 09 - no_brand_title: Farmer Believes Tip-Off 'Foiled' RAF Fairford Incident - 28/09/2026 07:07 - 06:54"
       ],
       "sections": [],
       "events": []
@@ -899,11 +471,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Euro Basketball League 01 : Sydney Kings vs Illawarra Hawks - Sun 27/09 09:00am",
-        "Euro Basketball League 02 : Armani Olimpia Milano vs Pallacanestro Trieste - Sun 27/09 03:00pm",
-        "Euro Basketball League 03 : Nancy vs Paris Basketball - Sun 27/09 03:30pm",
-        "Euro Basketball League 04 : Maxima Roma vs Napoli Basketball - Sun 27/09 05:15pm",
-        "Euro Basketball League 05 : Cholet vs Lyon-Villeurbanne - Sun 27/09 06:00pm",
         "Euro Basketball League 01 : Dubai Basketball vs FC Barcelona - Tue 29/09 05:00pm",
         "Euro Basketball League 02 : Neptunas Klaipeda vs Dolomiti Energia Trento - Tue 29/09 05:00pm",
         "Euro Basketball League 03 : Anadolu Efes Istanbul vs Real Madrid - Tue 29/09 06:00pm",
@@ -923,7 +490,12 @@
         "Euro Basketball League 04 : Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo - Wed 30/09 05:30pm",
         "Euro Basketball League 05 : PAOK Thessaloniki  vs Kids&Us Manresa  - Wed 30/09 05:30pm",
         "Euro Basketball League 06 : Slask Wroclaw vs Buducnost VOLI Podgorica - Wed 30/09 06:00pm",
-        "Euro Basketball League 07 : ratiopharm ulm vs Balkan Botevgrad - Wed 30/09 06:00pm"
+        "Euro Basketball League 07 : ratiopharm ulm vs Balkan Botevgrad - Wed 30/09 06:00pm",
+        "Euro Basketball League 08 : Napoli Basketball vs Cosea JL Bourg-en-Bresse - Wed 30/09 07:00pm",
+        "Euro Basketball League 09 : Maccabi Rapyd Tel Aviv vs Besiktas Istanbul - Wed 30/09 07:05pm",
+        "Euro Basketball League 10 : Panathinaikos AKTOR Athens vs LDLC ASVEL Villeurbanne - Wed 30/09 07:15pm",
+        "Euro Basketball League 11 : Recoletas Salud San Pablo Burgos  vs Cedevita Olimpija Ljubljana - Wed 30/09 07:30pm",
+        "Euro Basketball League 12 : La Laguna Tenerife vs Turk Telekom Ankara - Wed 30/09 08:00pm"
       ],
       "sections": [],
       "events": []
@@ -962,7 +534,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "LOI 1 : Athlone Town v Shelbourne (Club Orange Women's FAI Cup ) - Sun 27/09 3:15pm",
         "LOI 1 : Ireland U21 v Kazakhstan U21 (UEFA European Championship Qualifier) - Tue 29/09 6:45pm"
       ],
       "sections": [],
@@ -974,44 +545,22 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "MLB 01 : Mets at Nationals (Home coverage from NATS) - Sun 27/09 06:05pm",
-        "MLB 01 : Mets at Nationals (Away coverage from SNY) - Sun 27/09 06:05pm",
-        "MLB 02 : Orioles at Yankees (Home coverage from YES) - Sun 27/09 06:05pm",
-        "MLB 02 : Orioles at Yankees (Away coverage from MASN) - Sun 27/09 06:05pm",
-        "MLB 03 : Astros at Athletics (Home coverage from NBCSCA) - Sun 27/09 08:05pm",
-        "MLB 03 : Astros at Athletics (Away coverage from SCHN) - Sun 27/09 08:05pm",
-        "MLB 04 : Cubs at Red Sox (Home coverage from NESN) - Sun 27/09 08:05pm",
-        "MLB 04 : Cubs at Red Sox (Away coverage from MARQ) - Sun 27/09 08:05pm",
-        "MLB 05 : Dodgers at Giants (Home coverage from NBCSBA) - Sun 27/09 08:05pm",
-        "MLB 05 : Dodgers at Giants (Away coverage from SNLA) - Sun 27/09 08:05pm",
-        "MLB 06 : Rays at Phillies (Home coverage from NBCSP) - Sun 27/09 08:05pm",
-        "MLB 06 : Rays at Phillies (Away coverage from RAYS) - Sun 27/09 08:05pm",
-        "MLB 07 : Reds at Blue Jays (Home coverage from Sportsnet) - Sun 27/09 08:07pm",
-        "MLB 07 : Reds at Blue Jays (Away coverage from CINR) - Sun 27/09 08:07pm",
-        "MLB 08 : Angels at Mariners (Home coverage from SEAM) - Sun 27/09 08:10pm",
-        "MLB 08 : Angels at Mariners (Away coverage from ABTV) - Sun 27/09 08:10pm",
-        "MLB 09 : Braves at Marlins (Home coverage from MIAM) - Sun 27/09 08:10pm",
-        "MLB 09 : Braves at Marlins (Away coverage from BravesVsn) - Sun 27/09 08:10pm",
-        "MLB 10 : Cardinals at Brewers (Home coverage from BREW) - Sun 27/09 08:10pm",
-        "MLB 10 : Cardinals at Brewers (Away coverage from CARD) - Sun 27/09 08:10pm",
-        "MLB 11 : D-backs at Padres (Home coverage from SDPA) - Sun 27/09 08:10pm",
-        "MLB 11 : D-backs at Padres (Away coverage from ARID) - Sun 27/09 08:10pm",
-        "MLB 12 : Guardians at Royals (Home coverage from ROYL) - Sun 27/09 08:10pm",
-        "MLB 12 : Guardians at Royals (Away coverage from CLEG) - Sun 27/09 08:10pm",
-        "MLB 13 : Pirates at Tigers (Home coverage from DSN) - Sun 27/09 08:10pm",
-        "MLB 13 : Pirates at Tigers (Away coverage from SNP) - Sun 27/09 08:10pm",
-        "MLB 14 : Rangers at Twins (Home coverage from MNNT) - Sun 27/09 08:10pm",
-        "MLB 14 : Rangers at Twins (Away coverage from RSN) - Sun 27/09 08:10pm",
-        "MLB 15 : Rockies at White Sox (Home coverage from CHSN) - Sun 27/09 08:10pm",
-        "MLB 15 : Rockies at White Sox (Away coverage from COLR) - Sun 27/09 08:10pm",
-        "MLB 01 : NL Wild Card #03 at Braves (Home coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 01 : NL Wild Card #03 at Braves (Away coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 02 : Red Sox at Yankees (Home coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 02 : Red Sox at Yankees (Away coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 03 : White Sox at HOU/TEX (Home coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 03 : White Sox at HOU/TEX (Away coverage from NBC) - Tue 29/09 08:33am",
-        "MLB 04 : Cubs at Padres (Home coverage from NBC) - Tue 29/09 11:33am",
-        "MLB 04 : Cubs at Padres (Away coverage from NBC) - Tue 29/09 11:33am"
+        "MLB 01 : Phillies at Braves (Home coverage from NBC) - Tue 29/09 07:00pm",
+        "MLB 01 : Phillies at Braves (Away coverage from NBC) - Tue 29/09 07:00pm",
+        "MLB 02 : White Sox at Astros (Home coverage from Peacock) - Tue 29/09 10:00pm",
+        "MLB 02 : White Sox at Astros (Away coverage from Peacock) - Tue 29/09 10:00pm",
+        "MLB 03 : Red Sox at Yankees (Home coverage from NBC) - Wed 30/09 01:00am",
+        "MLB 03 : Red Sox at Yankees (Away coverage from NBC) - Wed 30/09 01:00am",
+        "MLB 04 : Cubs at Padres (Home coverage from Peacock) - Wed 30/09 03:00am",
+        "MLB 04 : Cubs at Padres (Away coverage from Peacock) - Wed 30/09 03:00am",
+        "MLB 01 : Phillies at Braves (Home coverage from NBC) - Wed 30/09 07:00pm",
+        "MLB 01 : Phillies at Braves (Away coverage from NBC) - Wed 30/09 07:00pm",
+        "MLB 02 : White Sox at Astros (Home coverage from Peacock) - Wed 30/09 10:00pm",
+        "MLB 02 : White Sox at Astros (Away coverage from Peacock) - Wed 30/09 10:00pm",
+        "MLB 03 : Red Sox at Yankees (Home coverage from NBC) - Thu 01/10 01:00am",
+        "MLB 03 : Red Sox at Yankees (Away coverage from NBC) - Thu 01/10 01:00am",
+        "MLB 04 : Cubs at Padres (Home coverage from Peacock) - Thu 01/10 03:00am",
+        "MLB 04 : Cubs at Padres (Away coverage from Peacock) - Thu 01/10 03:00am"
       ],
       "sections": [],
       "events": []
@@ -1021,9 +570,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "MLS 01 : Columbus vs. Miami (MLS) - Sun 27/09 11:25pm"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1088,7 +635,9 @@
         "PDC Darts 1 : 2026 World Grand Prix | Day 3 - Leicester - Grand Prix Main Feed (English) - Wed 30/09 7:00pm",
         "PDC Darts 2 : 2026 World Grand Prix | Day 3 - Leicester - Grand Prix Main Feed (Italian) - Wed 30/09 7:00pm",
         "PDC Darts 1 : 2026 World Grand Prix | Day 4 - Leicester - Grand Prix Main Feed (English) - Thu 01/10 7:00pm",
-        "PDC Darts 2 : 2026 World Grand Prix | Day 4 - Leicester - Grand Prix Main Feed (Italian) - Thu 01/10 7:00pm"
+        "PDC Darts 2 : 2026 World Grand Prix | Day 4 - Leicester - Grand Prix Main Feed (Italian) - Thu 01/10 7:00pm",
+        "PDC Darts 1 : 2026 World Grand Prix | Day 5 - Leicester - Grand Prix Main Feed (English) - Fri 02/10 7:00pm",
+        "PDC Darts 2 : 2026 World Grand Prix | Day 5 - Leicester - Grand Prix Main Feed (Italian) - Fri 02/10 7:00pm"
       ],
       "sections": [],
       "events": []
@@ -1099,7 +648,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 15:30 - Barclays Women's Super League: Chelsea vs. Arsenal"
+        "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: BK Häcken vs. Juventus",
+        "Paramount+ Event 02 - 17:00 - Uefa Womens Champions League: Roma vs. Barcelona",
+        "Paramount+ Event 03 - 17:00 - Uefa Womens Champions League: Paris FC vs. Arsenal",
+        "Paramount+ Event 04 - 18:30 - Uefa Womens Champions League: Lyonnes vs. Chelsea",
+        "Paramount+ Event 05 - 18:30 - Uefa Womens Champions League: Benfica vs. Bayern"
       ],
       "sections": [],
       "events": []
@@ -1110,15 +663,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : Acrobatic World Champs: Day 3 (Gymnastics) - Sun 27/09 10:00am",
-        "Peacock 1 : Acrobatic Champs: Finals Day 2 (Gymnastics) - Sun 27/09 2:00pm",
-        "Peacock 2 : Presidents Cup: Day 4 (Golf) - Sun 27/09 5:00pm",
-        "Peacock 1 : MLB Sunday Stretch: 9.27.26 (MLB) - Sun 27/09 8:00pm",
-        "Peacock 3 : Away Feed: AZ at SD (MLB) - Sun 27/09 8:00pm",
-        "Peacock 4 : Astros at Athletics (MLB) - Sun 27/09 8:00pm",
-        "Peacock 5 : Home Feed: AZ at SD (MLB) - Sun 27/09 8:00pm",
-        "Peacock 1 : Rams vs. Broncos (NFL) - Mon 28/09 12:00am",
-        "Peacock 1 : Sunday Night Football Final (NFL) - Mon 28/09 4:30am"
+        "Peacock 1 : Game 1: Phillies at Braves (MLB) - Tue 29/09 6:30pm",
+        "Peacock 1 : Game 1: White Sox at Astros (MLB) - Tue 29/09 10:00pm",
+        "Peacock 1 : Game 1: Red Sox at Yankees (MLB) - Wed 30/09 1:00am",
+        "Peacock 2 : Game 1: Cubs at Padres (MLB) - Wed 30/09 3:00am",
+        "Peacock 1 : Game 2: Phillies at Braves (MLB) - Wed 30/09 6:30pm",
+        "Peacock 1 : Game 2: White Sox at Astros (MLB) - Wed 30/09 10:00pm",
+        "Peacock 1 : Game 2: Red Sox at Yankees (MLB) - Thu 01/10 1:00am",
+        "Peacock 2 : Game 2: Cubs at Padres (MLB) - Thu 01/10 3:00am",
+        "Peacock 1 : Big East Men's Media Day (Basketball) - Thu 01/10 2:00pm",
+        "Peacock 2 : Swimming WC: Baku Day 1 (Artistic Swimming) - Thu 01/10 4:00pm",
+        "Peacock 1 : IMSA VPRC Road Atlanta | R1 (Motor Sports) - Thu 01/10 6:05pm",
+        "Peacock 2 : Big East Women's Media Day (Basketball) - Thu 01/10 6:30pm",
+        "Peacock 1 : IMSA Carrera Cup Road Atlanta 1 (Motor Sports) - Thu 01/10 10:20pm"
       ],
       "sections": [],
       "events": []
@@ -1128,10 +685,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "FLORUGBY 00 - 27/09/2026 - 15:00 - 2026 Leicester Tigers vs Saracens F.C.",
-        "FLORUGBY 00 - 27/09/2026 - 20:05 - 2026 Toulouse vs Montpellier"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1188,6 +742,8 @@
         "Sky Sport 1 UHD - LIVE: NPC: Manawatu v Canterbury - 02:00 03/10/2026",
         "Sky Sport 3 - LIVE: FPC: Premiership SF1 - 02:30 03/10/2026",
         "Sky Sport 4 - LIVE: FPC: Premiership SF2 - 02:30 03/10/2026",
+        "Sky Sport 1 - LIVE: NPC: C. Manukau v Hawke's Bay (RS) - 05:00 03/10/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: C. Manukau v Hawke's Bay (RS) - 05:00 03/10/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Bahrain GP P3 - 05:15 03/10/2026",
         "Sky Sport 1 - LIVE: NPC: Waikato v Tasman - 07:00 03/10/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Waikato v Tasman - 07:00 03/10/2026",
@@ -1199,7 +755,22 @@
         "Sky Sport 1 UHD - LIVE: India v West Indies: 3rd ODI - 09:20 03/10/2026",
         "Sky Sport 5 - LIVE: AFLW: Port Adelaide v Crows - 10:00 03/10/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 3 - 12:00 03/10/2026",
-        "Sky Sport 2 - LIVE: PREM: Bears v Saints - 15:00 03/10/2026"
+        "Sky Sport 2 - LIVE: PREM: Bears v Saints - 15:00 03/10/2026",
+        "Sky Sport 4 - LIVE: PGA Champions Tour: R2 - 17:00 03/10/2026",
+        "Sky Sport 1 - LIVE: PREM: Gloucester v Harlequins - 17:30 03/10/2026",
+        "Sky Sport 1 UHD - LIVE: PREM: Gloucester v Harlequins - 17:30 03/10/2026",
+        "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 3 - 19:00 03/10/2026",
+        "Sky Sport 1 - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
+        "Sky Sport 1 UHD - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
+        "Sky Sport 2 - LIVE: World Grand Prix Darts: D6 - 20:00 03/10/2026",
+        "Sky Sport 1 - LIVE: PGA Tour: Round 3 - 22:00 03/10/2026",
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 3 - 22:00 03/10/2026",
+        "Sky Sport 2 - LIVE: NPC: Taranaki v Wellington - 02:00 04/10/2026",
+        "Sky Sport 4 - LIVE: Rapid League: Kahu v Hoiho - 02:00 04/10/2026",
+        "Sky Sport 4 - LIVE: Tauihi: Kahu v Hoiho - 03:00 04/10/2026",
+        "Sky Sport 2 - LIVE: NPC: Bay of Plenty v North Harbour - 04:30 04/10/2026",
+        "Sky Sport 4 - LIVE: Rapid League: Queens v Pouakai - 05:00 04/10/2026",
+        "Sky Sport 5 - LIVE: AFLW: Collingwood v Melbourne - 05:00 04/10/2026"
       ],
       "sections": [],
       "events": []
@@ -1211,7 +782,9 @@
       "status": "ok",
       "fixtures": [
         "Burton vs Huddersfield",
+        "Aston Villa vs Crystal Palace",
         "Leyton Orient vs Plymouth",
+        "Everton vs Birmingham",
         "Reading vs Bradford",
         "Accrington vs Cheltenham",
         "Crewe vs Bristol Rovers",
@@ -1231,10 +804,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Cincinnati @ Toronto - Sun 27/09 7:30pm",
-        "Sportsnet 03 : Colorado @ Chicago White Sox - Sun 27/09 8:00pm",
-        "Sportsnet 04 : Houston @ Athletics - Sun 27/09 8:00pm",
-        "Sportsnet 02 : Texas @ Minnesota - Sun 27/09 8:00pm",
         "Sportsnet 01 : Sportsnet Central: Sep. 27 - Mon 28/09 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Sep. 28 - Mon 28/09 2:00pm",
         "Sportsnet 03 : Gotta See It - Mon 28/09 3:00pm",
@@ -1245,17 +814,21 @@
         "Sportsnet 02 : Blair & Barker: Sep. 28 - Mon 28/09 8:00pm",
         "Sportsnet 03 : Real Kyper & Bourne: Sep. 28 - Mon 28/09 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Sep. 28 - Mon 28/09 11:00pm",
+        "Sportsnet 02 : World's Strongest Man - Tue 29/09 12:00am",
+        "Sportsnet 04 : Stanley Cup Champions - 2026 Carolina Hurricanes - Tue 29/09 1:00am",
         "Sportsnet 01 : Sportsnet Central: Sep. 28 - Tue 29/09 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Sep. 29 - Tue 29/09 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Sep. 29 - Tue 29/09 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Sep. 28 - Tue 29/09 7:00pm",
+        "Sportsnet 07 : NL Wildcard - Philadelphia @ Atlanta - Game 1 - Tue 29/09 7:00pm",
         "Sportsnet 03 : Blair & Barker: Sep. 29 - Tue 29/09 8:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Sep. 29 - Tue 29/09 9:00pm",
+        "Sportsnet 08 : AL Wildcard - Chicago White Sox @ Houston - Game 1 - Tue 29/09 10:00pm",
         "Sportsnet 02 : Florida @ Carolina - Tue 29/09 10:00pm",
         "Sportsnet 01 : The FAN Pregame: Sep. 29 - Tue 29/09 11:00pm",
         "Sportsnet 03 : Dana White's Contender Series - Episode 8 - Wed 30/09 12:00am",
         "Sportsnet 05 : Montreal @ Toronto - Wed 30/09 12:00am",
-        "Sportsnet 06 : New York Rangers @ Boston - Wed 30/09 1:00am"
+        "Sportsnet 09 : AL Wildcard - Boston @ New York Yankees - Game 1 - Wed 30/09 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1266,10 +839,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Downhill: Whistler - UCI Mountain Bike World Series 2026 - Sun 27/09 8:45pm",
-        "Stan 02 : Utah Royals v North Carolina Courage - NWSL 2026 - Mon 28/09 12:00am",
-        "Stan 01 : AUS U18s v New Zealand Barbarians U18 - Australian Schoolboys/U18s 2026 - Wed 30/09 1:55am",
-        "Stan 02 : New Zealand Schools v AUS School Boys XV- Australian Schoolboys/U18s 2026 - Wed 30/09 3:25am",
+        "Stan 01 : AUS U18s v New Zealand Barbarians U18 - Australian Schoolboys/U18s 2026 - Wed 30/09 2:25am",
+        "Stan 02 : New Zealand Schools v AUS School Boys XV- Australian Schoolboys/U18s 2026 - Wed 30/09 4:25am",
         "Stan 01 : Otago v Auckland - NPC Round 10 2026 - Thu 01/10 7:00am",
         "Stan 01 : Live Stage 1 - WRC Italy 2026 - Thu 01/10 3:00pm",
         "Stan 01 : Beijing: Day 3 - WTA 1000 - Fri 02/10 4:00am",
@@ -1282,6 +853,7 @@
         "Stan 04 : Counties Manukau v Hawke's Bay - NPC Round 10 2026 - Sat 03/10 5:00am",
         "Stan 05 : Live Stage 2 - WRC Italy 2026 - Sat 03/10 7:00am",
         "Stan 06 : Waikato v Tasman - NPC Round 10 2026 - Sat 03/10 7:00am",
+        "Stan 07 : Force v Waratahs - Super Rugby AUS Grand Final 2026 - Sat 03/10 7:25am",
         "Stan 01 : Manchester United v Liverpool - WSL 2026/27 - Sat 03/10 1:20pm",
         "Stan 02 : Live Stage 3 - WRC Italy 2026 - Sat 03/10 1:30pm",
         "Stan 06 : Bristol v Northampton - PREM Rugby Round 2 2026/27 - Sat 03/10 3:00pm",
@@ -1294,7 +866,7 @@
         "Stan 04 : Taranaki v Wellington - NPC Round 10 2026 - Sun 04/10 2:00am",
         "Stan 05 : AUS U18s v New Zealand Schools - Australian Schoolboys/U18s 2026 - Sun 04/10 3:25am",
         "Stan 06 : Beijing: Day 5 - WTA 1000 - Sun 04/10 4:00am",
-        "Stan 07 : Bay Of Plenty v North Harbour - NPC Round 10 2026 - Sun 04/10 5:00am",
+        "Stan 07 : Bay Of Plenty v North Harbour - NPC Round 10 2026 - Sun 04/10 4:30am",
         "Stan 01 : Live Stage 4 - WRC Italy 2026 - Sun 04/10 9:00am",
         "Stan 02 : Spain v South Africa - WXV 2026 - Sun 04/10 10:50am",
         "Stan 03 : Race 1 (MXGP & MX2) - France Motocross of Nations 2026 - Sun 04/10 12:00pm",
@@ -1324,7 +896,10 @@
         "Stan 03 : Seoul v Jeju - K League 2026 - Sat 10/10 5:55am",
         "Stan 05 : New Zealand v Australia - Bledisloe Cup Game 1 2026 - Sat 10/10 6:00am",
         "Stan 04 : New Zealand v Australia: SKY NZ Coverage - Bledisloe Cup Game 1 2026 - Sat 10/10 6:00am",
-        "Stan 06 : Beijing: Day 11 - WTA 1000 - Sat 10/10 8:00am"
+        "Stan 06 : Beijing: Day 11 - WTA 1000 - Sat 10/10 8:00am",
+        "Stan 01 : Arsenal v Leeds United - Premier League Matchweek 6 2026/2027 - Sat 10/10 11:30am",
+        "Stan 07 : 4K • Arsenal v Leeds United - Premier League Matchweek 6 2026/2027 - Sat 10/10 12:20pm",
+        "Stan 02 : Chelsea v Bournemouth - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm"
       ],
       "sections": [],
       "events": []
@@ -1344,12 +919,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 06 : NFL RedZone - Sun 27/09 6:00pm",
-        "TSN 05 : NFL on TSN: Chiefs vs. Dolphins - Sun 27/09 6:00pm",
-        "TSN 02 : NASCAR Cup Series On-Board Camera: Hollywood Casino 400 - Bubba Wallace - Sun 27/09 8:00pm",
-        "TSN 03 : NASCAR Cup Series On-Board Camera: Hollywood Casino 400 - Denny Hamlin - Sun 27/09 8:00pm",
-        "TSN 07 : UCI Mountain Bike World Cup: Whistler, BC - Sun 27/09 8:45pm",
-        "TSN 01 : NSL on TSN: Calgary vs. Vancouver - Sun 27/09 9:00pm"
+        "TSN 01 : ATP 250 Tennis: Chengdu - Semifinals - Mon 28/09 10:00am",
+        "TSN 02 : ATP 250 Tennis: Hangzhou - Semifinals - Mon 28/09 10:30am",
+        "TSN 04 : Pat McAfee Show - Mon 28/09 5:00pm",
+        "TSN 03 : Rich Eisen Show - Mon 28/09 5:00pm"
       ],
       "sections": [],
       "events": []
@@ -1359,11 +932,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "559 FIGHTS: 127 - Mon 28/09 2:00am",
-        "DANA WHITE'S CONTENDER SERIES: SEASON 10, WEEK 8 - Wed 30/09 12:00am",
-        "DWCS S10 | W8: POST-FIGHT PRESS CONFERENCE - Wed 30/09 2:30am"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     }
