@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T13:39:33.123464+00:00",
+  "scraped_at": "2026-09-29T16:46:59.715472+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,29 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Czechia vs England 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Scotland vs Switzerland 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Slovenia vs North Macedonia 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Spain vs Croatia 12:45am"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,12 +38,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Lesotho vs Morocco[Live] [HK]",
-        "EVENT 02 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E27 -South Sudan vs Egypt[Live] [HK]",
-        "EVENT 03 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E30 -Ethiopia vs Senegal[Live] [HK]",
-        "EVENT 04 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ethiopia vs Senegal [SG]",
-        "EVENT 05 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Lesotho vs Morocco [SG]",
-        "EVENT 06 - 29-Sep 01:45PM-04:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Sudan vs Egypt [SG]",
         "EVENT 01 - 29-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Guinea-Bissau vs Nigeria[Live] [HK]",
         "EVENT 02 - 29-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E32 -Ghana vs Gambia[Live] [HK]",
         "EVENT 03 - 29-Sep 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E36 -Cape Verde vs Rwanda[Live] [HK]",
@@ -41,7 +57,13 @@
         "EVENT 06 - 30-Sep 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Roma vs Barcelona - MD2 [SG]",
         "EVENT 01 - 30-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E13 -OL Lyonnes vs Chelsea - MD2[Live] [HK]",
         "EVENT 09 - 30-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Benfica vs Bayern - MD2 [SG]",
-        "EVENT 10 - 30-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: OL Lyonnes vs Chelsea - MD2 [SG]"
+        "EVENT 10 - 30-Sep 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: OL Lyonnes vs Chelsea - MD2 [SG]",
+        "EVENT 01 - 01-Oct 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Guinea vs Kenya[Live] [HK]",
+        "EVENT 02 - 01-Oct 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E45 -Guinea vs Kenya[Live] [HK]",
+        "EVENT 04 - 01-Oct 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Guinea vs Kenya [SG]",
+        "EVENT 03 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E15 -Austria Wien vs Inter - MD2[Live] [HK]",
+        "EVENT 05 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Austria Wien vs Inter - MD2 [SG]",
+        "EVENT 06 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: HB Koge vs Servette - MD2 [SG]"
       ],
       "sections": [],
       "events": []
@@ -431,10 +453,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Your Calls on The Triple Lock Pension Pledge - 29/09/2026 08:47 - 08:21",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 29/09/2026 06:00 - 05:57",
-        "BBC Events 04 - no_brand_title: Lindsay Clancy: First Hearing Following Mistrial - 29/09/2026 14:00 - 15:30",
         "BBC Events 05 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 29/09/2026 12:50 - 18:50",
-        "BBC Events 06 - no_brand_title: Could Psychedelic Drugs Be Used to Treat Mental Health Conditions? - 29/09/2026 12:24 - 11:21",
-        "BBC Events 08 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 29/09/2026 13:30 - 15:00"
+        "BBC Events 06 - no_brand_title: Could Psychedelic Drugs Be Used to Treat Mental Health Conditions? - 29/09/2026 12:24 - 11:21"
       ],
       "sections": [],
       "events": []
@@ -585,7 +605,10 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : New York vs. St. Louis (MLS) - Thu 01/10 12:25am",
+        "MLS 01 : Seattle vs. Kansas City (MLS) - Fri 02/10 02:25am"
+      ],
       "sections": [],
       "events": []
     },
@@ -850,7 +873,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Sep. 29 - Tue 29/09 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Sep. 29 - Tue 29/09 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Sep. 29 - Tue 29/09 7:00pm",
         "Sportsnet 07 : NL Wildcard - Philadelphia @ Atlanta - Game 1 - Tue 29/09 7:00pm",
@@ -874,7 +896,7 @@
         "Sportsnet 01 : Frankly Hockey: Sep. 30 - Wed 30/09 7:00pm",
         "Sportsnet 03 : NL Wildcard - Philadelphia @ Atlanta - Game 2 - Wed 30/09 7:00pm",
         "Sportsnet 04 : Blair & Barker: Sep. 30 - Wed 30/09 8:00pm",
-        "Sportsnet 05 : Real Kyper & Bourne: Sep. 30 - Wed 30/09 9:00pm"
+        "Sportsnet 05 : NHL Tonight: First Shift - Wed 30/09 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -965,8 +987,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Chengdu - Final - Tue 29/09 12:00pm",
-        "TSN 02 : ATP 250 Tennis: Hangzhou - Final - Tue 29/09 12:30pm",
         "TSN 04 : Pat McAfee Show - Tue 29/09 5:00pm",
         "TSN 03 : Rich Eisen Show - Tue 29/09 5:00pm",
         "TSN 01 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #1 - Wed 30/09 3:00am",
