@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T11:00:46.608025+00:00",
+  "scraped_at": "2026-09-30T13:14:27.939576+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,29 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Czechia vs England 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Scotland vs Switzerland 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Slovenia vs North Macedonia 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Spain vs Croatia 12:45am"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -459,8 +481,9 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 02 - no_brand_title: Andy Burnham Speaks to Today - 30/09/2026 07:47 - 07:46",
-        "BBC Events 04 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 30/09/2026 06:30 - 12:30",
+        "BBC Events 03 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 30/09/2026 12:30 - 18:30",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 30/09/2026 06:18 - 01:00",
+        "BBC Events 06 - no_brand_title: عالم الظهيرة من بي بي سي نيوز عربي - 30/09/2026 11:57 - 11:56",
         "BBC Events 07 - no_brand_title: How AI is Creating a UK Super-Museum - 30/09/2026 06:44 - 05:10",
         "BBC Events 08 - no_brand_title: Health Secretary Yvette Cooper Speaks at Labour Conference - 30/09/2026 09:58 - 07:24",
         "BBC Events 09 - no_brand_title: Israel Bound Flight Diverts to Saudi Arabia After 'Fight' Between Pilots - 30/09/2026 10:35 - 10:27"
@@ -1009,11 +1032,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 06 : ATP 500 Tennis: Tokyo - Day #1 (Colosseum) - Wed 30/09 3:00am",
-        "TSN 01 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #1 - Wed 30/09 3:00am",
         "TSN 02 : ATP 500 Tennis: Beijing - Day #1 (Diamond) - Wed 30/09 4:00am",
         "TSN 03 : ATP 500 Tennis: Beijing - Early Round Coverage Day #1 - Wed 30/09 4:00am",
-        "TSN 04 : ATP 500 Tennis: Beijing - Day #1 (Lotus) - Wed 30/09 6:00am",
         "TSN 04 : Pat McAfee Show - Wed 30/09 5:00pm",
         "TSN 01 : Rich Eisen Show - Wed 30/09 5:00pm",
         "TSN 02 : ATP 500 Tennis: Tokyo - Day #2 (Colosseum) - Thu 01/10 3:00am",
