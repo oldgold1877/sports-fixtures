@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T11:00:51.965585+00:00",
+  "scraped_at": "2026-10-01T17:00:52.161212+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -28,7 +28,12 @@
         "EVENT 12 - 01-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E18 -PSG vs OH Leuven - MD2[Live] [HK]",
         "EVENT 01 - 02-Oct 07:22PM-09:30PM - LaLiga 2 2026/27: Eldense vs Real Oviedo [SG]",
         "EVENT 03 - 03-Oct 02:00AM-06:06AM - ONE Friday Fights 2026 -OFN 48: Erdogan vs Elliott[Live] [HK]",
-        "EVENT 04 - 03-Oct 02:00AM-06:00AM - ONE Fight Night 2026: OFN 48: Erdogan vs Elliott [SG]"
+        "EVENT 04 - 03-Oct 02:00AM-06:00AM - ONE Fight Night 2026: OFN 48: Erdogan vs Elliott [SG]",
+        "EVENT 03 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27 E29 -Man United vs Liverpool[Live] [HK]",
+        "EVENT 04 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27: Man United vs Liverpool [SG]",
+        "EVENT 08 - 03-Oct 01:55PM-04:00PM - Serie A Women 2026/27 E4 -Fiorentina v Sassuolo[Live] [HK]",
+        "EVENT 03 - 03-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E5 -Roma v Lazio[Live] [HK]",
+        "EVENT 01 - 03-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Cadiz vs Leganes [SG]"
       ],
       "sections": [],
       "events": []
@@ -425,18 +430,6 @@
           ]
         },
         {
-          "sport": "EQUESTRIAN",
-          "time": "21:00",
-          "name": "FALL STARS WEEKEND",
-          "datetime": "2026-10-02 21:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
           "sport": "️ GOLF",
           "time": "01:00",
           "name": "LOTTE CHAMPIONSHIP",
@@ -528,6 +521,13 @@
           "channels": []
         },
         {
+          "sport": "ICE HOCKEY",
+          "time": "00:07",
+          "name": "MICHIGAN TECH - MINNESOTA",
+          "datetime": "2026-10-03 00:07:00",
+          "channels": []
+        },
+        {
           "sport": "MOTORSPORTS",
           "time": "09:00",
           "name": "BAHRAIN GRAND PRIX",
@@ -540,18 +540,6 @@
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "19:20",
-          "name": "MOTUL PETIT LE MANS",
-          "datetime": "2026-10-02 19:20:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -584,6 +572,18 @@
           "time": "06:00",
           "name": "CHINA OPEN",
           "datetime": "2026-10-02 06:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "07:00",
+          "name": "CLARA TAUSON - POLINA KUDERMETOVA",
+          "datetime": "2026-10-02 07:00:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -654,9 +654,10 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Respect and Laughs as Fury and Joshua Face Off - 01/10/2026 05:56 - 04:04",
         "BBC Events 02 - no_brand_title: Phone-in: Nicky Campbell Takes Calls on Early Release Scheme - 01/10/2026 08:58 - 08:12",
-        "BBC Events 03 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 01/10/2026 10:00 - 16:00",
+        "BBC Events 04 - Major League Baseball: Atlanta Braves v Philadelphia Phillies - 01/10/2026 16:00 - 19:08",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 01/10/2026 06:24 - 21:45",
-        "BBC Events 07 - no_brand_title: Tributes for Dame Esther Rantzen - 01/10/2026 06:59 - 04:10"
+        "BBC Events 07 - no_brand_title: Tributes for Dame Esther Rantzen - 01/10/2026 06:59 - 04:10",
+        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 01/10/202 عالم الظهيرة - 01/10/2026 12:06 - 12:05"
       ],
       "sections": [],
       "events": []
@@ -872,8 +873,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: Austria Wien vs. Inter",
-        "Paramount+ Event 02 - 17:00 - Uefa Womens Champions League: HB Køge vs. Servette",
+        "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: Austria Wien vs. Inter",
+        "Paramount+ Event 02 - 17:00 - UEFA Women's Champions League: HB Køge vs. Servette",
         "Paramount+ Event 03 - 18:30 - Uefa Womens Champions League: Man. City vs. Real Madrid",
         "Paramount+ Event 04 - 18:30 - Uefa Womens Champions League: PSG vs. OH Leuven",
         "Paramount+ Event 02 - 12:50 - Barclays Womens Super League: Man. United vs. Liverpool",
@@ -1070,19 +1071,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 1 - Thu 01/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 1 - Thu 01/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 1 - Thu 01/10 7:00pm",
         "Sportsnet 03 : Blair & Barker: Oct. 1 - Thu 01/10 8:00pm",
         "Sportsnet 06 : NHL Tonight: First Shift - Thu 01/10 9:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Oct. 1 - Thu 01/10 9:00pm",
         "Sportsnet 09 : NHL Now - Thu 01/10 10:00pm",
-        "Sportsnet 07 : UFC 332 Pre-Fight Press Conference - Thu 01/10 10:50pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 1 - Thu 01/10 11:00pm",
         "Sportsnet 03 : Buffalo @ Columbus - Fri 02/10 12:00am",
         "Sportsnet 02 : Philadelphia @ New Jersey - Fri 02/10 12:00am",
         "Sportsnet 05 : Tampa Bay @ New York Rangers - Fri 02/10 12:00am",
         "Sportsnet 06 : Minnesota @ Nashville - Fri 02/10 1:00am",
+        "Sportsnet 07 : NL Wild Card: Philadelphia @ Atlanta - Game 3 - Fri 02/10 1:00am",
         "Sportsnet 08 : TNA iMPACT! - Fri 02/10 1:00am",
         "Sportsnet 04 : Seattle @ Calgary - Fri 02/10 2:00am",
         "Sportsnet 09 : Chicago @ Utah - Fri 02/10 2:30am",
@@ -1184,14 +1184,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : ATP 500 Tennis: Tokyo - Day #2 (Colosseum) - Thu 01/10 3:00am",
-        "TSN 03 : ATP 500 Tennis: Tokyo - Day #2 (Court 1) - Thu 01/10 3:00am",
-        "TSN 01 : ATP 500 Tennis: Tokyo - Day #2 (Show Court) - Thu 01/10 3:00am",
-        "TSN 04 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #2 - Thu 01/10 3:00am",
-        "TSN 05 : ATP 500 Tennis: Beijing - Day #2 (Brad Drewett) - Thu 01/10 4:00am",
-        "TSN 07 : ATP 500 Tennis: Beijing - Day #2 (Lotus) - Thu 01/10 4:00am",
-        "TSN 08 : ATP 500 Tennis: Beijing - Early Round Coverage Day #2 - Thu 01/10 4:00am",
-        "TSN 09 : ATP 500 Tennis: Beijing - Day #2 (Diamond) - Thu 01/10 5:00am",
         "TSN 03 : Pat McAfee Show - Thu 01/10 5:00pm",
         "TSN 02 : Rich Eisen Show - Thu 01/10 5:00pm",
         "TSN 01 : NCAA Football: North Texas vs. Tulsa - Fri 02/10 2:00am",
