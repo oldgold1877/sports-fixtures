@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T17:15:31.570909+00:00",
+  "scraped_at": "2026-10-01T21:35:36.323579+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,62 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Friday 2 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:15-04:30 - NFL: Pittsburg Steelers at Cleveland Browns 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Pittsburg Steelers at Cleveland Browns 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "Live Football 01 : Azerbaijan vs Liechtenstein 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Denmark vs Portugal 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Germany vs Serbia 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : Greece vs Netherlands 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : Israel vs Kosovo 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Malta vs Gibraltar 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : Republic of Ireland vs Austria 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Wales vs Norway 19:45 pm"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,16 +71,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 01-Oct 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 -Guinea vs Kenya[Live] [HK]",
-        "EVENT 04 - 01-Oct 04:45PM-07:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Guinea vs Kenya [SG]",
-        "EVENT 03 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E15 -Austria Wien vs Inter - MD2[Live] [HK]",
-        "EVENT 05 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Austria Wien vs Inter - MD2 [SG]",
-        "EVENT 06 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: HB Koge vs Servette - MD2 [SG]",
-        "EVENT 11 - 01-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E16 -HB Koge vs Servette - MD2[Live] [HK]",
-        "EVENT 01 - 01-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E17 -Man City vs Real Madrid  - MD2[Live] [HK]",
-        "EVENT 04 - 01-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Man City vs Real Madrid  - MD2 [SG]",
-        "EVENT 10 - 01-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: PSG vs OH Leuven - MD2 [SG]",
-        "EVENT 12 - 01-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E18 -PSG vs OH Leuven - MD2[Live] [HK]",
         "EVENT 01 - 02-Oct 07:22PM-09:30PM - LaLiga 2 2026/27: Eldense vs Real Oviedo [SG]",
         "EVENT 03 - 03-Oct 02:00AM-06:06AM - ONE Friday Fights 2026 -OFN 48: Erdogan vs Elliott[Live] [HK]",
         "EVENT 04 - 03-Oct 02:00AM-06:00AM - ONE Fight Night 2026: OFN 48: Erdogan vs Elliott [SG]",
@@ -650,10 +695,10 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Respect and Laughs as Fury and Joshua Face Off - 01/10/2026 05:56 - 04:04",
         "BBC Events 02 - no_brand_title: Phone-in: Nicky Campbell Takes Calls on Early Release Scheme - 01/10/2026 08:58 - 08:12",
-        "BBC Events 04 - Major League Baseball: Atlanta Braves v Philadelphia Phillies - 01/10/2026 16:00 - 19:08",
-        "BBC Events 05 - no_brand_title: BBC Weather Live - 01/10/2026 06:24 - 21:45",
+        "BBC Events 03 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 01/10/2026 22:13 - 23:00",
         "BBC Events 07 - no_brand_title: Tributes for Dame Esther Rantzen - 01/10/2026 06:59 - 04:10",
-        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 01/10/202 عالم الظهيرة - 01/10/2026 12:06 - 12:05"
+        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 01/10/202 عالم الظهيرة - 01/10/2026 12:06 - 12:05",
+        "BBC Events 09 - UEFA Nations League: UEFA Nations League: Wales v Norway - 01/10/2026 19:10 - 23:00"
       ],
       "sections": [],
       "events": []
@@ -869,10 +914,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: Austria Wien vs. Inter",
-        "Paramount+ Event 02 - 17:00 - UEFA Women's Champions League: HB Køge vs. Servette",
-        "Paramount+ Event 03 - 18:30 - Uefa Womens Champions League: Man. City vs. Real Madrid",
-        "Paramount+ Event 04 - 18:30 - UEFA Women's Champions League: PSG vs. OH Leuven",
+        "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: HB Køge vs. Servette",
+        "Paramount+ Event 02 - 17:00 - UEFA Women's Champions League: Austria Wien vs. Inter",
+        "Paramount+ Event 03 - 18:30 - UEFA Women's Champions League: PSG vs. OH Leuven",
+        "Paramount+ Event 04 - 18:30 - UEFA Women's Champions League: Man. City vs. Real Madrid",
         "Paramount+ Event 02 - 12:50 - Barclays Womens Super League: Man. United vs. Liverpool",
         "Paramount+ Event 03 - 14:00 - English Football League: Grimsby Town vs. Shrewsbury Town",
         "Paramount+ Event 04 - 14:00 - English Football League: Crewe Alexandra vs. Bristol Rovers",
@@ -939,10 +984,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: World Grand Prix Darts: D4 - 19:00 01/10/2026",
-        "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 1 - 19:00 01/10/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 22:00 01/10/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 22:00 01/10/2026",
         "Sky Sport 3 - LIVE: UFC 332: Press Conference - 23:00 01/10/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Bahrain GP P1 - 05:00 02/10/2026",
         "Sky Sport 3 - LIVE: Rapid League: Whai v Hoiho - 06:30 02/10/2026",
@@ -1067,12 +1108,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: Oct. 1 - Thu 01/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 1 - Thu 01/10 7:00pm",
-        "Sportsnet 03 : Blair & Barker: Oct. 1 - Thu 01/10 8:00pm",
-        "Sportsnet 06 : NHL Tonight: First Shift - Thu 01/10 9:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Oct. 1 - Thu 01/10 9:00pm",
         "Sportsnet 09 : NHL Now - Thu 01/10 10:00pm",
+        "Sportsnet 11 : UFC 332 Pre-Fight Press Conference - Thu 01/10 10:50pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 1 - Thu 01/10 11:00pm",
         "Sportsnet 03 : Buffalo @ Columbus - Fri 02/10 12:00am",
         "Sportsnet 02 : Philadelphia @ New Jersey - Fri 02/10 12:00am",
@@ -1090,7 +1128,8 @@
         "Sportsnet 01 : Frankly Hockey: Oct. 2 - Fri 02/10 7:00pm",
         "Sportsnet 03 : Bath Rugby vs. Exeter Chiefs - Fri 02/10 7:35pm",
         "Sportsnet 04 : Benetton vs. Connacht  - Fri 02/10 7:35pm",
-        "Sportsnet 05 : Cardiff vs. Zebre Parma  - Fri 02/10 7:35pm"
+        "Sportsnet 05 : Cardiff vs. Zebre Parma  - Fri 02/10 7:35pm",
+        "Sportsnet 06 : Edinburgh vs. DHL Stormers  - Fri 02/10 7:35pm"
       ],
       "sections": [],
       "events": []
@@ -1101,7 +1140,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : SS1 Ittiri Arena Show - WRC Italy 2026 - Thu 01/10 3:00pm",
         "Stan 01 : Beijing: Day 3 - WTA 1000 - Fri 02/10 4:00am",
         "Stan 02 : Southland v Northland - NPC Round 10 2026 - Fri 02/10 7:00am",
         "Stan 01 : Cross-country Short Track: Lake Placid - UCI Mountain Bike World Series 2026 - Fri 02/10 4:30pm",
@@ -1158,6 +1196,7 @@
         "Stan 06 : Beijing: Day 11 - WTA 1000 - Sat 10/10 8:00am",
         "Stan 01 : Arsenal v Leeds United - Premier League Matchweek 6 2026/2027 - Sat 10/10 11:30am",
         "Stan 07 : 4K • Arsenal v Leeds United - Premier League Matchweek 6 2026/2027 - Sat 10/10 12:20pm",
+        "Stan 04 : Aston Villa v Brentford - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
         "Stan 02 : Chelsea v Bournemouth - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
         "Stan 02 : Ipswich Town v Fulham - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
         "Stan 03 : Sunderland v Brighton & Hove Albion - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm"
@@ -1180,8 +1219,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Pat McAfee Show - Thu 01/10 5:00pm",
-        "TSN 02 : Rich Eisen Show - Thu 01/10 5:00pm",
         "TSN 01 : NCAA Football: North Texas vs. Tulsa - Fri 02/10 2:00am",
         "TSN 02 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #3 - Fri 02/10 3:00am",
         "TSN 03 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #3 - Fri 02/10 4:00am",
