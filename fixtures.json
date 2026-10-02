@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T13:26:36.537154+00:00",
+  "scraped_at": "2026-10-02T16:28:27.254331+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,106 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Friday 2 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Bosnia and Herzegovina vs Sweden 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: France vs Italy 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: Belgium vs Turkey 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 19:45-21:45 - UEFA Nations League: Ukraine vs Northern Ireland 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 173 Tonglampoon v Tobias"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 10am PFL Mena 11 Neda v Saidy"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 1pm Faour v Sachbazjan"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 12:30amGamebread FC"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 8pm Jones v Sanchez"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 9pm Fury FC 125"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 9pm CFFC BJJ 18"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 10pm Cardenas v Timko"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 10pm ONE Fight Night Erdogan v Elliott"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 11pm LUX 063"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 9am MotoPlayground Race Ponca City"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 10:45pm53rd Annual NAPA Fall Finals Stafford"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 6pm AMSOIL Championship Off Road"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 11:45pmWorld of Outlaws Sprint Cars Williams Grove"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 7pm MARS FALS Frenzy Fairbury"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 12:15amJacksonville Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 12:30amARCA West & CARS Tour West Las Vegas"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -21,13 +120,18 @@
         "EVENT 04 - 03-Oct 02:00AM-06:00AM - ONE Fight Night 2026: OFN 48: Erdogan vs Elliott [SG]",
         "EVENT 03 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27 E29 -Man United vs Liverpool[Live] [HK]",
         "EVENT 04 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27: Man United vs Liverpool [SG]",
-        "EVENT 08 - 03-Oct 01:55PM-04:00PM - Serie A Women 2026/27 E4 -Fiorentina v Sassuolo[Live] [HK]",
+        "EVENT 15 - 03-Oct 01:25PM-03:30PM - Barclay's WSL '26/27 E13 -Manchester United v Liverpool[Live] [HK]",
         "EVENT 03 - 03-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E5 -Roma v Lazio[Live] [HK]",
         "EVENT 01 - 03-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Cadiz vs Leganes [SG]",
-        "EVENT 06 - 04-Oct 01:00AM-04:00AM - UFC 2026 UFC 332: Silva vs Wang (041026) - UFC 332: Silva vs Wang [SG]",
+        "EVENT 07 - 04-Oct 01:00AM-04:00AM - UFC 2026 UFC 332: Silva vs Wang - UFC 332: Silva vs Wang [SG]",
         "EVENT 02 - 04-Oct 11:25AM-01:30PM - Serie A Women 2026/27 E6 -Napoli v Como 1907[Live] [HK]",
         "EVENT 02 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27 E34 -West Ham vs Chelsea[Live] [HK]",
-        "EVENT 04 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27: West Ham vs Chelsea [SG]"
+        "EVENT 04 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27: West Ham vs Chelsea [SG]",
+        "EVENT 13 - 04-Oct 01:55PM-04:00PM - Barclay's WSL '26/27 E14 -West Ham United v Chelsea[Live] [HK]",
+        "EVENT 02 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27 E9 -Man City vs Arsenal[Live] [HK]",
+        "EVENT 04 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27: Man City vs Arsenal [SG]",
+        "EVENT 13 - 04-Oct 04:25PM-06:30PM - Barclay's WSL '26/27 E15 -Manchester City v Arsenal[Live] [HK]",
+        "EVENT 03 - 04-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Las Palmas vs Valladolid [SG]"
       ],
       "sections": [],
       "events": []
@@ -454,6 +558,18 @@
           "channels": [
             {
               "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "PELLA AT NEWTON",
+          "datetime": "2026-10-03 01:00:00",
+          "channels": [
+            {
+              "name": "NBC",
               "category": "TV | USA & CANADA"
             }
           ]
@@ -936,18 +1052,6 @@
         },
         {
           "sport": "EQUESTRIAN",
-          "time": "20:00",
-          "name": "FALL STARS SATURDAY",
-          "datetime": "2026-10-03 20:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
           "time": "21:30",
           "name": "AMERICA'S DAY AT THE RACES",
           "datetime": "2026-10-03 21:30:00",
@@ -1198,12 +1302,11 @@
         "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 02/10/2026 12:30 - 18:30",
         "BBC Events 03 - no_brand_title: Diesel Hits £2 a Litre in UK For First Time - 02/10/2026 12:41 - 12:40",
         "BBC Events 04 - no_brand_title: Travelodge Failed Sex Assault Victim 'at Every Stage' - 02/10/2026 04:06 - 02:37",
-        "BBC Events 05 - no_brand_title: Hundreds of French Schools Closed and 40 Head Teachers Injured - 02/10/2026 13:36 - 15:30",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 02/10/2026 07:00 - 19:30",
         "BBC Events 07 - no_brand_title: Flydubai Pilot: 'I Was Not Going to Let Others Die' - 02/10/2026 10:47 - 09:18",
-        "BBC Events 08 - no_brand_title: عالم الظهيرة - 02/10/2026 12:54 - 15:00",
         "BBC Events 09 - no_brand_title: Average Diesel Prices in UK Reach Record High - 02/10/2026 11:17 - 09:33",
-        "BBC Events 10 - no_brand_title: Was Our Village at the Centre of a Terror Plot? - 02/10/2026 10:53 - 10:52"
+        "BBC Events 10 - no_brand_title: Was Our Village at the Centre of a Terror Plot? - 02/10/2026 10:53 - 10:52",
+        "BBC Events 13 - no_brand_title: First Minister Calls for 'New Deal For Wales' - 02/10/2026 14:20 - 08:35"
       ],
       "sections": [],
       "events": []
@@ -1479,7 +1582,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 17:00 02/10/2026",
         "Sky Sport 2 - LIVE: World Grand Prix Darts: D5 - 19:00 02/10/2026",
         "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 19:00 02/10/2026",
         "Sky Sport 1 - LIVE: PREM: Bath v Exeter Chiefs - 19:40 02/10/2026",
@@ -1596,7 +1698,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 2 - Fri 02/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 2 - Fri 02/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 2 - Fri 02/10 7:00pm",
         "Sportsnet 03 : Bath Rugby vs. Exeter Chiefs - Fri 02/10 7:35pm",
@@ -1689,7 +1790,8 @@
         "Stan 02 : Chelsea v Bournemouth - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
         "Stan 05 : Goal Rush • 11 October - Premier League 2026/2027 - Sat 10/10 2:50pm",
         "Stan 02 : Ipswich Town v Fulham - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 03 : Sunderland v Brighton & Hove Albion - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm"
+        "Stan 03 : Sunderland v Brighton & Hove Albion - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
+        "Stan 06 : Northampton v Bath - PREM Rugby Round 3 2026/27 - Sat 10/10 3:00pm"
       ],
       "sections": [],
       "events": []
@@ -1709,10 +1811,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #3 - Fri 02/10 4:00am",
-        "TSN 11 : ATP 500 Tennis: Beijing - Day #3 (Lotus) - Fri 02/10 6:00am",
-        "TSN 12 : ATP 500 Tennis: Beijing - Early Round Coverage Day #3 - Fri 02/10 6:00am",
-        "TSN 13 : ATP 500 Tennis: Beijing - Day #3 (Diamond) - Fri 02/10 8:00am",
         "TSN 02 : Pat McAfee Show - Fri 02/10 5:00pm",
         "TSN 01 : Rich Eisen Show - Fri 02/10 5:00pm",
         "TSN 01 : NSL on TSN: Montreal vs. Ottawa - Sat 03/10 12:00am",
