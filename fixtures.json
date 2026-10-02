@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T17:00:48.337974+00:00",
+  "scraped_at": "2026-10-02T21:11:11.794272+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,37 +9,8 @@
       "fixtures": [],
       "sections": [
         {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Friday 2 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Bosnia and Herzegovina vs Sweden 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: France vs Italy 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: Belgium vs Turkey 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 19:45-21:45 - UEFA Nations League: Ukraine vs Northern Ireland 1080p"
-            }
-          ]
-        },
-        {
           "section": "Live Events",
           "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 173 Tonglampoon v Tobias"
-            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 02 - 10am PFL Mena 11 Neda v Saidy"
@@ -103,6 +74,42 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 17 - 12:30amARCA West & CARS Tour West Las Vegas"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 01 : Cyprus vs Armenia 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Latvia vs Montenegro 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Belgium vs Turkey 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : France vs Italy 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : Hungary vs Georgia 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Ukraine vs Northern Ireland 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : Bosnia vs Sweden 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Poland vs Romania 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 09 : Faroe Islands vs Slovakia 19:45 pm"
             }
           ]
         }
@@ -115,7 +122,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 02-Oct 07:22PM-09:30PM - LaLiga 2 2026/27: Eldense vs Real Oviedo [SG]",
         "EVENT 03 - 03-Oct 02:00AM-06:06AM - ONE Friday Fights 2026 -OFN 48: Erdogan vs Elliott[Live] [HK]",
         "EVENT 04 - 03-Oct 02:00AM-06:00AM - ONE Fight Night 2026: OFN 48: Erdogan vs Elliott [SG]",
         "EVENT 03 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27 E29 -Man United vs Liverpool[Live] [HK]",
@@ -131,7 +137,9 @@
         "EVENT 02 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27 E9 -Man City vs Arsenal[Live] [HK]",
         "EVENT 04 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27: Man City vs Arsenal [SG]",
         "EVENT 13 - 04-Oct 04:25PM-06:30PM - Barclay's WSL '26/27 E15 -Manchester City v Arsenal[Live] [HK]",
-        "EVENT 03 - 04-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Las Palmas vs Valladolid [SG]"
+        "EVENT 03 - 04-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Las Palmas vs Valladolid [SG]",
+        "EVENT 03 - 04-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Girona vs Mallorca [SG]",
+        "EVENT 01 - 04-Oct 10:00PM-12:00AM - USL Superleague '26 E5 -Tampa Bay Sun FC v Lexington SC[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -406,13 +414,6 @@
               "category": "TV | USA & CANADA"
             }
           ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "00:00",
-          "name": "CAROLINA HURRICANES - WASHINGTON CAPITALS",
-          "datetime": "2026-10-03 00:00:00",
-          "channels": []
         },
         {
           "sport": "ICE HOCKEY",
@@ -1052,6 +1053,18 @@
         },
         {
           "sport": "EQUESTRIAN",
+          "time": "20:00",
+          "name": "FALL STARS SATURDAY",
+          "datetime": "2026-10-03 20:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "EQUESTRIAN",
           "time": "21:30",
           "name": "AMERICA'S DAY AT THE RACES",
           "datetime": "2026-10-03 21:30:00",
@@ -1299,14 +1312,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: US Pressures Europe To Tap Into Diesel Reserves - 02/10/2026 05:38 - 05:17",
-        "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 02/10/2026 12:30 - 18:30",
         "BBC Events 03 - no_brand_title: Diesel Hits £2 a Litre in UK For First Time - 02/10/2026 12:41 - 12:40",
         "BBC Events 04 - no_brand_title: Travelodge Failed Sex Assault Victim 'at Every Stage' - 02/10/2026 04:06 - 02:37",
-        "BBC Events 05 - no_brand_title: العالم هذا المساء - 02/10/2026 17:21 - 20:00",
-        "BBC Events 06 - no_brand_title: BBC Weather Live - 02/10/2026 07:00 - 19:30",
         "BBC Events 07 - no_brand_title: Flydubai Pilot: 'I Was Not Going to Let Others Die' - 02/10/2026 10:47 - 09:18",
         "BBC Events 09 - no_brand_title: Average Diesel Prices in UK Reach Record High - 02/10/2026 11:17 - 09:33",
         "BBC Events 10 - no_brand_title: Was Our Village at the Centre of a Terror Plot? - 02/10/2026 10:53 - 10:52",
+        "BBC Events 11 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 02/10/2026 18:30 - 00:30",
+        "BBC Events 12 - Sportscene: Scottish Cup: Scottish Cup: Cumnock v Auchinleck - 02/10/2026 18:46 - 23:00",
         "BBC Events 13 - no_brand_title: First Minister Calls for 'New Deal For Wales' - 02/10/2026 14:20 - 08:35"
       ],
       "sections": [],
@@ -1369,11 +1381,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "GaaGo 01: Doire: Ballinascreen v Swatragh - 12pm",
-        "GaaGo 02: Armagh: Derrynoose v Pearse Ogs 2pm",
-        "GaaGo 03: Dublin: Cuala V Skerries Harps 2pm",
-        "GaaGo 04: Armagh: Carrickcruppen v Killeavy 4pm",
-        "GaaGo 05: Leitrim: Bornacoola v Melvin Gaels 4pm"
+        "GaaTv 01:  Fri 19:00 | Antrim: Naomh Seamus vs St Mary's Ahoghill"
       ],
       "sections": [],
       "events": []
@@ -1583,12 +1591,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: World Grand Prix Darts: D5 - 19:00 02/10/2026",
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 19:00 02/10/2026",
-        "Sky Sport 1 - LIVE: PREM: Bath v Exeter Chiefs - 19:40 02/10/2026",
-        "Sky Sport 1 UHD - LIVE: PREM: Bath v Exeter Chiefs - 19:40 02/10/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 22:00 02/10/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 22:00 02/10/2026",
         "Sky Sport 3 - LIVE: UFC 332: Weigh-In - 23:00 02/10/2026",
         "Sky Sport 1 - LIVE: NPC: Manawatu v Canterbury - 02:00 03/10/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Manawatu v Canterbury - 02:00 03/10/2026",
@@ -1699,13 +1701,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: Oct. 2 - Fri 02/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 2 - Fri 02/10 7:00pm",
         "Sportsnet 03 : Bath Rugby vs. Exeter Chiefs - Fri 02/10 7:35pm",
-        "Sportsnet 04 : Benetton vs. Connacht  - Fri 02/10 7:35pm",
-        "Sportsnet 05 : Cardiff vs. Zebre Parma  - Fri 02/10 7:35pm",
-        "Sportsnet 06 : Edinburgh vs. DHL Stormers  - Fri 02/10 7:35pm",
-        "Sportsnet 07 : Blair & Barker: Oct. 2 - Fri 02/10 8:00pm",
+        "Sportsnet 04 : Edinburgh vs. DHL Stormers      - Fri 02/10 7:35pm",
         "Sportsnet 08 : Real Kyper & Bourne: Oct. 2 - Fri 02/10 9:00pm",
         "Sportsnet 02 : UFC 332 Ceremonial Weigh-In - Fri 02/10 10:50pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 2 - Fri 02/10 11:00pm",
@@ -1718,11 +1715,15 @@
         "Sportsnet 01 : Sportsnet Central: Oct. 2 - Sat 03/10 10:00am",
         "Sportsnet 02 : Lions vs. Ospreys  - Sat 03/10 12:35pm",
         "Sportsnet 03 : Manchester United vs. Liverpool - Sat 03/10 1:20pm",
-        "Sportsnet 01 : Dragons vs. Scarlets  - Sat 03/10 2:50pm",
         "Sportsnet 04 : Bristol Bears vs. Northampton Saints - Sat 03/10 2:55pm",
         "Sportsnet 05 : Grand Final - Warrington Wolves vs. Wakefield Trinity - Sat 03/10 5:00pm",
-        "Sportsnet 06 : Glasgow Warriors vs. Ulster  - Sat 03/10 5:20pm",
-        "Sportsnet 07 : Gloucester Rugby vs. Harlequins - Sat 03/10 5:20pm"
+        "Sportsnet 07 : Gloucester Rugby vs. Harlequins - Sat 03/10 5:20pm",
+        "Sportsnet 01 : ALDS - Chicago White Sox @ Cleveland - Game 1 - Sat 03/10 6:00pm",
+        "Sportsnet 02 : Newcastle Red Bulls vs. Leicester Tigers - Sat 03/10 7:35pm",
+        "Sportsnet 03 : NLDS - Atlanta @ Los Angeles - Game 1 - Sat 03/10 9:00pm",
+        "Sportsnet 04 : UFC 332 - Silva vs. Wang - Prelims - Sat 03/10 11:00pm",
+        "Sportsnet 06 : ALDS - New York Yankees @ Tampa Bay - Game 1 - Sat 03/10 11:30pm",
+        "Sportsnet 05 : Carolina @ Philadelphia - Sun 04/10 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1733,7 +1734,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Cross-country Short Track: Lake Placid - UCI Mountain Bike World Series 2026 - Fri 02/10 4:30pm",
         "Stan 02 : Bath v Exeter - PREM Rugby Round 2 2026/27 - Fri 02/10 7:40pm",
         "Stan 01 : Manawatū v Canterbury - NPC Round 10 2026 - Sat 03/10 2:00am",
         "Stan 02 : Seattle Reign v North Carolina Courage - NWSL 2026 - Sat 03/10 3:00am",
@@ -1792,7 +1792,8 @@
         "Stan 05 : Goal Rush • 11 October - Premier League 2026/2027 - Sat 10/10 2:50pm",
         "Stan 02 : Ipswich Town v Fulham - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
         "Stan 03 : Sunderland v Brighton & Hove Albion - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 06 : Northampton v Bath - PREM Rugby Round 3 2026/27 - Sat 10/10 3:00pm"
+        "Stan 06 : Northampton v Bath - PREM Rugby Round 3 2026/27 - Sat 10/10 3:00pm",
+        "Stan 08 : Manchester United v Tottenham Hotspur - Premier League Matchweek 6 2026/2027 - Sat 10/10 5:20pm"
       ],
       "sections": [],
       "events": []
@@ -1812,8 +1813,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : Pat McAfee Show - Fri 02/10 5:00pm",
-        "TSN 01 : Rich Eisen Show - Fri 02/10 5:00pm",
         "TSN 01 : NSL on TSN: Montreal vs. Ottawa - Sat 03/10 12:00am",
         "TSN 02 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #4 - Sat 03/10 3:00am",
         "TSN 03 : NCAA Football: Montana State vs. Idaho - Sat 03/10 3:30am",
