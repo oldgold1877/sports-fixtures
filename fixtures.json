@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T11:00:46.138395+00:00",
+  "scraped_at": "2026-10-02T13:26:36.537154+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -25,7 +25,9 @@
         "EVENT 03 - 03-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E5 -Roma v Lazio[Live] [HK]",
         "EVENT 01 - 03-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Cadiz vs Leganes [SG]",
         "EVENT 06 - 04-Oct 01:00AM-04:00AM - UFC 2026 UFC 332: Silva vs Wang (041026) - UFC 332: Silva vs Wang [SG]",
-        "EVENT 02 - 04-Oct 11:25AM-01:30PM - Serie A Women 2026/27 E6 -Napoli v Como 1907[Live] [HK]"
+        "EVENT 02 - 04-Oct 11:25AM-01:30PM - Serie A Women 2026/27 E6 -Napoli v Como 1907[Live] [HK]",
+        "EVENT 02 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27 E34 -West Ham vs Chelsea[Live] [HK]",
+        "EVENT 04 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27: West Ham vs Chelsea [SG]"
       ],
       "sections": [],
       "events": []
@@ -87,6 +89,18 @@
           "time": "03:00",
           "name": "NICARAGUA - COSTA RICA",
           "datetime": "2026-10-02 03:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "15:00",
+          "name": "KAZAKHSTAN - MOLDOVA",
+          "datetime": "2026-10-02 15:00:00",
           "channels": [
             {
               "name": "FOX SPORTS 2",
@@ -1181,11 +1195,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: US Pressures Europe To Tap Into Diesel Reserves - 02/10/2026 05:38 - 05:17",
+        "BBC Events 02 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 02/10/2026 12:30 - 18:30",
+        "BBC Events 03 - no_brand_title: Diesel Hits £2 a Litre in UK For First Time - 02/10/2026 12:41 - 12:40",
         "BBC Events 04 - no_brand_title: Travelodge Failed Sex Assault Victim 'at Every Stage' - 02/10/2026 04:06 - 02:37",
-        "BBC Events 05 - Movies with Ali Plumb: The Story So Far: The Best Of, Part 4 - 02/10/2026 06:25 - 12:30",
+        "BBC Events 05 - no_brand_title: Hundreds of French Schools Closed and 40 Head Teachers Injured - 02/10/2026 13:36 - 15:30",
         "BBC Events 06 - no_brand_title: BBC Weather Live - 02/10/2026 07:00 - 19:30",
         "BBC Events 07 - no_brand_title: Flydubai Pilot: 'I Was Not Going to Let Others Die' - 02/10/2026 10:47 - 09:18",
-        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 01/10/202 عالم الظهيرة - 01/10/2026 12:06 - 12:05",
+        "BBC Events 08 - no_brand_title: عالم الظهيرة - 02/10/2026 12:54 - 15:00",
         "BBC Events 09 - no_brand_title: Average Diesel Prices in UK Reach Record High - 02/10/2026 11:17 - 09:33",
         "BBC Events 10 - no_brand_title: Was Our Village at the Centre of a Terror Plot? - 02/10/2026 10:53 - 10:52"
       ],
@@ -1693,7 +1709,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : ATP 500 Tennis: Tokyo - Early Round Coverage Day #3 - Fri 02/10 3:00am",
         "TSN 03 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #3 - Fri 02/10 4:00am",
         "TSN 11 : ATP 500 Tennis: Beijing - Day #3 (Lotus) - Fri 02/10 6:00am",
         "TSN 12 : ATP 500 Tennis: Beijing - Early Round Coverage Day #3 - Fri 02/10 6:00am",
