@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T15:02:10.260224+00:00",
+  "scraped_at": "2026-10-03T17:00:43.844482+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,6 +30,18 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: North Macedonia vs Scotland 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Sunday 4 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-05:00 - UFC 332: Silva vs. Wang 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 01:00-05:00 - UFC 332: Silva vs. Wang 720p"
             }
           ]
         },
@@ -111,6 +123,38 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 20 - 11:15pmCedar Lake Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 01 : Finland vs Albania 14:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Belarus vs San Marino 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Estonia vs Luxembourg 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : Iceland vs Bulgaria 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : Croatia vs England 17:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Spain vs Czech Republic 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : North Macedonia vs Scotland 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Switzerland vs Slovenia 19:45 pm"
             }
           ]
         }
@@ -1101,10 +1145,6 @@
           "datetime": "2026-10-04 18:00:00",
           "channels": [
             {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
             }
@@ -1715,10 +1755,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Travelodge Victim Had to Relive Trauma to Effect Change - 03/10/2026 06:27 - 05:08",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 03/10/2026 05:49 - 20:00",
+        "BBC Events 03 - no_brand_title: no_episode_title - 03/10/2026 16:45 - 19:30",
         "BBC Events 04 - no_brand_title: Iranian Men Remanded in Custody over Alleged Terror Offences - 03/10/2026 13:38 - 12:53",
-        "BBC Events 05 - no_brand_title: Super Rygbi Cymru: Glynebwy v Caerdydd - 03/10/2026 13:58 - 16:35",
         "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 03/10/202 عالم الظهيرة - 03/10/2026 12:26 - 12:25",
-        "BBC Events 09 - no_brand_title: Super Rygbi Cymru: Ebbw Vale v  Cardiff - 03/10/2026 13:58 - 16:35",
         "BBC Events 10 - Autumnwatch: Autumn Calm - 03/10/2026 14:46 - 18:12"
       ],
       "sections": [],
@@ -2000,8 +2039,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: PGA Champions Tour: R2 - 17:00 03/10/2026",
-        "Sky Sport 2 - LIVE: PREM: Gloucester v Harlequins - 17:25 03/10/2026",
         "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 3 - 19:00 03/10/2026",
         "Sky Sport 1 - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
         "Sky Sport 1 UHD - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
@@ -2108,8 +2145,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Manchester United vs. Liverpool - Sat 03/10 1:20pm",
-        "Sportsnet 04 : Bristol Bears vs. Northampton Saints - Sat 03/10 2:55pm",
         "Sportsnet 05 : Grand Final - Warrington Wolves vs. Wakefield Trinity - Sat 03/10 5:00pm",
         "Sportsnet 07 : Gloucester Rugby vs. Harlequins - Sat 03/10 5:20pm",
         "Sportsnet 01 : ALDS - Chicago White Sox @ Cleveland - Game 1 - Sat 03/10 6:00pm",
@@ -2143,8 +2178,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Manchester United v Liverpool - WSL 2026/27 - Sat 03/10 1:20pm",
-        "Stan 02 : SS11 Lerno-Monti di Ala' 2 - WRC Italy 2026 - Sat 03/10 1:30pm",
         "Stan 06 : Bristol v Northampton - PREM Rugby Round 2 2026/27 - Sat 03/10 3:00pm",
         "Stan 03 : Gloucester v Harlequins - PREM Rugby Round 2 2026/27 - Sat 03/10 5:25pm",
         "Stan 04 : Cross-country Olympic: Lake Placid - UCI Mountain Bike World Series 2026 - Sat 03/10 6:45pm",
@@ -2222,7 +2255,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 06 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #4 - Sat 03/10 4:00am",
         "TSN 02 : NCAA Football: Notre Dame vs. North Carolina - Sat 03/10 5:00pm",
         "TSN 03 : NCAA Football: UCF vs. Houston - Sat 03/10 5:00pm",
         "TSN 07 : NCAA Football: Vanderbilt vs. Georgia - Sat 03/10 5:45pm",
