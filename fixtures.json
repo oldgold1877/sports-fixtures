@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T12:10:10.528490+00:00",
+  "scraped_at": "2026-10-03T15:02:10.260224+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 3 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 13:30-15:30 - WSL: Manchester United vs Liverpool 1080p"
             },
             {
               "type": "fixture",
@@ -47,10 +43,6 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 02 - 8pm UFC 332 Silva v Cong"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 03 - 9:30amBKFC Fight Night Hepi v Shewmaker"
             },
             {
               "type": "fixture",
@@ -131,9 +123,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27 E29 -Man United vs Liverpool[Live] [HK]",
-        "EVENT 04 - 03-Oct 01:20PM-03:30PM - Women's Super League 2026/27: Man United vs Liverpool [SG]",
-        "EVENT 15 - 03-Oct 01:25PM-03:30PM - Barclay's WSL '26/27 E13 -Manchester United v Liverpool[Live] [HK]",
         "EVENT 03 - 03-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E5 -Roma v Lazio[Live] [HK]",
         "EVENT 01 - 03-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Cadiz vs Leganes [SG]",
         "EVENT 07 - 04-Oct 01:00AM-04:00AM - UFC 2026 UFC 332: Silva vs Wang - UFC 332: Silva vs Wang [SG]",
@@ -685,6 +674,18 @@
         },
         {
           "sport": "EQUESTRIAN",
+          "time": "20:00",
+          "name": "BREEDERS’ CUP CHALLENGE",
+          "datetime": "2026-10-03 20:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "EQUESTRIAN",
           "time": "21:30",
           "name": "AMERICA'S DAY AT THE RACES",
           "datetime": "2026-10-03 21:30:00",
@@ -1102,6 +1103,10 @@
             {
               "name": "ABC",
               "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -1686,9 +1691,9 @@
       "fixtures": [
         "Sky Sports Main Event UHD - Live: Lotte Championship, LPGA Tour Golf - Day 2 - Sat 03/10 1:00am",
         "Sky Sports F1 UHD - Live: Formula 1 - Bahrain Grand Prix: 3rd Practice - Sat 03/10 5:15am",
+        "Sky Sports F1 UHD - Formula 1 - Bahrain Grand Prix: Qualifying - Sat 03/10 11:10am",
         "Sky Sports UHD 1 - Live: EFL League Two - Chesterfield v Tranmere Rovers - Sat 03/10 12:00pm",
-        "Sky Sports F1 UHD - Ferrari Challenge UK - Donington Park: Highlights - Sat 03/10 1:00pm",
-        "Sky Sports F1 UHD - Formula 1 - Bahrain Grand Prix: Qualifying - Sat 03/10 2:00pm",
+        "Sky Sports F1 UHD - Ferrari Challenge UK - Donington Park: Highlights - Sat 03/10 1:20pm",
         "TNT Ultimate UHD - Live: PREM Rugby - Bristol Bears v Northampton Saints - Sat 03/10 2:30pm",
         "Sky Sports Main Event UHD - Live: Alfred Dunhill Links Championship, DP World Tour Golf - Day 3 - Sat 03/10 3:00pm",
         "Sky Sports F1 UHD - Live: GT World Challenge Europe Motor Racing - Barcelona: Sprint Race 1 - Sat 03/10 4:30pm",
@@ -1710,9 +1715,11 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Travelodge Victim Had to Relive Trauma to Effect Change - 03/10/2026 06:27 - 05:08",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 03/10/2026 05:49 - 20:00",
-        "BBC Events 06 - The FA Cup: Third Round Qualifying: Brentwood Town v Dagenham & Redbridge - 03/10/2026 12:15 - 14:44",
-        "BBC Events 07 - The FA Cup: Brentwood Town v Dagenham & Redbridge - 03/10/2026 12:06 - 14:45",
-        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 03/10/202 عالم الظهيرة - 03/10/2026 12:26 - 12:25"
+        "BBC Events 04 - no_brand_title: Iranian Men Remanded in Custody over Alleged Terror Offences - 03/10/2026 13:38 - 12:53",
+        "BBC Events 05 - no_brand_title: Super Rygbi Cymru: Glynebwy v Caerdydd - 03/10/2026 13:58 - 16:35",
+        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 03/10/202 عالم الظهيرة - 03/10/2026 12:26 - 12:25",
+        "BBC Events 09 - no_brand_title: Super Rygbi Cymru: Ebbw Vale v  Cardiff - 03/10/2026 13:58 - 16:35",
+        "BBC Events 10 - Autumnwatch: Autumn Calm - 03/10/2026 14:46 - 18:12"
       ],
       "sections": [],
       "events": []
@@ -1993,8 +2000,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: WSL: Man Utd v Liverpool - 13:20 03/10/2026",
-        "Sky Sport 2 - LIVE: PREM: Bears v Saints - 15:00 03/10/2026",
         "Sky Sport 4 - LIVE: PGA Champions Tour: R2 - 17:00 03/10/2026",
         "Sky Sport 2 - LIVE: PREM: Gloucester v Harlequins - 17:25 03/10/2026",
         "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 3 - 19:00 03/10/2026",
@@ -2042,7 +2047,21 @@
         "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 04:00 08/10/2026",
         "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 13:00 08/10/2026",
         "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 13:00 08/10/2026",
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 1 - 20:00 08/10/2026"
+        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 1 - 20:00 08/10/2026",
+        "Sky Sport 6 - LIVE: SS: Victoria v S Australia D3 - 00:25 09/10/2026",
+        "Sky Sport 7 - LIVE: SS: NSW v Tasmania D2 - 00:25 09/10/2026",
+        "Sky Sport 2 - LIVE: PGA Tour: Round 2 - 04:00 09/10/2026",
+        "Sky Sport 4 - LIVE: Australia v Bangladesh: 1st ODI - 04:15 09/10/2026",
+        "Sky Sport 5 - LIVE: Rapid League: Pouakai v Whai - 06:30 09/10/2026",
+        "Sky Sport 1 - LIVE: NPC: Quarterfinal 1 - 07:00 09/10/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Quarterfinal 1 - 07:00 09/10/2026",
+        "Sky Sport 5 - LIVE: Tauihi: Pouakai v Whai - 07:30 09/10/2026",
+        "Sky Sport 6 - LIVE: AFLW: Western Bulldogs v Essendon - 09:00 09/10/2026",
+        "Sky Sport 1 - LIVE: FIA F1: Singapore GP Practice - 09:05 09/10/2026",
+        "Sky Sport 1 UHD - LIVE: FIA F1: Singapore GP Practice - 09:05 09/10/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 13:00 09/10/2026",
+        "Sky Sport 1 - LIVE: FIA F1: Singapore GP Sprint Qual - 13:00 09/10/2026",
+        "Sky Sport 1 UHD - LIVE: FIA F1: Singapore GP Sprint Qual - 13:00 09/10/2026"
       ],
       "sections": [],
       "events": []
@@ -2053,31 +2072,31 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 2 | Burton vs Huddersfield",
+        "Sky Sports+ 3 | Leyton Orient vs Plymouth",
+        "Sky Sports+ 4 | Accrington vs Cheltenham",
+        "Sky Sports+ 5 | Crewe vs Bristol Rovers",
+        "Sky Sports+ 6 | Exeter vs Rotherham",
+        "Sky Sports+ 7 | Gillingham vs Newport",
+        "Sky Sports+ 8 | Grimsby vs Shrewsbury",
+        "Sky Sports+ 9 | Rochdale vs Swindon",
+        "Sky Sports+ 10 | Salford vs Fleetwood",
+        "Sky Sports+ 16 | Colchester vs Luton",
         "Accrington vs Salford",
-        "Burton vs Huddersfield",
         "Blackpool vs Crewe",
-        "Leyton Orient vs Plymouth",
         "Cambridge U vs Northampton",
-        "Accrington vs Cheltenham",
         "Exeter vs Oxford Utd",
-        "Crewe vs Bristol Rovers",
         "Fleetwood vs Barnsley",
-        "Exeter vs Rotherham",
         "Grimsby vs Burton",
-        "Gillingham vs Newport",
         "Huddersfield vs Rochdale",
-        "Grimsby vs Shrewsbury",
         "Mk Dons vs Brentford U21",
-        "Rochdale vs Swindon",
         "Newport vs Plymouth",
-        "Salford vs Fleetwood",
         "Peterborough vs Ipswich U21",
         "Port Vale vs Mansfield",
         "Sheff Wed vs Sunderland U21",
         "Shrewsbury vs Stockport",
         "Wimbledon vs Barnet",
         "Wycombe vs Bristol Rovers",
-        "Colchester vs Luton",
         "Crawley vs Bromley"
       ],
       "sections": [],
@@ -2089,7 +2108,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Lions vs. Ospreys  - Sat 03/10 12:35pm",
         "Sportsnet 03 : Manchester United vs. Liverpool - Sat 03/10 1:20pm",
         "Sportsnet 04 : Bristol Bears vs. Northampton Saints - Sat 03/10 2:55pm",
         "Sportsnet 05 : Grand Final - Warrington Wolves vs. Wakefield Trinity - Sat 03/10 5:00pm",
@@ -2113,7 +2131,8 @@
         "Sportsnet 16 : NLDS - San Diego @ Milwaukee - Game 1 - Sun 04/10 1:30am",
         "Sportsnet 02 : St. Louis @ Colorado - Sun 04/10 2:00am",
         "Sportsnet 18 : Calgary @ Vancouver - Sun 04/10 3:00am",
-        "Sportsnet 17 : Los Angeles @ San Jose - Sun 04/10 3:00am"
+        "Sportsnet 17 : Los Angeles @ San Jose - Sun 04/10 3:00am",
+        "Sportsnet 03 : Grand Prix of Japan - Sun 04/10 5:15am"
       ],
       "sections": [],
       "events": []
@@ -2182,7 +2201,8 @@
         "Stan 07 : PL Saturday Wrap: Matchweek 6 - Oct 11 - Sat 10/10 8:00pm",
         "Stan 01 : Men's Elite - UCI Gravel World Championships 2026 - Sun 11/10 3:00am",
         "Stan 02 : Chiba v Nagasaki - J.League 2026 - Sun 11/10 5:55am",
-        "Stan 03 : Gwangju v Ulsan - K League 2026 - Sun 11/10 5:55am"
+        "Stan 03 : Gwangju v Ulsan - K League 2026 - Sun 11/10 5:55am",
+        "Stan 04 : Kawasaki Frontale v Nagoya Grampus - J.League 2026 - Sun 11/10 7:55am"
       ],
       "sections": [],
       "events": []
@@ -2202,11 +2222,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 05 : ATP 500 Tennis: Beijing - Day #4 (Diamond) - Sat 03/10 4:00am",
-        "TSN 04 : ATP 500 Tennis: Beijing - Early Round Coverage Day #4 - Sat 03/10 4:00am",
         "TSN 06 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #4 - Sat 03/10 4:00am",
-        "TSN 13 : ATP 500 Tennis: Beijing - Day #4 (Lotus) - Sat 03/10 6:00am",
-        "TSN 01 : ATP 500 Tennis: Beijing - Day #4 (Moon) - Sat 03/10 10:00am",
         "TSN 02 : NCAA Football: Notre Dame vs. North Carolina - Sat 03/10 5:00pm",
         "TSN 03 : NCAA Football: UCF vs. Houston - Sat 03/10 5:00pm",
         "TSN 07 : NCAA Football: Vanderbilt vs. Georgia - Sat 03/10 5:45pm",
