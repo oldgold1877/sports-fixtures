@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T17:00:43.844482+00:00",
+  "scraped_at": "2026-10-03T19:41:16.546879+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,14 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 3 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:00-19:00 - UEFA Nations League: Croatia vs England 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:00-19:00 - UEFA Nations League: Iceland vs Bulgaria 1080p"
             },
             {
               "type": "fixture",
@@ -42,6 +34,22 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 10 - 01:00-05:00 - UFC 332: Silva vs. Wang 720p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 19:00-22:30 - Boxing: Gorilla Promotions"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 19:00-22:30 - Boxing: Whittaker v Wallace"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 19:00-22:30 - Boxing: Whittaker v Wallace"
             }
           ]
         },
@@ -58,7 +66,7 @@
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 04 - 12/2pm Whittaker v Wallace"
+              "text": "LIVE EVENT 04 - 2pm Whittaker v Wallace"
             },
             {
               "type": "fixture",
@@ -79,10 +87,6 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 09 - 9am MotoPlayground Race Ponca City"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 10 - 2:30pmGNCC Mason"
             },
             {
               "type": "fixture",
@@ -167,8 +171,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 03-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E5 -Roma v Lazio[Live] [HK]",
-        "EVENT 01 - 03-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Cadiz vs Leganes [SG]",
         "EVENT 07 - 04-Oct 01:00AM-04:00AM - UFC 2026 UFC 332: Silva vs Wang - UFC 332: Silva vs Wang [SG]",
         "EVENT 02 - 04-Oct 11:25AM-01:30PM - Serie A Women 2026/27 E6 -Napoli v Como 1907[Live] [HK]",
         "EVENT 02 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27 E34 -West Ham vs Chelsea[Live] [HK]",
@@ -467,22 +469,6 @@
         {
           "sport": "FOOTBALL",
           "time": "20:30",
-          "name": "MISSOURI - FLORIDA",
-          "datetime": "2026-10-03 20:30:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:30",
           "name": "TENNESSEE - AUBURN",
           "datetime": "2026-10-03 20:30:00",
           "channels": [
@@ -500,6 +486,22 @@
           "channels": [
             {
               "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:50",
+          "name": "MISSOURI - FLORIDA",
+          "datetime": "2026-10-03 20:50:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1754,11 +1756,10 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Travelodge Victim Had to Relive Trauma to Effect Change - 03/10/2026 06:27 - 05:08",
-        "BBC Events 02 - no_brand_title: BBC Weather Live - 03/10/2026 05:49 - 20:00",
-        "BBC Events 03 - no_brand_title: no_episode_title - 03/10/2026 16:45 - 19:30",
         "BBC Events 04 - no_brand_title: Iranian Men Remanded in Custody over Alleged Terror Offences - 03/10/2026 13:38 - 12:53",
-        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 03/10/202 عالم الظهيرة - 03/10/2026 12:26 - 12:25",
-        "BBC Events 10 - Autumnwatch: Autumn Calm - 03/10/2026 14:46 - 18:12"
+        "BBC Events 05 - Signed: Strictly Come Dancing: Signed: Movie Week - 03/10/2026 18:13 - 20:50",
+        "BBC Events 06 - Major League Baseball: Division Series Doubleheader - 03/10/2026 17:47 - 00:00",
+        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - 03/10/202 عالم الظهيرة - 03/10/2026 12:26 - 12:25"
       ],
       "sections": [],
       "events": []
@@ -1968,14 +1969,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 12:50 - Barclays Women's Super League: Man. United vs. Liverpool",
-        "Paramount+ Event 02 - 14:00 - English Football League: Grimsby Town vs. Shrewsbury Town",
-        "Paramount+ Event 03 - 14:00 - English Football League: Crewe Alexandra vs. Bristol Rovers",
-        "Paramount+ Event 04 - 14:00 - English Football League: Reading vs. Bradford City",
-        "Paramount+ Event 05 - 14:00 - English Football League: Salford City vs. Fleetwood Town",
-        "Paramount+ Event 06 - 14:00 - English Football League: Leyton Orient vs. Plymouth Argyle",
-        "Paramount+ Event 07 - 14:00 - English Football League: Burton Albion vs. Huddersfield Town",
-        "Paramount+ Event 08 - 14:20 - English Football League: Sheffield Wednesday vs. Cambridge United",
+        "Paramount+ Event 01 - 14:20 - English Football League: Sheffield Wednesday vs. Cambridge United",
         "Paramount+ Event 03 - 10:20 - World Rugby: Spain vs. South Africa",
         "Paramount+ Event 04 - 13:20 - Barclays Womens Super League: Tottenham vs. London City",
         "Paramount+ Event 05 - 13:20 - Barclays Womens Super League: Aston Villa vs. Crystal Palace",
@@ -2039,10 +2033,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: Korn Ferry Tour: Round 3 - 19:00 03/10/2026",
-        "Sky Sport 1 - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
-        "Sky Sport 1 UHD - LIVE: PREM: Red Bulls v Tigers - 19:40 03/10/2026",
-        "Sky Sport 2 - LIVE: World Grand Prix Darts: D6 - 20:00 03/10/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 3 - 22:00 03/10/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 3 - 22:00 03/10/2026",
         "Sky Sport 2 - LIVE: NPC: Taranaki v Wellington - 02:00 04/10/2026",
@@ -2109,16 +2099,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 2 | Burton vs Huddersfield",
-        "Sky Sports+ 3 | Leyton Orient vs Plymouth",
-        "Sky Sports+ 4 | Accrington vs Cheltenham",
-        "Sky Sports+ 5 | Crewe vs Bristol Rovers",
-        "Sky Sports+ 6 | Exeter vs Rotherham",
-        "Sky Sports+ 7 | Gillingham vs Newport",
-        "Sky Sports+ 8 | Grimsby vs Shrewsbury",
-        "Sky Sports+ 9 | Rochdale vs Swindon",
-        "Sky Sports+ 10 | Salford vs Fleetwood",
-        "Sky Sports+ 16 | Colchester vs Luton",
         "Accrington vs Salford",
         "Blackpool vs Crewe",
         "Cambridge U vs Northampton",
@@ -2146,7 +2126,6 @@
       "status": "ok",
       "fixtures": [
         "Sportsnet 05 : Grand Final - Warrington Wolves vs. Wakefield Trinity - Sat 03/10 5:00pm",
-        "Sportsnet 07 : Gloucester Rugby vs. Harlequins - Sat 03/10 5:20pm",
         "Sportsnet 01 : ALDS - Chicago White Sox @ Cleveland - Game 1 - Sat 03/10 6:00pm",
         "Sportsnet 02 : Newcastle Red Bulls vs. Leicester Tigers - Sat 03/10 7:35pm",
         "Sportsnet 03 : NLDS - Atlanta @ Los Angeles Dodgers - Game 1 - Sat 03/10 9:00pm",
@@ -2167,7 +2146,9 @@
         "Sportsnet 02 : St. Louis @ Colorado - Sun 04/10 2:00am",
         "Sportsnet 18 : Calgary @ Vancouver - Sun 04/10 3:00am",
         "Sportsnet 17 : Los Angeles @ San Jose - Sun 04/10 3:00am",
-        "Sportsnet 03 : Grand Prix of Japan - Sun 04/10 5:15am"
+        "Sportsnet 03 : Grand Prix of Japan - Sun 04/10 5:15am",
+        "Sportsnet 04 : Women's NRL - Grand Final - Roosters vs. Broncos - Sun 04/10 5:50am",
+        "Sportsnet 01 : Grand Final - Roosters vs. Knights - Sun 04/10 9:00am"
       ],
       "sections": [],
       "events": []
@@ -2178,8 +2159,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 06 : Bristol v Northampton - PREM Rugby Round 2 2026/27 - Sat 03/10 3:00pm",
-        "Stan 03 : Gloucester v Harlequins - PREM Rugby Round 2 2026/27 - Sat 03/10 5:25pm",
+        "Stan 03 : Gloucester v Harlequins - PREM Rugby Round 2 2026/27 - Sat 03/10 5:27pm",
         "Stan 04 : Cross-country Olympic: Lake Placid - UCI Mountain Bike World Series 2026 - Sat 03/10 6:45pm",
         "Stan 05 : Newcastle v Leicester - PREM Rugby Round 2 2026/27 - Sat 03/10 7:40pm",
         "Stan 01 : Kansas City Current v Bay FC - NWSL 2026 - Sat 03/10 11:25pm",
@@ -2235,7 +2215,11 @@
         "Stan 01 : Men's Elite - UCI Gravel World Championships 2026 - Sun 11/10 3:00am",
         "Stan 02 : Chiba v Nagasaki - J.League 2026 - Sun 11/10 5:55am",
         "Stan 03 : Gwangju v Ulsan - K League 2026 - Sun 11/10 5:55am",
-        "Stan 04 : Kawasaki Frontale v Nagoya Grampus - J.League 2026 - Sun 11/10 7:55am"
+        "Stan 04 : Kawasaki Frontale v Nagoya Grampus - J.League 2026 - Sun 11/10 7:55am",
+        "Stan 01 : Beijing: Day 12 - WTA 1000 - Sun 11/10 12:30pm",
+        "Stan 02 : Crystal Palace v Nottingham Forest - Premier League Matchweek 6 2026/2027 - Sun 11/10 1:00pm",
+        "Stan 03 : Hull City v Everton - Premier League Matchweek 6 2026/2027 - Sun 11/10 1:50pm",
+        "Stan 04 : Sale v Harlequins - PREM Rugby Round 3 2026/27 - Sun 11/10 2:55pm"
       ],
       "sections": [],
       "events": []
@@ -2255,8 +2239,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : NCAA Football: Notre Dame vs. North Carolina - Sat 03/10 5:00pm",
-        "TSN 03 : NCAA Football: UCF vs. Houston - Sat 03/10 5:00pm",
         "TSN 07 : NCAA Football: Vanderbilt vs. Georgia - Sat 03/10 5:45pm",
         "TSN 01 : 2026 NASCAR ORAP Series Practice & Qualifying: Focused Health 302 - Sat 03/10 7:00pm",
         "TSN 04 : NCAA Football: Auburn vs. Tennessee - Sat 03/10 8:30pm",
