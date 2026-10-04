@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-04T17:00:44.257943+00:00",
+  "scraped_at": "2026-10-04T19:54:50.699119+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -25,6 +25,10 @@
             },
             {
               "type": "fixture",
+              "text": "SPORTS SCENE 01 - 19:45-21:45 - UEFA Nations League: Ireland Republic vs Israel 1080p"
+            },
+            {
+              "type": "fixture",
               "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Greece vs Germany 1080p"
             },
             {
@@ -47,10 +51,6 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 03 - 9am MotoPlayground Race Ponca City"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 2:30pmGNCC Mason"
             },
             {
               "type": "fixture",
@@ -91,12 +91,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27 E9 -Man City vs Arsenal[Live] [HK]",
-        "EVENT 04 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27: Man City vs Arsenal [SG]",
-        "EVENT 13 - 04-Oct 04:25PM-06:30PM - Barclay's WSL '26/27 E15 -Manchester City v Arsenal[Live] [HK]",
-        "EVENT 03 - 04-Oct 05:22PM-07:30PM - LaLiga 2 2026/27: Las Palmas vs Valladolid [SG]",
         "EVENT 03 - 04-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Girona vs Mallorca [SG]",
-        "EVENT 01 - 04-Oct 10:00PM-12:00AM - USL Superleague '26 E5 -Tampa Bay Sun FC v Lexington SC[Live] [HK]"
+        "EVENT 01 - 04-Oct 10:00PM-12:00AM - USL Superleague '26 E5 -Tampa Bay Sun FC v Lexington SC[Live] [HK]",
+        "EVENT 01 - 06-Oct 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs Malawi [SG]",
+        "EVENT 02 - 06-Oct 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E46 -Angola vs Malawi[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1168,9 +1166,10 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: BBC Weather Live - 04/10/2026 06:01 - 21:03",
         "BBC Events 03 - no_brand_title: German Chancellor Makes Unannounced Visit to Kyiv - 04/10/2026 07:04 - 06:36",
+        "BBC Events 04 - UEFA Nations League: UEFA Nations League: Wales v Denmark - 04/10/2026 19:10 - 23:00",
         "BBC Events 05 - no_brand_title: Burnham Scraps Controversial Plans to Curb Jury Trials - 04/10/2026 06:05 - 04:20",
-        "BBC Events 06 - Autumnwatch: Autumn Calm - 04/10/2026 16:00 - 19:08",
-        "BBC Events 07 - Sportscene: Scottish Women's Premier League: Sportscene: Partick Thistle v Rangers - 04/10/2026 15:53 - 18:05"
+        "BBC Events 06 - Women's Super League: Manchester United v Liverpool - 04/10/2026 20:15 - 22:39",
+        "BBC Events 07 - no_brand_title: Live eleições 1º turno - BBC News Brasil - 04/10/2026 20:09 - 04:00"
       ],
       "sections": [],
       "events": []
@@ -1382,12 +1381,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 13:20 - Barclays Women's Super League: Tottenham vs. London City",
-        "Paramount+ Event 02 - 13:20 - Barclays Women's Super League: Aston Villa vs. Crystal Palace",
-        "Paramount+ Event 03 - 13:20 - Barclays Women's Super League: Brighton vs. Charlton Athletic",
-        "Paramount+ Event 04 - 13:20 - Barclays Women's Super League: West Ham United vs. Chelsea",
-        "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: Everton vs. Birmingham City",
-        "Paramount+ Event 06 - 15:30 - Barclays Women's Super League: Man. City vs. Arsenal"
+        "Paramount+ Event 01 - 15:30 - Barclays Women's Super League: Man. City vs. Arsenal"
       ],
       "sections": [],
       "events": []
@@ -1415,10 +1409,12 @@
       "last_updated": "Last updated: Sun 04 Oct 2026 05:00:09 UK",
       "status": "ok",
       "fixtures": [
-        "Flo Rugby 01 - Premiership Rugby: Saracens F.C. vs Sale Sharks - 04 Oct 15:00 UK / 10:00 ET / 07:00 PT",
         "Flo Rugby 02 - FloCollege: AIC vs Syracuse - 04 Oct 18:00 UK / 13:00 ET / 10:00 PT",
         "Flo Rugby 03 - French Top 14: Montpellier vs Toulon - 04 Oct 20:05 UK / 15:05 ET / 12:05 PT",
-        "Flo Rugby 01 - FloCollege: Davenport vs McKendree - 09 Oct 15:00 UK / 10:00 ET / 07:00 PT"
+        "Flo Rugby 01 - FloCollege: Davenport vs McKendree - 09 Oct 15:00 UK / 10:00 ET / 07:00 PT",
+        "Flo Rugby 03 - United Rugby Championship: Dragons vs Ospreys Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT",
+        "Flo Rugby 02 - United Rugby Championship: Glasgow Warriors vs Connacht Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT",
+        "Flo Rugby 04 - Premiership Rugby: Leicester Tigers vs Gloucester Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT"
       ],
       "sections": [],
       "events": []
@@ -1429,8 +1425,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 4 - 19:00 04/10/2026",
-        "Sky Sport 3 - LIVE: World Grand Prix Darts: D7 F - 20:00 04/10/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 22:00 04/10/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 22:00 04/10/2026",
         "Sky Sport 1 - LIVE: India v West Indies: 1st T20 - 14:20 06/10/2026",
@@ -1527,7 +1521,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Manchester City vs. Arsenal - Sun 04/10 4:20pm",
         "Sportsnet 08 : Winnipeg @ Detroit - Sun 04/10 6:00pm",
         "Sportsnet 02 : NLDS - San Diego @ Milwaukee - Game 2 - Sun 04/10 9:00pm",
         "Sportsnet 01 : Utah @ New York Rangers - Sun 04/10 11:00pm",
@@ -1545,7 +1538,14 @@
         "Sportsnet 01 : The FAN Pregame: Oct. 5 - Mon 05/10 11:00pm",
         "Sportsnet 05 : Ottawa @ Boston - Tue 06/10 12:00am",
         "Sportsnet 03 : Philadelphia @ Tampa Bay - Tue 06/10 12:00am",
-        "Sportsnet 06 : Winnipeg @ Pittsburgh - Tue 06/10 12:00am"
+        "Sportsnet 06 : Winnipeg @ Pittsburgh - Tue 06/10 12:00am",
+        "Sportsnet 08 : ALDS - New York Yankees @ Tampa Bay - Game 2 - Tue 06/10 1:00am",
+        "Sportsnet 07 : San Jose @ Dallas - Tue 06/10 1:00am",
+        "Sportsnet 01 : Sportsnet Central: Oct. 5 - Tue 06/10 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 6 - Tue 06/10 2:00pm",
+        "Sportsnet 02 : The FAN Hockey Show: Oct. 6 - Tue 06/10 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Oct. 6 - Tue 06/10 7:00pm",
+        "Sportsnet 03 : Blair & Barker: Oct. 6 - Tue 06/10 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -1556,11 +1556,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 11 : Race 3 (Open & MXGP) - France Motocross of Nations 2026 - Sun 04/10 2:55pm",
-        "Stan 12 : Saracens v Sale - PREM Rugby Round 2 2026/27 - Sun 04/10 2:56pm",
-        "Stan 01 : Manchester City v Arsenal - WSL 2026/27 - Sun 04/10 4:20pm",
-        "Stan 13 : Gotham FC v Angel City FC - NWSL 2026 - Sun 04/10 5:00pm",
         "Stan 02 : Downhill: Lake Placid - UCI Mountain Bike World Series 2026 - Sun 04/10 5:45pm",
+        "Stan 13 : Gotham FC v Angel City FC - NWSL 2026 - Sun 04/10 6:01pm",
         "Stan 01 : Beijing: Day 6 - WTA 1000 - Mon 05/10 4:00am",
         "Stan 01 : Beijing: Day 7 - WTA 1000 - Tue 06/10 4:00am",
         "Stan 01 : Beijing: Day 8 - WTA 1000 - Wed 07/10 6:00am",
@@ -1609,7 +1606,16 @@
         "Stan 03 : Football Zone: MD2 Wednesday - UEFA Champions League 2026/27 - Tue 13/10 7:40pm",
         "Stan 05 : Arsenal v Lille - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
         "Stan 04 : Atlético de Madrid v Manchester United - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
-        "Stan 06 : Galatasaray v Barcelona - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm"
+        "Stan 06 : Galatasaray v Barcelona - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 09 : Internazionale v Club Brugge - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 07 : RB Leipzig v PSV - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 10 : Viking v Bayern München - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 08 : Villarreal v Napoli - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 01 : Wuhan: Day 3 - WTA 1000 - Wed 14/10 4:00am",
+        "Stan 02 : Manchester City U19 v PSG U19 - UEFA Youth League 2026/2027 - Wed 14/10 2:55pm",
+        "Stan 04 : Feyenoord v Como - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
+        "Stan 03 : LASK v Liverpool - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
+        "Stan 01 : Football Zone: MD2 Thursday - UEFA Champions League 2026/27 - Wed 14/10 7:40pm"
       ],
       "sections": [],
       "events": []
