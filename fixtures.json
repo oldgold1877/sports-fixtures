@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-04T12:59:37.596289+00:00",
+  "scraped_at": "2026-10-04T15:38:48.769180+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -91,9 +91,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27 E34 -West Ham vs Chelsea[Live] [HK]",
-        "EVENT 04 - 04-Oct 01:50PM-04:00PM - Women's Super League 2026/27: West Ham vs Chelsea [SG]",
-        "EVENT 13 - 04-Oct 01:55PM-04:00PM - Barclay's WSL '26/27 E14 -West Ham United v Chelsea[Live] [HK]",
         "EVENT 02 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27 E9 -Man City vs Arsenal[Live] [HK]",
         "EVENT 04 - 04-Oct 04:20PM-06:30PM - Women's Super League 2026/27: Man City vs Arsenal [SG]",
         "EVENT 13 - 04-Oct 04:25PM-06:30PM - Barclay's WSL '26/27 E15 -Manchester City v Arsenal[Live] [HK]",
@@ -1073,6 +1070,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "06:00",
+          "name": "CHINA OPEN",
+          "datetime": "2026-10-05 06:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "08:00",
           "name": "JAPAN OPEN",
           "datetime": "2026-10-05 08:00:00",
@@ -1157,10 +1166,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Major League Baseball: Los Angeles Dodgers v Atlanta Braves - 04/10/2026 13:00 - 15:59",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 04/10/2026 06:01 - 21:03",
         "BBC Events 03 - no_brand_title: German Chancellor Makes Unannounced Visit to Kyiv - 04/10/2026 07:04 - 06:36",
-        "BBC Events 05 - no_brand_title: Burnham Scraps Controversial Plans to Curb Jury Trials - 04/10/2026 06:05 - 04:20"
+        "BBC Events 04 - no_brand_title: Kemi Badenoch Opens Party Conference - 04/10/2026 14:48 - 17:24",
+        "BBC Events 05 - no_brand_title: Burnham Scraps Controversial Plans to Curb Jury Trials - 04/10/2026 06:05 - 04:20",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 04/10/2026 16:00 - 19:08",
+        "BBC Events 07 - Sportscene: Scottish Women's Premier League: Sportscene: Partick Thistle v Rangers - 04/10/2026 15:53 - 18:05"
       ],
       "sections": [],
       "events": []
@@ -1378,7 +1389,7 @@
         "Paramount+ Event 04 - 13:20 - Barclays Women's Super League: Brighton vs. Charlton Athletic",
         "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: West Ham United vs. Chelsea",
         "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Everton vs. Birmingham City",
-        "Paramount+ Event 07 - 15:30 - Barclays Womens Super League: Man. City vs. Arsenal"
+        "Paramount+ Event 07 - 15:30 - Barclays Women's Super League: Man. City vs. Arsenal"
       ],
       "sections": [],
       "events": []
@@ -1403,12 +1414,13 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "",
+      "last_updated": "Last updated: Sun 04 Oct 2026 05:00:09 UK",
       "status": "ok",
       "fixtures": [
-        "FLORUGBY 00 - 04/10/2026 - 15:00 - 2026 Saracens F.C. vs Sale Sharks",
-        "FLORUGBY 01 - 04/10/2026 - 18:00 - 2026 American International vs Syracuse - Mens",
-        "FLORUGBY 00 - 04/10/2026 - 20:05 - 2026 Montpellier vs Toulon"
+        "Flo Rugby 01 - Premiership Rugby: Saracens F.C. vs Sale Sharks - 04 Oct 15:00 UK / 10:00 ET / 07:00 PT",
+        "Flo Rugby 02 - FloCollege: AIC vs Syracuse - 04 Oct 18:00 UK / 13:00 ET / 10:00 PT",
+        "Flo Rugby 03 - French Top 14: Montpellier vs Toulon - 04 Oct 20:05 UK / 15:05 ET / 12:05 PT",
+        "Flo Rugby 01 - FloCollege: Davenport vs McKendree - 09 Oct 15:00 UK / 10:00 ET / 07:00 PT"
       ],
       "sections": [],
       "events": []
@@ -1419,9 +1431,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: PREM: Saracens v Sale Sharks - 14:55 04/10/2026",
-        "Sky Sport 1 UHD - LIVE: PREM: Saracens v Sale Sharks - 14:55 04/10/2026",
-        "Sky Sport Select - LIVE: WSL: Man City v Arsenal - 16:20 04/10/2026",
         "Sky Sport 5 - LIVE: PGA Champions Tour: R3 - 17:00 04/10/2026",
         "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 4 - 19:00 04/10/2026",
         "Sky Sport 3 - LIVE: World Grand Prix Darts: D7 F - 20:00 04/10/2026",
@@ -1430,14 +1439,14 @@
         "Sky Sport 1 - LIVE: India v West Indies: 1st T20 - 14:20 06/10/2026",
         "Sky Sport 1 UHD - LIVE: India v West Indies: 1st T20 - 14:20 06/10/2026",
         "Sky Sport 4 - LIVE: SS: Victoria v S Australia D1 - 00:25 07/10/2026",
-        "Sky Sport 6 - LIVE: SS: Victoria v S Australia D2 - 00:25 08/10/2026",
         "Sky Sport 5 - LIVE: SS: NSW v Tasmania D1 - 00:25 08/10/2026",
+        "Sky Sport 6 - LIVE: SS: Victoria v S Australia D2 - 00:25 08/10/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 04:00 08/10/2026",
         "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 13:00 08/10/2026",
         "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 13:00 08/10/2026",
         "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 1 - 20:00 08/10/2026",
-        "Sky Sport 7 - LIVE: SS: NSW v Tasmania D2 - 00:25 09/10/2026",
         "Sky Sport 6 - LIVE: SS: Victoria v S Australia D3 - 00:25 09/10/2026",
+        "Sky Sport 7 - LIVE: SS: NSW v Tasmania D2 - 00:25 09/10/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 2 - 04:00 09/10/2026",
         "Sky Sport 4 - LIVE: Australia v Bangladesh: 1st ODI - 04:15 09/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Pouakai v Whai - 06:30 09/10/2026",
@@ -1447,9 +1456,9 @@
         "Sky Sport 6 - LIVE: AFLW: Western Bulldogs v Essendon - 09:00 09/10/2026",
         "Sky Sport 1 - LIVE: FIA F1: Singapore GP Practice - 09:05 09/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Singapore GP Practice - 09:05 09/10/2026",
-        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 13:00 09/10/2026",
         "Sky Sport 1 - LIVE: FIA F1: Singapore GP Sprint Qual - 13:00 09/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Singapore GP Sprint Qual - 13:00 09/10/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 2 - 13:00 09/10/2026",
         "Sky Sport 2 - LIVE: India v West Indies: 2nd T20 - 14:20 09/10/2026",
         "Sky Sport 1 - LIVE: The F1 Show:Singaporean Grand Prix - 15:00 09/10/2026",
         "Sky Sport 1 UHD - LIVE: The F1 Show:Singaporean Grand Prix - 15:00 09/10/2026",
@@ -1457,8 +1466,29 @@
         "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 2 - 20:00 09/10/2026",
         "Sky Sport 1 - LIVE: FPC: Championship Final - 00:00 10/10/2026",
         "Sky Sport 1 UHD - LIVE: FPC: Championship Final - 00:00 10/10/2026",
+        "Sky Sport 5 - LIVE: SS: NSW v Tasmania D3 - 00:25 10/10/2026",
         "Sky Sport 9 - LIVE: SS: Victoria v S Australia D4 - 00:25 10/10/2026",
-        "Sky Sport 5 - LIVE: SS: NSW v Tasmania D3 - 00:25 10/10/2026"
+        "Sky Sport 2 - LIVE: NPC: Quarterfinal 2 - 02:30 10/10/2026",
+        "Sky Sport 6 - LIVE: UCI Gravel Worlds: Women's Elite - 03:00 10/10/2026",
+        "Sky Sport 1 - LIVE: NPC: Quarterfinal 3 - 04:00 10/10/2026",
+        "Sky Sport 1 UHD - LIVE: NPC: Quarterfinal 3 - 04:00 10/10/2026",
+        "Sky Sport 4 - LIVE: PGA Tour: Round 3 - 04:00 10/10/2026",
+        "Sky Sport 7 - LIVE: AFLW: Port Adelaide v Eagles - 05:00 10/10/2026",
+        "Sky Sport 1 - LIVE: Bledisloe: All Blacks v Australia - 06:00 10/10/2026",
+        "Sky Sport 1 UHD - LIVE: Bledisloe: All Blacks v Australia - 06:00 10/10/2026",
+        "Sky Sport 7 - LIVE: AFLW: Geelong Cats v GWS Giants - 07:00 10/10/2026",
+        "Sky Sport 6 - LIVE: UCI BMX Racing World Cup: Rd7 - 08:00 10/10/2026",
+        "Sky Sport 7 - LIVE: AFLW: Richmond v Adelaide Crows - 09:00 10/10/2026",
+        "Sky Sport 2 - LIVE: FIA F1: Singapore GP Sprint Race - 09:00 10/10/2026",
+        "Sky Sport 4 - LIVE: ANZ PL Darts: Melbourne - 09:00 10/10/2026",
+        "Sky Sport Select - LIVE: DP World Tour: Round 3 - 12:30 10/10/2026",
+        "Sky Sport 1 - LIVE: FIA F1: Singapore GP Qualifying - 13:00 10/10/2026",
+        "Sky Sport 1 UHD - LIVE: FIA F1: Singapore GP Qualifying - 13:00 10/10/2026",
+        "Sky Sport 5 - LIVE: PL: Ipswich Town v Fulham - 14:50 10/10/2026",
+        "Sky Sport 6 - LIVE: PL: Sunderland v Brighton - 14:50 10/10/2026",
+        "Sky Sport 7 - LIVE: PL: Aston Villa v Brentford - 14:50 10/10/2026",
+        "Sky Sport 4 - LIVE: PL: Chelsea v Bournemouth - 14:50 10/10/2026",
+        "Sky Sport 2 - LIVE: PREM: Northampton Saints v Bath - 15:00 10/10/2026"
       ],
       "sections": [],
       "events": []
@@ -1523,7 +1553,8 @@
         "Sportsnet 02 : ALDS - Chicago White Sox @ Cleveland - Game 2 - Mon 05/10 10:00pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 5 - Mon 05/10 11:00pm",
         "Sportsnet 05 : Ottawa @ Boston - Tue 06/10 12:00am",
-        "Sportsnet 03 : Philadelphia @ Tampa Bay - Tue 06/10 12:00am"
+        "Sportsnet 03 : Philadelphia @ Tampa Bay - Tue 06/10 12:00am",
+        "Sportsnet 06 : Winnipeg @ Pittsburgh - Tue 06/10 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1534,17 +1565,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Spain v South Africa - WXV 2026 - Sun 04/10 10:51am",
-        "Stan 03 : Race 1 (MXGP & MX2) - France Motocross of Nations 2026 - Sun 04/10 12:00pm",
-        "Stan 04 : SS17 Sassari • Argentiera 2 (Wolf Power Stage) - WRC Italy 2026 - Sun 04/10 1:00pm",
         "Stan 05 : Race 2 (MX2 & Open) - France Motocross of Nations 2026 - Sun 04/10 1:30pm",
         "Stan 10 : Aston Villa v Crystal Palace - WSL 2026/27 - Sun 04/10 1:50pm",
         "Stan 09 : Brighton & Hove Albion v Charlton Athletic - WSL 2026/27 - Sun 04/10 1:50pm",
-        "Stan 08 : Everton v Birmingham City - WSL 2026/27 - Sun 04/10 1:50pm",
         "Stan 07 : Tottenham Hotspur v London City Lionesses - WSL 2026/27 - Sun 04/10 1:50pm",
         "Stan 06 : West Ham United v Chelsea - WSL 2026/27 - Sun 04/10 1:50pm",
+        "Stan 08 : Everton v Birmingham City - WSL 2026/27 - Sun 04/10 1:50pm",
         "Stan 11 : Race 3 (Open & MXGP) - France Motocross of Nations 2026 - Sun 04/10 2:55pm",
-        "Stan 12 : Saracens v Sale - PREM Rugby Round 2 2026/27 - Sun 04/10 2:55pm",
+        "Stan 12 : Saracens v Sale - PREM Rugby Round 2 2026/27 - Sun 04/10 2:56pm",
         "Stan 01 : Manchester City v Arsenal - WSL 2026/27 - Sun 04/10 4:20pm",
         "Stan 13 : Gotham FC v Angel City FC - NWSL 2026 - Sun 04/10 5:00pm",
         "Stan 02 : Downhill: Lake Placid - UCI Mountain Bike World Series 2026 - Sun 04/10 5:45pm",
@@ -1592,7 +1620,11 @@
         "Stan 01 : Coventry City v Newcastle United - Premier League Matchweek 6 2026/2027 - Mon 12/10 7:30pm",
         "Stan 01 : Wuhan: Day 2 - WTA 1000 - Tue 13/10 4:00am",
         "Stan 02 : Lens v Sporting CP - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 5:40pm",
-        "Stan 01 : Sabah v Slavia Praha - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 5:40pm"
+        "Stan 01 : Sabah v Slavia Praha - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 5:40pm",
+        "Stan 03 : Football Zone: MD2 Wednesday - UEFA Champions League 2026/27 - Tue 13/10 7:40pm",
+        "Stan 05 : Arsenal v Lille - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 04 : Atlético de Madrid v Manchester United - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
+        "Stan 06 : Galatasaray v Barcelona - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm"
       ],
       "sections": [],
       "events": []
@@ -1612,10 +1644,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 06 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #5 - Sun 04/10 4:00am",
         "TSN 09 : ATP 500 Tennis: Beijing - Quarterfinals - Sun 04/10 6:00am",
         "TSN 08 : ATP 500 Tennis: Beijing - Quarterfinals (Diamond) - Sun 04/10 6:00am",
-        "TSN 05 : ATP 500 Tennis: Beijing - Quarterfinals (Lotus) - Sun 04/10 12:00pm",
         "TSN 01 : NFL International Series: Colts vs. Commanders - Sun 04/10 2:30pm",
         "TSN 02 : NFL Fantasy Focus - Sun 04/10 3:00pm",
         "TSN 04 : NFL RedZone - Sun 04/10 6:00pm",
