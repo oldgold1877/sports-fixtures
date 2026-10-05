@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T17:00:48.513917+00:00",
+  "scraped_at": "2026-10-05T23:04:01.126843+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,34 +11,6 @@
         {
           "section": "Sports Scene",
           "entries": [
-            {
-              "type": "date",
-              "text": "Monday 5 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 19:45-21:45 - UEFA Nations League: Romania vs Sweden 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Bosnia and Herzegovina vs Poland 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: France vs Belgium 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League:  Northern Ireland vs Georgia 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 19:45-21:45 - UEFA Nations League: Ukraine vs Hungary 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 19:45-21:45 - UEFA Nations League: Italy vs Turkey 1080p"
-            },
             {
               "type": "date",
               "text": "Tuesday 6 October 2026"
@@ -111,242 +83,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "01:00",
-          "name": "COSTA RICA - HAITI",
-          "datetime": "2026-10-05 01:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "01:20",
-          "name": "CAROLINA PANTHERS - DETROIT LIONS",
-          "datetime": "2026-10-05 01:20:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "NICARAGUA - DOMINICAN REPUBLIC",
-          "datetime": "2026-10-05 03:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
-          "name": "CYPRUS - LATVIA",
-          "datetime": "2026-10-05 17:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "ITALY - TüRKIYE",
-          "datetime": "2026-10-05 19:45:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "23:00",
-          "name": "MARTINIQUE - EL SALVADOR",
-          "datetime": "2026-10-05 23:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "01:00",
-          "name": "LOS ANGELES DODGERS - ATLANTA BRAVES",
-          "datetime": "2026-10-05 01:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "22:00",
-          "name": "CLEVELAND GUARDIANS - CHICAGO WHITE SOX",
-          "datetime": "2026-10-05 22:00:00",
-          "channels": [
-            {
-              "name": "TBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "PHILADELPHIA 76ERS - NEW YORK KNICKS",
-          "datetime": "2026-10-06 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "01:00",
-          "name": "LOTTE CHAMPIONSHIP",
-          "datetime": "2026-10-05 01:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "00:30",
-          "name": "BOSTON BRUINS - OTTAWA SENATORS",
-          "datetime": "2026-10-06 00:30:00",
-          "channels": []
-        },
-        {
-          "sport": "TENNIS",
-          "time": "04:00",
-          "name": "CHINA OPEN",
-          "datetime": "2026-10-05 04:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "06:00",
-          "name": "CHINA OPEN",
-          "datetime": "2026-10-05 06:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "08:00",
-          "name": "JAPAN OPEN",
-          "datetime": "2026-10-05 08:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "10:40",
-          "name": "JIRI LEHECKA - VALENTIN VACHEROT",
-          "datetime": "2026-10-05 10:40:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:00",
-          "name": "JAPAN OPEN",
-          "datetime": "2026-10-05 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "13:30",
-          "name": "CHINA OPEN",
-          "datetime": "2026-10-05 13:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "01:30",
-          "name": "FLORIDA - KENTUCKY",
-          "datetime": "2026-10-05 01:30:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -538,6 +274,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "05:10",
+          "name": "LINDA NOSKOVA - EKATERINA ALEXANDROVA",
+          "datetime": "2026-10-06 05:10:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "06:00",
           "name": "JAPAN OPEN",
           "datetime": "2026-10-06 06:00:00",
@@ -587,19 +335,240 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "INDIANA - KENTUCKY",
+          "datetime": "2026-10-07 01:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "UNITED STATES - CANADA",
+          "datetime": "2026-10-07 01:00:00",
+          "channels": [
+            {
+              "name": "TNT US",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "03:00",
+          "name": "FRENCH GUYANA - BELIZE",
+          "datetime": "2026-10-07 03:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "16:00",
+          "name": "INTER TORONTO FC - SUPRA DU QUEBEC",
+          "datetime": "2026-10-07 16:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "FORGE FC - PACIFIC FC",
+          "datetime": "2026-10-08 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "FLORIDA INTERNATIONAL - NEW MEXICO STATE",
+          "datetime": "2026-10-08 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "02:30",
+          "name": "SAN DIEGO PADRES - MILWAUKEE BREWERS",
+          "datetime": "2026-10-07 02:30:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "21:00",
+          "name": "CHICAGO WHITE SOX - CLEVELAND GUARDIANS",
+          "datetime": "2026-10-07 21:00:00",
+          "channels": [
+            {
+              "name": "TBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "23:00",
+          "name": "ATLANTA BRAVES - LOS ANGELES DODGERS",
+          "datetime": "2026-10-07 23:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "09:30",
+          "name": "ADELAIDE - MELBOURNE UNITED",
+          "datetime": "2026-10-07 09:30:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:00",
+          "name": "INDIANA PACERS - MINNESOTA TIMBERWOLVES",
+          "datetime": "2026-10-08 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:30",
+          "name": "ATLANTA DREAM - NEW YORK LIBERTY",
+          "datetime": "2026-10-08 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "18:00",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-10-07 18:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FIGHTING",
+          "time": "01:00",
+          "name": "AEW DYNAMITE",
+          "datetime": "2026-10-07 01:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "03:00",
+          "name": "LOS ANGELES KINGS - FLORIDA PANTHERS",
+          "datetime": "2026-10-07 03:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:30",
+          "name": "WASHINGTON CAPITALS - PITTSBURGH PENGUINS",
+          "datetime": "2026-10-08 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "05:00",
+          "name": "SHANGHAI MASTERS",
+          "datetime": "2026-10-07 05:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "06:00",
+          "name": "CHINA OPEN",
+          "datetime": "2026-10-07 06:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "12:00",
+          "name": "CHINA OPEN",
+          "datetime": "2026-10-07 12:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Main Event UHD - Football Night in America - Episode 7 - Mon 05/10 12:30am",
-        "Sky Sports Main Event UHD - Live: NFL Football - Detroit Lions at Carolina Panthers - Mon 05/10 1:10am",
-        "Sky Sports Main Event UHD - Live Tennis: ATP & WTA China Open 2026 - Day 6 - Mon 05/10 4:45am",
-        "Sky Sports Main Event UHD - The Premier League Show - Episode 125 - Mon 05/10 5:00pm",
-        "Sky Sports Main Event UHD - Sports Centre - Mon 05/10 7:00pm",
-        "Sky Sports Main Event UHD - Lost Grounds - Coast to Coast - Mon 05/10 9:30pm",
-        "Sky Sports F1 UHD - GT World Challenge Europe Motor Racing - Barcelona: Highlights - Mon 05/10 10:00pm",
-        "Sky Sports Main Event UHD - Paper Talk - Mon 05/10 10:30pm"
+        "Sky Sports Main Event UHD - Live: NFL Football - Atlanta Falcons at New Orleans Saints - Tue 06/10 1:00am",
+        "Sky Sports Main Event UHD - Live Tennis: ATP & WTA China Open 2026 - WTA: Day 7 - Tue 06/10 4:30am",
+        "Sky Sports Main Event UHD - The Premier League Show - Episode 126 - Tue 06/10 5:00pm",
+        "Sky Sports Main Event UHD - Sports Centre - Tue 06/10 7:00pm",
+        "Sky Sports Main Event UHD - Paper Talk - Tue 06/10 10:30pm",
+        "Sky Sports Main Event UHD - Live Tennis: ATP Shanghai Masters 2026 - Day 1 - Wed 07/10 5:00am",
+        "Sky Sports Main Event UHD - Live Tennis - ATP Shanghai Masters & WTA China Open - Wed 07/10 6:00am",
+        "Sky Sports Main Event UHD - Lost Grounds - The Road to Wembley - Wed 07/10 9:30pm"
       ],
       "sections": [],
       "events": []
@@ -613,36 +582,8 @@
         "BBC Events 01 - no_brand_title: Jewish Groups Condemn Green Party 'Zionism' Vote - 05/10/2026 05:24 - 04:41",
         "BBC Events 02 - no_brand_title: Spanish Prime Minister Pedro Sanchez Makes Statement - 05/10/2026 07:52 - 07:51",
         "BBC Events 03 - no_brand_title: Phone In: Is Kemi Badenoch a Winner? - 05/10/2026 08:49 - 08:27",
-        "BBC Events 04 - The FA Cup: Third Round Qualifying: Brentwood Town v Dagenham & Redbridge - 05/10/2026 17:04 - 19:31",
-        "BBC Events 05 - no_brand_title: BBC Weather Live - 05/10/2026 06:26 - 20:00"
+        "BBC Events 04 - Autumnwatch: Autumn Calm - 06/10/2026 00:00 - 06:00"
       ],
-      "sections": [],
-      "events": []
-    },
-    {
-      "name": "CLUBBER TV",
-      "type": "plain",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": []
-    },
-    {
-      "name": "DAZN CA",
-      "type": "plain",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": []
-    },
-    {
-      "name": "DAZN UK",
-      "type": "plain",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -674,7 +615,9 @@
         "Euro Basketball League 03 : FC Bayern Munich vs Virtus Bologna - Thu 08/10 07:00pm",
         "Euro Basketball League 04 : Panathinaikos AKTOR Athens vs Fenerbahce Tarfin Istanbul - Thu 08/10 07:15pm",
         "Euro Basketball League 05 : Valencia Basket vs Hapoel IBI Tel Aviv - Thu 08/10 07:30pm",
-        "Euro Basketball League 06 : Real Madrid vs Partizan Mozzart Bet Belgrade - Thu 08/10 07:45pm"
+        "Euro Basketball League 06 : Real Madrid vs Partizan Mozzart Bet Belgrade - Thu 08/10 07:45pm",
+        "Euro Basketball League 01 : Olympiacos Piraeus vs Anadolu Efes Istanbul - Fri 09/10 07:15pm",
+        "Euro Basketball League 02 : Kosner Baskonia Vitoria-Gasteiz vs Besiktas Istanbul - Fri 09/10 07:30pm"
       ],
       "sections": [],
       "events": []
@@ -714,7 +657,14 @@
       "status": "ok",
       "fixtures": [
         "LOI 1 : Ireland U21 v England U21 (European Under-21 Championship 2027) - Tue 06/10 5:45pm",
-        "LOI 1 : Shamrock Rovers v Drogheda United (SSE Airtricity Men's Premier Division) - Thu 08/10 7:45pm"
+        "LOI 1 : Shamrock Rovers v Drogheda United (SSE Airtricity Men's Premier Division) - Thu 08/10 7:45pm",
+        "LOI 1 : Bohemians v Waterford (Club Orange Men's FAI Cup) - Fri 09/10 7:30pm",
+        "LOI 2 : Shelbourne v Sligo Rovers (SSE Airtricity Men's Premier Division) - Fri 09/10 7:30pm",
+        "LOI 3 : Athlone Town v Treaty United (SSE Airtricity Men's First Division) - Fri 09/10 7:35pm",
+        "LOI 4 : Bray Wanderers v Wexford (SSE Airtricity Men's First Division) - Fri 09/10 7:35pm",
+        "LOI 5 : Cobh Ramblers v Kerry (SSE Airtricity Men's First Division ) - Fri 09/10 7:35pm",
+        "LOI 6 : Cork City v Finn Harps (SSE Airtricity Men's First Division ) - Fri 09/10 7:35pm",
+        "LOI 7 : UCD v Longford Town (SEE Airtricity Men's First Division) - Fri 09/10 7:35pm"
       ],
       "sections": [],
       "events": []
@@ -821,7 +771,11 @@
       "status": "ok",
       "fixtures": [
         "PDC Darts 1 : European Tour 14 - Swiss Darts Trophy | Day 1 - Afternoon Session - European Tour - Main Feed - Fri 09/10 12:00pm",
-        "PDC Darts 2 : European Tour 15 - Swiss Darts Trophy | Day 1 - Evening Session - European Tour - Main Feed - Fri 09/10 6:00pm"
+        "PDC Darts 2 : European Tour 15 - Swiss Darts Trophy | Day 1 - Evening Session - European Tour - Main Feed - Fri 09/10 6:00pm",
+        "PDC Darts 1 : 2026 Dabble Darts ANZ Premier League | Night 3 - Melbourne - 2026 ANZ Premier League - Sat 10/10 10:00am",
+        "PDC Darts 2 : Womens Series 21 & 22 | Wigan - Woman's Series | Main feed - Sat 10/10 10:00am",
+        "PDC Darts 3 : European Tour 15 - Swiss Darts Trophy | Day 2 - Afternoon Session - European Tour - Main Feed - Sat 10/10 12:00pm",
+        "PDC Darts 4 : European Tour 15 - Swiss Darts Trophy | Day 2 - Evening Session - European Tour - Main Feed - Sat 10/10 6:00pm"
       ],
       "sections": [],
       "events": []
@@ -865,7 +819,9 @@
         "Flo Rugby 06 - Mid-South D1A Rugby: Life vs Navy - 10 Oct 17:00 UK / 12:00 ET / 09:00 PT",
         "Flo Rugby 08 - Premiership Rugby: Bristol Bears vs Saracens F.C. - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
         "Flo Rugby 09 - United Rugby Championship: Scarlets vs Benetton Rugby - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
-        "Flo Rugby 07 - United Rugby Championship: Ulster Rugby vs Munster Rugby - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT"
+        "Flo Rugby 07 - United Rugby Championship: Ulster Rugby vs Munster Rugby - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
+        "Flo Rugby 10 - United Rugby Championship: Leinster Rugby vs Cardiff - 10 Oct 19:45 UK / 14:45 ET / 11:45 PT",
+        "Flo Rugby 01 - FloCollege: AIC vs Brown - 11 Oct 00:00 UK / 19:00 ET / 16:00 PT"
       ],
       "sections": [],
       "events": []
@@ -1000,12 +956,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: Oct. 5 - Mon 05/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 5 - Mon 05/10 7:00pm",
-        "Sportsnet 03 : Blair & Barker: Oct. 5 - Mon 05/10 8:00pm",
-        "Sportsnet 04 : Kyper & Bourne: Oct. 5 - Mon 05/10 9:00pm",
         "Sportsnet 02 : ALDS - Chicago White Sox @ Cleveland - Game 2 - Mon 05/10 10:00pm",
-        "Sportsnet 01 : The FAN Pregame: Oct. 5 - Mon 05/10 11:00pm",
         "Sportsnet 05 : Ottawa @ Boston - Tue 06/10 12:00am",
         "Sportsnet 03 : Philadelphia @ Tampa Bay - Tue 06/10 12:00am",
         "Sportsnet 06 : Winnipeg @ Pittsburgh - Tue 06/10 12:00am",
@@ -1023,7 +974,12 @@
         "Sportsnet 03 : Dana White's Contender Series - Episode 9 - Wed 07/10 12:00am",
         "Sportsnet 06 : French Language Broadcast: Carolina @ Montreal - Wed 07/10 12:00am",
         "Sportsnet 07 : French Language Broadcast: Ottawa @ Detroit - Wed 07/10 12:00am",
-        "Sportsnet 08 : Minnesota @ Buffalo - Wed 07/10 12:00am"
+        "Sportsnet 08 : Minnesota @ Buffalo - Wed 07/10 12:00am",
+        "Sportsnet 10 : Nashville @ Toronto - Wed 07/10 12:00am",
+        "Sportsnet 09 : Ottawa @ Detroit - Wed 07/10 12:00am",
+        "Sportsnet 11 : Utah @ New Jersey - Wed 07/10 12:00am",
+        "Sportsnet 12 : New York Islanders @ New York Rangers - Wed 07/10 12:30am",
+        "Sportsnet 13 : St. Louis @ Chicago - Wed 07/10 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1091,6 +1047,7 @@
         "Stan 04 : Feyenoord v Como - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
         "Stan 03 : LASK v Liverpool - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
         "Stan 01 : Football Zone: MD2 Thursday - UEFA Champions League 2026/27 - Wed 14/10 7:40pm",
+        "Stan 07 : Aston Villa v Fenerbahçe - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 7:55pm",
         "Stan 05 : Manchester City v Paris Saint-Germain - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 7:55pm",
         "Stan 06 : Roma v Real Madrid - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 7:55pm"
       ],
@@ -1112,8 +1069,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 04 : Pat McAfee Show - Mon 05/10 5:00pm",
-        "TSN 01 : Rich Eisen Show - Mon 05/10 5:00pm",
         "TSN 01 : Monday Night Football with Peyton and Eli: Falcons vs. Saints - Tue 06/10 1:15am",
         "TSN 02 : WTA 1000 Tennis: Beijing - Round of 16 - Tue 06/10 4:00am",
         "TSN 03 : ATP 500 Tennis: Tokyo - Doubles Final - Tue 06/10 6:00am"
