@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T11:00:45.802263+00:00",
+  "scraped_at": "2026-10-05T15:28:05.985064+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -13,31 +13,35 @@
           "entries": [
             {
               "type": "fixture",
-              "text": "LIVE EVENT 02 - 6am ACA 208 Shaikhaev v Tumenov"
+              "text": "Live Football 01 : Latvia vs Cyprus 17:00 pm"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 03 - 9am MotoPlayground Race Ponca City"
+              "text": "Live Football 02 : Bosnia - Herzegovina vs Poland 19:45 pm"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 04 - 2:30pmGNCC Mason"
+              "text": "Live Football 03 : France vs Belgium 19:45 pm"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 05 - 5:15pmVermont Milk Bowl Thunder Road"
+              "text": "Live Football 04 : Italy vs Turkey 19:45 pm"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 06 - 1pm Championship Weekend Riverhead"
+              "text": "Live Football 05 : Montenegro vs Armenia 19:45 pm"
             },
             {
               "type": "fixture",
-              "text": "UEFA | 01 - Azerbaijan vs Lithuania 7:00pm"
+              "text": "Live Football 06 : Northan ireland vs Georgia 19:45 pm"
             },
             {
               "type": "fixture",
-              "text": "UEFA | 02 - Kososvo vs Austria 10:00pm"
+              "text": "Live Football 07 : Romania vs Sweden 19:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Ukraine vs Hungary 19:45 pm"
             }
           ]
         }
@@ -560,10 +564,10 @@
         "BBC Events 01 - no_brand_title: Jewish Groups Condemn Green Party 'Zionism' Vote - 05/10/2026 05:24 - 04:41",
         "BBC Events 02 - no_brand_title: Spanish Prime Minister Pedro Sanchez Makes Statement - 05/10/2026 07:52 - 07:51",
         "BBC Events 03 - no_brand_title: Phone In: Is Kemi Badenoch a Winner? - 05/10/2026 08:49 - 08:27",
-        "BBC Events 04 - no_brand_title: Northern Ireland Assembly - 05/10/2026 11:19 - 16:00",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 05/10/2026 06:26 - 20:00",
-        "BBC Events 06 - The FA Cup: Third Round Qualifying: Brentwood Town v Dagenham & Redbridge - 05/10/2026 10:00 - 12:27",
-        "BBC Events 07 - no_brand_title: Thomas Tuchel news conference - 05/10/2026 11:28 - 13:00"
+        "BBC Events 06 - no_brand_title: Northern Ireland Assembly - 05/10/2026 15:20 - 16:45",
+        "BBC Events 07 - no_brand_title: Shadow Chancellor Speaks at Conservative Party Conference - 05/10/2026 15:26 - 16:30",
+        "BBC Events 08 - Autumnwatch: Autumn Calm - 05/10/2026 12:30 - 17:00"
       ],
       "sections": [],
       "events": []
@@ -805,7 +809,12 @@
         "Flo Rugby 01 - FloCollege: Davenport vs McKendree - 09 Oct 15:00 UK / 10:00 ET / 07:00 PT",
         "Flo Rugby 03 - United Rugby Championship: Dragons vs Ospreys Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT",
         "Flo Rugby 02 - United Rugby Championship: Glasgow Warriors vs Connacht Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT",
-        "Flo Rugby 04 - Premiership Rugby: Leicester Tigers vs Gloucester Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT"
+        "Flo Rugby 04 - Premiership Rugby: Leicester Tigers vs Gloucester Rugby - 09 Oct 19:45 UK / 14:45 ET / 11:45 PT",
+        "Flo Rugby 01 - Currie Cup: Vodacom Bulls vs Fidelity SecureDrive Lions - 10 Oct 12:30 UK / 07:30 ET / 04:30 PT",
+        "Flo Rugby 02 - United Rugby Championship: Zebre Parma vs Edinburgh Rugby - 10 Oct 15:00 UK / 10:00 ET / 07:00 PT",
+        "Flo Rugby 03 - FloCollege: Davenport vs Lindenwood - 10 Oct 15:00 UK / 10:00 ET / 07:00 PT",
+        "Flo Rugby 04 - United Rugby Championship: DHL Stormers vs Hollywoodbets Sharks - 10 Oct 15:00 UK / 10:00 ET / 07:00 PT",
+        "Flo Rugby 05 - Premiership Rugby: Northampton Saints vs Bath Rugby - 10 Oct 15:05 UK / 10:05 ET / 07:05 PT"
       ],
       "sections": [],
       "events": []
@@ -925,7 +934,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 5 - Mon 05/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 5 - Mon 05/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 5 - Mon 05/10 7:00pm",
         "Sportsnet 03 : Blair & Barker: Oct. 5 - Mon 05/10 8:00pm",
@@ -1039,8 +1047,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 03 : WTA 1000 Tennis: Beijing - Early Round Coverage Day #6 - Mon 05/10 4:00am",
-        "TSN 02 : ATP 500 Tennis: Beijing - Semifinals - Mon 05/10 8:00am",
-        "TSN 01 : ATP 500 Tennis: Tokyo - Semifinals - Mon 05/10 8:00am",
         "TSN 04 : Pat McAfee Show - Mon 05/10 5:00pm",
         "TSN 01 : Rich Eisen Show - Mon 05/10 5:00pm",
         "TSN 01 : Monday Night Football with Peyton and Eli: Falcons vs. Saints - Tue 06/10 1:15am",
