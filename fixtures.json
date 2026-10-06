@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T17:00:59.996945+00:00",
+  "scraped_at": "2026-10-06T21:27:07.707165+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,31 +8,6 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Tuesday 6 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Switzerland vs North Macedonia 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: Croatia vs Spain 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: England vs Czech Republic 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 19:45-21:45 - UEFA Nations League: Scotland vs Slovenia 1080p"
-            }
-          ]
-        },
         {
           "section": "Live Events",
           "entries": [
@@ -58,10 +33,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "EVENT 01 - 06-Oct 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs Malawi [SG]",
-        "EVENT 02 - 06-Oct 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 E46 -Angola vs Malawi[Live] [HK]"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -575,14 +547,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: Cymru dan 21 v Awstria dan 21 - 06/10/2026 16:55 - 19:30",
         "BBC Events 02 - no_brand_title: Major School Protests Continue Across France - 06/10/2026 08:59 - 08:58",
         "BBC Events 03 - no_brand_title: no_episode_title - 06/10/2026 09:31 - 09:28",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 06/10/2026 06:39 - 20:30",
         "BBC Events 05 - no_brand_title: Surrounded by Snipers in Yemen School - 06/10/2026 08:08 - 08:03",
         "BBC Events 06 - no_brand_title: Rise in Babies in Care Raises Fears of Unnecessary Adoptions - 06/10/2026 06:26 - 03:13",
         "BBC Events 07 - no_brand_title: Phone In: Is Jeremy Clarkson Right About Pubs? - 06/10/2026 09:55 - 09:06",
-        "BBC Events 09 - no_brand_title: Wales U21 v Austria U21 - 06/10/2026 16:56 - 19:30"
+        "BBC Events 10 - Autumnwatch: Autumn Calm - 06/10/2026 18:00 - 00:00"
       ],
       "sections": [],
       "events": []
@@ -954,12 +924,12 @@
         "Sky Sports+ 18 | Shrewsbury vs Stockport",
         "Sky Sports+ 19 | Wimbledon vs Barnet",
         "Sky Sports+ 20 | Wycombe vs Bristol Rovers",
+        "Sky Sports+ 21 | Crawley vs Bromley",
         "Charlton vs Bristol City",
         "Notts County vs Oxford Utd",
         "Plymouth vs Wimbledon",
         "Oldham vs Accrington",
-        "Swindon vs Crewe",
-        "Crawley vs Bromley"
+        "Swindon vs Crewe"
       ],
       "sections": [],
       "events": []
@@ -970,9 +940,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: Oct. 6 - Tue 06/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 6 - Tue 06/10 7:00pm",
-        "Sportsnet 03 : Blair & Barker: Oct. 6 - Tue 06/10 8:00pm",
         "Sportsnet 04 : Kyper & Bourne: Oct. 6 - Tue 06/10 9:00pm",
         "Sportsnet 02 : NLDS - Los Angeles Dodgers @ Atlanta - Game 3 - Tue 06/10 10:30pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 6 - Tue 06/10 11:00pm",
@@ -993,7 +960,9 @@
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 7 - Wed 07/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 7 - Wed 07/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 7 - Wed 07/10 7:00pm",
-        "Sportsnet 03 : Blair & Barker: Oct. 7 - Wed 07/10 8:00pm"
+        "Sportsnet 03 : Blair & Barker: Oct. 7 - Wed 07/10 8:00pm",
+        "Sportsnet 05 : ALDS - Cleveland @ Chicago White Sox - Game 3 - Wed 07/10 9:00pm",
+        "Sportsnet 04 : Kyper & Bourne: Oct. 7 - Wed 07/10 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -1088,8 +1057,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : Pat McAfee Show - Tue 06/10 5:00pm",
-        "TSN 01 : Rich Eisen Show - Tue 06/10 5:00pm",
         "TSN 01 : NCAA Football: Southern Miss vs. Troy - Wed 07/10 1:00am",
         "TSN 02 : ATP 1000 Tennis: Shanghai - Day #1 (Court 4) - Wed 07/10 5:00am",
         "TSN 04 : ATP 1000 Tennis: Shanghai - Day #1 (Grandstand 2) - Wed 07/10 5:00am",
