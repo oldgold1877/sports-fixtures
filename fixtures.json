@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T17:41:55.045194+00:00",
+  "scraped_at": "2026-10-08T21:50:48.188911+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -22,6 +22,15 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Tampa Bay Buccaneers at Dallas Cowboys 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 8pm UFC BJJ 12 Moura v Fornarino"
             }
           ]
         }
@@ -72,7 +81,14 @@
         "EVENT 09 - 10-Oct 05:20PM-07:30PM - Bundesliga 2026/27 -Leipzig vs Frankfurt[Live] [HK]",
         "EVENT 12 - 10-Oct 05:20PM-07:30PM - Manchester United v Tottenham Hotspur (MW06) (111026) [SG]",
         "EVENT 08 - 10-Oct 05:25PM-07:40PM - LaLiga 2026/27: Barcelona vs Getafe [SG]",
-        "EVENT 10 - 10-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD08 -FC Barcelona vs Getafe CF[Live] [HK]"
+        "EVENT 10 - 10-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD08 -FC Barcelona vs Getafe CF[Live] [HK]",
+        "EVENT 01 - 10-Oct 07:25PM-09:30PM - Bundesliga 2 2026/27: Nuremberg vs Wolfsburg [SG]",
+        "EVENT 06 - 10-Oct 07:38PM-09:45PM - Serie A 2026/27 E53 -Napoli vs Frosinone[Live] [HK]",
+        "EVENT 07 - 10-Oct 07:40PM-09:45PM - Ligue 1 2026/27 -Monaco vs Toulouse[Live] [HK]",
+        "EVENT 11 - 10-Oct 07:40PM-09:45PM - Ligue 1 2026/27 E51 -PSG vs Le Mans[Live] [HK]",
+        "EVENT 04 - 10-Oct 07:55PM-10:00PM - LaLiga 2026/27: Real Madrid vs Villarreal [SG]",
+        "EVENT 08 - 10-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Real Madrid vs Villarreal CF[Live] [HK]",
+        "EVENT 01 - 10-Oct 10:00PM-01:00AM - UFC Fight Night 2026 FN 25: Prelims: Allen vs Duncan - FN 25: Prelims: Allen vs Duncan [SG]"
       ],
       "sections": [],
       "events": []
@@ -720,10 +736,9 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Households Almost £3,000 Worse Off Due to Inflation - 08/10/2026 08:50 - 08:00",
+        "BBC Events 02 - Question Time - 08/10/2026 22:29 - 23:40",
         "BBC Events 03 - Autumnwatch: Autumn Calm - 08/10/2026 18:00 - 00:00",
         "BBC Events 04 - no_brand_title: Parts of SE Asia Shrouded in Toxic Haze - 08/10/2026 03:32 - 01:49",
-        "BBC Events 05 - no_brand_title: no_episode_title - 08/10/2026 18:14 - 20:30",
-        "BBC Events 06 - no_brand_title: BBC Weather Live - 08/10/2026 06:05 - 19:00",
         "BBC Events 07 - no_brand_title: Asos Hack Update - 08/10/2026 11:02 - 11:01",
         "BBC Events 08 - no_brand_title: Burnham and Merz Hold a Press Conference in Berlin - 08/10/2026 11:09 - 11:00"
       ],
@@ -929,6 +944,7 @@
       "fixtures": [
         "Paramount+ Event 02 - 19:20 - English Football League: West Ham United vs. Queens Park Rangers",
         "Paramount+ Event 03 - 22:30 - Ufc: UFC Fight Night Preview Show: Allen vs. Duncan",
+        "Paramount+ Event 04 - 22:30 - Ufc: UFC Fight Night Preview Show: Allen vs. Duncan",
         "Paramount+ Event 02 - 11:50 - English Football League: West Bromwich Albion vs. Birmingham City",
         "Paramount+ Event 03 - 11:50 - English Football League: Swansea City vs. Norwich City",
         "Paramount+ Event 04 - 13:20 - Serie A: Genoa vs. Fiorentina",
@@ -1016,7 +1032,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: Korn Ferry Tour: Round 1 - 20:00 08/10/2026",
         "Sky Sport 7 - LIVE: SS: NSW v Tasmania D2 - 00:25 09/10/2026",
         "Sky Sport 6 - LIVE: SS: Victoria v S Australia D3 - 00:25 09/10/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 2 - 04:00 09/10/2026",
@@ -1125,9 +1140,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The FAN Hockey Show: Oct. 8 - Thu 08/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 8 - Thu 08/10 7:00pm",
-        "Sportsnet 03 : Blair & Barker: Oct. 8 - Thu 08/10 8:00pm",
         "Sportsnet 04 : Kyper & Bourne: Oct. 8 - Thu 08/10 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 8 - Thu 08/10 11:00pm",
         "Sportsnet 05 : Dallas @ Buffalo - Fri 09/10 12:00am",
@@ -1148,7 +1160,9 @@
         "Sportsnet 01 : Sportsnet Central: Oct. 8 - Fri 09/10 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 9 - Fri 09/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 9 - Fri 09/10 5:00pm",
-        "Sportsnet 03 : PSV Eindhoven vs. sc Heerenveen - Fri 09/10 6:50pm"
+        "Sportsnet 03 : PSV Eindhoven vs. sc Heerenveen - Fri 09/10 6:50pm",
+        "Sportsnet 01 : Frankly Hockey: Oct. 9 - Fri 09/10 7:00pm",
+        "Sportsnet 04 : Dragons vs. Ospreys  - Fri 09/10 7:35pm"
       ],
       "sections": [],
       "events": []
@@ -1242,12 +1256,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 06 : Pat McAfee Show - Thu 08/10 5:00pm",
-        "TSN 01 : Rich Eisen Show - Thu 08/10 5:00pm",
         "TSN 01 : NCAA Football: South Alabama vs. Arkansas State - Fri 09/10 12:30am",
         "TSN 02 : NCAA Football: South Florida vs. UTSA - Fri 09/10 12:30am",
         "TSN 05 : ATP 1000 Tennis: Shanghai - Day #3 (Court 4) - Fri 09/10 5:00am",
-        "TSN 03 : ATP 1000 Tennis: Shanghai - Day #3 (Court 7) - Fri 09/10 5:00am",
         "TSN 04 : ATP 1000 Tennis: Shanghai - Day #3 (Grandstand 2) - Fri 09/10 5:00am",
         "TSN 06 : ATP 1000 Tennis: Shanghai - Day #3 (Show Court 3) - Fri 09/10 5:00am",
         "TSN 07 : ATP 1000 Tennis: Shanghai - Day #3 (Stadium) - Fri 09/10 5:00am"
