@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-10T17:00:50.771916+00:00",
+  "scraped_at": "2026-10-10T20:30:09.556325+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,26 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 10 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 07 - 17:00-19:00 - Serie A: Internazionale vs Parma 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 17:30-19:30 - EPL: Manchester United vs Tottenham Hotspur 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:30-19:30 - EPL: Manchester United vs Tottenham Hotspur 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 17:30-19:30 - La Liga: Barcelona vs Getafe 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:30-19:30 - EPL: Manchester United vs Tottenham Hotspur 720p"
             },
             {
               "type": "fixture",
@@ -54,6 +34,18 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 09 - 01:00-05:00 - Boxing: Schofield vs. Bahdi 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 18:30-23:00 - BKB 60"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 18:30-22:30 - Boxing: Misfits"
             }
           ]
         },
@@ -151,15 +143,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 10-Oct 04:30PM-06:15PM - Ligue 1 2026/27 (Join In Progress) E47 -Lille vs Le Havre[Live] [HK]",
-        "EVENT 03 - 10-Oct 04:53PM-07:00PM - Serie A 2026/27 E52 -Inter vs Parma[Live] [HK]",
-        "EVENT 04 - 10-Oct 05:00PM-07:30PM - Premier League 26/27 -Manchester United vs Tottenham Hotspur[Live] [HK]",
-        "EVENT 05 - 10-Oct 05:15PM-07:00PM - Super Lig 2026/27 [Join in Progress]: Rizespor vs Fenerbahce [SG]",
-        "EVENT 07 - 10-Oct 05:20PM-07:30PM - Bundesliga 2026/27 -Leipzig vs Frankfurt[Live] [HK]",
-        "EVENT 08 - 10-Oct 05:20PM-07:25PM - Bundesliga 2026/27: Leipzig vs Frankfurt [SG]",
-        "EVENT 09 - 10-Oct 05:20PM-07:30PM - Manchester United v Tottenham Hotspur (MW06) [SG]",
-        "EVENT 10 - 10-Oct 05:25PM-07:40PM - LaLiga 2026/27: Barcelona vs Getafe [SG]",
-        "EVENT 01 - 10-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD08 -FC Barcelona vs Getafe CF[Live] [HK]",
         "EVENT 02 - 10-Oct 07:25PM-09:30PM - Bundesliga 2 2026/27: Nuremberg vs Wolfsburg [SG]",
         "EVENT 05 - 10-Oct 07:38PM-09:45PM - Serie A 2026/27 E53 -Napoli vs Frosinone[Live] [HK]",
         "EVENT 08 - 10-Oct 07:40PM-09:45PM - Ligue 1 2026/27 -Monaco vs Toulouse[Live] [HK]",
@@ -199,7 +182,13 @@
         "EVENT 06 - 11-Oct 07:55PM-10:00PM - LaLiga 2026/27: Racing de Santander vs Valencia [SG]",
         "EVENT 07 - 11-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Racing Club vs Valencia CF[Live] [HK]",
         "EVENT 03 - 12-Oct 12:20PM-02:30PM - Singapore Premier League 2026/27 Hougang United FC vs Balestier Khalsa FC - Hougang United FC vs Balestier Khalsa FC [SG]",
-        "EVENT 05 - 12-Oct 05:23PM-07:38PM - Serie A 2026/27 E59 -Atalanta vs Venezia[Live] [HK]"
+        "EVENT 05 - 12-Oct 05:23PM-07:38PM - Serie A 2026/27 E59 -Atalanta vs Venezia[Live] [HK]",
+        "EVENT 02 - 12-Oct 07:38PM-09:45PM - Serie A 2026/27 E60 -Torino vs Udinese[Live] [HK]",
+        "EVENT 03 - 12-Oct 07:50PM-10:00PM - Premier League 26/27 -Coventry City vs Newcastle United[Live] [HK]",
+        "EVENT 04 - 12-Oct 07:50PM-10:00PM - Coventry City v Newcastle United (MW06) [SG]",
+        "EVENT 06 - 12-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Tenerife vs Girona [SG]",
+        "EVENT 05 - 12-Oct 07:55PM-10:00PM - LaLiga 2026/27: Levante vs Sevilla [SG]",
+        "EVENT 07 - 12-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Levante UD vs Sevilla FC[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1014,6 +1003,18 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "03:00",
+          "name": "UTAH - KANSAS",
+          "datetime": "2026-10-11 03:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "03:30",
           "name": "ARIZONA STATE - HAWAI'I",
           "datetime": "2026-10-11 03:30:00",
@@ -1591,13 +1592,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: Sgorio: Y Fflint v Bae Colwyn - 10/10/2026 16:40 - 19:20",
+        "BBC Events 01 - Autumnwatch: Autumn Calm - 10/10/2026 20:35 - 00:00",
         "BBC Events 02 - no_brand_title: 台灣舉行雙十國慶大會 賴清德講話 - 10/10/2026 02:33 - 02:32",
         "BBC Events 03 - no_brand_title: India Protestors Meet Police Crack Down - 10/10/2026 09:51 - 09:06",
-        "BBC Events 04 - no_brand_title: Cymru Premier: Flint Town United v Colwyn Bay - 10/10/2026 16:40 - 19:20",
         "BBC Events 06 - no_brand_title: Life-Threatening Hurricane Isaias Makes Landfall in Florida - 10/10/2026 06:24 - 01:09",
         "BBC Events 07 - no_brand_title: MENA LIVE STREAMING - 10/10/202 عالم الظهيرة - 10/10/2026 12:18 - 12:17",
-        "BBC Events 09 - no_brand_title: BBC Weather Live - 10/10/2026 06:42 - 20:30",
+        "BBC Events 08 - Serie A: Napoli v Frosinone - 10/10/2026 19:11 - 21:45",
         "BBC Events 10 - no_brand_title: Polanski Vows to Stay as Green Leader Despite Criticism - 10/10/2026 06:52 - 02:43"
       ],
       "sections": [],
@@ -1801,17 +1801,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 11:50 - English Football League: West Bromwich Albion vs. Birmingham City",
-        "Paramount+ Event 02 - 11:50 - English Football League: Swansea City vs. Norwich City",
-        "Paramount+ Event 03 - 13:20 - Serie A: Genoa vs. Fiorentina",
-        "Paramount+ Event 04 - 14:00 - English Football League: Bolton Wanderers vs. Stoke City",
-        "Paramount+ Event 05 - 14:00 - English Football League: Leicester City vs. Peterborough United",
-        "Paramount+ Event 06 - 14:00 - English Football League: Bristol Rovers vs. Barnet",
-        "Paramount+ Event 07 - 14:00 - English Football League: Watford vs. Burnley",
-        "Paramount+ Event 08 - 14:00 - English Football League: Middlesbrough vs. Wolves",
-        "Paramount+ Event 09 - 14:00 - English Football League: Derby County vs. Wrexham",
-        "Paramount+ Event 10 - 16:20 - Serie A: Inter vs. Parma",
-        "Paramount+ Event 11 - 18:30 - Serie A: Napoli vs. Frosinone",
+        "Paramount+ Event 01 - 16:20 - Serie A: Inter vs. Parma",
+        "Paramount+ Event 02 - 18:30 - Serie A: Napoli vs. Frosinone",
         "Paramount+ Event 02 - 10:50 - Serie A: Como vs. Roma",
         "Paramount+ Event 03 - 11:20 - English Football League: Southampton vs. Portsmouth",
         "Paramount+ Event 04 - 11:25 - Scottish Professional Football League: Motherwell vs. Celtic",
@@ -1863,16 +1854,6 @@
       "last_updated": "Last updated: Sat 10 Oct 2026 05:00:05 UK",
       "status": "ok",
       "fixtures": [
-        "Flo Rugby 11 - French Top 14: Stade Francais vs Montpellier - 10 Oct 13:30 UK / 08:30 ET / 05:30 PT",
-        "Flo Rugby 04 - United Rugby Championship: DHL Stormers vs Hollywoodbets Sharks - 10 Oct 13:30 UK / 08:30 ET / 05:30 PT",
-        "Flo Rugby 02 - United Rugby Championship: Zebre Parma vs Edinburgh Rugby - 10 Oct 15:00 UK / 10:00 ET / 07:00 PT",
-        "Flo Rugby 03 - FloCollege: Davenport vs Lindenwood - 10 Oct 15:00 UK / 10:00 ET / 07:00 PT",
-        "Flo Rugby 05 - Premiership Rugby: Northampton Saints vs Bath Rugby - 10 Oct 15:05 UK / 10:05 ET / 07:05 PT",
-        "Flo Rugby 06 - FloRugby: Life vs Navy - 10 Oct 15:30 UK / 10:30 ET / 07:30 PT",
-        "Flo Rugby 15 - French Top 14: Pau vs Castres - 10 Oct 15:35 UK / 10:35 ET / 07:35 PT",
-        "Flo Rugby 14 - French Top 14: Lyon vs La Rochelle - 10 Oct 15:35 UK / 10:35 ET / 07:35 PT",
-        "Flo Rugby 13 - French Top 14: Perpignan vs RC Vannes - 10 Oct 15:35 UK / 10:35 ET / 07:35 PT",
-        "Flo Rugby 12 - French Top 14: Toulon vs Racing 92 - 10 Oct 15:35 UK / 10:35 ET / 07:35 PT",
         "Flo Rugby 08 - Premiership Rugby: Saracens F.C. vs Bristol Bears - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
         "Flo Rugby 09 - United Rugby Championship: Scarlets vs Benetton Rugby - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
         "Flo Rugby 07 - United Rugby Championship: Ulster Rugby vs Munster Rugby - 10 Oct 17:30 UK / 12:30 ET / 09:30 PT",
@@ -1891,7 +1872,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: PGA Champions Tour: R2 - 20:00 10/10/2026",
         "Sky Sport 7 - LIVE: SS: NSW v Tasmania D4 - 00:25 11/10/2026",
         "Sky Sport 2 - LIVE: NPC: Canterbury v Waikato QF4 - 01:30 11/10/2026",
         "Sky Sport 4 - LIVE: Rapid League: Kahu v Pouakai - 02:00 11/10/2026",
@@ -1963,8 +1943,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Saracens vs. Bristol Bears - Sat 10/10 5:20pm",
-        "Sportsnet 04 : Feyenoord vs. AZ Alkmaar - Sat 10/10 5:35pm",
         "Sportsnet 05 : Philadelphia @ Boston - Sat 10/10 6:00pm",
         "Sportsnet 02 : AFC Ajax vs. NEC - Sat 10/10 7:50pm",
         "Sportsnet 06 : Vancouver @ New Jersey - Sat 10/10 8:30pm",
@@ -1986,7 +1964,8 @@
         "Sportsnet 17 : Los Angeles @ Vegas - Sun 11/10 3:00am",
         "Sportsnet 01 : Grand Prix of Indonesia - Sun 11/10 7:15am",
         "Sportsnet 02 : Sportsnet Central: Oct. 10 - Sun 11/10 10:00am",
-        "Sportsnet 03 : FC Utrecht vs. Willem II - Sun 11/10 11:05am"
+        "Sportsnet 03 : FC Utrecht vs. Willem II - Sun 11/10 11:05am",
+        "Sportsnet 01 : Exeter Chiefs vs. Newcastle Red Bulls - Sun 11/10 2:50pm"
       ],
       "sections": [],
       "events": []
@@ -1997,15 +1976,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Ipswich Town v Fulham - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 04 : Aston Villa v Brentford - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 03 : Sunderland v Brighton & Hove Albion - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 02 : Chelsea v Bournemouth - Premier League Matchweek 6 2026/2027 - Sat 10/10 2:50pm",
-        "Stan 05 : Goal Rush: Chelsea v Bournemouth • 11 October - Premier League 2026/2027 - Sat 10/10 2:51pm",
-        "Stan 06 : Northampton v Bath - PREM Rugby Round 3 2026/27 - Sat 10/10 3:00pm",
-        "Stan 09 : 4K • Manchester United v Tottenham Hotspur - Premier League Matchweek 6 2026/2027 - Sat 10/10 5:20pm",
-        "Stan 08 : Manchester United v Tottenham Hotspur - Premier League Matchweek 6 2026/2027 - Sat 10/10 5:20pm",
-        "Stan 10 : Saracens v Bristol - PREM Rugby Round 3 2026/27 - Sat 10/10 5:25pm",
         "Stan 01 : Semi Final: PFL Africa 2026 - Sat 10/10 7:00pm",
         "Stan 07 : PL Saturday Wrap: Matchweek 6 - Oct 11 - Sat 10/10 8:00pm",
         "Stan 04 : Canterbury v Waikato - NPC Quarter Final 2026 - Sun 11/10 1:30am",
@@ -2052,11 +2022,17 @@
         "Stan 02 : Day 2 - UCI Track World Championships 2026 - Thu 15/10 9:55am",
         "Stan 05 : AZ v Hapoel Be'er Sheva - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
         "Stan 03 : Celje v Omonia Nicosia - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 08 : Gent v AGF - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 11 : Hajduk Split v Ajax - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 12 : KuPS v Trabzonspor - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
         "Stan 04 : Lech Poznań v Bayer 04 Leverkusen - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 09 : Lugano v Crvena zvezda - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
         "Stan 02 : Olympique Lyonnais v Crystal Palace - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
         "Stan 07 : Salzburg v Milan - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
         "Stan 01 : Sparta Praha v Lillestrøm - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 06 : Torreense v Sunderland - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm"
+        "Stan 06 : Torreense v Sunderland - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 13 : Union Saint-Gilloise v Real Sociedad - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 10 : Universitatea Craiova v Getafe - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm"
       ],
       "sections": [],
       "events": []
@@ -2076,8 +2052,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 09 : NCAA Football: UCF vs. Oklahoma State - Sat 10/10 5:00pm",
-        "TSN 10 : NCAA Football: South Carolina vs. Florida - Sat 10/10 5:45pm",
         "TSN 01 : LaLiga: Real Madrid vs. Villarreal - Sat 10/10 7:30pm",
         "TSN 04 : 2026 NASCAR O'Reilly Auto Parts Series Playoffs: Blue Cross NC 250 - Sat 10/10 8:30pm",
         "TSN 02 : NCAA Football: Duke vs. Georgia Tech - Sat 10/10 8:30pm",
