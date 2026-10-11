@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T11:00:52.011273+00:00",
+  "scraped_at": "2026-10-11T13:42:40.036398+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -107,9 +107,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 06 - 11-Oct 11:23AM-01:30PM - Serie A 2026/27 E54 -Como 1907 vs Roma[Live] [HK]",
-        "EVENT 05 - 11-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27 -St. Pauli vs Karlsruher[Live] [HK]",
-        "EVENT 08 - 11-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27: St. Pauli vs Karlsruher [SG]",
         "EVENT 09 - 11-Oct 12:55PM-03:10PM - LaLiga 2026/27: Elche vs Celta Vigo [SG]",
         "EVENT 10 - 11-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD08 -Elche CF vs Celta[Live] [HK]",
         "EVENT 02 - 11-Oct 01:30PM-04:00PM - Premier League 26/27 -Crystal Palace vs Nottingham Forest[Live] [HK]",
@@ -144,603 +141,21 @@
         "EVENT 04 - 12-Oct 07:50PM-10:00PM - Coventry City v Newcastle United (MW06) [SG]",
         "EVENT 06 - 12-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Tenerife vs Girona [SG]",
         "EVENT 05 - 12-Oct 07:55PM-10:00PM - LaLiga 2026/27: Levante vs Sevilla [SG]",
-        "EVENT 07 - 12-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Levante UD vs Sevilla FC[Live] [HK]"
+        "EVENT 07 - 12-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Levante UD vs Sevilla FC[Live] [HK]",
+        "EVENT 03 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E5 -Leipzig vs PSV - MD2[Live] [HK]",
+        "EVENT 04 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Leipzig vs PSV - MD2 [SG]"
       ],
       "sections": [],
       "events": []
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
+      "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
       "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "01:00",
-          "name": "PURDUE - MINNESOTA",
-          "datetime": "2026-10-11 01:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "01:10",
-          "name": "GEORGIA SOUTHERN - JAMES MADISON",
-          "datetime": "2026-10-11 01:10:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "02:30",
-          "name": "ARIZONA STATE - HAWAI'I",
-          "datetime": "2026-10-11 02:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "OAKLAND ROOTS - SAN ANTONIO FC",
-          "datetime": "2026-10-11 03:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:00",
-          "name": "UTAH - KANSAS",
-          "datetime": "2026-10-11 03:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:30",
-          "name": "ARIZONA STATE - HAWAI'I",
-          "datetime": "2026-10-11 03:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "03:30",
-          "name": "LOS ANGELES FC - VANCOUVER WHITECAPS",
-          "datetime": "2026-10-11 03:30:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "14:00",
-          "name": "CRYSTAL PALACE - NOTTINGHAM FOREST",
-          "datetime": "2026-10-11 14:00:00",
-          "channels": [
-            {
-              "name": "USA NETWORK",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "16:30",
-          "name": "LIVERPOOL FC - MANCHESTER CITY",
-          "datetime": "2026-10-11 16:30:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "GREEN BAY PACKERS - CHICAGO BEARS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "MIAMI DOLPHINS - CINCINNATI BENGALS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "NEW ENGLAND PATRIOTS - LAS VEGAS RAIDERS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "NEW ORLEANS SAINTS - MINNESOTA VIKINGS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "NEW YORK JETS - CLEVELAND BROWNS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "NORTHEASTERN - CAMPBELL",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "PITTSBURGH STEELERS - INDIANAPOLIS COLTS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "STONY BROOK - WILLIAM & MARY",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "SNY",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "18:00",
-          "name": "TENNESSEE TITANS - HOUSTON TEXANS",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:05",
-          "name": "LOS ANGELES CHARGERS - DENVER BRONCOS",
-          "datetime": "2026-10-11 21:05:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:25",
-          "name": "ARIZONA CARDINALS - DETROIT LIONS",
-          "datetime": "2026-10-11 21:25:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:25",
-          "name": "SEATTLE SEAHAWKS - SAN FRANCISCO 49ERS",
-          "datetime": "2026-10-11 21:25:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "00:00",
-          "name": "PACIFIC - ATLéTICO OTTAWA",
-          "datetime": "2026-10-12 00:00:00",
-          "channels": []
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "03:05",
-          "name": "HAWTHORN HAWKS - BRISBANE LIONS",
-          "datetime": "2026-10-11 03:05:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "AUSSIE RULES",
-          "time": "05:05",
-          "name": "SYDNEY SWANS - CARLTON BLUES",
-          "datetime": "2026-10-11 05:05:00",
-          "channels": [
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASEBALL",
-          "time": "01:00",
-          "name": "CLEVELAND GUARDIANS - CHICAGO WHITE SOX",
-          "datetime": "2026-10-11 01:00:00",
-          "channels": [
-            {
-              "name": "TBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:00",
-          "name": "BOSTON CELTICS - PHILADELPHIA 76ERS",
-          "datetime": "2026-10-11 01:00:00",
-          "channels": [
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "11:00",
-          "name": "HOUSTON ROCKETS - DALLAS MAVERICKS",
-          "datetime": "2026-10-11 11:00:00",
-          "channels": [
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "23:30",
-          "name": "CLEVELAND CAVALIERS - ORLANDO MAGIC",
-          "datetime": "2026-10-11 23:30:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "18:00",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "04:00",
-          "name": "BAYCURRENT CLASSIC",
-          "datetime": "2026-10-11 04:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "12:00",
-          "name": "OPEN DE ESPAñA",
-          "datetime": "2026-10-11 12:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "18:00",
-          "name": "KORN FERRY TOUR CHAMPIONSHIP",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "21:00",
-          "name": "CONSTELLATION FURYK & FRIENDS",
-          "datetime": "2026-10-11 21:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "01:30",
-          "name": "NEW MEXICO ICE WOLVES AT LONE STAR BRAHMAS",
-          "datetime": "2026-10-11 01:30:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "08:00",
-          "name": "GRAND PRIX OF INDONESIA",
-          "datetime": "2026-10-11 08:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "13:00",
-          "name": "SINGAPORE GRAND PRIX",
-          "datetime": "2026-10-11 13:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "MOTORSPORTS",
-          "time": "20:00",
-          "name": "BANK OF AMERICA 400",
-          "datetime": "2026-10-11 20:00:00",
-          "channels": [
-            {
-              "name": "USA NETWORK",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "05:00",
-          "name": "SHANGHAI MASTERS",
-          "datetime": "2026-10-11 05:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "09:00",
-          "name": "SHANGHAI MASTERS",
-          "datetime": "2026-10-11 09:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "11:00",
-          "name": "SHANGHAI MASTERS",
-          "datetime": "2026-10-11 11:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:30",
-          "name": "CHINA OPEN",
-          "datetime": "2026-10-11 12:30:00",
-          "channels": [
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:30",
-          "name": "SHANGHAI MASTERS",
-          "datetime": "2026-10-11 12:30:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "17:00",
-          "name": "PENN STATE - WASHINGTON",
-          "datetime": "2026-10-11 17:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "18:00",
-          "name": "LOUISVILLE - STANFORD",
-          "datetime": "2026-10-11 18:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "19:00",
-          "name": "INDIANA - SOUTHERN CAL",
-          "datetime": "2026-10-11 19:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "20:00",
-          "name": "SMU - PITTSBURGH",
-          "datetime": "2026-10-11 20:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "21:00",
-          "name": "OHIO STATE - MINNESOTA",
-          "datetime": "2026-10-11 21:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "23:00",
-          "name": "PURDUE - ILLINOIS",
-          "datetime": "2026-10-11 23:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
+      "events": []
     },
     {
       "name": "TOMORROWS EVENTS",
@@ -1003,7 +418,7 @@
         "BBC Events 02 - no_brand_title: BBC Weather Live - 11/10/2026 07:07 - 20:30",
         "BBC Events 03 - Autumnwatch: Autumn Calm - 11/10/2026 12:00 - 18:00",
         "BBC Events 04 - no_brand_title: 'Cockroach' Protest Leaders Released in Delhi - 11/10/2026 08:20 - 08:13",
-        "BBC Events 07 - no_brand_title: MENA LIVE STREAMING - 10/10/202 عالم الظهيرة - 10/10/2026 12:18 - 12:17"
+        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 11/10/202 عالم الظهيرة - 11/10/2026 12:02 - 12:01"
       ],
       "sections": [],
       "events": []
@@ -1061,12 +476,11 @@
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Sun Sep 06, 2026 7:00am BST",
+      "last_updated": "Last Updated: Sun Oct 11, 2026 1:54pm BST",
       "status": "ok",
       "fixtures": [
-        "GAA Plus 01: Armagh Club Football Championship - CLAN NA GAEL v CROSSMAGLEN RANGERS - Sun 06/09 2:00pm",
-        "GAA Plus 02: Dublin Club Football Championship - BALLYMUN KICKHAMS v ST. JUDES - Sun 06/09 4:00pm",
-        "GAA Plus 03: Clare Club Hurling Championship - KILMALEY v CLONLARA - Sun 13/09 4:45pm"
+        "GAA Plus 01: Westmeath Club Football Championship - NA DÚNTA v ST LOMAN'S MULLINGAR - Sun 11/10 2:00pm",
+        "GAA Plus 02: Tipperary Club Hurling Championship - MOYCARKEY-BORRIS v THURLES SARSFIELDS - Sun 11/10 4:00pm"
       ],
       "sections": [],
       "events": []
@@ -1254,10 +668,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: FIA F1: Singapore Grand Prix - 12:55 11/10/2026",
-        "Sky Sport 1 UHD - LIVE: FIA F1: Singapore Grand Prix - 12:55 11/10/2026",
-        "Sky Sport 5 - LIVE: PL: Hull City v Everton - 13:50 11/10/2026",
-        "Sky Sport 2 - LIVE: India v West Indies: 3rd T20 - 14:20 11/10/2026",
         "Sky Sport 4 - LIVE: PREM: Chiefs v Red Bulls - 14:55 11/10/2026",
         "Sky Sport 1 - LIVE: FIA F1: Singapore Chequered Flag - 15:00 11/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA F1: Singapore Chequered Flag - 15:00 11/10/2026",
@@ -1344,7 +754,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : FC Utrecht vs. Willem II - Sun 11/10 11:05am",
         "Sportsnet 01 : Exeter Chiefs vs. Newcastle Red Bulls - Sun 11/10 2:50pm",
         "Sportsnet 02 : Sale Sharks vs. Harlequins - Sun 11/10 2:50pm",
         "Sportsnet 01 : Seattle @ Washington - Sun 11/10 10:00pm",
