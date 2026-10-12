@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T11:00:58.809430+00:00",
+  "scraped_at": "2026-10-12T16:23:23.103667+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,33 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Monday 12 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Coventry City vs Newcastle United 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Coventry City vs Newcastle United 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 17:00-22:30 - Baller League"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,13 +42,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 12-Oct 12:20PM-02:30PM - Singapore Premier League 2026/27 Hougang United FC vs Balestier Khalsa FC - Hougang United FC vs Balestier Khalsa FC [SG]",
-        "EVENT 03 - 12-Oct 05:23PM-07:38PM - Serie A 2026/27 E59 -Atalanta vs Venezia[Live] [HK]",
+        "EVENT 04 - 12-Oct 05:23PM-07:38PM - Serie A 2026/27 E59 -Atalanta vs Venezia[Live] [HK]",
         "EVENT 02 - 12-Oct 07:38PM-09:45PM - Serie A 2026/27 E60 -Torino vs Udinese[Live] [HK]",
-        "EVENT 04 - 12-Oct 07:50PM-10:00PM - Premier League 26/27 -Coventry City vs Newcastle United[Live] [HK]",
+        "EVENT 03 - 12-Oct 07:50PM-10:00PM - Premier League 26/27 -Coventry City vs Newcastle United[Live] [HK]",
         "EVENT 05 - 12-Oct 07:50PM-10:00PM - Coventry City v Newcastle United (MW06) [SG]",
         "EVENT 06 - 12-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Tenerife vs Girona [SG]",
-        "EVENT 03 - 12-Oct 07:55PM-10:00PM - LaLiga 2026/27: Levante vs Sevilla [SG]",
+        "EVENT 04 - 12-Oct 07:55PM-10:00PM - LaLiga 2026/27: Levante vs Sevilla [SG]",
         "EVENT 07 - 12-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD08 -Levante UD vs Sevilla FC[Live] [HK]",
         "EVENT 03 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E5 -Leipzig vs PSV - MD2[Live] [HK]",
         "EVENT 04 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Leipzig vs PSV - MD2 [SG]",
@@ -36,9 +61,13 @@
         "EVENT 03 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 -Galatasaray vs Barcelona - MD2[Live] [HK]",
         "EVENT 05 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E35 -Arsenal vs Lille - MD2[Live] [HK]",
         "EVENT 07 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E36 -Atletico Madrid vs Man United - MD2[Live] [HK]",
-        "EVENT 10 - 13-Oct 07:55PM-10:00PM - Arsenal vs Lille - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 11 - 13-Oct 07:55PM-10:00PM - Atletico Madrid vs Man United - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 12 - 13-Oct 07:55PM-10:00PM - Galatasaray vs Barcelona - MD2 UEFA Champions League 2026/27 [SG]"
+        "EVENT 10 - 13-Oct 07:55PM-10:00PM - Arsenal vs Lille - MD2 UEFA Champions League 2026/27 (141026) [SG]",
+        "EVENT 11 - 13-Oct 07:55PM-10:00PM - Atletico Madrid vs Man United - MD2 UEFA Champions League 2026/27 (141026) [SG]",
+        "EVENT 12 - 13-Oct 07:55PM-10:00PM - Galatasaray vs Barcelona - MD2 UEFA Champions League 2026/27 [SG]",
+        "EVENT 03 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E7 -Roma vs Real Madrid - MD2[Live] [HK]",
+        "EVENT 04 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Roma vs Real Madrid - MD2 [SG]",
+        "EVENT 02 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E8 -Man City vs PSG - MD2[Live] [HK]",
+        "EVENT 05 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Man City vs PSG - MD2 [SG]"
       ],
       "sections": [],
       "events": []
@@ -164,10 +193,6 @@
             {
               "name": "FOX",
               "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -491,10 +516,11 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 12/10/2026 06:38 - 20:30",
+        "BBC Events 02 - no_brand_title: Yorkshire Wildlife Park Closed For Third Day - 12/10/2026 13:21 - 12:47",
         "BBC Events 03 - no_brand_title: Kanishka Narayan Plans For UK Resilience to AI Risks - 12/10/2026 10:53 - 10:38",
         "BBC Events 04 - no_brand_title: Phone in: Has Brexit Done More Harm Than Good? - 12/10/2026 09:55 - 09:08",
-        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 11/10/202 عالم الظهيرة - 11/10/2026 12:02 - 12:01",
-        "BBC Events 06 - no_brand_title: Farage and Yusuf Set Out Asylum Proposals in Hythe - 12/10/2026 10:55 - 07:59"
+        "BBC Events 06 - no_brand_title: Farage and Yusuf Set Out Asylum Proposals in Hythe - 12/10/2026 10:55 - 07:59",
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 12/10/2026 12:00 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -729,7 +755,16 @@
       "fixtures": [
         "Flo Rugby 01 - French Top 14: Bordeaux-Begles vs Gloucester Rugby - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
         "Flo Rugby 02 - United Rugby Championship: Dragons vs Perpignan - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 03 - French Top 14: Edinburgh Rugby vs Toulon - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT"
+        "Flo Rugby 03 - French Top 14: Edinburgh Rugby vs Toulon - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "Flo Rugby 03 - French Top 14: Stade Francais vs Vodacom Bulls - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 02 - United Rugby Championship: Glasgow Warriors vs Sale Sharks - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 01 - United Rugby Championship: Black Lion vs Ospreys Rugby - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 04 - French Top 14: Lyon vs Hollywoodbets Sharks - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 05 - French Top 14: Leinster Rugby vs Clermont - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "Flo Rugby 06 - United Rugby Championship: Zebre Parma vs Ulster Rugby - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "Flo Rugby 07 - Premiership Rugby: Bristol Bears vs DHL Stormers - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "Flo Rugby 08 - Premiership Rugby: Saracens F.C. vs Connacht Rugby - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
+        "Flo Rugby 09 - French Top 14: Fidelity SecureDrive Lions vs La Rochelle - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT"
       ],
       "sections": [],
       "events": []
@@ -746,18 +781,18 @@
         "Sky Sport 1 - LIVE: India v West Indies: 4th T20 - 14:20 14/10/2026",
         "Sky Sport 1 UHD - LIVE: India v West Indies: 4th T20 - 14:20 14/10/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 1 - 06:30 15/10/2026",
-        "Sky Sport 3 - LIVE: Gov. Gen XI v White Ferns T20 - 09:00 15/10/2026",
         "Sky Sport 1 - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
         "Sky Sport 1 UHD - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
+        "Sky Sport 3 - LIVE: Gov. Gen XI v White Ferns T20 - 09:00 15/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Australia v Kiwis: Te Reo - 09:50 15/10/2026",
         "Sky Sport 2 - LIVE: Reyes Cup: Day 1 - 12:00 15/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Queens v Whai - 06:30 16/10/2026",
-        "Sky Sport 3 - LIVE: ANZ PL Darts: Auckland - 07:00 16/10/2026",
         "Sky Sport 1 - LIVE: NPC: Northland v Otago SF1 - 07:00 16/10/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Northland v Otago SF1 - 07:00 16/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Samoa v France - 07:00 16/10/2026",
-        "Sky Sport 5 - LIVE: Tauihi: Queens v Whai - 07:30 16/10/2026",
+        "Sky Sport 3 - LIVE: ANZ PL Darts: Auckland - 07:00 16/10/2026",
         "Sky Sport 6 - LIVE: DP World Tour: Round 2 - 07:30 16/10/2026",
+        "Sky Sport 5 - LIVE: Tauihi: Queens v Whai - 07:30 16/10/2026",
         "Sky Sport 7 - LIVE: AFLW: Melbourne v Richmond - 09:00 16/10/2026",
         "Sky Sport 1 - LIVE: ALM: Sydney FC v Western Sydney - 09:10 16/10/2026",
         "Sky Sport 1 UHD - LIVE: ALM: Sydney FC v Western Sydney - 09:10 16/10/2026",
@@ -769,37 +804,55 @@
         "Sky Sport 1 UHD - LIVE: WXV: Canada v England - 23:50 16/10/2026",
         "Sky Sport 5 - LIVE: PFL Chicago 2 - 00:00 17/10/2026",
         "Sky Sport 9 - LIVE: ODC: S Australia v Queensland - 00:25 17/10/2026",
-        "Sky Sport 2 - LIVE: HC: M. Canterbury v King Country F - 01:00 17/10/2026",
+        "Sky Sport 3 - LIVE: HC: M. Canterbury v King Country F - 01:00 17/10/2026",
         "Sky Sport 1 - LIVE: WXV: Black Ferns v France - 02:15 17/10/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Black Ferns v France - 02:15 17/10/2026",
         "Sky Sport 6 - LIVE: WXV: Australia v Scotland - 02:30 17/10/2026",
         "Sky Sport 7 - LIVE: AFLW: Adelaide v Gold Coast - 03:00 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v France - 03:10 17/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v France - 03:00 17/10/2026",
         "Sky Sport 3 - LIVE: ALM: Auckland FC v Melbourne City - 04:00 17/10/2026",
         "Sky Sport 7 - LIVE: ALW: Wanderers v Melbourne Victory - 04:55 17/10/2026",
         "Sky Sport 6 - LIVE: ALW: Newcastle Jets v Perth Glory - 05:00 17/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v Lebanon - 05:00 17/10/2026",
         "Sky Sport 1 - LIVE: Bledisloe: Australia v All Blacks - 05:15 17/10/2026",
         "Sky Sport 1 UHD - LIVE: Bledisloe: Australia v All Blacks - 05:15 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v Lebanon - 05:20 17/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Pouakai v Hoiho - 06:30 17/10/2026",
         "Sky Sport 6 - LIVE: ALM: Macarthur FC v Perth Glory - 07:00 17/10/2026",
         "Sky Sport 7 - LIVE: WA Open R3 - 07:00 17/10/2026",
-        "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 07:30 17/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: England v Wales - 07:15 17/10/2026",
         "Sky Sport 5 - LIVE: Tauihi: Pouakai v Hoiho - 07:30 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: England v Wales - 07:30 17/10/2026",
+        "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 07:30 17/10/2026",
         "Sky Sport 7 - LIVE: ALM: Mariners v Jets - 09:00 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: England v Tonga - 10:00 17/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: England v Tonga - 09:30 17/10/2026",
         "Sky Sport 6 - LIVE: ALW: Brisbane Roar v Mariners - 11:00 17/10/2026",
         "Sky Sport 5 - LIVE: Reyes Cup: Day 3 - 12:00 17/10/2026",
         "Sky Sport 3 - LIVE: WSL: Arsenal v Birmingham - 12:35 17/10/2026",
         "Sky Sport 1 - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
         "Sky Sport 1 UHD - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
-        "Sky Sport 3 - LIVE: PL: Man City v Ipswich Town - 14:50 17/10/2026",
         "Sky Sport 4 - LIVE: PL: Fulham v Hull City - 14:50 17/10/2026",
         "Sky Sport 2 - LIVE: PL: Brentford v Liverpool - 14:50 17/10/2026",
+        "Sky Sport 3 - LIVE: PL: Man City v Ipswich Town - 14:50 17/10/2026",
         "Sky Sport 2 - LIVE: PGA Champions Tour: R2 - 19:00 17/10/2026",
         "Sky Sport 1 - LIVE: WXV: USA v Italy - 22:50 17/10/2026",
-        "Sky Sport 1 UHD - LIVE: WXV: USA v Italy - 22:50 17/10/2026"
+        "Sky Sport 1 UHD - LIVE: WXV: USA v Italy - 22:50 17/10/2026",
+        "Sky Sport 3 - LIVE: ALW: Phoenix v Melbourne City - 00:00 18/10/2026",
+        "Sky Sport 2 - LIVE: HC: South Canterbury v Whanganui F - 01:00 18/10/2026",
+        "Sky Sport 5 - LIVE: Rapid League: Kahu v Whai - 02:00 18/10/2026",
+        "Sky Sport 3 - LIVE: ALM: Phoenix v Victory - 02:30 18/10/2026",
+        "Sky Sport 5 - LIVE: Tauihi: Kahu v Whai - 03:00 18/10/2026",
+        "Sky Sport 1 - LIVE: RLWC: Kiwi Ferns v Fiji - 03:15 18/10/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC: Kiwi Ferns v Fiji - 03:15 18/10/2026",
+        "Sky Sport 2 - LIVE: NPC: Canterbury v Taranaki SF2 - 03:30 18/10/2026",
+        "Sky Sport Select - LIVE: RLWC: Kiwi Ferns v Fiji: Te Reo - 03:40 18/10/2026",
+        "Sky Sport 7 - LIVE: WA Open R4 - 04:00 18/10/2026",
+        "Sky Sport 5 - LIVE: AFLW: Essendon v North Melbourne - 05:00 18/10/2026",
+        "Sky Sport 3 - LIVE: RLWC: Fiji v Cook Islands - 05:30 18/10/2026",
+        "Sky Sport Select - LIVE: ALW: Sydney FC v Adelaide Utd - 06:25 18/10/2026",
+        "Sky Sport 5 - LIVE: DP World Tour: Round 4 - 07:00 18/10/2026",
+        "Sky Sport 2 - LIVE: Australia v White Ferns: 1st T20 - 08:30 18/10/2026",
+        "Sky Sport 4 - LIVE: WSL: Chelsea v Spurs - 11:50 18/10/2026",
+        "Sky Sport 7 - LIVE: WSL: Crystal Palace v West Ham - 11:50 18/10/2026",
+        "Sky Sport 3 - LIVE: Reyes Cup: Day 4 - 12:00 18/10/2026"
       ],
       "sections": [],
       "events": []
@@ -829,7 +882,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 12 - Mon 12/10 2:00pm",
         "Sportsnet 02 : The FAN Hockey Show: Oct. 12 - Mon 12/10 5:00pm",
         "Sportsnet 03 : Florida @ Buffalo - Mon 12/10 6:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 12 - Mon 12/10 7:00pm",
@@ -943,8 +995,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 02 : WTA 1000 Tennis: Wuhan - Early Round Coverage Day #1 - Mon 12/10 4:00am",
-        "TSN 03 : ATP 1000 Tennis: Shanghai - Day #6 (Grandstand 2) - Mon 12/10 5:00am",
-        "TSN 04 : ATP 1000 Tennis: Shanghai - Day #6 (Stadium) - Mon 12/10 5:00am",
         "TSN 05 : Pat McAfee Show - Mon 12/10 5:00pm",
         "TSN 01 : Rich Eisen Show - Mon 12/10 5:00pm",
         "TSN 03 : LaLiga: Levante vs. Sevilla - Mon 12/10 7:48pm",
