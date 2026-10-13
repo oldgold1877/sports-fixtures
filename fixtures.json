@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T17:01:01.022286+00:00",
+  "scraped_at": "2026-10-13T17:55:34.022803+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -58,6 +58,51 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Atlético Madrid vs Manchester United 720p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Lens vs Sporting 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Sabah vs Slavia Prague 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Champions League Goals Show 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Arsenal vs Lille 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Atletico Madrid vs Manchester United 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Galatasaraya vs Barcelona 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Inter Milan vs Club Brugge 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Rb Leipzig vs PSV 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Viking vs Bayern Munich 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA |10 - Villareal vs Napoli 1:00am"
             }
           ]
         }
@@ -547,9 +592,11 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 13/10/2026 07:12 - 22:06",
+        "BBC Events 02 - Autumnwatch: Autumn Calm - 13/10/2026 18:00 - 19:00",
         "BBC Events 04 - no_brand_title: Phone-in: RJ Mitte, Cerebral Palsy & You? - 13/10/2026 10:04 - 09:51",
         "BBC Events 05 - no_brand_title: Hundreds More Offenders Released from Prisons - 13/10/2026 05:27 - 02:56",
         "BBC Events 06 - no_brand_title: Phone-in: Nicky Campbell Asks: What's Going On With Oil Prices? - 13/10/2026 08:55 - 08:08",
+        "BBC Events 07 - Northern Ireland International Football: Portugal v Northern Ireland - 13/10/2026 17:57 - 22:30",
         "BBC Events 08 - no_brand_title: IMF Predicts Sharper Inflation for UK Households - 13/10/2026 05:48 - 03:06",
         "BBC Events 09 - no_brand_title: BBC To Stop Recording The Archers in Birmingham - 13/10/2026 06:28 - 01:21",
         "BBC Events 10 - no_brand_title: Leaders Speaking at Warsaw Security Forum - 13/10/2026 09:00 - 08:03",
@@ -772,13 +819,13 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Sabah vs. Slavia Praha",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: Lens vs. Sporting CP",
-        "Paramount+ Event 03 - 18:30 - Uefa Champions League: Arsenal vs. Lille",
-        "Paramount+ Event 05 - 18:30 - Uefa Champions League: Atlético Madrid vs. Man. United",
-        "Paramount+ Event 06 - 18:30 - Uefa Champions League: RB Leipzig vs. PSV",
-        "Paramount+ Event 07 - 18:30 - Uefa Champions League: Villarreal vs. Napoli",
-        "Paramount+ Event 08 - 18:30 - Uefa Champions League: Viking vs. Bayern",
-        "Paramount+ Event 09 - 18:30 - Uefa Champions League: Inter vs. Club Brugge",
-        "Paramount+ Event 10 - 18:30 - Uefa Champions League: Galatasaray vs. Barcelona",
+        "Paramount+ Event 03 - 18:30 - UEFA Champions League: Arsenal vs. Lille",
+        "Paramount+ Event 05 - 18:30 - UEFA Champions League: Atlético Madrid vs. Man. United",
+        "Paramount+ Event 06 - 18:30 - UEFA Champions League: RB Leipzig vs. PSV",
+        "Paramount+ Event 07 - 18:30 - UEFA Champions League: Villarreal vs. Napoli",
+        "Paramount+ Event 08 - 18:30 - UEFA Champions League: Viking vs. Bayern",
+        "Paramount+ Event 09 - 18:30 - UEFA Champions League: Inter vs. Club Brugge",
+        "Paramount+ Event 10 - 18:30 - UEFA Champions League: Galatasaray vs. Barcelona",
         "Paramount+ Event 11 - 19:05 - English Football League: Wrexham vs. West Bromwich Albion",
         "Paramount+ Event 12 - 19:05 - English Football League: Wolves vs. Bolton Wanderers",
         "Paramount+ Event 13 - 19:20 - English Football League: Stoke City vs. Middlesbrough",
