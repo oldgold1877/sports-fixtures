@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T17:55:34.022803+00:00",
+  "scraped_at": "2026-10-13T21:45:07.274361+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,59 +8,6 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Tuesday 13 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Lens vs Sporting CP 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Sabah vs Slavia Praha 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Lens vs Sporting CP 720p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 20:00-22:00 - UCL: Villarreal vs Napoli 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 20:00-22:00 - UCL: RB Leipzig vs PSV 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 20:00-22:00 - UCL: Galatasaray vs Barcelona 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL: Atlético Madrid vs Manchester United 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Arsenal vs Lille 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Internazionale vs Club Brugge 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Viking vs Bayern München 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Atlético Madrid vs Manchester United 720p"
-            }
-          ]
-        },
         {
           "section": "Live Events",
           "entries": [
@@ -115,17 +62,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 07 - 13-Oct 05:10PM-07:15PM - FIFA World Cup '27 E2 -FIFA WC '27 Italy v Belarus[Live] [HK]",
-        "EVENT 01 - 13-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E33 -Lens vs Sporting - MD2[Live] [HK]",
-        "EVENT 02 - 13-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E34 -Sabah FK vs Slavia Prague - MD2[Live] [HK]",
-        "EVENT 08 - 13-Oct 05:40PM-07:55PM - Lens vs Sporting - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 09 - 13-Oct 05:40PM-07:55PM - Sabah FK vs Slavia Prague - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 03 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 -Galatasaray vs Barcelona - MD2[Live] [HK]",
-        "EVENT 05 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E35 -Arsenal vs Lille - MD2[Live] [HK]",
-        "EVENT 07 - 13-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E36 -Atletico Madrid vs Man United - MD2[Live] [HK]",
-        "EVENT 12 - 13-Oct 07:55PM-10:00PM - Galatasaray vs Barcelona - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 13 - 13-Oct 07:55PM-10:00PM - Arsenal vs Lille - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 14 - 13-Oct 07:55PM-10:00PM - Atletico Madrid vs Man United - MD2 UEFA Champions League 2026/27 [SG]",
         "EVENT 03 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E7 -Roma vs Real Madrid - MD2[Live] [HK]",
         "EVENT 04 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Roma vs Real Madrid - MD2 [SG]",
         "EVENT 02 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E8 -Man City vs PSG - MD2[Live] [HK]",
@@ -145,7 +81,13 @@
         "EVENT 03 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 E24 -Lyon vs Crystal Palace - MD2[Live] [HK]",
         "EVENT 04 - 15-Oct 05:40PM-07:55PM - Lech vs Leverkusen - MD2 UEFA Europa League 2026/27 [SG]",
         "EVENT 05 - 15-Oct 05:40PM-07:55PM - Lyon vs Crystal Palace - MD2 UEFA Europa League 2026/27 [SG]",
-        "EVENT 06 - 15-Oct 05:40PM-07:55PM - Salzburg vs Milan - MD2 UEFA Europa League 2026/27 [SG]"
+        "EVENT 06 - 15-Oct 05:40PM-07:55PM - Salzburg vs Milan - MD2 UEFA Europa League 2026/27 [SG]",
+        "EVENT 07 - 15-Oct 07:55PM-10:00PM - UEFA Conference League 2026/27 -Brighton vs Zalgiris - MD1[Live] [HK]",
+        "EVENT 08 - 15-Oct 07:55PM-10:00PM - UEFA Europa League 2026/27 E27 -Bournemouth vs Sturm - MD2[Live] [HK]",
+        "EVENT 09 - 15-Oct 07:55PM-10:00PM - UEFA Europa League 2026/27 E33 -Celta Vigo vs Juventus - MD2[Live] [HK]",
+        "EVENT 10 - 15-Oct 07:55PM-10:00PM - Bournemouth vs Sturm - MD2 UEFA Europa League 2026/27 [SG]",
+        "EVENT 11 - 15-Oct 07:55PM-10:00PM - Brighton vs Zalgiris - MD1 UEFA Conference League 2026/27 [SG]",
+        "EVENT 12 - 15-Oct 07:55PM-10:00PM - Celta Vigo vs Juventus - MD2 UEFA Europa League 2026/27 [SG]"
       ],
       "sections": [],
       "events": []
@@ -591,12 +533,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: BBC Weather Live - 13/10/2026 07:12 - 22:06",
-        "BBC Events 02 - Autumnwatch: Autumn Calm - 13/10/2026 18:00 - 19:00",
+        "BBC Events 02 - Autumnwatch: Autumn Calm - 13/10/2026 22:30 - 00:00",
         "BBC Events 04 - no_brand_title: Phone-in: RJ Mitte, Cerebral Palsy & You? - 13/10/2026 10:04 - 09:51",
         "BBC Events 05 - no_brand_title: Hundreds More Offenders Released from Prisons - 13/10/2026 05:27 - 02:56",
         "BBC Events 06 - no_brand_title: Phone-in: Nicky Campbell Asks: What's Going On With Oil Prices? - 13/10/2026 08:55 - 08:08",
-        "BBC Events 07 - Northern Ireland International Football: Portugal v Northern Ireland - 13/10/2026 17:57 - 22:30",
         "BBC Events 08 - no_brand_title: IMF Predicts Sharper Inflation for UK Households - 13/10/2026 05:48 - 03:06",
         "BBC Events 09 - no_brand_title: BBC To Stop Recording The Archers in Birmingham - 13/10/2026 06:28 - 01:21",
         "BBC Events 10 - no_brand_title: Leaders Speaking at Warsaw Security Forum - 13/10/2026 09:00 - 08:03",
@@ -819,13 +759,13 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Sabah vs. Slavia Praha",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: Lens vs. Sporting CP",
-        "Paramount+ Event 03 - 18:30 - UEFA Champions League: Arsenal vs. Lille",
-        "Paramount+ Event 05 - 18:30 - UEFA Champions League: Atlético Madrid vs. Man. United",
-        "Paramount+ Event 06 - 18:30 - UEFA Champions League: RB Leipzig vs. PSV",
-        "Paramount+ Event 07 - 18:30 - UEFA Champions League: Villarreal vs. Napoli",
+        "Paramount+ Event 03 - 18:30 - UEFA Champions League: RB Leipzig vs. PSV",
+        "Paramount+ Event 04 - 18:30 - UEFA Champions League: Galatasaray vs. Barcelona",
+        "Paramount+ Event 06 - 18:30 - UEFA Champions League: Atlético Madrid vs. Man. United",
+        "Paramount+ Event 07 - 18:30 - UEFA Champions League: Inter vs. Club Brugge",
         "Paramount+ Event 08 - 18:30 - UEFA Champions League: Viking vs. Bayern",
-        "Paramount+ Event 09 - 18:30 - UEFA Champions League: Inter vs. Club Brugge",
-        "Paramount+ Event 10 - 18:30 - UEFA Champions League: Galatasaray vs. Barcelona",
+        "Paramount+ Event 09 - 18:30 - UEFA Champions League: Villarreal vs. Napoli",
+        "Paramount+ Event 10 - 18:30 - UEFA Champions League: Arsenal vs. Lille",
         "Paramount+ Event 11 - 19:05 - English Football League: Wrexham vs. West Bromwich Albion",
         "Paramount+ Event 12 - 19:05 - English Football League: Wolves vs. Bolton Wanderers",
         "Paramount+ Event 13 - 19:20 - English Football League: Stoke City vs. Middlesbrough",
@@ -1036,7 +976,36 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Sky Sports+ 3 | Bristol City vs Blackburn",
+        "Sky Sports+ 4 | Burnley vs Charlton",
+        "Sky Sports+ 5 | Cardiff vs Watford",
+        "Sky Sports+ 7 | Wolves vs Bolton",
+        "Sky Sports+ 8 | Wrexham vs West Brom",
+        "Sky Sports+ 9 | Birmingham vs Preston",
+        "Australia vs New Zealand",
+        "Millwall vs Lincoln City",
+        "Pakistan vs Sri Lanka",
+        "Blackpool vs Mk Dons",
+        "Middlesbrough vs Cardiff",
+        "Leeds vs Man Utd",
+        "Bromley vs Leicester",
+        "Norwich vs Southampton",
+        "Mk Dons vs Luton",
+        "Burton vs Bradford",
+        "Peterborough vs Burton",
+        "Cambridge U vs Wycombe",
+        "Doncaster vs Stockport",
+        "Huddersfield vs Peterborough",
+        "Fleetwood vs Rotherham",
+        "Barnet vs Swindon",
+        "Shrewsbury vs Bristol Rovers",
+        "Bristol Rovers vs Salford",
+        "Cheltenham vs Fleetwood",
+        "Chesterfield vs Colchester",
+        "Crawley vs Shrewsbury",
+        "Exeter vs Crewe"
+      ],
       "sections": [],
       "events": []
     },
@@ -1046,9 +1015,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Oct. 13 - Tue 13/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 13 - Tue 13/10 7:00pm",
-        "Sportsnet 02 : Blair & Barker: Oct. 13 - Tue 13/10 8:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 2 - Tue 13/10 8:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Oct. 13 - Tue 13/10 9:00pm",
         "Sportsnet 01 : New Jersey @ Detroit - Tue 13/10 11:00pm",
@@ -1068,7 +1034,10 @@
         "Sportsnet 17 : Vancouver @ New York Islanders - Wed 14/10 12:45am",
         "Sportsnet 18 : Pittsburgh @ Chicago - Wed 14/10 1:00am",
         "Sportsnet 19 : Minnesota @ Winnipeg - Wed 14/10 1:15am",
-        "Sportsnet 20 : Colorado @ Dallas - Wed 14/10 1:30am"
+        "Sportsnet 20 : Colorado @ Dallas - Wed 14/10 1:30am",
+        "Sportsnet 21 : Vegas @ Nashville - Wed 14/10 1:45am",
+        "Sportsnet 04 : Toronto @ Utah - Wed 14/10 2:00am",
+        "Sportsnet 05 : Calgary @ Anaheim - Wed 14/10 2:45am"
       ],
       "sections": [],
       "events": []
@@ -1079,8 +1048,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Lens v Sporting CP - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 5:40pm",
-        "Stan 01 : Sabah v Slavia Praha - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 5:40pm",
         "Stan 03 : Football Zone: MD2 Wednesday - UEFA Champions League 2026/27 - Tue 13/10 7:40pm",
         "Stan 05 : Arsenal v Lille - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
         "Stan 04 : Atlético de Madrid v Manchester United - UEFA Champions League Matchday 2 2026/2027 - Tue 13/10 7:55pm",
@@ -1131,6 +1098,7 @@
         "Stan 27 : Dinamo Zagreb v Anderlecht - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 24 : Ferencváros v Viktoria Plzeň - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 29 : Freiburg v Jablonec - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
+        "Stan 33 : Heart of Midlothian v Nordsjælland - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 28 : Hoffenheim v Beşiktaş - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 25 : Jagiellonia Białystok v Ararat-Armenia - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 30 : København v Sporting Braga - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
@@ -1157,8 +1125,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Pat McAfee Show - Tue 13/10 5:00pm",
-        "TSN 01 : Rich Eisen Show - Tue 13/10 5:00pm",
         "TSN 01 : WTA 1000 Tennis: Wuhan - Early Round Coverage Day #3 - Wed 14/10 4:00am"
       ],
       "sections": [],
