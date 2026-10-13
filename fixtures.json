@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T11:00:57.767669+00:00",
+  "scraped_at": "2026-10-13T14:43:55.055974+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -12,8 +12,52 @@
           "section": "Sports Scene",
           "entries": [
             {
+              "type": "date",
+              "text": "Tuesday 13 October 2026"
+            },
+            {
               "type": "fixture",
-              "text": "SPORTS SCENE 02 - 17:00-22:30 - Baller League"
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Lens vs Sporting CP 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Sabah vs Slavia Praha 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Lens vs Sporting CP 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 20:00-22:00 - UCL: Villarreal vs Napoli 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - UCL: RB Leipzig vs PSV 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - UCL: Galatasaray vs Barcelona 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL: Atlético Madrid vs Manchester United 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Arsenal vs Lille 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Internazionale vs Club Brugge 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Viking vs Bayern München 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Atlético Madrid vs Manchester United 720p"
             }
           ]
         }
@@ -26,8 +70,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E5 -Leipzig vs PSV - MD2[Live] [HK]",
-        "EVENT 04 - 13-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Leipzig vs PSV - MD2 [SG]",
         "EVENT 01 - 13-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E6 -Villarreal vs Napoli - MD2[Live] [HK]",
         "EVENT 02 - 13-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Villarreal vs Napoli - MD2 [SG]",
         "EVENT 07 - 13-Oct 05:10PM-07:15PM - FIFA World Cup '27 E2 -FIFA WC '27 Italy v Belarus[Live] [HK]",
@@ -406,6 +448,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "06:10",
+          "name": "CASPER RUUD - FELIX AUGER-ALIASSIME",
+          "datetime": "2026-10-14 06:10:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "09:00",
           "name": "WUHAN OPEN",
           "datetime": "2026-10-14 09:00:00",
@@ -489,13 +543,15 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 13/10/2026 07:12 - 22:06",
-        "BBC Events 02 - no_brand_title: Yorkshire Wildlife Park Closed For Third Day - 12/10/2026 13:21 - 12:47",
+        "BBC Events 03 - Autumnwatch: Autumn Calm - 13/10/2026 12:00 - 18:00",
         "BBC Events 04 - no_brand_title: Phone-in: RJ Mitte, Cerebral Palsy & You? - 13/10/2026 10:04 - 09:51",
         "BBC Events 05 - no_brand_title: Hundreds More Offenders Released from Prisons - 13/10/2026 05:27 - 02:56",
         "BBC Events 06 - no_brand_title: Phone-in: Nicky Campbell Asks: What's Going On With Oil Prices? - 13/10/2026 08:55 - 08:08",
         "BBC Events 08 - no_brand_title: IMF Predicts Sharper Inflation for UK Households - 13/10/2026 05:48 - 03:06",
         "BBC Events 09 - no_brand_title: BBC To Stop Recording The Archers in Birmingham - 13/10/2026 06:28 - 01:21",
-        "BBC Events 10 - no_brand_title: Leaders Speaking at Warsaw Security Forum - 13/10/2026 09:00 - 08:03"
+        "BBC Events 10 - no_brand_title: Leaders Speaking at Warsaw Security Forum - 13/10/2026 09:00 - 08:03",
+        "BBC Events 11 - no_brand_title: Raye Criticises Ticket Touts Who 'Overwhelmed' Show Sign-Ups - 13/10/2026 11:36 - 11:20",
+        "BBC Events 12 - no_brand_title: Commons Urgent Question on Early Release Scheme - 13/10/2026 12:17 - 12:07"
       ],
       "sections": [],
       "events": []
@@ -604,7 +660,23 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : MLS Countdown (MLS) - Wed 14/10 11:25pm",
+        "MLS 02 : Cincinnati vs. New England (MLS) - Thu 15/10 12:25am",
+        "MLS 03 : Columbus vs. Charlotte (MLS) - Thu 15/10 12:25am",
+        "MLS 04 : D.C. vs. New York (MLS) - Thu 15/10 12:25am",
+        "MLS 05 : Miami vs. New York City (MLS) - Thu 15/10 12:25am",
+        "MLS 07 : Toronto vs. Orlando (MLS) - Thu 15/10 12:25am",
+        "MLS 09 : Chicago vs. Philadelphia (MLS) - Thu 15/10 01:25am",
+        "MLS 10 : Dallas vs. Seattle (MLS) - Thu 15/10 01:25am",
+        "MLS 11 : Nashville vs. Kansas City (MLS) - Thu 15/10 01:25am",
+        "MLS 12 : St. Louis vs. Vancouver (MLS) - Thu 15/10 01:25am",
+        "MLS 13 : Colorado vs. Minnesota (MLS) - Thu 15/10 02:25am",
+        "MLS 14 : Salt Lake vs. San Jose (MLS) - Thu 15/10 02:25am",
+        "MLS 15 : LA vs. Portland (MLS) - Thu 15/10 03:25am",
+        "MLS 16 : LAFC vs. Austin (MLS) - Thu 15/10 03:25am",
+        "MLS 17 : San Diego vs. Houston (MLS) - Thu 15/10 03:25am"
+      ],
       "sections": [],
       "events": []
     },
@@ -799,7 +871,11 @@
         "Flo Rugby 09 - French Top 14: Fidelity SecureDrive Lions vs La Rochelle - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
         "Flo Rugby 10 - French Top 14: Racing 92 vs Munster Rugby - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
         "Flo Rugby 11 - Premiership Rugby: Scarlets vs Newcastle Red Bulls - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 12 - French Top 14: Montpellier vs Bath Rugby - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT"
+        "Flo Rugby 12 - French Top 14: Montpellier vs Bath Rugby - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "Flo Rugby 01 - French Top 14: Bayonne vs Cheetahs - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 02 - Premiership Rugby: Leicester Tigers vs Pau - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 03 - Premiership Rugby: Harlequin F.C. vs RC Vannes - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "Flo Rugby 04 - Premiership Rugby: Exeter Chiefs vs Toulouse - 18 Oct 15:15 UK / 10:15 ET / 07:15 PT"
       ],
       "sections": [],
       "events": []
@@ -819,6 +895,7 @@
         "Sky Sport 1 UHD - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Australia v Kiwis: Te Reo - 09:50 15/10/2026",
         "Sky Sport 2 - LIVE: Reyes Cup: Day 1 - 12:00 15/10/2026",
+        "Sky Sport 4 - LIVE: DP World Locker Room - Round 1 - 12:30 15/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Queens v Whai - 06:30 16/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Samoa v France - 07:00 16/10/2026",
         "Sky Sport 3 - LIVE: ANZ PL Darts: Auckland - 07:00 16/10/2026",
@@ -831,11 +908,12 @@
         "Sky Sport 1 UHD - LIVE: ALM: Sydney FC v Western Sydney - 09:10 16/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Australia v Samoa - 09:45 16/10/2026",
         "Sky Sport 3 - LIVE: Reyes Cup: Day 2 - 12:00 16/10/2026",
+        "Sky Sport 6 - LIVE: DP World Locker Room - Round 2 - 12:30 16/10/2026",
         "Sky Sport 5 - LIVE: India W v Zimbabwe W: 1st T20 - 14:20 16/10/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 19:15 16/10/2026",
+        "Sky Sport 5 - LIVE: PFL Chicago 2 - 23:00 16/10/2026",
         "Sky Sport 1 - LIVE: WXV: Canada v England - 23:50 16/10/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Canada v England - 23:50 16/10/2026",
-        "Sky Sport 5 - LIVE: PFL Chicago 2 - 00:00 17/10/2026",
         "Sky Sport 9 - LIVE: ODC: S Australia v Queensland - 00:25 17/10/2026",
         "Sky Sport 3 - LIVE: HC: M. Canterbury v King Country F - 01:00 17/10/2026",
         "Sky Sport 1 - LIVE: WXV: Black Ferns v France - 02:15 17/10/2026",
@@ -858,7 +936,8 @@
         "Sky Sport 7 - LIVE: ALM: Mariners v Jets - 09:00 17/10/2026",
         "Sky Sport 2 - LIVE: RLWC: England v Tonga - 09:30 17/10/2026",
         "Sky Sport 5 - LIVE: Reyes Cup: Day 3 - 12:00 17/10/2026",
-        "Sky Sport 3 - LIVE: WSL: Arsenal v Birmingham - 12:35 17/10/2026",
+        "Sky Sport 7 - LIVE: WSL: Arsenal v Birmingham - 12:30 17/10/2026",
+        "Sky Sport 3 - LIVE: DP World Locker Room - Round 3 - 12:30 17/10/2026",
         "Sky Sport 1 - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
         "Sky Sport 1 UHD - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
         "Sky Sport 2 - LIVE: PL: Brentford v Liverpool - 14:50 17/10/2026",
@@ -885,6 +964,7 @@
         "Sky Sport 7 - LIVE: WSL: Crystal Palace v West Ham - 11:50 18/10/2026",
         "Sky Sport 4 - LIVE: WSL: Chelsea v Spurs - 11:50 18/10/2026",
         "Sky Sport 3 - LIVE: Reyes Cup: Day 4 - 12:00 18/10/2026",
+        "Sky Sport 5 - LIVE: DP World Locker Room - Round 4 - 12:00 18/10/2026",
         "Sky Sport 2 - LIVE: PL: Brighton v Crystal Palace - 13:50 18/10/2026",
         "Sky Sport 9 - LIVE: WSL: London City v Everton - 13:50 18/10/2026",
         "Sky Sport Select - LIVE: WSL: Charlton v Man Utd - 13:50 18/10/2026",
@@ -894,7 +974,9 @@
         "Sky Sport 7 - LIVE: WSL: Man City v Brighton - 14:20 18/10/2026",
         "Sky Sport 5 - LIVE: India W v Zimbabwe W: 2nd T20 - 14:20 18/10/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R3 - 19:00 18/10/2026",
-        "Sky Sport 7 - LIVE: SS: Tasmania v Victoria D1 - 00:25 19/10/2026"
+        "Sky Sport 7 - LIVE: SS: Tasmania v Victoria D1 - 00:25 19/10/2026",
+        "Sky Sport 6 - LIVE: SS: S Australia v Queensland D1 - 00:55 19/10/2026",
+        "Sky Sport 5 - LIVE: SS: W Australia v NSW D1 - 03:25 19/10/2026"
       ],
       "sections": [],
       "events": []
@@ -915,7 +997,7 @@
       "status": "ok",
       "fixtures": [
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 13 - Tue 13/10 2:00pm",
-        "Sportsnet 02 : The Raptors Show - Tue 13/10 4:00pm",
+        "Sportsnet 02 : The Raptors Show: October 13 - Tue 13/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 13 - Tue 13/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 13 - Tue 13/10 7:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 13 - Tue 13/10 8:00pm",
