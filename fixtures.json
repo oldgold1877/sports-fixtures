@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T15:41:27.292552+00:00",
+  "scraped_at": "2026-10-14T17:00:56.443431+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -64,6 +64,51 @@
               "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW Dynamite 1080p"
             }
           ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Feyenoord vs Como 17:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - LASK vs Liverpool 17:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Aston Villa vs Fenerbahce 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Bodo/Glimt vs Borussia Dortmund 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Manchester City vs PSG 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Real Betis vs Porto 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Roma vs Real Madrid 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Shakhtar Donetsk vs AEK Athens 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Slovan Bratislavia vs Stuttgart 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 10 - Champions League Goals Show 1:00am"
+            }
+          ]
         }
       ],
       "events": []
@@ -74,18 +119,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E8 -Man City vs PSG - MD2[Live] [HK]",
-        "EVENT 05 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Man City vs PSG - MD2 [SG]",
         "EVENT 02 - 14-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E42 -Feyenoord vs Como 1907 - MD2[Live] [HK]",
         "EVENT 05 - 14-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E43 -LASK vs Liverpool - MD2[Live] [HK]",
         "EVENT 07 - 14-Oct 05:40PM-07:55PM - Feyenoord vs Como 1907 - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 08 - 14-Oct 05:40PM-07:55PM - LASK vs Liverpool - MD2 UEFA Champions League 2026/27 [SG]",
+        "EVENT 13 - 14-Oct 05:40PM-07:55PM - LASK vs Liverpool - MD2 UEFA Champions League 2026/27 (151026) [SG]",
         "EVENT 01 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 -Aston Villa vs Fenerbahce - MD2[Live] [HK]",
         "EVENT 04 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E44 -Roma vs Real Madrid - MD2[Live] [HK]",
         "EVENT 09 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E48 -Man City vs PSG - MD2[Live] [HK]",
         "EVENT 10 - 14-Oct 07:55PM-10:00PM - Aston Villa vs Fenerbahce - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 11 - 14-Oct 07:55PM-10:00PM - Man City vs PSG - MD2 UEFA Champions League 2026/27 [SG]",
         "EVENT 12 - 14-Oct 07:55PM-10:00PM - Roma vs Real Madrid - MD2 UEFA Champions League 2026/27 [SG]",
+        "EVENT 14 - 14-Oct 07:55PM-10:00PM - Man City vs PSG - MD2 UEFA Champions League 2026/27 (151026) [SG]",
         "EVENT 01 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 -Lech vs Leverkusen - MD2[Live] [HK]",
         "EVENT 02 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 E21 -Salzburg vs Milan - MD2[Live] [HK]",
         "EVENT 03 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 E24 -Lyon vs Crystal Palace - MD2[Live] [HK]",
@@ -97,7 +140,10 @@
         "EVENT 09 - 15-Oct 07:55PM-10:00PM - UEFA Europa League 2026/27 E33 -Celta Vigo vs Juventus - MD2[Live] [HK]",
         "EVENT 10 - 15-Oct 07:55PM-10:00PM - Bournemouth vs Sturm - MD2 UEFA Europa League 2026/27 [SG]",
         "EVENT 11 - 15-Oct 07:55PM-10:00PM - Brighton vs Zalgiris - MD1 UEFA Conference League 2026/27 [SG]",
-        "EVENT 12 - 15-Oct 07:55PM-10:00PM - Celta Vigo vs Juventus - MD2 UEFA Europa League 2026/27 [SG]"
+        "EVENT 12 - 15-Oct 07:55PM-10:00PM - Celta Vigo vs Juventus - MD2 UEFA Europa League 2026/27 [SG]",
+        "EVENT 04 - 16-Oct 05:20PM-07:25PM - Bundesliga 2 2026/27 -Holstein Kiel vs Hertha[Live] [HK]",
+        "EVENT 05 - 16-Oct 05:20PM-07:30PM - Bundesliga 2 2026/27 E65 -Energie Cottbus vs Nuremberg[Live] [HK]",
+        "EVENT 07 - 16-Oct 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Holstein Kiel vs Hertha [SG]"
       ],
       "sections": [],
       "events": []
@@ -641,9 +687,7 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 02 - no_brand_title: Kyiv Hit By Deadly Russian Strikes - 14/10/2026 05:32 - 01:59",
-        "BBC Events 04 - Autumnwatch: Autumn Calm - 14/10/2026 12:00 - 18:00",
-        "BBC Events 05 - no_brand_title: BBC Weather Live - 14/10/2026 06:24 - 22:34",
-        "BBC Events 06 - no_brand_title: Future of Comedy - 14/10/2026 09:16 - 18:00"
+        "BBC Events 05 - no_brand_title: BBC Weather Live - 14/10/2026 06:24 - 22:34"
       ],
       "sections": [],
       "events": []
@@ -718,7 +762,25 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "LOI 1 : Bohemians v Waterford (SSE Airtricity Men's Premier Division) - Fri 16/10 7:30pm",
+        "LOI 2 : Drogheda United v Derry City (SSE Airtricity Men's Premier Division) - Fri 16/10 7:30pm",
+        "LOI 3 : Galway United v Shamrock Rovers (SSE Airtricity Men's Premier Division ) - Fri 16/10 7:30pm",
+        "LOI 4 : Finn Harps v Bray Wanderers (SSE Airtricity Men's First Division) - Fri 16/10 7:35pm",
+        "LOI 5 : Kerry v Cork City (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
+        "LOI 6 : Longford Town v Athlone Town (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
+        "LOI 7 : Treaty United v Cobh Ramblers (SSE Airtricity Men's First Division) - Fri 16/10 7:35pm",
+        "LOI 8 : Wexford v UCD (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
+        "LOI 9 : St. Patrick's Athletic v Shelbourne (SSE Airtricity Men's Premier Division) - Fri 16/10 7:45pm",
+        "LOI 1 : Bohemians v Shamrock Rovers (LOI Academy WU17 Cup Final) - Sat 17/10 1:45pm",
+        "LOI 2 : Cork City v Bohemians (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
+        "LOI 3 : DLR Waves v Wexford (SSE Airtricity Women's Premier Division ) - Sat 17/10 2:45pm",
+        "LOI 4 : Shamrock Rovers v Sligo Rovers (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
+        "LOI 5 : Waterford v Treaty United (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
+        "LOI 6 : Peamount United v Galway United (SSE Airtricity Women's Premier Division) - Sat 17/10 4:45pm",
+        "LOI 7 : Shelbourne v Athlone Town (SSE Airtricity Women's Premier Division) - Sat 17/10 7:15pm",
+        "LOI 8 : Sligo Rovers v Dundalk (SSE Airtricity Men's Premier Division ) - Sat 17/10 7:30pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -858,15 +920,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - UEFA Champions League: LASK vs. Liverpool",
-        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Feyenoord vs. Como",
-        "Paramount+ Event 03 - 18:00 - Uefa Champions League: Man. City vs. PSG",
-        "Paramount+ Event 04 - 18:00 - Uefa Champions League: Bodø/Glimt vs. Dortmund",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Feyenoord vs. Como",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: LASK vs. Liverpool",
+        "Paramount+ Event 03 - 18:00 - UEFA Champions League: Man. City vs. PSG",
+        "Paramount+ Event 04 - 18:00 - UEFA Champions League: Bodø/Glimt vs. Dortmund",
         "Paramount+ Event 05 - 18:00 - Uefa Champions League: Shakhtar Donetsk vs. AEK Athens",
-        "Paramount+ Event 06 - 18:00 - Uefa Champions League: Real Betis vs. Porto",
-        "Paramount+ Event 08 - 18:00 - Uefa Champions League: Aston Villa vs. Fenerbahçe",
-        "Paramount+ Event 09 - 18:00 - Uefa Champions League: Slovan Bratislava vs. Stuttgart",
-        "Paramount+ Event 10 - 18:00 - Uefa Champions League: Roma vs. Real Madrid",
+        "Paramount+ Event 06 - 18:00 - UEFA Champions League: Real Betis vs. Porto",
+        "Paramount+ Event 08 - 18:00 - UEFA Champions League: Aston Villa vs. Fenerbahçe",
+        "Paramount+ Event 09 - 18:00 - UEFA Champions League: Slovan Bratislava vs. Stuttgart",
+        "Paramount+ Event 10 - 18:00 - UEFA Champions League: Roma vs. Real Madrid",
         "Paramount+ Event 11 - 19:05 - English Football League: Norwich City vs. Southampton",
         "Paramount+ Event 12 - 19:05 - English Football League: Portsmouth vs. Sheffield United",
         "Paramount+ Event 13 - 19:20 - English Football League: Lincoln City vs. West Ham United",
@@ -1129,7 +1191,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : The Raptors Show: Oct. 14 - Wed 14/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 14 - Wed 14/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 14 - Wed 14/10 7:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 14 - Wed 14/10 8:00pm",
@@ -1241,7 +1302,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : WTA 1000 Tennis: Wuhan - Early Round Coverage Day #3 - Wed 14/10 4:00am",
         "TSN 03 : Pat McAfee Show - Wed 14/10 5:00pm",
         "TSN 02 : Rich Eisen Show - Wed 14/10 5:00pm",
         "TSN 01 : WTA 1000 Tennis: Wuhan - Round of 16 - Thu 15/10 4:00am"
