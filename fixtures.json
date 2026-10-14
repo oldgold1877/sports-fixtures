@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T12:35:40.035791+00:00",
+  "scraped_at": "2026-10-14T15:41:27.292552+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,65 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 14 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: LASK Linz vs Liverpool 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Feyenoord vs Como 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: LASK Linz vs Liverpool 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - UCL: Real Betis vs Porto 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL: Manchester City vs PSG 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Roma vs Real Madrid 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Bodø / Glimt vs Borussia Dortmund 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Aston Villa vs Fenerbahçe 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 10 - 20:00-22:00 - UCL: Aston Villa vs Fenerbahçe 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Manchester City vs PSG 720p"
+            },
+            {
+              "type": "date",
+              "text": "Thursday 15 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW Dynamite 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,8 +74,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E7 -Roma vs Real Madrid - MD2[Live] [HK]",
-        "EVENT 04 - 14-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Roma vs Real Madrid - MD2 [SG]",
         "EVENT 02 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E8 -Man City vs PSG - MD2[Live] [HK]",
         "EVENT 05 - 14-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Man City vs PSG - MD2 [SG]",
         "EVENT 02 - 14-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E42 -Feyenoord vs Como 1907 - MD2[Live] [HK]",
@@ -584,7 +640,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Cycling: Track World Championships: Day 1: Men's team sprint, women's scratch race and team sprint - 14/10/2026 11:10 - 13:40",
         "BBC Events 02 - no_brand_title: Kyiv Hit By Deadly Russian Strikes - 14/10/2026 05:32 - 01:59",
         "BBC Events 04 - Autumnwatch: Autumn Calm - 14/10/2026 12:00 - 18:00",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 14/10/2026 06:24 - 22:34",
@@ -663,25 +718,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "LOI 1 : Bohemians v Waterford (SSE Airtricity Men's Premier Division) - Fri 16/10 7:30pm",
-        "LOI 2 : Drogheda United v Derry City (SSE Airtricity Men's Premier Division) - Fri 16/10 7:30pm",
-        "LOI 3 : Galway United v Shamrock Rovers (SSE Airtricity Men's Premier Division ) - Fri 16/10 7:30pm",
-        "LOI 4 : Finn Harps v Bray Wanderers (SSE Airtricity Men's First Division) - Fri 16/10 7:35pm",
-        "LOI 5 : Kerry v Cork City (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
-        "LOI 6 : Longford Town v Athlone Town (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
-        "LOI 7 : Treaty United v Cobh Ramblers (SSE Airtricity Men's First Division) - Fri 16/10 7:35pm",
-        "LOI 8 : Wexford v UCD (SSE Airtricity Men's First Division ) - Fri 16/10 7:35pm",
-        "LOI 9 : St. Patrick's Athletic v Shelbourne (SSE Airtricity Men's Premier Division) - Fri 16/10 7:45pm",
-        "LOI 1 : Bohemians v Shamrock Rovers (LOI Academy WU17 Cup Final) - Sat 17/10 1:45pm",
-        "LOI 2 : Cork City v Bohemians (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
-        "LOI 3 : DLR Waves v Wexford (SSE Airtricity Women's Premier Division ) - Sat 17/10 2:45pm",
-        "LOI 4 : Shamrock Rovers v Sligo Rovers (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
-        "LOI 5 : Waterford v Treaty United (SSE Airtricity Women's Premier Division) - Sat 17/10 2:45pm",
-        "LOI 6 : Peamount United v Galway United (SSE Airtricity Women's Premier Division) - Sat 17/10 4:45pm",
-        "LOI 7 : Shelbourne v Athlone Town (SSE Airtricity Women's Premier Division) - Sat 17/10 7:15pm",
-        "LOI 8 : Sligo Rovers v Dundalk (SSE Airtricity Men's Premier Division ) - Sat 17/10 7:30pm"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -821,8 +858,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: LASK vs. Liverpool",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: Feyenoord vs. Como",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: LASK vs. Liverpool",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Feyenoord vs. Como",
         "Paramount+ Event 03 - 18:00 - Uefa Champions League: Man. City vs. PSG",
         "Paramount+ Event 04 - 18:00 - Uefa Champions League: Bodø/Glimt vs. Dortmund",
         "Paramount+ Event 05 - 18:00 - Uefa Champions League: Shakhtar Donetsk vs. AEK Athens",
@@ -940,21 +977,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: India v West Indies: 4th T20 - 14:20 14/10/2026",
-        "Sky Sport 1 UHD - LIVE: India v West Indies: 4th T20 - 14:20 14/10/2026",
         "Sky Sport 4 - LIVE: DP World Tour: Round 1 - 06:30 15/10/2026",
-        "Sky Sport 3 - LIVE: Gov. Gen XI v White Ferns T20 - 09:00 15/10/2026",
         "Sky Sport 1 - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
         "Sky Sport 1 UHD - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
+        "Sky Sport 3 - LIVE: Gov. Gen XI v White Ferns T20 - 09:00 15/10/2026",
         "Sky Sport 2 - LIVE: Reyes Cup: Day 1 - 12:00 15/10/2026",
         "Sky Sport 4 - LIVE: DP World Locker Room - Round 1 - 12:30 15/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Queens v Whai - 06:30 16/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Samoa v France - 07:00 16/10/2026",
-        "Sky Sport 3 - LIVE: ANZ PL Darts: Auckland - 07:00 16/10/2026",
         "Sky Sport 1 - LIVE: NPC: Northland v Otago SF1 - 07:00 16/10/2026",
         "Sky Sport 1 UHD - LIVE: NPC: Northland v Otago SF1 - 07:00 16/10/2026",
-        "Sky Sport 6 - LIVE: DP World Tour: Round 2 - 07:30 16/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: Samoa v France - 07:00 16/10/2026",
+        "Sky Sport 3 - LIVE: ANZ PL Darts: Auckland - 07:00 16/10/2026",
         "Sky Sport 5 - LIVE: Tauihi: Queens v Whai - 07:30 16/10/2026",
+        "Sky Sport 6 - LIVE: DP World Tour: Round 2 - 07:30 16/10/2026",
         "Sky Sport 7 - LIVE: AFLW: Melbourne v Richmond - 09:00 16/10/2026",
         "Sky Sport 1 - LIVE: ALM: Sydney FC v Western Sydney - 09:10 16/10/2026",
         "Sky Sport 1 UHD - LIVE: ALM: Sydney FC v Western Sydney - 09:10 16/10/2026",
@@ -973,18 +1008,20 @@
         "Sky Sport 1 UHD - LIVE: WXV: Black Ferns v France - 02:15 17/10/2026",
         "Sky Sport 7 - LIVE: AFLW: Adelaide v Gold Coast - 03:00 17/10/2026",
         "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v France - 03:00 17/10/2026",
+        "Sky Sport 6 - LIVE: Australia 7s v Fiji 7s - 04:00 17/10/2026",
         "Sky Sport 3 - LIVE: ALM: Auckland FC v Melbourne City - 04:00 17/10/2026",
+        "Sky Sport 6 - LIVE: Australia 7s v Black Ferns 7s - 04:25 17/10/2026",
         "Sky Sport 7 - LIVE: ALW: Western Sydney v Melb Victory - 04:55 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v Lebanon - 05:00 17/10/2026",
-        "Sky Sport 6 - LIVE: ALW: Newcastle Jets v Perth Glory - 05:00 17/10/2026",
         "Sky Sport 1 - LIVE: Bledisloe: Australia v All Blacks - 05:00 17/10/2026",
         "Sky Sport 1 UHD - LIVE: Bledisloe: Australia v All Blacks - 05:00 17/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: Papua New Guinea v Lebanon - 05:00 17/10/2026",
+        "Sky Sport 6 - LIVE: ALW: Newcastle Jets v Perth Glory - 05:00 17/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Pouakai v Hoiho - 06:30 17/10/2026",
         "Sky Sport 7 - LIVE: WA Open R3 - 07:00 17/10/2026",
         "Sky Sport 6 - LIVE: ALM: Macarthur FC v Perth Glory - 07:00 17/10/2026",
         "Sky Sport 2 - LIVE: RLWC: England v Wales - 07:15 17/10/2026",
-        "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 07:30 17/10/2026",
         "Sky Sport 5 - LIVE: Tauihi: Pouakai v Hoiho - 07:30 17/10/2026",
+        "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 07:30 17/10/2026",
         "Sky Sport 7 - LIVE: ALM: Mariners v Jets - 09:00 17/10/2026",
         "Sky Sport 2 - LIVE: RLWC: England v Tonga - 09:30 17/10/2026",
         "Sky Sport 5 - LIVE: Reyes Cup: Day 3 - 12:00 17/10/2026",
@@ -992,9 +1029,9 @@
         "Sky Sport 3 - LIVE: DP World Locker Room - Round 3 - 12:30 17/10/2026",
         "Sky Sport 1 - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
         "Sky Sport 1 UHD - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
+        "Sky Sport 4 - LIVE: PL: Fulham v Hull City - 14:50 17/10/2026",
         "Sky Sport 2 - LIVE: PL: Brentford v Liverpool - 14:50 17/10/2026",
         "Sky Sport 3 - LIVE: PL: Man City v Ipswich Town - 14:50 17/10/2026",
-        "Sky Sport 4 - LIVE: PL: Fulham v Hull City - 14:50 17/10/2026",
         "Sky Sport 2 - LIVE: PGA Champions Tour: R2 - 19:00 17/10/2026",
         "Sky Sport 1 - LIVE: WXV: USA v Italy - 22:50 17/10/2026",
         "Sky Sport 1 UHD - LIVE: WXV: USA v Italy - 22:50 17/10/2026",
@@ -1009,27 +1046,43 @@
         "Sky Sport 7 - LIVE: WA Open R4 - 04:00 18/10/2026",
         "Sky Sport 5 - LIVE: AFLW: Essendon v North Melbourne - 05:00 18/10/2026",
         "Sky Sport 3 - LIVE: RLWC: Fiji v Cook Islands - 05:30 18/10/2026",
-        "Sky Sport Select - LIVE: ALW: Sydney FC v Adelaide Utd - 06:25 18/10/2026",
+        "Sky Sport 6 - LIVE: ALW: Sydney FC v Adelaide Utd - 06:25 18/10/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 4 - 07:00 18/10/2026",
         "Sky Sport 2 - LIVE: Australia v White Ferns: 1st T20 - 08:30 18/10/2026",
-        "Sky Sport 7 - LIVE: WSL: Crystal Palace v West Ham - 11:50 18/10/2026",
+        "Sky Sport 6 - LIVE: WST: Northern Ireland Open: D1 Mor - 10:00 18/10/2026",
         "Sky Sport 4 - LIVE: WSL: Chelsea v Spurs - 11:50 18/10/2026",
-        "Sky Sport 3 - LIVE: Reyes Cup: Day 4 - 12:00 18/10/2026",
+        "Sky Sport 7 - LIVE: WSL: Crystal Palace v West Ham - 11:50 18/10/2026",
         "Sky Sport 5 - LIVE: DP World Locker Room - Round 4 - 12:00 18/10/2026",
-        "Sky Sport 2 - LIVE: PL: Brighton v Crystal Palace - 13:50 18/10/2026",
-        "Sky Sport Select - LIVE: WSL: Charlton v Man Utd - 13:50 18/10/2026",
-        "Sky Sport 9 - LIVE: WSL: London City v Everton - 13:50 18/10/2026",
+        "Sky Sport 3 - LIVE: Reyes Cup: Day 4 - 12:00 18/10/2026",
+        "Sky Sport 6 - LIVE: WST: Northern Ireland Open: D1 Aft - 13:00 18/10/2026",
         "Sky Sport 1 - LIVE: PL: Bournemouth v Sunderland - 13:50 18/10/2026",
         "Sky Sport 1 UHD - LIVE: PL: Bournemouth v Sunderland - 13:50 18/10/2026",
+        "Sky Sport 9 - LIVE: WSL: London City v Everton - 13:50 18/10/2026",
+        "Sky Sport 2 - LIVE: PL: Brighton v Crystal Palace - 13:50 18/10/2026",
+        "Sky Sport Select - LIVE: WSL: Charlton v Man Utd - 13:50 18/10/2026",
         "Sky Sport 4 - LIVE: WSL: Aston Villa v Liverpool - 14:00 18/10/2026",
-        "Sky Sport 7 - LIVE: WSL: Man City v Brighton - 14:20 18/10/2026",
         "Sky Sport 5 - LIVE: India W v Zimbabwe W: 2nd T20 - 14:20 18/10/2026",
+        "Sky Sport 7 - LIVE: WSL: Man City v Brighton - 14:20 18/10/2026",
+        "Sky Sport 4 - LIVE: WST: Northern Ireland Open: D1 Eve - 19:00 18/10/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R3 - 19:00 18/10/2026",
         "Sky Sport 7 - LIVE: SS: Tasmania v Victoria D1 - 00:25 19/10/2026",
         "Sky Sport 6 - LIVE: SS: S Australia v Queensland D1 - 00:55 19/10/2026",
         "Sky Sport 5 - LIVE: SS: W Australia v NSW D1 - 03:25 19/10/2026",
+        "Sky Sport 2 - LIVE: WST: Northern Ireland Open: D2 Mor - 10:00 19/10/2026",
+        "Sky Sport 1 - LIVE: WST: Northern Ireland Open: D2 Aft - 13:00 19/10/2026",
+        "Sky Sport 1 UHD - LIVE: WST: Northern Ireland Open: D2 Aft - 13:00 19/10/2026",
+        "Sky Sport 1 - LIVE: WST: Northern Ireland Open: D2 Eve - 19:00 19/10/2026",
+        "Sky Sport 1 UHD - LIVE: WST: Northern Ireland Open: D2 Eve - 19:00 19/10/2026",
         "Sky Sport 7 - LIVE: SS: Tasmania v Victoria D2 - 00:25 20/10/2026",
-        "Sky Sport 6 - LIVE: SS: S Australia v Queensland D2 - 00:55 20/10/2026"
+        "Sky Sport 6 - LIVE: SS: S Australia v Queensland D2 - 00:55 20/10/2026",
+        "Sky Sport Select - LIVE: World Rowing Beach Sprint D1 - 02:00 20/10/2026",
+        "Sky Sport 5 - LIVE: SS: W Australia v NSW D2 - 03:25 20/10/2026",
+        "Sky Sport 2 - LIVE: Philippines Open: Day 1 - 05:00 20/10/2026",
+        "Sky Sport 1 - LIVE: Australia v White Ferns: 2nd T20 - 08:45 20/10/2026",
+        "Sky Sport 1 UHD - LIVE: Australia v White Ferns: 2nd T20 - 08:45 20/10/2026",
+        "Sky Sport 3 - LIVE: WST: Northern Ireland Open: D3 Mor - 10:00 20/10/2026",
+        "Sky Sport 1 - LIVE: WST: Northern Ireland Open: D3 Aft - 13:00 20/10/2026",
+        "Sky Sport 1 UHD - LIVE: WST: Northern Ireland Open: D3 Aft - 13:00 20/10/2026"
       ],
       "sections": [],
       "events": []
@@ -1076,8 +1129,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 14 - Wed 14/10 2:00pm",
-        "Sportsnet 02 : The Raptors Show - Wed 14/10 4:00pm",
+        "Sportsnet 02 : The Raptors Show: Oct. 14 - Wed 14/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 14 - Wed 14/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 14 - Wed 14/10 7:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 14 - Wed 14/10 8:00pm",
@@ -1090,7 +1142,7 @@
         "Sportsnet 01 : GSOC Invitational - Draw 8 - Thu 15/10 3:00am",
         "Sportsnet 01 : Sportsnet Central: Oct. 14 - Thu 15/10 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 15 - Thu 15/10 2:00pm",
-        "Sportsnet 02 : The Raptors Show - Thu 15/10 4:00pm",
+        "Sportsnet 02 : The Raptors Show: Oct. 15 - Thu 15/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 15 - Thu 15/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 15 - Thu 15/10 7:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 10 - Thu 15/10 7:30pm",
@@ -1111,8 +1163,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Day 1 - UCI Track World Championships 2026 - Wed 14/10 11:25am",
-        "Stan 02 : Manchester City U19 v PSG U19 - UEFA Youth League 2026/2027 - Wed 14/10 2:55pm",
+        "Stan 02 : Manchester City U19 v PSG U19 - UEFA Youth League 2026/2027 - Wed 14/10 2:54pm",
         "Stan 04 : Feyenoord v Como - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
         "Stan 03 : LASK v Liverpool - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
         "Stan 01 : Football Zone: MD2 Thursday - UEFA Champions League 2026/27 - Wed 14/10 7:40pm",
@@ -1169,7 +1220,8 @@
         "Stan 03 : Australia v Scotland - WXV 2026 - Sat 17/10 1:45am",
         "Stan 04 : New Zealand v France - WXV 2026 - Sat 17/10 2:55am",
         "Stan 05 : Australia v Fiji: Men's - Sevens International 2026 - Sat 17/10 4:00am",
-        "Stan 06 : Australia v New Zealand: Women's - Sevens International 2026 - Sat 17/10 4:25am"
+        "Stan 06 : Australia v New Zealand: Women's - Sevens International 2026 - Sat 17/10 4:25am",
+        "Stan 07 : Australia v New Zealand - Bledisloe Cup Game 2 2026 - Sat 17/10 5:00am"
       ],
       "sections": [],
       "events": []
