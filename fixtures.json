@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T17:00:56.443431+00:00",
+  "scraped_at": "2026-10-14T20:29:08.753364+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Wednesday 14 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: LASK Linz vs Liverpool 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Feyenoord vs Como 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: LASK Linz vs Liverpool 720p"
             },
             {
               "type": "fixture",
@@ -119,10 +107,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 14-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E42 -Feyenoord vs Como 1907 - MD2[Live] [HK]",
-        "EVENT 05 - 14-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E43 -LASK vs Liverpool - MD2[Live] [HK]",
-        "EVENT 07 - 14-Oct 05:40PM-07:55PM - Feyenoord vs Como 1907 - MD2 UEFA Champions League 2026/27 [SG]",
-        "EVENT 13 - 14-Oct 05:40PM-07:55PM - LASK vs Liverpool - MD2 UEFA Champions League 2026/27 (151026) [SG]",
         "EVENT 01 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 -Aston Villa vs Fenerbahce - MD2[Live] [HK]",
         "EVENT 04 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E44 -Roma vs Real Madrid - MD2[Live] [HK]",
         "EVENT 09 - 14-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E48 -Man City vs PSG - MD2[Live] [HK]",
@@ -143,7 +127,14 @@
         "EVENT 12 - 15-Oct 07:55PM-10:00PM - Celta Vigo vs Juventus - MD2 UEFA Europa League 2026/27 [SG]",
         "EVENT 04 - 16-Oct 05:20PM-07:25PM - Bundesliga 2 2026/27 -Holstein Kiel vs Hertha[Live] [HK]",
         "EVENT 05 - 16-Oct 05:20PM-07:30PM - Bundesliga 2 2026/27 E65 -Energie Cottbus vs Nuremberg[Live] [HK]",
-        "EVENT 07 - 16-Oct 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Holstein Kiel vs Hertha [SG]"
+        "EVENT 07 - 16-Oct 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Holstein Kiel vs Hertha [SG]",
+        "EVENT 01 - 16-Oct 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Cordoba [SG]",
+        "EVENT 03 - 16-Oct 07:25PM-09:30PM - Bundesliga 2026/27 -Frankfurt vs Cologne[Live] [HK]",
+        "EVENT 09 - 16-Oct 07:25PM-09:30PM - Bundesliga 2026/27: Frankfurt vs Cologne [SG]",
+        "EVENT 10 - 16-Oct 07:38PM-09:45PM - Serie A 2026/27 E61 -Frosinone vs Sassuolo[Live] [HK]",
+        "EVENT 04 - 16-Oct 07:40PM-09:45PM - Ligue 1 2026/27 E55 -Le Mans vs Toulouse[Live] [HK]",
+        "EVENT 05 - 16-Oct 07:55PM-10:00PM - LaLiga 2026/27: Deportivo vs Levante [SG]",
+        "EVENT 06 - 16-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD09 -RC Deportivo vs Levante UD[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -437,9 +428,9 @@
         },
         {
           "sport": "BASEBALL",
-          "time": "23:00",
+          "time": "18:00",
           "name": "CLEVELAND GUARDIANS - TAMPA BAY RAYS",
-          "datetime": "2026-10-15 23:00:00",
+          "datetime": "2026-10-15 18:00:00",
           "channels": [
             {
               "name": "TBS",
@@ -652,6 +643,13 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "00:00",
+          "name": "MICHIGAN STATE - ILLINOIS",
+          "datetime": "2026-10-16 00:00:00",
+          "channels": []
         }
       ]
     },
@@ -674,7 +672,6 @@
         "Sky Sports Main Event UHD - DP World Tour Locker Room - Day 1 - Thu 15/10 12:30pm",
         "Sky Sports Main Event UHD - Sports Centre - Thu 15/10 7:00pm",
         "Sky Sports UHD 1 - Live: EFL League One - Mansfield Town v Oxford United - Thu 15/10 7:30pm",
-        "TNT Ultimate UHD - Live: UEFA Europa League Football - Bournemouth v Sturm Graz - Thu 15/10 7:45pm",
         "Sky Sports Main Event UHD - Live: NFL Football - Seattle Seahawks at Denver Broncos - Fri 16/10 12:00am"
       ],
       "sections": [],
@@ -687,6 +684,7 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 02 - no_brand_title: Kyiv Hit By Deadly Russian Strikes - 14/10/2026 05:32 - 01:59",
+        "BBC Events 04 - UEFA Champions League: 14/10/2026 - 14/10/2026 19:00 - 22:29",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 14/10/2026 06:24 - 22:34"
       ],
       "sections": [],
@@ -922,13 +920,13 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Feyenoord vs. Como",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: LASK vs. Liverpool",
-        "Paramount+ Event 03 - 18:00 - UEFA Champions League: Man. City vs. PSG",
-        "Paramount+ Event 04 - 18:00 - UEFA Champions League: Bodø/Glimt vs. Dortmund",
-        "Paramount+ Event 05 - 18:00 - Uefa Champions League: Shakhtar Donetsk vs. AEK Athens",
-        "Paramount+ Event 06 - 18:00 - UEFA Champions League: Real Betis vs. Porto",
+        "Paramount+ Event 03 - 18:00 - UEFA Champions League: Slovan Bratislava vs. Stuttgart",
+        "Paramount+ Event 05 - 18:00 - UEFA Champions League: Man. City vs. PSG",
+        "Paramount+ Event 06 - 18:00 - UEFA Champions League: Bodø/Glimt vs. Dortmund",
+        "Paramount+ Event 07 - 18:00 - UEFA Champions League: Roma vs. Real Madrid",
         "Paramount+ Event 08 - 18:00 - UEFA Champions League: Aston Villa vs. Fenerbahçe",
-        "Paramount+ Event 09 - 18:00 - UEFA Champions League: Slovan Bratislava vs. Stuttgart",
-        "Paramount+ Event 10 - 18:00 - UEFA Champions League: Roma vs. Real Madrid",
+        "Paramount+ Event 09 - 18:00 - UEFA Champions League: Real Betis vs. Porto",
+        "Paramount+ Event 10 - 18:00 - UEFA Champions League: Shakhtar Donetsk vs. AEK Athens",
         "Paramount+ Event 11 - 19:05 - English Football League: Norwich City vs. Southampton",
         "Paramount+ Event 12 - 19:05 - English Football League: Portsmouth vs. Sheffield United",
         "Paramount+ Event 13 - 19:20 - English Football League: Lincoln City vs. West Ham United",
@@ -1155,6 +1153,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 4 | Norwich vs Southampton",
+        "Sky Sports+ 5 | Portsmouth vs Sheff Utd",
+        "Sky Sports+ 6 | Qpr vs Derby",
         "Australia vs New Zealand",
         "Millwall vs Lincoln City",
         "Pakistan vs Sri Lanka",
@@ -1164,13 +1165,10 @@
         "Blackpool vs Mk Dons",
         "Bournemouth vs Sunderland",
         "Bromley vs Leicester",
-        "Norwich vs Southampton",
         "Mk Dons vs Luton",
         "Burton vs Bradford",
-        "Portsmouth vs Sheff Utd",
         "Peterborough vs Burton",
         "Cambridge U vs Wycombe",
-        "Qpr vs Derby",
         "Doncaster vs Stockport",
         "Huddersfield vs Peterborough",
         "Fleetwood vs Rotherham",
@@ -1191,9 +1189,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Oct. 14 - Wed 14/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 14 - Wed 14/10 7:00pm",
-        "Sportsnet 02 : Blair & Barker: Oct. 14 - Wed 14/10 8:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 6 - Wed 14/10 8:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Oct. 14 - Wed 14/10 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 14 - Wed 14/10 11:00pm",
@@ -1205,15 +1200,18 @@
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 15 - Thu 15/10 2:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 15 - Thu 15/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 15 - Thu 15/10 5:00pm",
+        "Sportsnet 06 : ALCS - Tampa Bay @ Cleveland - Game 3 - Thu 15/10 6:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 15 - Thu 15/10 7:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 10 - Thu 15/10 7:30pm",
         "Sportsnet 02 : Blair & Barker: Oct. 15 - Thu 15/10 8:00pm",
+        "Sportsnet 08 : NHL Tonight: First Shift - Thu 15/10 9:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Oct. 15 - Thu 15/10 9:00pm",
-        "Sportsnet 06 : ALCS - Tampa Bay @ Cleveland - Game 3 - Thu 15/10 11:00pm",
+        "Sportsnet 09 : NHL Now - Thu 15/10 10:00pm",
         "Sportsnet 03 : GSOC Invitational - Draw 11 - Thu 15/10 11:00pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 15 - Thu 15/10 11:00pm",
         "Sportsnet 02 : Buffalo @ Toronto - Fri 16/10 12:00am",
-        "Sportsnet 07 : French Language Broadcast - New York Islanders @ Ottawa - Fri 16/10 12:00am"
+        "Sportsnet 07 : French Language Broadcast - New York Islanders @ Ottawa - Fri 16/10 12:00am",
+        "Sportsnet 10 : New York Islanders @ Ottawa - Fri 16/10 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1224,9 +1222,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Manchester City U19 v PSG U19 - UEFA Youth League 2026/2027 - Wed 14/10 2:54pm",
-        "Stan 04 : Feyenoord v Como - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
-        "Stan 03 : LASK v Liverpool - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 5:40pm",
         "Stan 01 : Football Zone: MD2 Thursday - UEFA Champions League 2026/27 - Wed 14/10 7:40pm",
         "Stan 07 : Aston Villa v Fenerbahçe - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 7:55pm",
         "Stan 10 : Bodø / Glimt v Borussia Dortmund - UEFA Champions League Matchday 2 2026/2027 - Wed 14/10 7:55pm",
@@ -1282,7 +1277,9 @@
         "Stan 04 : New Zealand v France - WXV 2026 - Sat 17/10 2:55am",
         "Stan 05 : Australia v Fiji: Men's - Sevens International 2026 - Sat 17/10 4:00am",
         "Stan 06 : Australia v New Zealand: Women's - Sevens International 2026 - Sat 17/10 4:25am",
-        "Stan 07 : Australia v New Zealand - Bledisloe Cup Game 2 2026 - Sat 17/10 5:00am"
+        "Stan 07 : Australia v New Zealand - Bledisloe Cup Game 2 2026 - Sat 17/10 5:00am",
+        "Stan 08 : Australia v New Zealand: SKY NZ Coverage - Bledisloe Cup Game 2 2026 - Sat 17/10 5:15am",
+        "Stan 01 : Tokyo Verdy v FC Tokyo - J.League 2026 - Sat 17/10 5:55am"
       ],
       "sections": [],
       "events": []
@@ -1302,8 +1299,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Pat McAfee Show - Wed 14/10 5:00pm",
-        "TSN 02 : Rich Eisen Show - Wed 14/10 5:00pm",
         "TSN 01 : WTA 1000 Tennis: Wuhan - Round of 16 - Thu 15/10 4:00am"
       ],
       "sections": [],
