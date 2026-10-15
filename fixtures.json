@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T07:15:28.813528+00:00",
+  "scraped_at": "2026-10-15T11:00:54.041136+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -129,7 +129,11 @@
         "EVENT 04 - 16-Oct 07:40PM-09:45PM - Ligue 1 2026/27 E55 -Le Mans vs Toulouse[Live] [HK]",
         "EVENT 05 - 16-Oct 07:55PM-10:00PM - LaLiga 2026/27: Deportivo vs Levante [SG]",
         "EVENT 06 - 16-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD09 -RC Deportivo vs Levante UD[Live] [HK]",
-        "EVENT 01 - 17-Oct 12:30AM-02:30AM - USL Superleague '26 E7 -Carolina Ascent FC v DC Power[Live] [HK]"
+        "EVENT 01 - 17-Oct 12:30AM-02:30AM - USL Superleague '26 E7 -Carolina Ascent FC v DC Power[Live] [HK]",
+        "EVENT 01 - 17-Oct 11:50AM-02:00PM - Bundesliga 2 2026/27 -Wolfsburg vs Heidenheim 1846[Live] [HK]",
+        "EVENT 02 - 17-Oct 11:50AM-01:55PM - Bundesliga 2 2026/27 E67 -Kaiserslautern vs Bochum[Live] [HK]",
+        "EVENT 06 - 17-Oct 11:50AM-02:00PM - Bundesliga 2 2026/27: Wolfsburg vs Heidenheim 1846 [SG]",
+        "EVENT 07 - 17-Oct 12:00PM-02:30PM - Premier League 26/27 -Everton vs Chelsea [Live Chat][Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -771,9 +775,14 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Director General Defends Plan to Shelve New Archers Studio - 15/10/2026 06:55 - 02:18",
-        "BBC Events 02 - UEFA Champions League: Match of the Day: Matchday 2 - 15/10/2026 06:00 - 12:00",
         "BBC Events 03 - no_brand_title: Duchess of Sussex to Make First UK Public Appearance - 15/10/2026 05:56 - 02:09",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 15/10/2026 06:16 - 20:45"
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 15/10/2026 06:16 - 20:45",
+        "BBC Events 05 - Cycling: Track World Championships: Day 2: World Track Cycling Championships - 15/10/2026 09:43 - 13:55",
+        "BBC Events 06 - UEFA Champions League: Match of the Day: Matchday 2 - 15/10/2026 12:00 - 16:40",
+        "BBC Events 07 - no_brand_title: The Royal Opening of the Senedd - 15/10/2026 11:50 - 13:30",
+        "BBC Events 08 - no_brand_title: Jeffrey Donaldson Sentenced to 15 Years For Child Sex Abuse - 15/10/2026 11:37 - 09:23",
+        "BBC Events 09 - no_brand_title: King Charles to Open Welsh Senedd in Cardiff - 15/10/2026 11:48 - 13:00",
+        "BBC Events 10 - no_brand_title: Agoriad brenhinol y Senedd - 15/10/2026 11:50 - 13:30"
       ],
       "sections": [],
       "events": []
@@ -1121,10 +1130,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
-        "Sky Sport 1 UHD - LIVE: RLWC: Australia v Kiwis - 09:00 15/10/2026",
-        "Sky Sport 3 - LIVE: Gov. Gen XI v White Ferns T20 - 09:00 15/10/2026",
-        "Sky Sport 2 - LIVE: Reyes Cup: Day 1 - 12:00 15/10/2026",
         "Sky Sport 4 - LIVE: DP World Locker Room - Round 1 - 12:30 15/10/2026",
         "Sky Sport 5 - LIVE: Rapid League: Queens v Whai - 06:30 16/10/2026",
         "Sky Sport 1 - LIVE: NPC: Northland v Otago SF1 - 07:00 16/10/2026",
@@ -1238,34 +1243,8 @@
       "name": "SKY SPORTS PLUS",
       "type": "plain",
       "last_updated": "",
-      "status": "ok",
-      "fixtures": [
-        "Australia vs New Zealand",
-        "Millwall vs Lincoln City",
-        "Pakistan vs Sri Lanka",
-        "London City vs Everton",
-        "Wolves vs Portsmouth",
-        "Middlesbrough vs Cardiff",
-        "Leeds vs Man Utd",
-        "Blackpool vs Mk Dons",
-        "Bournemouth vs Sunderland",
-        "Bromley vs Leicester",
-        "Aston Villa vs Liverpool",
-        "Burton vs Bradford",
-        "Mk Dons vs Luton",
-        "Cambridge U vs Wycombe",
-        "Peterborough vs Burton",
-        "Doncaster vs Stockport",
-        "Huddersfield vs Peterborough",
-        "Fleetwood vs Rotherham",
-        "Barnet vs Swindon",
-        "Shrewsbury vs Bristol Rovers",
-        "Bristol Rovers vs Salford",
-        "Cheltenham vs Fleetwood",
-        "Chesterfield vs Colchester",
-        "Crawley vs Shrewsbury",
-        "Exeter vs Crewe"
-      ],
+      "status": "timeout",
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1275,7 +1254,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Oct. 14 - Thu 15/10 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 15 - Thu 15/10 2:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 15 - Thu 15/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 15 - Thu 15/10 5:00pm",
@@ -1299,7 +1277,8 @@
         "Sportsnet 15 : Toronto @ New York - Fri 16/10 12:30am",
         "Sportsnet 17 : San Jose @ Nashville - Fri 16/10 1:00am",
         "Sportsnet 08 : St. Louis @ Minnesota - Fri 16/10 1:00am",
-        "Sportsnet 06 : TNA iMPACT! - Fri 16/10 1:00am"
+        "Sportsnet 06 : TNA iMPACT! - Fri 16/10 1:00am",
+        "Sportsnet 18 : Winnipeg @ Chicago - Fri 16/10 1:00am"
       ],
       "sections": [],
       "events": []
