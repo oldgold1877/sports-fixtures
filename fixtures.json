@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T17:00:59.131722+00:00",
+  "scraped_at": "2026-10-15T20:11:27.414729+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,26 +14,6 @@
             {
               "type": "date",
               "text": "Thursday 15 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 17:45-19:45 - UEL: Torreense vs Sunderland 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UEL: Olympique Lyonnais vs Crystal Palace 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 17:45-19:45 - UEL: Salzburg vs Milan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 17:45-19:45 - UEL: Lech Poznań vs Bayer Leverkusen 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UEL: Olympique Lyonnais vs Crystal Palace 720p"
             },
             {
               "type": "fixture",
@@ -195,12 +175,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 -Lech vs Leverkusen - MD2[Live] [HK]",
-        "EVENT 02 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 E21 -Salzburg vs Milan - MD2[Live] [HK]",
-        "EVENT 03 - 15-Oct 05:40PM-07:55PM - UEFA Europa League 2026/27 E24 -Lyon vs Crystal Palace - MD2[Live] [HK]",
-        "EVENT 04 - 15-Oct 05:40PM-07:55PM - Lech vs Leverkusen - MD2 UEFA Europa League 2026/27 [SG]",
-        "EVENT 06 - 15-Oct 05:40PM-07:55PM - Salzburg vs Milan - MD2 UEFA Europa League 2026/27 [SG]",
-        "EVENT 13 - 15-Oct 05:40PM-07:55PM - Lyon vs Crystal Palace - MD2 UEFA Europa League 2026/27 (161026) [SG]",
         "EVENT 07 - 15-Oct 07:55PM-10:00PM - UEFA Conference League 2026/27 -Brighton vs Zalgiris - MD1[Live] [HK]",
         "EVENT 08 - 15-Oct 07:55PM-10:00PM - UEFA Europa League 2026/27 E27 -Bournemouth vs Sturm - MD2[Live] [HK]",
         "EVENT 09 - 15-Oct 07:55PM-10:00PM - UEFA Europa League 2026/27 E33 -Celta Vigo vs Juventus - MD2[Live] [HK]",
@@ -246,7 +220,14 @@
         "EVENT 07 - 17-Oct 05:20PM-07:25PM - Bundesliga 2026/27: Bayern vs Leipzig [SG]",
         "EVENT 09 - 17-Oct 05:20PM-07:30PM - Newcastle United v Aston Villa (MW07) [SG]",
         "EVENT 10 - 17-Oct 05:25PM-07:40PM - LaLiga 2026/27: Real Betis vs Barcelona [SG]",
-        "EVENT 11 - 17-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD09 -Real Betis vs FC Barcelona[Live] [HK]"
+        "EVENT 11 - 17-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD09 -Real Betis vs FC Barcelona[Live] [HK]",
+        "EVENT 01 - 17-Oct 07:25PM-09:30PM - Bundesliga 2 2026/27: Hannover vs St. Pauli [SG]",
+        "EVENT 06 - 17-Oct 07:38PM-09:45PM - Serie A 2026/27 E64 -Roma vs Genoa[Live] [HK]",
+        "EVENT 07 - 17-Oct 07:40PM-09:45PM - Ligue 1 2026/27 -Troyes vs Lens[Live] [HK]",
+        "EVENT 08 - 17-Oct 07:40PM-09:45PM - Ligue 1 2026/27 E57 -Lille vs Brest[Live] [HK]",
+        "EVENT 03 - 17-Oct 07:52PM-10:00PM - LaLiga 2 2026/27: Las Palmas vs Castellon [SG]",
+        "EVENT 04 - 17-Oct 07:55PM-10:00PM - LaLiga 2026/27: Valencia vs Athletic Bilbao [SG]",
+        "EVENT 09 - 17-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD09 -Valencia CF vs Athletic Club[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -677,28 +658,48 @@
           "time": "09:00",
           "name": "DP WORLD INDIA CHAMPIONSHIP",
           "datetime": "2026-10-16 09:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "️ GOLF",
           "time": "19:00",
           "name": "SAS CHAMPIONSHIP",
           "datetime": "2026-10-16 19:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "ICE HOCKEY",
           "time": "01:00",
           "name": "CHICAGO BLACKHAWKS - WINNIPEG JETS",
           "datetime": "2026-10-16 01:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "ICE HOCKEY",
           "time": "23:00",
           "name": "QUINNIPIAC - NORTHEASTERN",
           "datetime": "2026-10-16 23:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "ICE HOCKEY",
@@ -750,21 +751,40 @@
           "time": "05:00",
           "name": "SHANGHAI MASTERS",
           "datetime": "2026-10-16 05:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "TENNIS",
           "time": "07:30",
           "name": "SHANGHAI MASTERS",
           "datetime": "2026-10-16 07:30:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "TENNIS",
           "time": "09:00",
           "name": "MALLORCA CHAMPIONSHIP",
           "datetime": "2026-10-16 09:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "TENNIS",
@@ -851,9 +871,11 @@
         "BBC Events 01 - no_brand_title: BBC Director General Defends Plan to Shelve New Archers Studio - 15/10/2026 06:55 - 02:18",
         "BBC Events 02 - no_brand_title: Inquest told William Chapman Experienced 'Bouts of Psychosis' - 15/10/2026 13:21 - 12:58",
         "BBC Events 03 - no_brand_title: Duchess of Sussex to Make First UK Public Appearance - 15/10/2026 05:56 - 02:09",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 15/10/2026 06:16 - 20:45",
         "BBC Events 05 - Autumnwatch: Autumn Calm - 15/10/2026 18:00 - 00:00",
-        "BBC Events 08 - no_brand_title: Jeffrey Donaldson Sentenced to 15 Years For Child Sex Abuse - 15/10/2026 11:37 - 09:23"
+        "BBC Events 07 - no_brand_title: Super Rygbi Cymru: Swansea v Cardiff - 15/10/2026 18:54 - 21:30",
+        "BBC Events 08 - no_brand_title: Jeffrey Donaldson Sentenced to 15 Years For Child Sex Abuse - 15/10/2026 11:37 - 09:23",
+        "BBC Events 09 - no_brand_title: Super Rygbi Cymru: Abertawe v Caerdydd - 15/10/2026 18:54 - 21:30",
+        "BBC Events 10 - Question Time - 15/10/2026 20:44 - 22:00"
       ],
       "sections": [],
       "events": []
@@ -1079,44 +1101,44 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 02 - 16:30 - UEFA Europa League: Lech Poznań vs. Bayer Leverkusen",
-        "Paramount+ Event 03 - 16:30 - UEFA Europa League: Union Saint-Gilloise vs. Real Sociedad",
-        "Paramount+ Event 04 - 16:30 - UEFA Europa League: Torreense vs. Sunderland",
-        "Paramount+ Event 05 - 16:30 - UEFA Europa League: AZ Alkmaar vs. Hapoel Beer-Sheva",
+        "Paramount+ Event 01 - 16:30 - UEFA Europa League: Union Saint-Gilloise vs. Real Sociedad",
+        "Paramount+ Event 02 - 16:30 - UEFA Europa League: AZ Alkmaar vs. Hapoel Beer-Sheva",
+        "Paramount+ Event 04 - 16:30 - UEFA Europa League: Lech Poznań vs. Bayer Leverkusen",
+        "Paramount+ Event 05 - 16:30 - UEFA Europa League: Torreense vs. Sunderland",
         "Paramount+ Event 06 - 16:30 - UEFA Europa League: Celje vs. Omonia",
         "Paramount+ Event 07 - 16:30 - UEFA Europa League: Sparta Praha vs. Lillestrøm",
         "Paramount+ Event 08 - 16:30 - UEFA Europa League: Lyon vs. Crystal Palace",
         "Paramount+ Event 09 - 16:30 - UEFA Europa League: RB Salzburg vs. Milan",
-        "Paramount+ Event 10 - 16:30 - UEFA Europa Conference League: KAA Gent vs. AGF Aarhus",
-        "Paramount+ Event 11 - 16:30 - UEFA Europa Conference League: CSKA Sofia vs. Monaco",
-        "Paramount+ Event 12 - 16:30 - UEFA Europa Conference League: Egnatia vs. FC Midtjylland",
-        "Paramount+ Event 13 - 16:30 - UEFA Europa Conference League: Panathinaikos vs. FK Borac",
-        "Paramount+ Event 14 - 16:30 - UEFA Europa Conference League: FC Lugano vs. Crvena Zvezda",
-        "Paramount+ Event 15 - 16:30 - UEFA Europa Conference League: Hajduk Split vs. Ajax",
-        "Paramount+ Event 16 - 16:30 - UEFA Europa Conference League: Mjällby vs. Inter Escaldes",
-        "Paramount+ Event 17 - 16:30 - UEFA Europa Conference League: Riga FC vs. Kairat Almaty",
-        "Paramount+ Event 18 - 16:30 - UEFA Europa Conference League: KuPS Kuopio vs. Trabzonspor",
-        "Paramount+ Event 19 - 16:30 - UEFA Europa Conference League: Craiova vs. Getafe",
+        "Paramount+ Event 10 - 16:30 - UEFA Europa Conference League: Egnatia vs. FC Midtjylland",
+        "Paramount+ Event 11 - 16:30 - UEFA Europa Conference League: Panathinaikos vs. FK Borac",
+        "Paramount+ Event 12 - 16:30 - UEFA Europa Conference League: FC Lugano vs. Crvena Zvezda",
+        "Paramount+ Event 13 - 16:30 - UEFA Europa Conference League: Mjällby vs. Inter Escaldes",
+        "Paramount+ Event 14 - 16:30 - UEFA Europa Conference League: Riga FC vs. Kairat Almaty",
+        "Paramount+ Event 15 - 16:30 - UEFA Europa Conference League: KuPS Kuopio vs. Trabzonspor",
+        "Paramount+ Event 16 - 16:30 - UEFA Europa Conference League: Craiova vs. Getafe",
+        "Paramount+ Event 17 - 16:30 - UEFA Europa Conference League: Hajduk Split vs. Ajax",
+        "Paramount+ Event 18 - 16:30 - UEFA Europa Conference League: KAA Gent vs. AGF Aarhus",
+        "Paramount+ Event 19 - 16:30 - UEFA Europa Conference League: CSKA Sofia vs. Monaco",
         "Paramount+ Event 20 - 18:30 - Uefa Europa League: AFC Bournemouth vs. Sturm Graz",
-        "Paramount+ Event 21 - 19:20 - Uefa Europa League: Ferencváros vs. Viktoria Plzeň",
-        "Paramount+ Event 22 - 19:20 - Uefa Europa League: Marseille vs. Olympiacos",
-        "Paramount+ Event 23 - 19:20 - Uefa Europa League: Jagiellonia Białystok vs. Ararat-Armenia",
-        "Paramount+ Event 24 - 19:20 - Uefa Europa League: Dinamo Zagreb vs. Anderlecht",
-        "Paramount+ Event 25 - 19:20 - Uefa Europa League: Hoffenheim vs. Beşiktaş",
-        "Paramount+ Event 26 - 19:20 - Uefa Europa League: Benfica vs. Celtic",
-        "Paramount+ Event 27 - 19:20 - Uefa Europa League: Rennes vs. OFI Crete",
-        "Paramount+ Event 28 - 19:20 - Uefa Europa League: NEC Nijmegen vs. Levski Sofia",
-        "Paramount+ Event 29 - 19:20 - Uefa Europa League: Celta Vigo vs. Juventus",
-        "Paramount+ Event 30 - 19:20 - English Football League: Mansfield Town vs. Oxford United",
-        "Paramount+ Event 31 - 19:20 - Uefa Europa Conference League: Heart of Midlothian vs. FC Nordsjælland",
-        "Paramount+ Event 32 - 19:20 - Uefa Europa Conference League: K. Sint-Truidense vs. FC Iberia Tbilisi",
-        "Paramount+ Event 33 - 19:20 - Uefa Europa Conference League: Brann vs. L. Red Imps",
-        "Paramount+ Event 34 - 19:20 - Uefa Europa Conference League: Copenhagen vs. Braga",
-        "Paramount+ Event 35 - 19:20 - Uefa Europa Conference League: Atalanta vs. Pafos",
-        "Paramount+ Event 36 - 19:20 - Uefa Europa Conference League: Brighton vs. Kauno Žalgiris",
-        "Paramount+ Event 37 - 19:20 - Uefa Europa Conference League: Freiburg vs. Jablonec",
-        "Paramount+ Event 38 - 19:20 - Uefa Europa Conference League: FC Twente vs. FC Thun",
-        "Paramount+ Event 39 - 19:20 - Uefa Europa League: AFC Bournemouth vs. Sturm Graz",
+        "Paramount+ Event 21 - 19:20 - UEFA Europa Conference League: Freiburg vs. Jablonec",
+        "Paramount+ Event 22 - 19:20 - UEFA Europa League: NEC Nijmegen vs. Levski Sofia",
+        "Paramount+ Event 23 - 19:20 - UEFA Europa Conference League: Brann vs. L. Red Imps",
+        "Paramount+ Event 24 - 19:20 - UEFA Europa Conference League: Copenhagen vs. Braga",
+        "Paramount+ Event 25 - 19:20 - UEFA Europa League: Dinamo Zagreb vs. Anderlecht",
+        "Paramount+ Event 26 - 19:20 - UEFA Europa Conference League: K. Sint-Truidense vs. FC Iberia Tbilisi",
+        "Paramount+ Event 27 - 19:20 - UEFA Europa League: Marseille vs. Olympiacos",
+        "Paramount+ Event 28 - 19:20 - UEFA Europa Conference League: FC Twente vs. FC Thun",
+        "Paramount+ Event 29 - 19:20 - UEFA Europa Conference League: Heart of Midlothian vs. FC Nordsjælland",
+        "Paramount+ Event 30 - 19:20 - UEFA Europa League: Jagiellonia Białystok vs. Ararat-Armenia",
+        "Paramount+ Event 31 - 19:20 - UEFA Europa Conference League: Atalanta vs. Pafos",
+        "Paramount+ Event 32 - 19:20 - UEFA Europa League: Hoffenheim vs. Beşiktaş",
+        "Paramount+ Event 33 - 19:20 - UEFA Europa League: Ferencváros vs. Viktoria Plzeň",
+        "Paramount+ Event 34 - 19:20 - UEFA Europa League: Rennes vs. OFI Crete",
+        "Paramount+ Event 35 - 19:20 - UEFA Europa League: Benfica vs. Celtic",
+        "Paramount+ Event 36 - 19:20 - UEFA Europa League: Celta Vigo vs. Juventus",
+        "Paramount+ Event 37 - 19:20 - UEFA Europa Conference League: Brighton vs. Kauno Žalgiris",
+        "Paramount+ Event 38 - 19:20 - UEFA Europa League: AFC Bournemouth vs. Sturm Graz",
+        "Paramount+ Event 39 - 19:20 - English Football League: Mansfield Town vs. Oxford United",
         "Paramount+ Event 01 - 18:55 - Scottish Professional Football League: Ayr United vs. Partick Thistle",
         "Paramount+ Event 02 - 19:05 - Serie A: Frosinone vs. Sassuolo",
         "Paramount+ Event 03 - 19:20 - English Football League: Burnley vs. Wolves",
@@ -1363,11 +1385,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Oct. 15 - Thu 15/10 5:00pm",
         "Sportsnet 06 : ALCS - Tampa Bay @ Cleveland - Game 3 - Thu 15/10 6:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 15 - Thu 15/10 7:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 10 - Thu 15/10 7:30pm",
-        "Sportsnet 02 : Blair & Barker: Oct. 15 - Thu 15/10 8:00pm",
         "Sportsnet 08 : NHL Tonight: First Shift - Thu 15/10 9:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Oct. 15 - Thu 15/10 9:00pm",
         "Sportsnet 09 : NHL Now - Thu 15/10 10:00pm",
@@ -1385,7 +1404,10 @@
         "Sportsnet 17 : San Jose @ Nashville - Fri 16/10 1:00am",
         "Sportsnet 08 : St. Louis @ Minnesota - Fri 16/10 1:00am",
         "Sportsnet 06 : TNA iMPACT! - Fri 16/10 1:00am",
-        "Sportsnet 18 : Winnipeg @ Chicago - Fri 16/10 1:00am"
+        "Sportsnet 18 : Winnipeg @ Chicago - Fri 16/10 1:00am",
+        "Sportsnet 04 : Utah @ Edmonton - Fri 16/10 2:00am",
+        "Sportsnet 05 : Calgary @ Vegas - Fri 16/10 3:00am",
+        "Sportsnet 01 : GSOC Invitational - Draw 12 - Fri 16/10 3:00am"
       ],
       "sections": [],
       "events": []
@@ -1396,24 +1418,24 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 05 : AZ v Hapoel Be'er Sheva - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 18 : CSKA Sofia v Monaco - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 03 : Celje v Omonia Nicosia - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 17 : Egnatia Rrogozhinë v Midtjylland - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 08 : Gent v AGF - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 11 : Hajduk Split v Ajax - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 12 : KuPS v Trabzonspor - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 04 : Lech Poznań v Bayer 04 Leverkusen - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 09 : Lugano v Crvena zvezda - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 14 : Mjällby v Inter Club d'Escaldes - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 02 : Olympique Lyonnais v Crystal Palace - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 16 : Panathinaikos v Borac Banja Luka - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 15 : Riga v Kairat - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 07 : Salzburg v Milan - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 01 : Sparta Praha v Lillestrøm - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 06 : Torreense v Sunderland - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 13 : Union Saint-Gilloise v Real Sociedad - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
-        "Stan 10 : Universitatea Craiova v Getafe - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:40pm",
+        "Stan 07 : Salzburg v Milan - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 05 : AZ v Hapoel Be'er Sheva - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 12 : KuPS v Trabzonspor - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 03 : Celje v Omonia Nicosia - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 17 : Egnatia Rrogozhinë v Midtjylland - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 08 : Gent v AGF - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 09 : Lugano v Crvena zvezda - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 16 : Panathinaikos v Borac Banja Luka - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 06 : Torreense v Sunderland - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 18 : CSKA Sofia v Monaco - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 11 : Hajduk Split v Ajax - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 04 : Lech Poznań v Bayer 04 Leverkusen - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 14 : Mjällby v Inter Club d'Escaldes - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 02 : Olympique Lyonnais v Crystal Palace - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 01 : Sparta Praha v Lillestrøm - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 13 : Union Saint-Gilloise v Real Sociedad - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 10 : Universitatea Craiova v Getafe - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
+        "Stan 15 : Riga v Kairat - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 5:39pm",
         "Stan 31 : Atalanta v Pafos - UEFA Conference League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 21 : Benfica v Celtic - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
         "Stan 20 : Bournemouth v Sturm Graz - UEFA Europa League Matchday 2 2026/2027 - Thu 15/10 7:55pm",
@@ -1455,7 +1477,8 @@
         "Stan 13 : Everton v Chelsea - Premier League Matchweek 7 2026/2027 - Sat 17/10 11:30am",
         "Stan 06 : Free Practice 3: 6 Hours of Barcelona (Hypercar) - WEC 2026 - Sat 17/10 11:30am",
         "Stan 07 : 4K • Everton v Chelsea - Premier League Matchweek 7 2026/2027 - Sat 17/10 12:20pm",
-        "Stan 01 : Arsenal v Birmingham City - WSL 2026/27 - Sat 17/10 12:35pm"
+        "Stan 01 : Arsenal v Birmingham City - WSL 2026/27 - Sat 17/10 12:35pm",
+        "Stan 02 : Qualifying: 6 Hours of Barcelona (Hypercar) - WEC 2026 - Sat 17/10 2:30pm"
       ],
       "sections": [],
       "events": []
@@ -1475,8 +1498,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Pat McAfee Show - Thu 15/10 5:00pm",
-        "TSN 02 : Rich Eisen Show - Thu 15/10 5:00pm",
         "TSN 01 : NCAA Football: Georgia Southern vs. Old Dominion - Fri 16/10 12:30am",
         "TSN 02 : ATP 1000 Tennis: Shanghai - Doubles Semifinals - Fri 16/10 5:00am"
       ],
