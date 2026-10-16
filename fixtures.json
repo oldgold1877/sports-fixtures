@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T17:00:58.880347+00:00",
+  "scraped_at": "2026-10-16T19:48:59.618446+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -32,10 +32,6 @@
         {
           "section": "Live Events",
           "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 2:30pmONE Friday Fights 175 Lamsing v Rhenimi"
-            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 02 - 2pm True Grit Wrestling Last Rites"
@@ -79,9 +75,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 04 - 16-Oct 05:20PM-07:25PM - Bundesliga 2 2026/27 -Holstein Kiel vs Hertha[Live] [HK]",
-        "EVENT 05 - 16-Oct 05:20PM-07:30PM - Bundesliga 2 2026/27 E65 -Energie Cottbus vs Nuremberg[Live] [HK]",
-        "EVENT 07 - 16-Oct 05:30PM-07:25PM - Bundesliga 2 2026/27 (Join in Progress): Holstein Kiel vs Hertha [SG]",
         "EVENT 01 - 16-Oct 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Cordoba [SG]",
         "EVENT 03 - 16-Oct 07:25PM-09:30PM - Bundesliga 2026/27 -Frankfurt vs Cologne[Live] [HK]",
         "EVENT 09 - 16-Oct 07:25PM-09:30PM - Bundesliga 2026/27: Frankfurt vs Cologne [SG]",
@@ -155,7 +148,11 @@
         "EVENT 04 - 18-Oct 04:53PM-07:00PM - Serie A 2026/27 E67 -Milan vs Atalanta[Live] [HK]",
         "EVENT 09 - 18-Oct 04:55PM-07:00PM - Serie A Women 2026/27 E9 -Inter v Parma[Live] [HK]",
         "EVENT 11 - 18-Oct 05:25PM-07:40PM - LaLiga 2026/27: Malaga vs Real Sociedad [SG]",
-        "EVENT 12 - 18-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD09 -Málaga CF vs Real Sociedad[Live] [HK]"
+        "EVENT 12 - 18-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD09 -Málaga CF vs Real Sociedad[Live] [HK]",
+        "EVENT 02 - 18-Oct 07:38PM-09:45PM - Serie A 2026/27 E68 -Juventus vs Lazio[Live] [HK]",
+        "EVENT 04 - 18-Oct 07:40PM-09:45PM - Ligue 1 2026/27 E63 -Lyon vs Nice[Live] [HK]",
+        "EVENT 06 - 18-Oct 07:55PM-10:00PM - LaLiga 2026/27: Real Madrid vs Sevilla [SG]",
+        "EVENT 07 - 18-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD09 -Real Madrid vs Sevilla FC[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -1191,6 +1188,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "12:00",
+          "name": "RAFAEL JODAR - DANIIL MEDVEDEV",
+          "datetime": "2026-10-17 12:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "14:00",
           "name": "AUSTRALIAN OPEN",
           "datetime": "2026-10-17 14:00:00",
@@ -1289,10 +1298,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 03 - no_brand_title: BBC Weather Live - 16/10/2026 06:38 - 20:30",
+        "BBC Events 01 - Autumnwatch: Autumn Calm - 16/10/2026 18:00 - 00:00",
+        "BBC Events 02 - no_brand_title: EPCR Challenge Cup: Dragons v USA Perpignan - 16/10/2026 19:41 - 22:05",
         "BBC Events 04 - no_brand_title: Phone in: Henry Nowak Killer's Mum Faces Deportation - 16/10/2026 08:55 - 08:18",
         "BBC Events 05 - no_brand_title: Four Reported Dead and Suspect Killed in US School Shooting - 16/10/2026 01:25 - 00:28",
         "BBC Events 06 - no_brand_title: Three Children and One Teacher Killed in Oregon School Shooting - 16/10/2026 02:30 - 02:07",
+        "BBC Events 07 - Irish League Football Live: Larne v Coleraine - 16/10/2026 19:00 - 23:00",
+        "BBC Events 08 - Bundesliga: Eintracht Frankfurt v Cologne - 16/10/2026 19:02 - 21:30",
         "BBC Events 10 - no_brand_title: Jewish Settlers Attack Palestinian Farmers in West Bank - 16/10/2026 12:26 - 12:14"
       ],
       "sections": [],
@@ -1583,28 +1595,28 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "Last updated: Fri 16 Oct 2026 05:00:02 UK",
+      "last_updated": "Last updated: Fri 16 Oct 2026 20:38:25 UK",
       "status": "ok",
       "fixtures": [
-        "Flo Rugby 01 - French Top 14: Gloucester Rugby vs Bordeaux-Begles - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 02 - United Rugby Championship: Dragons vs Perpignan - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 03 - French Top 14: Edinburgh Rugby vs Toulon - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 02 - French Top 14: Vodacom Bulls vs Stade Francais - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 03 - United Rugby Championship: Sale Sharks vs Glasgow Warriors - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 01 - United Rugby Championship: Black Lion vs Ospreys Rugby - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 04 - French Top 14: Lyon vs Hollywoodbets Sharks - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 05 - French Top 14: Clermont vs Leinster Rugby - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
-        "Flo Rugby 06 - United Rugby Championship: Zebre Parma vs Ulster Rugby - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
-        "Flo Rugby 07 - Premiership Rugby: DHL Stormers vs Bristol Bears - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
-        "Flo Rugby 08 - Premiership Rugby: Connacht Rugby vs Saracens F.C. - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
-        "Flo Rugby 09 - French Top 14: La Rochelle vs Fidelity SecureDrive Lions - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
-        "Flo Rugby 10 - French Top 14: Munster Rugby vs Racing 92 - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 11 - Premiership Rugby: Scarlets vs Newcastle Red Bulls - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 12 - French Top 14: Bath Rugby vs Montpellier - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
-        "Flo Rugby 01 - French Top 14: Bayonne vs Cheetahs - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 02 - Premiership Rugby: Pau vs Leicester Tigers - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 03 - Premiership Rugby: Harlequin F.C. vs RC Vannes - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
-        "Flo Rugby 04 - Premiership Rugby: Toulouse vs Exeter Chiefs - 18 Oct 15:15 UK / 10:15 ET / 07:15 PT"
+        "FloSports 01 - French Top 14: Gloucester Rugby vs Bordeaux-Begles - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 02 - United Rugby Championship: Dragons vs Perpignan - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 03 - French Top 14: Edinburgh Rugby vs Toulon - 16 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 02 - French Top 14: Vodacom Bulls vs Stade Francais - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 03 - United Rugby Championship: Sale Sharks vs Glasgow Warriors - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 01 - United Rugby Championship: Black Lion vs Ospreys Rugby - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 04 - French Top 14: Lyon vs Hollywoodbets Sharks - 17 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 05 - French Top 14: Clermont vs Leinster Rugby - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "FloSports 06 - United Rugby Championship: Zebre Parma vs Ulster Rugby - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "FloSports 07 - Premiership Rugby: DHL Stormers vs Bristol Bears - 17 Oct 15:15 UK / 10:15 ET / 07:15 PT",
+        "FloSports 08 - Premiership Rugby: Connacht Rugby vs Saracens F.C. - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
+        "FloSports 09 - French Top 14: La Rochelle vs Fidelity SecureDrive Lions - 17 Oct 16:30 UK / 11:30 ET / 08:30 PT",
+        "FloSports 10 - French Top 14: Munster Rugby vs Racing 92 - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 11 - Premiership Rugby: Scarlets vs Newcastle Red Bulls - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 12 - French Top 14: Bath Rugby vs Montpellier - 17 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 01 - French Top 14: Bayonne vs Cheetahs - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 02 - Premiership Rugby: Pau vs Leicester Tigers - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 03 - Premiership Rugby: Harlequin F.C. vs RC Vannes - 18 Oct 13:00 UK / 08:00 ET / 05:00 PT",
+        "FloSports 04 - Premiership Rugby: Toulouse vs Exeter Chiefs - 18 Oct 15:15 UK / 10:15 ET / 07:15 PT"
       ],
       "sections": [],
       "events": []
@@ -1615,7 +1627,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 19:15 16/10/2026",
         "Sky Sport 5 - LIVE: PFL Chicago 2 - 23:00 16/10/2026",
         "Sky Sport 1 - LIVE: WXV: Canada v England - 23:50 16/10/2026",
         "Sky Sport 1 UHD - LIVE: WXV: Canada v England - 23:50 16/10/2026",
@@ -1768,8 +1779,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Oct. 16 - Fri 16/10 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Oct. 16 - Fri 16/10 7:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 16 - Fri 16/10 8:00pm",
         "Sportsnet 04 : GSOC Invitational - Draw 14 - Fri 16/10 8:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Oct. 16 - Fri 16/10 9:00pm",
@@ -1790,7 +1799,10 @@
         "Sportsnet 06 : Vancouver @ Tampa Bay - Sat 17/10 9:00pm",
         "Sportsnet 07 : Seattle @ Florida - Sat 17/10 11:00pm",
         "Sportsnet 01 : UFC Fight Night - Buckley vs. Malott Prelims - Sat 17/10 11:00pm",
-        "Sportsnet 08 : UFC Fight Night - Buckley vs. Malott Prelims + Mains - Sat 17/10 11:00pm"
+        "Sportsnet 08 : UFC Fight Night - Buckley vs. Malott Prelims + Mains - Sat 17/10 11:00pm",
+        "Sportsnet 11 : Buffalo @ Montreal - Sun 18/10 12:00am",
+        "Sportsnet 10 : Dallas @ Chicago - Sun 18/10 12:00am",
+        "Sportsnet 09 : GSOC Invitational - Men's Quarterfinals - Sun 18/10 12:00am"
       ],
       "sections": [],
       "events": []
