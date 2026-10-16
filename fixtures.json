@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T11:00:53.352312+00:00",
+  "scraped_at": "2026-10-16T12:02:30.228089+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,6 +8,27 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Friday 16 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - EFL Championship: Burnley vs Wolverhampton Wanderers 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Saturday 17 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 01:00-03:00 - WWE Friday Night Smackdown 1080p"
+            }
+          ]
+        },
         {
           "section": "Live Events",
           "entries": [
@@ -196,7 +217,11 @@
         "EVENT 01 - 17-Oct 10:00PM-01:00AM - UFC Fight Night 2026 FN 26: Prelims: Buckley vs Malott - FN 26: Prelims: Buckley vs Malott [SG]",
         "EVENT 02 - 18-Oct 01:00AM-04:00AM - UFC Fight Night 2026 FN 26: Buckley vs Malott - FN 26: Buckley vs Malott [SG]",
         "EVENT 03 - 18-Oct 11:23AM-01:30PM - Serie A 2026/27 E65 -Udinese vs Lecce[Live] [HK]",
-        "EVENT 04 - 18-Oct 11:55AM-02:00PM - Barclay's WSL '26/27 E17 -Chelsea v Tottenham[Live] [HK]"
+        "EVENT 04 - 18-Oct 11:55AM-02:00PM - Barclay's WSL '26/27 E17 -Chelsea v Tottenham[Live] [HK]",
+        "EVENT 05 - 18-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27 -Karlsruher vs Darmstadt[Live] [HK]",
+        "EVENT 06 - 18-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27: Karlsruher vs Darmstadt [SG]",
+        "EVENT 07 - 18-Oct 12:55PM-03:10PM - LaLiga 2026/27: Osasuna vs Racing de Santander [SG]",
+        "EVENT 08 - 18-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD09 -CA Osasuna vs Racing Club[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -226,12 +251,7 @@
           "time": "16:00",
           "name": "AL RIYADH - AL HILAL",
           "datetime": "2026-10-16 16:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "FOOTBALL",
@@ -315,36 +335,21 @@
           "time": "19:00",
           "name": "SAS CHAMPIONSHIP",
           "datetime": "2026-10-16 19:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "ICE HOCKEY",
           "time": "01:00",
           "name": "CHICAGO BLACKHAWKS - WINNIPEG JETS",
           "datetime": "2026-10-16 01:00:00",
-          "channels": [
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "ICE HOCKEY",
           "time": "23:00",
           "name": "QUINNIPIAC - NORTHEASTERN",
           "datetime": "2026-10-16 23:00:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "ICE HOCKEY",
@@ -358,12 +363,7 @@
           "time": "20:30",
           "name": "NASCAR CRAFTSMAN TRUCK SERIES CHASE RACE AT PHOENIX",
           "datetime": "2026-10-16 20:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "MOTORSPORTS",
@@ -405,28 +405,14 @@
           "time": "09:00",
           "name": "MALLORCA CHAMPIONSHIP",
           "datetime": "2026-10-16 09:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "TENNIS",
           "time": "11:00",
           "name": "SHANGHAI MASTERS",
           "datetime": "2026-10-16 11:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "TENNIS",
@@ -453,12 +439,522 @@
     },
     {
       "name": "TOMORROWS EVENTS",
-      "type": "plain",
+      "type": "events",
       "last_updated": "",
-      "status": "timeout",
+      "status": "ok",
       "fixtures": [],
       "sections": [],
-      "events": []
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "PURDUE - WASHINGTON",
+          "datetime": "2026-10-17 01:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "UNION AT LEBANON",
+          "datetime": "2026-10-17 01:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:00",
+          "name": "OREGON - MICHIGAN",
+          "datetime": "2026-10-17 02:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:30",
+          "name": "EDMONTON ELKS - WINNIPEG BLUE BOMBERS",
+          "datetime": "2026-10-17 02:30:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "04:00",
+          "name": "UCLA - WASHINGTON",
+          "datetime": "2026-10-17 04:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "12:30",
+          "name": "EVERTON - CHELSEA",
+          "datetime": "2026-10-17 12:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "15:00",
+          "name": "MANCHESTER CITY - IPSWICH TOWN",
+          "datetime": "2026-10-17 15:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "INDIANA - OHIO STATE",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "JAMES MADISON - GEORGIA STATE",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "KANSAS STATE - KANSAS",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "LSU - MISSISSIPPI STATE",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "MICHIGAN TECH - NORTHERN MICHIGAN",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "TEXAS - FLORIDA",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "WEST VIRGINIA - CINCINNATI",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": [
+            {
+              "name": "TNT US",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:30",
+          "name": "BAYERN MüNCHEN - RB LEIPZIG",
+          "datetime": "2026-10-17 17:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:30",
+          "name": "MARYLAND - RUTGERS",
+          "datetime": "2026-10-17 17:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:30",
+          "name": "NEWCASTLE UNITED - ASTON VILLA",
+          "datetime": "2026-10-17 17:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:30",
+          "name": "WASHINGTON SPIRIT - GOTHAM FC",
+          "datetime": "2026-10-17 17:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "ATLéTICO OTTAWA - FORGE",
+          "datetime": "2026-10-17 18:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "DARTMOUTH - MERRIMACK",
+          "datetime": "2026-10-17 18:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "19:30",
+          "name": "STONY BROOK - UALBANY",
+          "datetime": "2026-10-17 19:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:00",
+          "name": "SASKATCHEWAN ROUGHRIDERS - MONTREAL ALOUETTES",
+          "datetime": "2026-10-17 20:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:30",
+          "name": "MICHIGAN - PENN STATE",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:30",
+          "name": "TENNESSEE - ALABAMA",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:30",
+          "name": "TEXAS TECH - ARIZONA STATE",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:30",
+          "name": "UNIVERSITY OF GEORGIA - AUBURN",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:00",
+          "name": "CAVALRY - PACIFIC",
+          "datetime": "2026-10-17 21:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:00",
+          "name": "SOUTHERN ILLINOIS - ILLINOIS STATE",
+          "datetime": "2026-10-17 21:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:30",
+          "name": "MINNESOTA UNITED - ST. LOUIS CITY",
+          "datetime": "2026-10-17 21:30:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "OREGON STATE - WASHINGTON STATE",
+          "datetime": "2026-10-17 23:00:00",
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "BAYLOR - TCU",
+          "datetime": "2026-10-18 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "CALGARY STAMPEDERS - BC LIONS",
+          "datetime": "2026-10-18 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "EASTERN WASHINGTON - MONTANA STATE",
+          "datetime": "2026-10-18 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "MIAMI - FLORIDA STATE",
+          "datetime": "2026-10-18 00:00:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "BYU - NOTRE DAME",
+          "datetime": "2026-10-18 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "HOUSTON - OKLAHOMA STATE",
+          "datetime": "2026-10-18 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "NEW YORK RED BULLS - TORONTO FC",
+          "datetime": "2026-10-18 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "UCLA - WISCONSIN",
+          "datetime": "2026-10-18 00:30:00",
+          "channels": []
+        },
+        {
+          "sport": "AUSSIE RULES",
+          "time": "05:05",
+          "name": "CARLTON BLUES - WESTERN BULLDOGS",
+          "datetime": "2026-10-17 05:05:00",
+          "channels": []
+        },
+        {
+          "sport": "AUSSIE RULES",
+          "time": "07:05",
+          "name": "BRISBANE LIONS - PORT ADELAIDE POWER",
+          "datetime": "2026-10-17 07:05:00",
+          "channels": []
+        },
+        {
+          "sport": "AUSSIE RULES",
+          "time": "09:15",
+          "name": "WEST COAST EAGLES - GEELONG CATS",
+          "datetime": "2026-10-17 09:15:00",
+          "channels": []
+        },
+        {
+          "sport": "BASEBALL",
+          "time": "01:00",
+          "name": "CLEVELAND GUARDIANS - TAMPA BAY RAYS",
+          "datetime": "2026-10-17 01:00:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "03:30",
+          "name": "LOS ANGELES LAKERS - DENVER NUGGETS",
+          "datetime": "2026-10-17 03:30:00",
+          "channels": []
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:30",
+          "name": "GOLDEN STATE VALKYRIES - ATLANTA DREAM",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "13:00",
+          "name": "BRITISH CHAMPIONS DAY",
+          "datetime": "2026-10-17 13:00:00",
+          "channels": []
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "16:00",
+          "name": "QATAR RACING CHAMPION STAKES",
+          "datetime": "2026-10-17 16:00:00",
+          "channels": []
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "17:00",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-10-17 17:00:00",
+          "channels": []
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "20:30",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-10-17 20:30:00",
+          "channels": []
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "04:00",
+          "name": "BUICK LPGA SHANGHAI",
+          "datetime": "2026-10-17 04:00:00",
+          "channels": []
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "09:00",
+          "name": "DP WORLD INDIA CHAMPIONSHIP",
+          "datetime": "2026-10-17 09:00:00",
+          "channels": []
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "19:00",
+          "name": "SAS CHAMPIONSHIP",
+          "datetime": "2026-10-17 19:00:00",
+          "channels": []
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "03:00",
+          "name": "ANAHEIM DUCKS - BOSTON BRUINS",
+          "datetime": "2026-10-17 03:00:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "22:30",
+          "name": "UMASS AMHERST - NORTHEASTERN",
+          "datetime": "2026-10-17 22:30:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "05:00",
+          "name": "SHANGHAI MASTERS",
+          "datetime": "2026-10-17 05:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "07:00",
+          "name": "SHANGHAI MASTERS",
+          "datetime": "2026-10-17 07:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "09:30",
+          "name": "SHANGHAI MASTERS",
+          "datetime": "2026-10-17 09:30:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "WUHAN OPEN",
+          "datetime": "2026-10-17 10:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "11:00",
+          "name": "MALLORCA CHAMPIONSHIP",
+          "datetime": "2026-10-17 11:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "14:00",
+          "name": "AUSTRALIAN OPEN",
+          "datetime": "2026-10-17 14:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "14:00",
+          "name": "SHANGHAI MASTERS",
+          "datetime": "2026-10-17 14:00:00",
+          "channels": []
+        },
+        {
+          "sport": "TENNIS",
+          "time": "14:00",
+          "name": "WUHAN OPEN",
+          "datetime": "2026-10-17 14:00:00",
+          "channels": []
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "03:00",
+          "name": "SOUTHERN CAL - OHIO STATE",
+          "datetime": "2026-10-17 03:00:00",
+          "channels": []
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "22:00",
+          "name": "NEBRASKA - PURDUE",
+          "datetime": "2026-10-17 22:00:00",
+          "channels": []
+        }
+      ]
     },
     {
       "name": "UHD EVENTS",
@@ -493,14 +989,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 02 - no_brand_title: Inquest told William Chapman Experienced 'Bouts of Psychosis' - 15/10/2026 13:21 - 12:58",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 16/10/2026 06:38 - 20:30",
         "BBC Events 04 - no_brand_title: Phone in: Henry Nowak Killer's Mum Faces Deportation - 16/10/2026 08:55 - 08:18",
         "BBC Events 05 - no_brand_title: Four Reported Dead and Suspect Killed in US School Shooting - 16/10/2026 01:25 - 00:28",
         "BBC Events 06 - no_brand_title: Three Children and One Teacher Killed in Oregon School Shooting - 16/10/2026 02:30 - 02:07",
         "BBC Events 07 - Cycling: Track World Championships: Day 3: Men's Points Race, Time Trial, Individual Pursuit, Women's Sprint final, Omnium - 16/10/2026 09:50 - 14:05",
         "BBC Events 08 - Autumnwatch: Autumn Calm - 16/10/2026 12:00 - 18:00",
-        "BBC Events 09 - no_brand_title: Burnham Speech on Devolution Within Scotland - 16/10/2026 11:55 - 13:00"
+        "BBC Events 10 - no_brand_title: Jewish Settlers Attack Palestinian Farmers in West Bank - 16/10/2026 12:26 - 12:14"
       ],
       "sections": [],
       "events": []
@@ -822,7 +1317,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: DP World Locker Room - Round 2 - 12:30 16/10/2026",
         "Sky Sport 5 - LIVE: India W v Zimbabwe W: 1st T20 - 14:20 16/10/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 19:15 16/10/2026",
         "Sky Sport 5 - LIVE: PFL Chicago 2 - 23:00 16/10/2026",
@@ -1004,7 +1498,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Day 3 - UCI Track World Championships 2026 - Fri 16/10 9:55am",
         "Stan 01 : PFL 14 - Chicago 2026 - Fri 16/10 11:00pm",
         "Stan 02 : Canada v England - WXV 2026 - Sat 17/10 12:00am",
         "Stan 03 : Australia v Scotland - WXV 2026 - Sat 17/10 1:45am",
@@ -1083,7 +1576,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : NCAA Football: Georgia Southern vs. Old Dominion - Fri 16/10 12:30am",
         "TSN 04 : ATP 1000 Tennis: Shanghai Doubles Semifinals - Fri 16/10 5:00am",
         "TSN 01 : Pat McAfee Show - Fri 16/10 5:00pm",
         "TSN 02 : Rich Eisen Show - Fri 16/10 5:00pm",
