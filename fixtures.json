@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T07:15:29.386805+00:00",
+  "scraped_at": "2026-10-17T11:00:51.119472+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -82,6 +82,91 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 09 - 01:00-04:00 - Boxing: Fundora vs. Hadribeaj 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 5pm UFC Fight Night Buckley v Malott"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 11am Prelims Dubois v Wardley 2"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 2pm Dubois v Wardley 2"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 8pm BKFC 95 Herring v Dodson"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 8pm Fundora v Hadribeaj"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 8pm AEW WrestleDream"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 12/7:30pmCage Warriors 211"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 12pm Oktagon 95 Kincl v Humburger"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 12pm Volkovs v McIntyre"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 2pm Glory 110 Trindade v Demirkapu"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 2pm Fightstar Championship 38"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 11:30pmACW Mischief Night II"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 5:50pmSMART Modified Tour North Wilkesboro"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 6:15pmHalloween Fest IRP"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 2pm STSS Octoberfest Hagerstown"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 9:30pmLucas Oil DTWC WVMS"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 5pm FloZone FloRacing Championship Weekend"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 11:15pmMillbridge Sprints"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 11:15pmCedar Lake Late Models"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 11:45pmUSAC National Sprints Route 66"
             }
           ]
         }
@@ -1295,6 +1380,18 @@
           ]
         },
         {
+          "sport": "BASEBALL",
+          "time": "22:00",
+          "name": "CLEVELAND GUARDIANS - TAMPA BAY RAYS",
+          "datetime": "2026-10-18 22:00:00",
+          "channels": [
+            {
+              "name": "TBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "BASKETBALL",
           "time": "17:00",
           "name": "VEOLIA TOWERS HAMBURG - FC BAYERN MüNCHEN",
@@ -1512,8 +1609,8 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 17/10/2026 05:20 - 20:31",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 17/10/2026 06:00 - 12:00",
-        "BBC Events 04 - no_brand_title: Phone in: Henry Nowak Killer's Mum Faces Deportation - 16/10/2026 08:55 - 08:18",
+        "BBC Events 02 - Cycling: Track World Championships: Day 4: Men's Omnium, Women's time trial, madison and individual pursuit - 17/10/2026 10:12 - 14:05",
+        "BBC Events 04 - no_brand_title: More Protests Taking Place Across France - 17/10/2026 11:01 - 15:00",
         "BBC Events 10 - no_brand_title: Jewish Settlers Attack Palestinian Farmers in West Bank - 16/10/2026 12:26 - 12:14"
       ],
       "sections": [],
@@ -1550,11 +1647,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "GaaTv 01: Sun 13:30 | Antrim: Loughgiel Shamrocks v Cushendall",
-        "GaaTv 02: Sun 13:30 |  Leitrim: Annaduff v Kiltoghert",
-        "GaaTv 03: Sun 14:00 |  Doire: Craigbane v Desertmartin",
-        "GaaTv 04:  Sun 14:00 | Dublin: Na Fianna v Cuala",
-        "GaaTv 05: Sun 15:30 | Leitrim: Ballinamore v Fenagh"
+        "GaaTv 01: Down: Clonduff V Portaferry | 14:00 GMT",
+        "GaaTv 02: Armagh: Ballyhegan v Collegeland | Junior Football Championship Final | 15:45 GMT",
+        "GaaTv 03: Dublin: Ballyboughal V Naomh Olaf 17:00 GMT",
+        "GaaTv 04:  Down: Newry Shamrocks V Clonduff | 17:30 GMT",
+        "GaaTv 05: Armagh: St Peters v Keady 18:00 GMT"
       ],
       "sections": [],
       "events": []
@@ -1710,22 +1807,20 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 02:20 - World Rugby: Australia vs. Scotland",
-        "Paramount+ Event 02 - 02:25 - World Rugby: New Zealand vs. France",
-        "Paramount+ Event 03 - 11:50 - Barclays Womens Super League: Arsenal vs. Birmingham City",
-        "Paramount+ Event 04 - 11:50 - English Football League: Middlesbrough vs. Cardiff City",
-        "Paramount+ Event 05 - 11:50 - English Football League: Watford vs. Charlton Athletic",
-        "Paramount+ Event 06 - 13:20 - Serie A: Venezia vs. Napoli",
-        "Paramount+ Event 07 - 14:00 - English Football League: Sheffield Wednesday vs. AFC Wimbledon",
-        "Paramount+ Event 08 - 14:00 - English Football League: Swindon Town vs. Walsall",
-        "Paramount+ Event 09 - 14:00 - English Football League: Wrexham vs. Preston North End",
-        "Paramount+ Event 10 - 14:00 - English Football League: Swansea City vs. West Ham United",
-        "Paramount+ Event 11 - 14:00 - English Football League: Norwich City vs. Portsmouth",
-        "Paramount+ Event 12 - 14:00 - English Football League: Southampton vs. Bolton Wanderers",
-        "Paramount+ Event 13 - 16:20 - Serie A: Bologna vs. Inter",
-        "Paramount+ Event 14 - 18:30 - Serie A: Roma vs. Genoa",
-        "Paramount+ Event 15 - 19:25 - Scottish Professional Football League: Dundee vs. Rangers",
-        "Paramount+ Event 19 - 22:20 - World Rugby: USA vs. Italy",
+        "Paramount+ Event 01 - 11:50 - Barclays Women's Super League: Arsenal vs. Birmingham City",
+        "Paramount+ Event 02 - 11:50 - English Football League: Middlesbrough vs. Cardiff City",
+        "Paramount+ Event 03 - 11:50 - English Football League: Watford vs. Charlton Athletic",
+        "Paramount+ Event 04 - 13:20 - Serie A: Venezia vs. Napoli",
+        "Paramount+ Event 05 - 14:00 - English Football League: Sheffield Wednesday vs. AFC Wimbledon",
+        "Paramount+ Event 06 - 14:00 - English Football League: Swindon Town vs. Walsall",
+        "Paramount+ Event 07 - 14:00 - English Football League: Wrexham vs. Preston North End",
+        "Paramount+ Event 08 - 14:00 - English Football League: Swansea City vs. West Ham United",
+        "Paramount+ Event 09 - 14:00 - English Football League: Norwich City vs. Portsmouth",
+        "Paramount+ Event 10 - 14:00 - English Football League: Southampton vs. Bolton Wanderers",
+        "Paramount+ Event 11 - 16:20 - Serie A: Bologna vs. Inter",
+        "Paramount+ Event 12 - 18:30 - Serie A: Roma vs. Genoa",
+        "Paramount+ Event 13 - 19:25 - Scottish Professional Football League: Dundee vs. Rangers",
+        "Paramount+ Event 17 - 22:20 - World Rugby: USA vs. Italy",
         "Paramount+ Event 02 - 10:50 - Serie A: Udinese vs. Lecce",
         "Paramount+ Event 03 - 11:20 - Barclays Womens Super League: Crystal Palace vs. West Ham United",
         "Paramount+ Event 04 - 11:20 - Barclays Womens Super League: Chelsea vs. Tottenham",
@@ -1812,10 +1907,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: DP World Tour: Round 3 - 08:30 17/10/2026",
-        "Sky Sport 7 - LIVE: ALM: Mariners v Jets - 09:00 17/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: England v Tonga - 09:30 17/10/2026",
-        "Sky Sport 5 - LIVE: Reyes Cup: Day 3 - 12:00 17/10/2026",
         "Sky Sport 2 - LIVE: DP World Locker Room - Round 3 - 12:30 17/10/2026",
         "Sky Sport 7 - LIVE: WSL: Arsenal v Birmingham - 12:35 17/10/2026",
         "Sky Sport 1 - LIVE: India v West Indies: 5th T20 - 14:20 17/10/2026",
@@ -1916,11 +2007,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Australia vs New Zealand",
-        "Millwall vs Lincoln City",
+        "Sky Sports+ 2 | Middlesbrough vs Cardiff",
+        "Sky Sports+ 1 | Millwall vs Lincoln City",
+        "Sky Sports+ 6 | Mk Dons vs Luton",
+        "Sky Sports+ 7 | Peterborough vs Burton",
+        "Sky Sports+ 9 | Fleetwood vs Rotherham",
+        "Sky Sports+ 10 | Shrewsbury vs Bristol Rovers",
         "Pakistan vs Sri Lanka",
         "Wolves vs Portsmouth",
-        "Middlesbrough vs Cardiff",
         "Leeds vs Man Utd",
         "Blackpool vs Mk Dons",
         "Bournemouth vs Sunderland",
@@ -1929,14 +2023,10 @@
         "Burton vs Bradford",
         "Aston Villa vs Liverpool",
         "Cambridge U vs Wycombe",
-        "Mk Dons vs Luton",
         "Doncaster vs Stockport",
-        "Peterborough vs Burton",
         "Huddersfield vs Peterborough",
         "Luton vs Barnsley",
-        "Fleetwood vs Rotherham",
         "Barnet vs Swindon",
-        "Shrewsbury vs Bristol Rovers",
         "Bristol Rovers vs Salford",
         "Cheltenham vs Fleetwood",
         "Chesterfield vs Colchester",
@@ -1952,7 +2042,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Oct. 16 - Sat 17/10 10:00am",
         "Sportsnet 02 : Arsenal vs. Birmingham City - Sat 17/10 12:35pm",
         "Sportsnet 01 : ADO Den Haag vs. PSV Eindhoven - Sat 17/10 3:20pm",
         "Sportsnet 03 : New Jersey @ Washington - Sat 17/10 6:00pm",
@@ -1976,7 +2065,8 @@
         "Sportsnet 04 : Boston @ Los Angeles - Sun 18/10 2:00am",
         "Sportsnet 17 : Edmonton @ Utah - Sun 18/10 3:00am",
         "Sportsnet 18 : Pittsburgh @ Vegas - Sun 18/10 3:00am",
-        "Sportsnet 05 : GSOC Invitational - Men's & Women's Semifinals - Sun 18/10 3:30am"
+        "Sportsnet 05 : GSOC Invitational - Men's & Women's Semifinals - Sun 18/10 3:30am",
+        "Sportsnet 01 : Sportsnet Central: Oct. 17 - Sun 18/10 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1987,16 +2077,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 07 : Australia v New Zealand - Bledisloe Cup Game 2 2026 - Sat 17/10 5:00am",
-        "Stan 08 : Australia v New Zealand: SKY NZ Coverage - Bledisloe Cup Game 2 2026 - Sat 17/10 5:00am",
-        "Stan 09 : Sanfrecce Hiroshima v Kyoto Sanga - J.League 2026 - Sat 17/10 5:55am",
-        "Stan 01 : Tokyo Verdy v FC Tokyo - J.League 2026 - Sat 17/10 5:55am",
-        "Stan 10 : Seoul v Gimcheon - K League 2026 - Sat 17/10 5:55am",
-        "Stan 02 : Free Practice 3: 6 Hours of Barcelona (LMGT3) - WEC 2026 - Sat 17/10 7:40am",
-        "Stan 03 : Ulsan v Bucheon - K League 2026 - Sat 17/10 8:25am",
-        "Stan 04 : Wuhan: Day 6 - WTA 1000 - Sat 17/10 10:00am",
+        "Stan 04 : Wuhan: Day 6 - WTA 1000 - Sat 17/10 9:59am",
         "Stan 11 : Day 4 - UCI Track World Championships 2026 - Sat 17/10 10:25am",
-        "Stan 05 : Qualifying: 6 Hours of Barcelona (LMGT3) - WEC 2026 - Sat 17/10 10:40am",
         "Stan 12 : Kashiwa Reysol v Nagoya Grampus - J.League 2026 - Sat 17/10 10:55am",
         "Stan 13 : Everton v Chelsea - Premier League Matchweek 7 2026/2027 - Sat 17/10 11:30am",
         "Stan 06 : Free Practice 3: 6 Hours of Barcelona (Hypercar) - WEC 2026 - Sat 17/10 11:30am",
@@ -2045,9 +2127,15 @@
         "Stan 01 : Football Zone: MD3 Wednesday - UEFA Champions League 2026/27 - Tue 20/10 7:40pm",
         "Stan 08 : Liverpool v Villarreal - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
         "Stan 05 : Manchester City v AEK Athens - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
+        "Stan 09 : Napoli v Bodø / Glimt - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
         "Stan 04 : Paris Saint-Germain v Barcelona - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
+        "Stan 10 : Porto v PSV - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
         "Stan 07 : Roma v Slovan Bratislava - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
-        "Stan 06 : Stuttgart v Atlético de Madrid - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm"
+        "Stan 06 : Stuttgart v Atlético de Madrid - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 7:55pm",
+        "Stan 01 : Ningbo: Day 3 - WTA 500 - Wed 21/10 6:00am",
+        "Stan 04 : Kawasaki Frontale v Vissel Kobe - J.League 2026 - Wed 21/10 10:55am",
+        "Stan 02 : Nagasaki v Sanfrecce Hiroshima - J.League 2026 - Wed 21/10 10:55am",
+        "Stan 03 : Yokohama F. Marinos v Tokyo Verdy - J.League 2026 - Wed 21/10 10:55am"
       ],
       "sections": [],
       "events": []
@@ -2067,7 +2155,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 1000 Tennis: Shanghai - Doubles Semifinals - Sat 17/10 7:00am",
         "TSN 01 : LaLiga: Espanyol vs. Atletico Madrid - Sat 17/10 12:48pm",
         "TSN 02 : LaLiga: Villarreal vs. Elche - Sat 17/10 3:03pm",
         "TSN 03 : 2026 FIFA U-17 Women's World Cup: DPR Korea vs. Puerto Rico - Sat 17/10 3:48pm",
@@ -2102,7 +2189,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P1M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":1569,\"currency\":\"JPY\",\"scale\":0,\"amount\":2189,\"taxInclusive\":true,\"sku\":\"ufc_r8YPoyBbyxOpDzdBFU9n_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2189,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":73,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":511,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":26633,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"}],\"effectiveFrom\":1680727604000,\"default\":true},{\"id\":2065,\"currency\":\"EUR\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_Q2n7HRBBGQTAAw4sE1QP_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":24322,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":67,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":467,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":1999,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":2066,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_E3RhVJbdyPda5hpQDvcL_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":4121,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_s1fGZ7L0WqGCyODgvdSx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1748642352000,\"default\":false},{\"id\":4124,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":false,\"sku\":\"ufc_uwWNHMgrrCLIbNb9ru6N_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641904000,\"default\":false},{\"id\":11139,\"currency\":\"EUR\",\"scale\":2,\"amount\":2849,\"taxInclusive\":true,\"sku\":\"ufc_jotac4RiWFKXEKKK9Sce_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":95,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2849,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":665,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":34663,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769154857000,\"default\":false},{\"id\":2063,\"currency\":\"PHP\",\"scale\":2,\"amount\":115000,\"taxInclusive\":true,\"sku\":\"ufc_BS5bV7NhQcVlwhm8OUTR_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":115000,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":1399167,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":3834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":26834,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641949000,\"default\":false},{\"id\":4120,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_6ao2dCcgc1WcY7Ntqwy0_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1748641848000,\"default\":false},{\"id\":11158,\"currency\":\"TRY\",\"scale\":2,\"amount\":89999,\"taxInclusive\":true,\"sku\":\"ufc_QqElPHD5iQluMNkJM6mF_TRY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":89999,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":3000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":1094988,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":21000,\"currency\":\"TRY\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":11141,\"currency\":\"ILS\",\"scale\":2,\"amount\":9190,\"taxInclusive\":true,\"sku\":\"ufc_h7Ty2VjjtPUcDcfb6quf_ILS\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":111812,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2145,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":307,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9190,\"currency\":\"ILS\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1769155650000,\"default\":false},{\"id\":11140,\"currency\":\"PLN\",\"scale\":2,\"amount\":12799,\"taxInclusive\":true,\"sku\":\"ufc_IysyyM7JWAT8mmTxd9bI_PLN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":155722,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2987,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":12799,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":427,\"currency\":\"PLN\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769155477000,\"default\":false},{\"id\":4119,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":false,\"sku\":\"ufc_qcfXGEh3IKruN9x37SvR_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1647018996000,\"default\":false},{\"id\":4122,\"currency\":\"EUR\",\"scale\":2,\"amount\":3049,\"taxInclusive\":true,\"sku\":\"ufc_6t6q3TH30ggDoV2kv0sd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":37097,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":3049,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":712,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":102,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1647019044000,\"default\":false},{\"id\":11134,\"currency\":\"HKD\",\"scale\":2,\"amount\":10300,\"taxInclusive\":true,\"sku\":\"ufc_djvVJZmYYE8lNOAYKq8X_HKD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2404,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":10300,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":125317,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":344,\"currency\":\"HKD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769114711000,\"default\":false},{\"id\":11157,\"currency\":\"USD\",\"scale\":2,\"amount\":1999,\"taxInclusive\":true,\"sku\":\"ufc_i77LSWODdVStZeRfctUo_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":467,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":24322,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":1999,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":67,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1769207493000,\"default\":false},{\"id\":11138,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":true,\"sku\":\"ufc_3bjMuuLNOQBqm2eL8cNv_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769153993000,\"default\":false},{\"id\":2064,\"currency\":\"USD\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_yNe71XeuKRT2PnFvi7t9_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":584,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":30405,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":84,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2499,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1605009870000,\"default\":false},{\"id\":11135,\"currency\":\"THB\",\"scale\":2,\"amount\":62900,\"taxInclusive\":false,\"sku\":\"ufc_6IkzDQZ8D06qgSQIaT5k_THB\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2097,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":62900,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":14677,\"currency\":\"THB\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":765284,\"currency\":\"THB\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1769115732000,\"default\":false},{\"id\":2067,\"currency\":\"EUR\",\"scale\":2,\"amount\":2499,\"taxInclusive\":true,\"sku\":\"ufc_xALgAMslgDnpYfQ9Aiui_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":30405,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2499,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":84,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":584,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1605009990000,\"default\":false},{\"id\":4123,\"currency\":\"EUR\",\"scale\":2,\"amount\":3399,\"taxInclusive\":true,\"sku\":\"ufc_9BM8waqBs90X7GQa5Fzd_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":3399,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":41355,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":114,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":794,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1748641961000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"}],\"rokuIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"amazonIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.fightpass.ultimate.monthly.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"backgroundColor\":\"#000000\",\"textColor\":\"#ffffff\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "CAGE WARRIORS 211 PRELIMS - Sat 17/10 5:00pm",
         "CAGE WARRIORS 211 - Sat 17/10 7:30pm",
         "UFC FIGHT NIGHT: BUCKLEY VS MALOTT PRELIMS - Sat 17/10 10:00pm",
