@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T12:28:20.965139+00:00",
+  "scraped_at": "2026-10-20T15:32:37.083892+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,102 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 20 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Sabah vs Borussia Dortmund 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Fenerbahçe vs Slavia Praha 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Sabah vs Borussia Dortmund 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - UCL: Napoli vs Bodø / Glimt 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - UCL: PSG vs Barcelona 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL: Liverpool vs Villarreal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Manchester City vs AEK Athens 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Porto vs PSV 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Stuttgart vs Atlético Madrid 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Liverpool vs Villarreal 720p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Fenerbahce vs Slavia Prague 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Sabah vs Dortmund 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - UCL GOALS SHOW 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Liverpool vs Villareal 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Manchester City vs Aek Athens 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Napoli vs Bodo/Glimt 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - PSG vs Barcelona 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Porto vs PSV 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Roma vs Slovan Bratislava 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 10 - Stuttgart vs Atletico Madrid 1:00am"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,8 +111,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 05 - 20-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E10 -PSG vs Barcelona - MD3[Live] [HK]",
-        "EVENT 07 - 20-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: PSG vs Barcelona - MD3 [SG]",
         "EVENT 06 - 20-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E9 -Man City vs AEK Athens - MD3[Live] [HK]",
         "EVENT 08 - 20-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Man City vs AEK Athens - MD3 [SG]",
         "EVENT 03 - 20-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E51 -Fenerbahce vs Slavia Prague - MD3[Live] [HK]",
@@ -45,7 +138,9 @@
         "EVENT 05 - 21-Oct 07:55PM-10:00PM - Real Madrid vs Leipzig - MD3 UEFA Champions League 2026/27 [SG]",
         "EVENT 09 - 21-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 -Aston Villa vs Viking - MD3[Live] [HK]",
         "EVENT 10 - 21-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E64 -Bayern vs Arsenal - MD3[Live] [HK]",
-        "EVENT 11 - 21-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E66 -Real Madrid vs Leipzig - MD3[Live] [HK]"
+        "EVENT 11 - 21-Oct 07:55PM-10:00PM - UEFA Champions League 2026/27 E66 -Real Madrid vs Leipzig - MD3[Live] [HK]",
+        "EVENT 01 - 22-Oct 03:25PM-05:35PM - Kairat vs Panathinaikos - MD2 UEFA Conference League 2026/27 [SG]",
+        "EVENT 02 - 22-Oct 03:25PM-05:30PM - UEFA Conference League 2026/27 E19 -Kairat vs Panathinaikos - MD2[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -516,7 +611,9 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : Cincinnati vs. D.C. (MLS) - Wed 21/10 11:55pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -604,8 +701,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: Sabah vs. Dortmund",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: Fenerbahçe vs. Slavia Praha",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Sabah vs. Dortmund",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Fenerbahçe vs. Slavia Praha",
         "Paramount+ Event 03 - 18:30 - Uefa Champions League: Napoli vs. Bodø/Glimt",
         "Paramount+ Event 04 - 18:30 - Uefa Champions League: Stuttgart vs. Atlético Madrid",
         "Paramount+ Event 05 - 18:30 - Uefa Champions League: Man. City vs. AEK Athens",
@@ -730,7 +827,8 @@
         "FloSports 10 - Premiership Rugby: Bristol Bears vs Exeter Chiefs - 24 Oct 17:30 UK / 12:30 ET / 09:30 PT",
         "FloSports 11 - United Rugby Championship: Leinster Rugby vs Munster Rugby - 24 Oct 18:00 UK / 13:00 ET / 10:00 PT",
         "FloSports 12 - United Rugby Championship: Ospreys Rugby vs Dragons - 24 Oct 19:00 UK / 14:00 ET / 11:00 PT",
-        "FloSports 13 - French Top 14: Toulon vs Pau - 24 Oct 20:00 UK / 15:00 ET / 12:00 PT"
+        "FloSports 13 - French Top 14: Toulon vs Pau - 24 Oct 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 01 - Premiership Rugby: Saracens F.C. vs Harlequin F.C. - 25 Oct 15:00 UK / 11:00 ET / 08:00 PT"
       ],
       "sections": [],
       "events": []
@@ -741,7 +839,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: India W v Zimbabwe W: 3rd T20 - 14:20 20/10/2026",
         "Sky Sport 2 - LIVE: WST: Northern Ireland Open: D3 Eve - 19:00 20/10/2026",
         "Sky Sport 7 - LIVE: SS: Tasmania v Victoria D3 - 00:25 21/10/2026",
         "Sky Sport 6 - LIVE: SS: S Australia v Queensland D3 - 00:55 21/10/2026",
@@ -916,7 +1013,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 20 - What's Best for McKenna's Development? - Tue 20/10 2:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 20 - Tue 20/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 20 - Tue 20/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 20 - Tue 20/10 7:00pm",
@@ -951,7 +1047,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Paris Saint-Germain U19 v Barcelona U19 - UEFA Youth League 2026/2027 - Tue 20/10 12:55pm",
         "Stan 03 : Fenerbahçe v Slavia Praha - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 5:40pm",
         "Stan 02 : Sabah v Borussia Dortmund - UEFA Champions League Matchday 3 2026/2027 - Tue 20/10 5:40pm",
         "Stan 01 : Football Zone: MD3 Wednesday - UEFA Champions League 2026/27 - Tue 20/10 7:40pm",
