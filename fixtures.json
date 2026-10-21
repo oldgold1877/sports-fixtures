@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T12:38:01.371110+00:00",
+  "scraped_at": "2026-10-21T15:48:57.141604+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,102 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 21 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Como vs Manchester United 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:45-19:45 - UCL: Lille vs Galatasaray 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Como vs Manchester United 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 20:00-22:00 - UCL: Aston Villa vs Viking 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL:  Bayern München vs Arsenal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Real Madrid vs RB Leipzig 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Internazionale vs Shakhtar Donetsk 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: Real Betis vs Feyenoord 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL:  Bayern München vs Arsenal 720p"
+            },
+            {
+              "type": "date",
+              "text": "Thursday 22 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:00-03:00 - AEW Dynamite 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Como vs Manchester United 17:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Lille vs Galatasaray 17:45 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Aston Villa vs Viking 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Liverpool vs Villareal 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Club Brugge vs Lens 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Inter Milan vs Shakhtar Donetsk 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Real Betis  vs Feyenoord 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Real Madrid vs Leipzig 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Sporting vs LASK 1:00am"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,9 +111,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 21-Oct 12:00PM-02:00PM - East Asia Super League 2026/27 TSG Ghosthawks vs Sono Skygunners [SG]",
-        "EVENT 03 - 21-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27 E11 -Lille vs Galatasaray - MD3[Live] [HK]",
-        "EVENT 04 - 21-Oct 12:55PM-02:55PM - UEFA Youth League 2026/27: Lille vs Galatasaray - MD3 [SG]",
         "EVENT 02 - 21-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27 E12 -Inter vs Shakhtar - MD3[Live] [HK]",
         "EVENT 05 - 21-Oct 02:55PM-05:00PM - UEFA Youth League 2026/27: Inter vs Shakhtar - MD3 [SG]",
         "EVENT 02 - 21-Oct 05:40PM-07:55PM - UEFA Champions League 2026/27 E60 -Como 1907 vs Man United - MD3[Live] [HK]",
@@ -664,8 +756,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: Como vs. Man. United",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: Lille vs. Galatasaray",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Como vs. Man. United",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Lille vs. Galatasaray",
         "Paramount+ Event 04 - 18:30 - Uefa Champions League: Bayern vs. Arsenal",
         "Paramount+ Event 05 - 18:30 - Uefa Champions League: Inter vs. Shakhtar Donetsk",
         "Paramount+ Event 06 - 18:30 - Uefa Champions League: Club Brugge vs. Lens",
@@ -958,7 +1050,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 21 - Wed 21/10 2:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 21 - Wed 21/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 21 - Wed 21/10 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 21 - Wed 21/10 7:00pm",
@@ -970,6 +1061,7 @@
         "Sportsnet 05 : Dallas @ Houston - Thu 22/10 1:30am",
         "Sportsnet 01 : Golden State @ Los Angeles Lakers - Thu 22/10 3:00am",
         "Sportsnet 01 : Sportsnet Central: Oct. 21 - Thu 22/10 10:00am",
+        "Sportsnet 04 : UFC 333 Pre-Fight Press Conference - Thu 22/10 1:55pm",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 22 - Thu 22/10 2:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 22 - Thu 22/10 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 22 - Thu 22/10 5:00pm",
@@ -981,8 +1073,7 @@
         "Sportsnet 02 : Cleveland @ Philadelphia - Fri 23/10 12:00am",
         "Sportsnet 03 : Florida @ Pittsburgh - Fri 23/10 12:00am",
         "Sportsnet 07 : French Language Broadcast - San Jose @ Ottawa - Fri 23/10 12:00am",
-        "Sportsnet 05 : Nashville @ Boston - Fri 23/10 12:00am",
-        "Sportsnet 08 : New York Rangers @ Toronto - Fri 23/10 12:00am"
+        "Sportsnet 05 : Nashville @ Boston - Fri 23/10 12:00am"
       ],
       "sections": [],
       "events": []
@@ -993,10 +1084,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 04 : Kawasaki Frontale v Vissel Kobe - J.League 2026 - Wed 21/10 10:55am",
-        "Stan 03 : Nagasaki v Sanfrecce Hiroshima - J.League 2026 - Wed 21/10 10:55am",
-        "Stan 02 : Yokohama F. Marinos v Tokyo Verdy - J.League 2026 - Wed 21/10 10:55am",
-        "Stan 05 : Urawa Red Diamonds v Chiba - J.League 2026 - Wed 21/10 11:25am",
         "Stan 02 : Como v Manchester United - UEFA Champions League Matchday 3 2026/2027 - Wed 21/10 5:40pm",
         "Stan 01 : Lille v Galatasaray - UEFA Champions League Matchday 3 2026/2027 - Wed 21/10 5:40pm",
         "Stan 03 : Football Zone: MD3 Thursday - UEFA Champions League 2026/27 - Wed 21/10 7:40pm",
@@ -1051,7 +1138,11 @@
         "Stan 03 : Gloucester v Bath - PREM Rugby Round 4 2026/27 - Fri 23/10 7:40pm",
         "Stan 02 : Newcastle v Sale - PREM Rugby Round 4 2026/27 - Fri 23/10 7:40pm",
         "Stan 04 : Canada v England - WXV 2026 - Fri 23/10 11:50pm",
-        "Stan 05 : Chicago Stars v Houston Dash - NWSL 2026 - Sat 24/10 1:00am"
+        "Stan 05 : Chicago Stars v Houston Dash - NWSL 2026 - Sat 24/10 1:00am",
+        "Stan 01 : New Zealand v France - WXV 2026 - Sat 24/10 2:55am",
+        "Stan 02 : Portland Thorns v North Carolina Courage - NWSL 2026 - Sat 24/10 3:00am",
+        "Stan 03 : Osaka: Day 6 - WTA 250 - Sat 24/10 4:00am",
+        "Stan 06 : Ulsan v Pohang - K League 2026 - Sat 24/10 5:55am"
       ],
       "sections": [],
       "events": []
