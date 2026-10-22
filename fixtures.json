@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T11:00:56.255837+00:00",
+  "scraped_at": "2026-10-22T12:42:39.719679+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -25,11 +25,27 @@
             },
             {
               "type": "fixture",
+              "text": "UEFA | 04 - Liverpool vs Villareal 1:00am"
+            },
+            {
+              "type": "fixture",
               "text": "UEFA | 05 - Club Brugge vs Lens 20:00 pm"
             },
             {
               "type": "fixture",
               "text": "UEFA | 06 - Inter Milan vs Shakhtar Donetsk 20:00 pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Real Betis  vs Feyenoord 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Real Madrid vs Leipzig 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Sporting vs LASK 1:00am"
             }
           ]
         }
@@ -68,7 +84,12 @@
         "EVENT 02 - 24-Oct 11:50AM-02:00PM - Bundesliga 2 2026/27 -Hertha vs Arminia Bielefeld[Live] [HK]",
         "EVENT 03 - 24-Oct 11:50AM-02:00PM - Bundesliga 2 2026/27: Hertha vs Arminia Bielefeld [SG]",
         "EVENT 04 - 24-Oct 12:00PM-02:30PM - Premier League 26/27 -Aston Villa vs Manchester City[Live] [HK]",
-        "EVENT 05 - 24-Oct 12:00PM-02:30PM - Premier League 26/27 -Aston Villa vs Manchester City[Live] [HK]"
+        "EVENT 05 - 24-Oct 12:00PM-02:30PM - Premier League 26/27 -Aston Villa vs Manchester City[Live] [HK]",
+        "EVENT 06 - 24-Oct 12:20PM-02:50PM - Aston Villa v Manchester City (MW08) [SG]",
+        "EVENT 01 - 24-Oct 12:35PM-02:45PM - Women's Super League 2026/27: Tottenham vs Arsenal [SG]",
+        "EVENT 07 - 24-Oct 12:40PM-02:45PM - Barclay's WSL '26/27 E19 -Tottenham v Arsenal[Live] [HK]",
+        "EVENT 08 - 24-Oct 12:55PM-03:10PM - LaLiga 2026/27: Rayo Vallecano vs Elche [SG]",
+        "EVENT 09 - 24-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD10 -Rayo Vallecano vs Elche CF[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -582,9 +603,11 @@
         "BBC Events 03 - no_brand_title: Police Federation Declares Health Emergency - 22/10/2026 05:23 - 03:04",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 22/10/2026 05:44 - 00:24",
         "BBC Events 06 - no_brand_title: Barclays Cuts 5,000 Jobs to Increase Reliance on AI - 22/10/2026 11:49 - 11:48",
-        "BBC Events 07 - no_brand_title: Government Approves Jackdaw Gas Field - 21/10/2026 12:29 - 12:21",
+        "BBC Events 09 - UEFA Champions League: Match of the Day: Matchday 3 - 22/10/2026 12:00 - 16:30",
         "BBC Events 10 - no_brand_title: Shark Returns to Canal in South Korea - 22/10/2026 06:23 - 03:49",
-        "BBC Events 12 - Tennis: Wrexham Open: Day Four - Second round and quarter-final action - 22/10/2026 10:20 - 19:00"
+        "BBC Events 11 - no_brand_title: MENA LIVE STREAMING - 21/10/202 عالم الظهيرة - 22/10/2026 12:08 - 12:07",
+        "BBC Events 12 - Tennis: Wrexham Open: Day Four - Second round and quarter-final action - 22/10/2026 10:20 - 19:00",
+        "BBC Events 13 - no_brand_title: no_episode_title - 22/10/2026 12:46 - 11:21"
       ],
       "sections": [],
       "events": []
@@ -954,8 +977,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: WST: Northern Ireland Open: D5 Aft - 13:00 22/10/2026",
-        "Sky Sport 1 UHD - LIVE: WST: Northern Ireland Open: D5 Aft - 13:00 22/10/2026",
         "Sky Sport 3 - LIVE: UFC 333: Press Conference - 14:00 22/10/2026",
         "Sky Sport 3 - LIVE: European Darts Champs: D1 - 18:00 22/10/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 1 - 18:00 22/10/2026",
