@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T07:15:27.971270+00:00",
+  "scraped_at": "2026-10-24T11:00:51.854712+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -253,7 +253,12 @@
           "time": "15:00",
           "name": "ARSENAL FC - EVERTON",
           "datetime": "2026-10-24 15:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "FOOTBALL",
@@ -870,6 +875,18 @@
             {
               "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "WINTERSPORTS",
+          "time": "18:30",
+          "name": "FIGURE SKATING GRAND PRIX",
+          "datetime": "2026-10-24 18:30:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
             }
           ]
         }
@@ -1554,10 +1571,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 24/10/2026 06:00 - 12:00",
         "BBC Events 02 - no_brand_title: Netanyahu Threatens to 'Destroy' West Bank Neighbourhood - 24/10/2026 05:50 - 03:30",
         "BBC Events 03 - no_brand_title: BBC Weather Live - 24/10/2026 06:41 - 05:35",
-        "BBC Events 04 - no_brand_title: MENA LIVE STREAMING - 23/10/202 عالم الظهيرة - 23/10/2026 12:59 - 12:58"
+        "BBC Events 04 - no_brand_title: MENA LIVE STREAMING - 23/10/202 عالم الظهيرة - 23/10/2026 12:59 - 12:58",
+        "BBC Events 05 - Women's Rugby Union: WXV Global Series: WXV Japan v Wales - 24 October 2026 - 24/10/2026 10:16 - 13:00",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 24/10/2026 12:00 - 14:45",
+        "BBC Events 07 - Women's Super League: Tottenham Hotspur v Arsenal - 24/10/2026 11:30 - 15:00",
+        "BBC Events 08 - Tennis: Wrexham Open: Day Six - Semi-final action - 24/10/2026 11:50 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -1767,29 +1787,28 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 02:25 - World Rugby: New Zealand vs. France",
-        "Paramount+ Event 02 - 11:50 - English Football League: Charlton Athletic vs. Norwich City",
-        "Paramount+ Event 03 - 11:50 - English Football League: Luton Town vs. Leicester City",
-        "Paramount+ Event 04 - 11:50 - English Football League: Portsmouth vs. Millwall",
-        "Paramount+ Event 05 - 11:50 - English Football League: Charlton Athletic vs. Norwich City",
-        "Paramount+ Event 06 - 12:05 - Barclays Womens Super League: Tottenham vs. Arsenal",
-        "Paramount+ Event 10 - 13:20 - World Rugby: South Africa vs. Ireland",
-        "Paramount+ Event 11 - 13:20 - Serie A: Como vs. Sassuolo",
-        "Paramount+ Event 12 - 13:20 - Serie A: Cagliari vs. Bologna",
-        "Paramount+ Event 13 - 14:00 - English Football League: Wolves vs. Watford",
-        "Paramount+ Event 14 - 14:00 - English Football League: Cardiff City vs. Birmingham City",
-        "Paramount+ Event 15 - 14:00 - English Football League: Preston North End vs. West Bromwich Albion",
-        "Paramount+ Event 16 - 14:00 - English Football League: Blackburn Rovers vs. Wrexham",
-        "Paramount+ Event 17 - 14:00 - English Football League: West Ham United vs. Southampton",
-        "Paramount+ Event 18 - 14:00 - English Football League: Lincoln City vs. Burnley",
-        "Paramount+ Event 19 - 14:00 - English Football League: Blackpool vs. Mansfield Town",
-        "Paramount+ Event 20 - 14:00 - English Football League: Cambridge United vs. Plymouth Argyle",
-        "Paramount+ Event 21 - 14:00 - English Football League: Lincoln City vs. Burnley",
-        "Paramount+ Event 22 - 16:20 - Serie A: Napoli vs. Roma",
-        "Paramount+ Event 23 - 16:35 - Barclays Womens Super League: Brighton vs. West Ham United",
-        "Paramount+ Event 25 - 18:30 - Serie A: Lazio vs. Parma",
-        "Paramount+ Event 26 - 20:35 - World Rugby: USA vs. Italy",
-        "Paramount+ Event 27 - 23:20 - World Rugby: USA Eagles vs. Australia",
+        "Paramount+ Event 01 - 11:50 - English Football League: Charlton Athletic vs. Norwich City",
+        "Paramount+ Event 02 - 11:50 - English Football League: Luton Town vs. Leicester City",
+        "Paramount+ Event 03 - 11:50 - English Football League: Portsmouth vs. Millwall",
+        "Paramount+ Event 04 - 11:50 - English Football League: Charlton Athletic vs. Norwich City",
+        "Paramount+ Event 05 - 12:05 - Barclays Women's Super League: Tottenham vs. Arsenal",
+        "Paramount+ Event 09 - 13:20 - World Rugby: South Africa vs. Ireland",
+        "Paramount+ Event 10 - 13:20 - Serie A: Como vs. Sassuolo",
+        "Paramount+ Event 11 - 13:20 - Serie A: Cagliari vs. Bologna",
+        "Paramount+ Event 12 - 14:00 - English Football League: Wolves vs. Watford",
+        "Paramount+ Event 13 - 14:00 - English Football League: Cardiff City vs. Birmingham City",
+        "Paramount+ Event 14 - 14:00 - English Football League: Preston North End vs. West Bromwich Albion",
+        "Paramount+ Event 15 - 14:00 - English Football League: Blackburn Rovers vs. Wrexham",
+        "Paramount+ Event 16 - 14:00 - English Football League: West Ham United vs. Southampton",
+        "Paramount+ Event 17 - 14:00 - English Football League: Lincoln City vs. Burnley",
+        "Paramount+ Event 18 - 14:00 - English Football League: Blackpool vs. Mansfield Town",
+        "Paramount+ Event 19 - 14:00 - English Football League: Cambridge United vs. Plymouth Argyle",
+        "Paramount+ Event 20 - 14:00 - English Football League: Lincoln City vs. Burnley",
+        "Paramount+ Event 21 - 16:20 - Serie A: Napoli vs. Roma",
+        "Paramount+ Event 22 - 16:35 - Barclays Womens Super League: Brighton vs. West Ham United",
+        "Paramount+ Event 24 - 18:30 - Serie A: Lazio vs. Parma",
+        "Paramount+ Event 25 - 20:35 - World Rugby: USA vs. Italy",
+        "Paramount+ Event 26 - 23:20 - World Rugby: USA Eagles vs. Australia",
         "Paramount+ Event 02 - 10:50 - Serie A: Inter vs. Fiorentina",
         "Paramount+ Event 03 - 11:20 - Barclays Womens Super League: Crystal Palace vs. Chelsea",
         "Paramount+ Event 04 - 11:25 - Scottish Professional Football League: Hibernian vs. Celtic",
@@ -1889,13 +1908,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: AFLW: Gold Coast v Richmond - 09:00 24/10/2026",
-        "Sky Sport 3 - LIVE: ANZ PL Darts: Newcastle - 09:00 24/10/2026",
-        "Sky Sport 4 - LIVE: ALM: Melb Victory v Melb City - 09:15 24/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Australia v England - 09:30 24/10/2026",
-        "Sky Sport 7 - LIVE: WXV: Japan v Wales - 10:20 24/10/2026",
-        "Sky Sport 6 - LIVE: Philippines Open: Day 5 Eve - 11:00 24/10/2026",
-        "Sky Sport 5 - LIVE: European Darts Champs: D3 Aft - 12:00 24/10/2026",
         "Sky Sport 7 - LIVE: WSL: Spurs v Arsenal - 12:35 24/10/2026",
         "Sky Sport Select - LIVE: WST: Northern Ireland Open: D7 Aft - 13:00 24/10/2026",
         "Sky Sport 1 - LIVE: WXV: South Africa v Ireland - 13:50 24/10/2026",
@@ -1981,6 +1993,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 6 | Sheff Utd vs Derby",
+        "Sky Sports+ 7 | Portsmouth vs Millwall",
+        "Sky Sports+ 8 | Huddersfield vs Wigan",
+        "Sky Sports+ 9 | Luton vs Leicester",
+        "Sky Sports+ 10 | Bristol Rovers vs Swindon",
+        "Sky Sports+ 11 | Cheltenham vs Newport",
+        "Sky Sports+ 12 | Northampton vs Colchester",
         "Dortmund vs Frankfurt",
         "Man Utd vs Bournemouth",
         "Leicester vs Wigan",
@@ -1997,19 +2016,12 @@
         "Sunderland vs Brentford",
         "Everton vs Aston Villa",
         "Sheff Wed vs Cambridge Utd",
-        "Sheff Utd vs Derby",
         "Barnet vs York",
-        "Portsmouth vs Millwall",
         "Bradford vs Peterborough",
-        "Huddersfield vs Wigan",
         "Wimbledon vs Arsenal U21",
-        "Luton vs Leicester",
         "Blackpool vs Aston Villa U21",
-        "Bristol Rovers vs Swindon",
         "Port Vale vs Man City U21",
-        "Cheltenham vs Newport",
-        "Shrewsbury vs Everton U21",
-        "Northampton vs Colchester"
+        "Shrewsbury vs Everton U21"
       ],
       "sections": [],
       "events": []
@@ -2020,7 +2032,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Oct. 23 - Sat 24/10 10:00am",
         "Sportsnet 03 : Tottenham Hotspur vs. Arsenal - Sat 24/10 12:35pm",
         "Sportsnet 05 : Leicester Tigers vs. Northampton Saints - Sat 24/10 2:55pm",
         "Sportsnet 06 : UFC 333 - Volkanovski vs. Evloev Prelims - Sat 24/10 5:00pm",
@@ -2044,7 +2055,8 @@
         "Sportsnet 04 : Minnesota @ Seattle - Sun 25/10 3:00am",
         "Sportsnet 14 : Grand Prix of Australia - Sun 25/10 3:15am",
         "Sportsnet 01 : Sportsnet Central: Oct. 24 - Sun 25/10 10:00am",
-        "Sportsnet 02 : Crystal Palace vs. Chelsea - Sun 25/10 12:50pm"
+        "Sportsnet 02 : Crystal Palace vs. Chelsea - Sun 25/10 12:50pm",
+        "Sportsnet 01 : NEC vs. FC Groningen - Sun 25/10 2:20pm"
       ],
       "sections": [],
       "events": []
@@ -2055,15 +2067,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 07 : Seoul v Gangwon - K League 2026 - Sat 24/10 5:54am",
-        "Stan 06 : Ulsan v Pohang - K League 2026 - Sat 24/10 5:54am",
-        "Stan 11 : Osaka: Day 6 - WTA 250 - Sat 24/10 6:10am",
-        "Stan 09 : Vissel Kobe v Machida Zelvia - J.League 2026 - Sat 24/10 6:55am",
-        "Stan 08 : Kashima Antlers v Kashiwa Reysol - J.League 2026 - Sat 24/10 6:55am",
-        "Stan 04 : Cerezo Osaka v Chiba - J.League 2026 - Sat 24/10 6:55am",
-        "Stan 05 : Kawasaki Frontale v Fagiano Okayama - J.League 2026 - Sat 24/10 7:55am",
-        "Stan 10 : Ningbo: Day 6 - WTA 500 - Sat 24/10 8:00am",
-        "Stan 02 : Japan v Wales - WXV 2026 - Sat 24/10 10:20am",
+        "Stan 02 : Japan v Wales - WXV 2026 - Sat 24/10 10:18am",
         "Stan 01 : Aston Villa v Manchester City - Premier League Matchweek 8 2026/2027 - Sat 24/10 11:30am",
         "Stan 03 : 4K • Aston Villa v Manchester City - Premier League Matchweek 8 2026/2027 - Sat 24/10 12:20pm",
         "Stan 06 : Tottenham Hotspur v Arsenal - WSL 2026/27 - Sat 24/10 12:35pm",
@@ -2116,7 +2120,12 @@
         "Stan 01 : Chelsea v Manchester United - Premier League Matchweek 9 2026/2027 - Sat 31/10 12:30pm",
         "Stan 07 : 4K • Chelsea v Manchester United - Premier League Matchweek 9 2026/2027 - Sat 31/10 1:20pm",
         "Stan 02 : Everton v Manchester United - WSL 2026/27 - Sat 31/10 1:35pm",
-        "Stan 03 : South Africa v Ireland - WXV 2026 - Sat 31/10 1:50pm"
+        "Stan 03 : South Africa v Ireland - WXV 2026 - Sat 31/10 1:50pm",
+        "Stan 08 : Brentford v Nottingham Forest - Premier League Matchweek 9 2026/2027 - Sat 31/10 3:50pm",
+        "Stan 04 : Coventry City v Sunderland - Premier League Matchweek 9 2026/2027 - Sat 31/10 3:50pm",
+        "Stan 05 : Goal Rush • 1 Nov - Premier League 2026/2027 - Sat 31/10 3:50pm",
+        "Stan 09 : Hull City v Ipswich Town - Premier League Matchweek 9 2026/2027 - Sat 31/10 3:50pm",
+        "Stan 10 : Manchester City v Brighton & Hove Albion - Premier League Matchweek 9 2026/2027 - Sat 31/10 3:50pm"
       ],
       "sections": [],
       "events": []
