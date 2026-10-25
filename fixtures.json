@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T18:00:49.093758+00:00",
+  "scraped_at": "2026-10-25T19:27:31.143167+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -17,23 +17,7 @@
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 01 - 16:30-18:30 - Bundesliga: Freiburg vs Bayern München 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 16:30-18:30 - EPL: Sunderland vs Leeds United 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 16:30-18:30 - EPL: Sunderland vs Leeds United 720p"
-            },
-            {
-              "type": "fixture",
               "text": "SPORTS SCENE 06 - 17:00-20:00 - NFL: Tampa Bay Buccaneers at Carolina Panthers 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 17:00-19:00 - Serie A: Lecce vs Juventus 1080p"
             },
             {
               "type": "fixture",
@@ -58,11 +42,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 25-Oct 04:00PM-06:30PM - Premier League 26/27 -Sunderland vs Leeds United[Live] [HK]",
-        "EVENT 02 - 25-Oct 04:20PM-06:30PM - Sunderland v Leeds United (MW08) [SG]",
-        "EVENT 03 - 25-Oct 04:25PM-06:35PM - Bundesliga 2026/27 -Freiburg vs Bayern[Live] [HK]",
-        "EVENT 04 - 25-Oct 04:25PM-06:30PM - Bundesliga 2026/27: Freiburg vs Bayern [SG]",
-        "EVENT 05 - 25-Oct 04:53PM-07:00PM - Serie A 2026/27 E79 -Lecce vs Juventus[Live] [HK]",
         "EVENT 08 - 25-Oct 05:25PM-07:40PM - LaLiga 2026/27: Real Sociedad vs Levante [SG]",
         "EVENT 09 - 25-Oct 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD10 -Real Sociedad vs Levante UD[Live] [HK]",
         "EVENT 10 - 25-Oct 05:55PM-08:00PM - Barclay's WSL '26/27 E21 -Manchester Utd v Manchester City[Live] [HK]",
@@ -160,12 +139,7 @@
           "time": "15:00",
           "name": "MEXICO U17 - AUSTRALIA U17 W",
           "datetime": "2026-10-25 15:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "FOOTBALL",
@@ -972,10 +946,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Final Auditions For James Bond Take Place This Weekend - 25/10/2026 09:54 - 09:13",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 25/10/2026 03:57 - 21:29",
+        "BBC Events 03 - Premier League: Fan & Pundit reaction: Man Utd in crisis... again! Sunderland stay bottom and Spurs shock Chelsea - 25/10/2026 18:43 - 19:50",
         "BBC Events 05 - no_brand_title: Burnham Open to 'Honest Discussion' on EU Free Movement - 25/10/2026 06:28 - 01:17",
-        "BBC Events 06 - no_brand_title: Warnings Issued as Storm Boelo Brings Disruption to UK - 25/10/2026 11:12 - 10:48",
-        "BBC Events 07 - Autumnwatch: Autumn Calm - 25/10/2026 13:30 - 19:08",
-        "BBC Events 08 - Tennis: Wrexham Open: Day Seven - Singles and doubles final - 25/10/2026 13:42 - 19:00"
+        "BBC Events 06 - no_brand_title: Warnings Issued as Storm Boelo Brings Disruption to UK - 25/10/2026 11:12 - 10:48"
       ],
       "sections": [],
       "events": []
@@ -1164,18 +1137,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 10:50 - Serie A: Inter vs. Fiorentina",
-        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Crystal Palace vs. Chelsea",
-        "Paramount+ Event 03 - 11:25 - Scottish Professional Football League: Hibernian vs. Celtic",
-        "Paramount+ Event 04 - 13:20 - Barclays Women's Super League: Birmingham City vs. Charlton Athletic",
-        "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: Everton vs. Aston Villa",
-        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Liverpool vs. London City",
-        "Paramount+ Event 07 - 13:20 - Serie A: Atalanta vs. Frosinone",
-        "Paramount+ Event 08 - 13:20 - Serie A: Genoa vs. Venezia",
-        "Paramount+ Event 09 - 13:25 - Scottish Professional Football League: Motherwell vs. Heart of Midlothian",
-        "Paramount+ Event 10 - 16:20 - Serie A: Lecce vs. Juventus",
-        "Paramount+ Event 11 - 17:20 - Barclays Women's Super League: Man. United vs. Man. City",
-        "Paramount+ Event 12 - 18:30 - Serie A: Udinese vs. Milan",
+        "Paramount+ Event 01 - 13:20 - Barclays Women's Super League: Birmingham City vs. Charlton Athletic",
+        "Paramount+ Event 02 - 13:20 - Barclays Women's Super League: Everton vs. Aston Villa",
+        "Paramount+ Event 03 - 13:20 - Barclays Women's Super League: Liverpool vs. London City",
+        "Paramount+ Event 04 - 13:20 - Serie A: Atalanta vs. Frosinone",
+        "Paramount+ Event 05 - 13:20 - Serie A: Genoa vs. Venezia",
+        "Paramount+ Event 06 - 13:25 - Scottish Professional Football League: Motherwell vs. Heart of Midlothian",
+        "Paramount+ Event 07 - 16:20 - Serie A: Lecce vs. Juventus",
+        "Paramount+ Event 08 - 17:20 - Barclays Women's Super League: Man. United vs. Man. City",
+        "Paramount+ Event 09 - 18:30 - Serie A: Udinese vs. Milan",
         "Paramount+ Event 01 - 19:20 - English Football League: Walsall vs. Salford City",
         "Paramount+ Event 01 - 16:50 - Serie A: Sassuolo vs. Lazio",
         "Paramount+ Event 02 - 18:30 - Efl Cup: Bradford City vs. Peterborough United",
@@ -1240,10 +1210,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: FIA F1: United States Pre Race - 18:30 25/10/2026",
-        "Sky Sport 1 UHD - LIVE: FIA F1: United States Pre Race - 18:30 25/10/2026",
-        "Sky Sport 4 - LIVE: PGA Champions Tour: R3 - 19:00 25/10/2026",
-        "Sky Sport 6 - LIVE: WST: Northern Ireland Open: D8 Eve - 19:00 25/10/2026",
         "Sky Sport 1 - LIVE:FIA F1: United States Grand Prix - 19:55 25/10/2026",
         "Sky Sport 1 UHD - LIVE:FIA F1: United States Grand Prix - 19:55 25/10/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Chequered Flag - 22:00 25/10/2026",
@@ -1365,7 +1331,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 08 : Sparta Rotterdam vs. AFC Ajax - Sun 25/10 3:35pm",
         "Sportsnet 02 : Manchester United vs. Manchester City - Sun 25/10 5:50pm",
         "Sportsnet 09 : AZ Alkmaar vs. FC Twente - Sun 25/10 6:50pm",
         "Sportsnet 10 : Florida @ Chicago - Sun 25/10 7:00pm",
@@ -1383,7 +1348,14 @@
         "Sportsnet 02 : Blair & Barker: Oct. 26 - Mon 26/10 7:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Oct. 26 - Mon 26/10 8:00pm",
         "Sportsnet 01 : The FAN Pregame: Oct. 26 - Mon 26/10 10:00pm",
-        "Sportsnet 02 : Los Angeles @ New York Rangers - Mon 26/10 11:00pm"
+        "Sportsnet 02 : Los Angeles @ New York Rangers - Mon 26/10 11:00pm",
+        "Sportsnet 03 : Dallas @ Miami - Mon 26/10 11:30pm",
+        "Sportsnet 05 : World Series: Milwaukee @ Tampa Bay - Game 3 - Mon 26/10 11:30pm",
+        "Sportsnet 06 : Toronto @ Calgary - Tue 27/10 12:00am",
+        "Sportsnet 04 : Detroit @ Edmonton - Tue 27/10 1:30am",
+        "Sportsnet 01 : Golden State @ Denver - Tue 27/10 2:00am",
+        "Sportsnet 01 : Sportsnet Central: Oct. 26 - Tue 27/10 9:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 27 - Tue 27/10 1:00pm"
       ],
       "sections": [],
       "events": []
@@ -1394,8 +1366,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 11 : Harlequins v Saracens - PREM Rugby Round 4 2026/27 - Sun 25/10 2:55pm",
-        "Stan 02 : Sunderland v Leeds United - Premier League Matchweek 8 2026/2027 - Sun 25/10 4:20pm",
+        "Stan 02 : Sunderland v Leeds United - Premier League Matchweek 8 2026/2027 - Sun 25/10 4:29pm",
         "Stan 12 : Manchester United v Manchester City - WSL 2026/27 - Sun 25/10 5:50pm",
         "Stan 13 : Orlando Pride v Gotham FC - NWSL 2026 - Sun 25/10 7:00pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 8 - Oct 26 - Sun 25/10 7:00pm",
@@ -1444,7 +1415,17 @@
         "Stan 05 : Brighton & Hove Albion v Crystal Palace - WSL 2026/27 - Sun 01/11 1:50pm",
         "Stan 06 : West Ham United v Liverpool - WSL 2026/27 - Sun 01/11 1:50pm",
         "Stan 07 : Charlton Athletic v Chelsea - WSL 2026/27 - Sun 01/11 2:20pm",
-        "Stan 04 : Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 3:30pm"
+        "Stan 04 : Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 3:30pm",
+        "Stan 08 : 4K • Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 4:20pm",
+        "Stan 01 : PL Weekend Wrap: Matchweek 9 - Nov 2 - Sun 01/11 7:00pm",
+        "Stan 03 : Gotham FC v Utah Royals - NWSL 2026 - Sun 01/11 10:00pm",
+        "Stan 05 : Houston Dash v Portland Thorns - NWSL 2026 - Sun 01/11 10:00pm",
+        "Stan 06 : North Carolina Courage v Denver Summit - NWSL 2026 - Sun 01/11 10:00pm",
+        "Stan 02 : Racing Louisville v Kansas City Current - NWSL 2026 - Sun 01/11 10:00pm",
+        "Stan 01 : Newcastle United v Everton - Premier League Matchweek 9 2026/2027 - Mon 02/11 7:30pm",
+        "Stan 02 : Galatasaray v Stuttgart - UEFA Champions League Matchday 4 2026/2027 - Tue 03/11 5:40pm",
+        "Stan 01 : Shakhtar Donetsk v Sporting CP - UEFA Champions League Matchday 4 2026/2027 - Tue 03/11 5:40pm",
+        "Stan 03 : Football Zone: MD4 Wednesday - UEFA Champions League 2026/27 - Tue 03/11 7:40pm"
       ],
       "sections": [],
       "events": []
@@ -1464,7 +1445,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 10 : ATP 250 Tennis: Brussels - Final - Sun 25/10 3:30pm",
         "TSN 12 : NFL RedZone - Sun 25/10 5:00pm",
         "TSN 11 : NFL on TSN: Browns vs. Titans - Sun 25/10 5:00pm",
         "TSN 13 : LaLiga: Real Sociedad vs. Levante - Sun 25/10 5:18pm",
