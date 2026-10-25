@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T12:16:26.466433+00:00",
+  "scraped_at": "2026-10-25T14:47:11.393972+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 25 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 12:00-14:00 - WSL: Crystal Palace vs Chelsea FC 1080p"
             },
             {
               "type": "fixture",
@@ -90,16 +86,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 25-Oct 11:23AM-01:30PM - Serie A 2026/27 E76 -Inter vs Fiorentina[Live] [HK]",
-        "EVENT 01 - 25-Oct 11:50AM-01:53PM - Women's Super League 2026/27 E43 -Crystal Palace vs Chelsea[Live] [HK]",
-        "EVENT 03 - 25-Oct 11:50AM-02:00PM - Women's Super League 2026/27: Crystal Palace vs Chelsea [SG]",
-        "EVENT 04 - 25-Oct 11:55AM-02:00PM - Barclay's WSL '26/27 E20 -Crystal Palace v Chelsea[Live] [HK]",
-        "EVENT 05 - 25-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27 -Braunschweig vs Hannover[Live] [HK]",
-        "EVENT 06 - 25-Oct 12:20PM-02:25PM - Bundesliga 2 2026/27: Braunschweig vs Hannover [SG]",
         "EVENT 07 - 25-Oct 12:55PM-03:00PM - LaLiga 2026/27: Athletic Bilbao vs Getafe [SG]",
         "EVENT 08 - 25-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD10 -Athletic Club vs Getafe CF[Live] [HK]",
         "EVENT 10 - 25-Oct 01:30PM-04:00PM - Premier League 26/27 -Manchester United vs Bournemouth [Live Chat][Live] [HK]",
         "EVENT 02 - 25-Oct 01:50PM-04:00PM - Premier League 26/27 -Crystal Palace vs Newcastle United[Live] [HK]",
+        "EVENT 09 - 25-Oct 01:50PM-04:20PM - Manchester United v Bournemouth (MW08) (Goal Rush) [SG]",
         "EVENT 11 - 25-Oct 01:50PM-04:00PM - Premier League 26/27 -Hull City vs Brentford[Live] [HK]",
         "EVENT 12 - 25-Oct 01:50PM-04:00PM - Premier League 26/27 -Liverpool vs Brighton & Hove Albion[Live] [HK]",
         "EVENT 13 - 25-Oct 01:50PM-04:00PM - Crystal Palace vs Newcastle United (MW08) - Premier League 2026/27 [SG]",
@@ -327,7 +318,12 @@
           "time": "18:00",
           "name": "CHINA PR U17 - UNITED STATES U17",
           "datetime": "2026-10-25 18:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "FOOTBALL",
@@ -1018,9 +1014,10 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Final Auditions For James Bond Take Place This Weekend - 25/10/2026 09:54 - 09:13",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 25/10/2026 03:57 - 21:29",
-        "BBC Events 03 - Women's Super League: Tottenham Hotspur v Arsenal - 25/10/2026 11:00 - 13:29",
         "BBC Events 05 - no_brand_title: Burnham Open to 'Honest Discussion' on EU Free Movement - 25/10/2026 06:28 - 01:17",
-        "BBC Events 06 - no_brand_title: Warnings Issued as Storm Boelo Brings Disruption to UK - 25/10/2026 11:12 - 10:48"
+        "BBC Events 06 - no_brand_title: Warnings Issued as Storm Boelo Brings Disruption to UK - 25/10/2026 11:12 - 10:48",
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 25/10/2026 13:30 - 19:08",
+        "BBC Events 08 - Tennis: Wrexham Open: Day Seven - Singles and doubles final - 25/10/2026 13:42 - 19:00"
       ],
       "sections": [],
       "events": []
@@ -1212,9 +1209,9 @@
         "Paramount+ Event 01 - 10:50 - Serie A: Inter vs. Fiorentina",
         "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Crystal Palace vs. Chelsea",
         "Paramount+ Event 03 - 11:25 - Scottish Professional Football League: Hibernian vs. Celtic",
-        "Paramount+ Event 04 - 13:20 - Barclays Womens Super League: Birmingham City vs. Charlton Athletic",
-        "Paramount+ Event 05 - 13:20 - Barclays Womens Super League: Everton vs. Aston Villa",
-        "Paramount+ Event 06 - 13:20 - Barclays Womens Super League: Liverpool vs. London City",
+        "Paramount+ Event 04 - 13:20 - Barclays Women's Super League: Birmingham City vs. Charlton Athletic",
+        "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: Everton vs. Aston Villa",
+        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Liverpool vs. London City",
         "Paramount+ Event 07 - 13:20 - Serie A: Atalanta vs. Frosinone",
         "Paramount+ Event 08 - 13:20 - Serie A: Genoa vs. Venezia",
         "Paramount+ Event 09 - 13:25 - Scottish Professional Football League: Motherwell vs. Heart of Midlothian",
@@ -1285,11 +1282,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: PL: Man Utd v Bournemouth - 13:50 25/10/2026",
-        "Sky Sport 4 - LIVE: PL: Crystal Palace v Newcastle - 13:50 25/10/2026",
-        "Sky Sport 1 - LIVE: PL: Liverpool v Brighton - 13:50 25/10/2026",
-        "Sky Sport 1 UHD - LIVE: PL: Liverpool v Brighton - 13:50 25/10/2026",
-        "Sky Sport 5 - LIVE: PL: Hull City v Brentford - 13:50 25/10/2026",
         "Sky Sport Select - LIVE: PREM: Harlequins v Saracens - 14:55 25/10/2026",
         "Sky Sport 2 - LIVE: PGA Tour: Round 4 - 17:00 25/10/2026",
         "Sky Sport 9 - LIVE: WSL: Man Utd v Man City - 17:50 25/10/2026",
@@ -1358,6 +1350,8 @@
         "Sky Sports+ 1 | Man Utd vs Bournemouth",
         "Sky Sports+ 2 | Hull vs Brentford",
         "Sky Sports+ 3 | Palace vs Newcastle",
+        "Sky Sports+ 4 | Birmingham vs Charlton",
+        "Sky Sports+ 5 | Everton vs Aston Villa",
         "Pakistan vs Sri Lanka",
         "Bradford vs Peterborough",
         "Man City vs Brighton",
@@ -1367,10 +1361,8 @@
         "Norwich vs Watford",
         "Fulham vs Palace",
         "Leyton Orient vs Cambridge Utd",
-        "Birmingham vs Charlton",
         "Sunderland vs Brentford",
         "Plymouth vs Reading",
-        "Everton vs Aston Villa",
         "Leicester vs Wigan",
         "Grimsby vs York",
         "Luton vs Doncaster",
@@ -1394,7 +1386,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Crystal Palace vs. Chelsea - Sun 25/10 11:50am",
         "Sportsnet 01 : NEC vs. FC Groningen - Sun 25/10 1:20pm",
         "Sportsnet 03 : PSV Eindhoven vs. Feyenoord - Sun 25/10 1:20pm",
         "Sportsnet 04 : Birmingham City vs. Charlton Athletic - Sun 25/10 1:50pm",
@@ -1418,7 +1409,8 @@
         "Sportsnet 01 : Frankly Hockey: Oct. 26 - Mon 26/10 6:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 26 - Mon 26/10 7:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Oct. 26 - Mon 26/10 8:00pm",
-        "Sportsnet 01 : The FAN Pregame: Oct. 26 - Mon 26/10 10:00pm"
+        "Sportsnet 01 : The FAN Pregame: Oct. 26 - Mon 26/10 10:00pm",
+        "Sportsnet 02 : Los Angeles @ New York Rangers - Mon 26/10 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -1429,16 +1421,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Ningbo: Day 7 - WTA 500 - Sun 25/10 9:15am",
-        "Stan 01 : Crystal Palace v Chelsea - WSL 2026/27 - Sun 25/10 11:50am",
         "Stan 03 : Goal Rush: Manchester United v Bournemouth • 26 Oct - Premier League 2026/2027 - Sun 25/10 1:00pm",
-        "Stan 09 : Birmingham City v Charlton Athletic - WSL 2026/27 - Sun 25/10 1:50pm",
-        "Stan 07 : Crystal Palace v Newcastle United - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
-        "Stan 04 : Everton v Aston Villa - WSL 2026/27 - Sun 25/10 1:50pm",
-        "Stan 08 : Hull City v Brentford - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
         "Stan 05 : Liverpool v Brighton & Hove Albion - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
-        "Stan 10 : Liverpool v London City Lionesses - WSL 2026/27 - Sun 25/10 1:50pm",
+        "Stan 07 : Crystal Palace v Newcastle United - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
+        "Stan 08 : Hull City v Brentford - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
         "Stan 06 : Manchester United v Bournemouth - Premier League Matchweek 8 2026/2027 - Sun 25/10 1:50pm",
+        "Stan 09 : Birmingham City v Charlton Athletic - WSL 2026/27 - Sun 25/10 1:50pm",
+        "Stan 04 : Everton v Aston Villa - WSL 2026/27 - Sun 25/10 1:50pm",
+        "Stan 10 : Liverpool v London City Lionesses - WSL 2026/27 - Sun 25/10 1:50pm",
         "Stan 11 : Harlequins v Saracens - PREM Rugby Round 4 2026/27 - Sun 25/10 2:55pm",
         "Stan 02 : Sunderland v Leeds United - Premier League Matchweek 8 2026/2027 - Sun 25/10 4:20pm",
         "Stan 12 : Manchester United v Manchester City - WSL 2026/27 - Sun 25/10 5:50pm",
@@ -1488,7 +1478,8 @@
         "Stan 02 : Birmingham City v Tottenham Hotspur - WSL 2026/27 - Sun 01/11 1:50pm",
         "Stan 05 : Brighton & Hove Albion v Crystal Palace - WSL 2026/27 - Sun 01/11 1:50pm",
         "Stan 06 : West Ham United v Liverpool - WSL 2026/27 - Sun 01/11 1:50pm",
-        "Stan 07 : Charlton Athletic v Chelsea - WSL 2026/27 - Sun 01/11 2:20pm"
+        "Stan 07 : Charlton Athletic v Chelsea - WSL 2026/27 - Sun 01/11 2:20pm",
+        "Stan 04 : Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 3:30pm"
       ],
       "sections": [],
       "events": []
@@ -1508,7 +1499,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Almaty - Final - Sun 25/10 10:00am",
         "TSN 02 : LaLiga: Athletic Club vs. Getafe - Sun 25/10 12:48pm",
         "TSN 04 : ATP 250 Tennis: Lyon - Final - Sun 25/10 1:30pm",
         "TSN 03 : NFL International Series: Steelers vs. Saints - Sun 25/10 1:30pm",
