@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T13:46:56.284642+00:00",
+  "scraped_at": "2026-10-26T17:06:49.458710+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,21 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Monday 26 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 19:30-21:30 - Ligue 1: PSG vs Olympique Lyonnais 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -22,6 +36,7 @@
         "EVENT 06 - 26-Oct 03:55PM-06:00PM - Super Lig 2026/27: Rizespor vs Trabzonspor [SG]",
         "EVENT 02 - 26-Oct 06:25PM-08:30PM - Super Lig 2026/27 E36 -Galatasaray vs Fenerbahce[Live] [HK]",
         "EVENT 03 - 26-Oct 06:25PM-08:30PM - Super Lig 2026/27: Galatasaray vs Fenerbahce [SG]",
+        "EVENT 05 - 26-Oct 07:25PM-09:30PM - Ligue 1 2026/27 E72 -PSG vs Lyon[Live] [HK]",
         "EVENT 01 - 26-Oct 07:55PM-10:00PM - LaLiga 2026/27: Sevilla vs Osasuna [SG]",
         "EVENT 04 - 26-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD10 -Sevilla FC vs CA Osasuna[Live] [HK]",
         "EVENT 02 - 27-Oct 05:23PM-07:38PM - Serie A 2026/27 E81 -Sassuolo vs Lazio[Live] [HK]",
@@ -465,7 +480,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: عالم الظهيرة - 26/10/2026 12:43 - 14:00",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 26/10/2026 07:23 - 20:47",
         "BBC Events 03 - no_brand_title: British Army Prepares for War with Largest Parachute Drop - 26/10/2026 05:26 - 02:16",
         "BBC Events 04 - no_brand_title: Two Men Killed by Falling Trees as Storm Boelo Sweeps Across UK - 26/10/2026 05:29 - 02:01",
@@ -722,7 +736,17 @@
         "FloSports 04 - FloCollege: Davenport vs Lindenwood - 30 Oct 23:00 UK / 19:00 ET / 16:00 PT",
         "FloSports 05 - FloCollege: AIC vs Harvard - 30 Oct 23:30 UK / 19:30 ET / 16:30 PT",
         "FloSports 01 - United Rugby Championship: DHL Stormers vs Ulster Rugby - 31 Oct 12:45 UK / 08:45 ET / 05:45 PT",
-        "FloSports 02 - French Top 14: Clermont vs Racing 92 - 31 Oct 13:30 UK / 09:30 ET / 06:30 PT"
+        "FloSports 02 - French Top 14: Clermont vs Racing 92 - 31 Oct 13:30 UK / 09:30 ET / 06:30 PT",
+        "FloSports 04 - Premiership Rugby: Newcastle Red Bulls vs Saracens F.C. - 31 Oct 15:00 UK / 11:00 ET / 08:00 PT",
+        "FloSports 05 - Currie Cup: Vodacom Bulls vs Scarlets - 31 Oct 15:00 UK / 11:00 ET / 08:00 PT",
+        "FloSports 06 - United Rugby Championship: Benetton Rugby vs Edinburgh Rugby - 31 Oct 15:00 UK / 11:00 ET / 08:00 PT",
+        "FloSports 03 - Premiership Rugby: Exeter Chiefs vs Harlequin F.C. - 31 Oct 15:00 UK / 11:00 ET / 08:00 PT",
+        "FloSports 07 - Premiership Rugby: Bath Rugby vs Sale Sharks - 31 Oct 15:05 UK / 11:05 ET / 08:05 PT",
+        "FloSports 08 - French Top 14: Montpellier vs Castres - 31 Oct 15:35 UK / 11:35 ET / 08:35 PT",
+        "FloSports 09 - French Top 14: Bordeaux-Begles vs Bayonne - 31 Oct 15:35 UK / 11:35 ET / 08:35 PT",
+        "FloSports 10 - French Top 14: Stade Francais vs La Rochelle - 31 Oct 15:35 UK / 11:35 ET / 08:35 PT",
+        "FloSports 11 - French Top 14: Lyon vs RC Vannes - 31 Oct 15:35 UK / 11:35 ET / 08:35 PT",
+        "FloSports 12 - Mid-South D1A Rugby: Life vs Southern Virginia - 31 Oct 17:00 UK / 13:00 ET / 10:00 PT"
       ],
       "sections": [],
       "events": []
@@ -733,8 +757,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 5 - LIVE: Crowd Goes Wild - 16:00 26/10/2026",
-        "Sky Sport 2 - LIVE: Crowd Goes Wild - 16:30 26/10/2026",
         "Sky Sport 1 - LIVE: Crowd Goes Wild - 19:30 26/10/2026",
         "Sky Sport 1 UHD - LIVE: Crowd Goes Wild - 19:30 26/10/2026",
         "Sky Sport 2 - LIVE: Crowd Goes Wild - 02:30 27/10/2026",
@@ -892,8 +914,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 26 - Mon 26/10 1:00pm",
-        "Sportsnet 02 : The Raptors Show: Oct. 26 - Mon 26/10 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 26 - Mon 26/10 4:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 26 - Mon 26/10 6:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 26 - Mon 26/10 7:00pm",
