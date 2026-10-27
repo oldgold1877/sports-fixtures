@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-27T12:54:18.436786+00:00",
+  "scraped_at": "2026-10-27T16:10:47.143024+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,29 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Tuesday 27 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 19:45-21:45 - EFL Cup: Bradford City vs Peterborough United 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EFL Cup: Fleetwood Town vs Arsenal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EFL Cup: Fleetwood Town vs Arsenal 720p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,19 +38,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 27-Oct 05:23PM-07:38PM - Serie A 2026/27 E81 -Sassuolo vs Lazio[Live] [HK]",
-        "EVENT 01 - 27-Oct 07:38PM-09:45PM - Serie A 2026/27 E82 -Roma vs Cagliari[Live] [HK]",
-        "EVENT 03 - 27-Oct 07:38PM-09:45PM - Serie A 2026/27 E83 -Torino vs Como 1907[Live] [HK]",
         "EVENT 03 - 28-Oct 11:00AM-01:00PM - East Asia Super League 2026/27 Taoyuan Pauian Pilots vs Ryukyu Golden Kings [SG]",
-        "EVENT 01 - 28-Oct 05:23PM-07:38PM - Serie A 2026/27 -Milan vs Bologna[Live] [HK]",
-        "EVENT 02 - 28-Oct 05:23PM-07:38PM - Serie A 2026/27 E85 -Parma vs Udinese[Live] [HK]",
-        "EVENT 03 - 28-Oct 05:23PM-07:30PM - Serie A 2026/27 E86 -Venezia vs Inter[Live] [HK]",
         "EVENT 05 - 28-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Bayern vs Real Madrid - MD3 [SG]",
         "EVENT 06 - 28-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Chelsea vs Roma - MD3 [SG]",
         "EVENT 07 - 28-Oct 05:40PM-07:45PM - UEFA Women's Champions League 2026/27: Servette vs OH Leuven - MD3 [SG]",
-        "EVENT 08 - 28-Oct 07:38PM-09:45PM - Serie A 2026/27 -Genoa vs Juventus[Live] [HK]",
-        "EVENT 09 - 28-Oct 07:38PM-09:45PM - Serie A 2026/27 E88 -Monza vs Napoli[Live] [HK]",
-        "EVENT 01 - 28-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E23 -OL Lyonnes vs Inter - MD3[Live] [HK]",
         "EVENT 02 - 28-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Arsenal vs Benfica - MD3 [SG]",
         "EVENT 03 - 28-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: OL Lyonnes vs Inter - MD3 [SG]"
       ],
@@ -535,7 +548,8 @@
         "BBC Events 03 - no_brand_title: King Begins First Caribbean Tour as Monarch - 27/10/2026 07:27 - 02:48",
         "BBC Events 04 - no_brand_title: Rise of Antisocial Behaviour in Social Housing - 27/10/2026 07:57 - 02:23",
         "BBC Events 05 - Autumnwatch: Autumn Calm - 27/10/2026 12:00 - 18:00",
-        "BBC Events 06 - no_brand_title: Two Men Charged Under National Security Act After RAF Fairford Incident - 27/10/2026 10:26 - 09:56"
+        "BBC Events 06 - no_brand_title: Two Men Charged Under National Security Act After RAF Fairford Incident - 27/10/2026 10:26 - 09:56",
+        "BBC Events 07 - no_brand_title: All-Colleague Call, 27 October 2026 - 27/10/2026 14:44 - 16:15"
       ],
       "sections": [],
       "events": []
@@ -633,7 +647,23 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : MLS Countdown (MLS) - Wed 28/10 10:25pm",
+        "MLS 03 : Miami vs. Cincinnati (MLS) - Wed 28/10 11:25pm",
+        "MLS 04 : New England vs. New York (MLS) - Wed 28/10 11:25pm",
+        "MLS 05 : New York City vs. Atlanta (MLS) - Wed 28/10 11:25pm",
+        "MLS 06 : Toronto vs. D.C. (MLS) - Wed 28/10 11:25pm",
+        "MLS 08 : Austin vs. Salt Lake (MLS) - Thu 29/10 12:25am",
+        "MLS 09 : Chicago vs. Orlando (MLS) - Thu 29/10 12:25am",
+        "MLS 10 : Dallas vs. Columbus (MLS) - Thu 29/10 12:25am",
+        "MLS 11 : Minnesota vs. Kansas City (MLS) - Thu 29/10 12:25am",
+        "MLS 12 : Nashville vs. Philadelphia (MLS) - Thu 29/10 12:25am",
+        "MLS 13 : St. Louis vs. Portland (MLS) - Thu 29/10 12:25am",
+        "MLS 14 : San Jose vs. Colorado (MLS) - Thu 29/10 02:25am",
+        "MLS 15 : Seattle vs. Houston (MLS) - Thu 29/10 02:25am",
+        "MLS 16 : Vancouver vs. San Diego (MLS) - Thu 29/10 02:25am",
+        "MLS 17 : MLS Wrap-Up (MLS) - Thu 29/10 04:55am"
+      ],
       "sections": [],
       "events": []
     },
@@ -978,9 +1008,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 27 - Tue 27/10 1:00pm",
-        "Sportsnet 02 : The Raptors Show: Oct. 27 - Tue 27/10 3:00pm",
-        "Sportsnet 03 : The FAN Hockey Show - Tue 27/10 4:00pm",
+        "Sportsnet 03 : The FAN Hockey Show: Oct. 27 - Tue 27/10 4:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 27 - Tue 27/10 6:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 27 - Tue 27/10 7:00pm",
         "Sportsnet 04 : Real Kyper & Bourne: Oct. 27 - Tue 27/10 8:00pm",
