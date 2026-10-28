@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T08:15:30.885045+00:00",
+  "scraped_at": "2026-10-28T13:43:23.133031+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,57 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 28 October 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:30-19:30 - Serie A: Milan vs Bologna 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 17:30-19:30 - Serie A: Venezia vs Internazionale 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 19:30-21:30 - EFL Cup: Manchester City vs Brighton & Hove Albion 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 19:30-21:30 - EFL Cup: Manchester City vs Brighton & Hove Albion 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 19:45-21:45 - DFB Pokal: Bayern München vs Magdeburg 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 19:45-22:00 - EFL Cup: Fulham vs Crystal Palace 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 04 - 19:45-22:00 - EFL Cup: Sunderland vs Brentford 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 19:45-21:45 - Serie A: Genoa vs Juventus 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 19:45-22:00 - EFL Cup: AFC Bournemouth vs Aston Villa 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - EFL Cup: Liverpool vs Chelsea 1080p"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -16,7 +66,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 28-Oct 11:00AM-01:00PM - East Asia Super League 2026/27 Taoyuan Pauian Pilots vs Ryukyu Golden Kings [SG]",
         "EVENT 01 - 28-Oct 05:23PM-07:38PM - Serie A 2026/27 -Milan vs Bologna[Live] [HK]",
         "EVENT 02 - 28-Oct 05:23PM-07:38PM - Serie A 2026/27 E85 -Parma vs Udinese[Live] [HK]",
         "EVENT 03 - 28-Oct 05:23PM-07:30PM - Serie A 2026/27 E86 -Venezia vs Inter[Live] [HK]",
@@ -606,10 +655,10 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: King Acknowledges 'Suffering of the Past' as Caribbean Tour Begins - 28/10/2026 04:43 - 02:31",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 28/10/2026 06:54 - 23:03",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 28/10/2026 06:00 - 12:00",
         "BBC Events 04 - no_brand_title: Tax on Banks, Energy Bill Help and Minimum Wage Rise - What Could Be in the Budget? - 28/10/2026 06:45 - 18:00",
-        "BBC Events 05 - Curling: European Curling Championships: Scotland v Netherlands - 28/10/2026 07:24 - 11:30",
-        "BBC Events 06 - no_brand_title: Two Men Charged Under National Security Act After RAF Fairford Incident - 27/10/2026 10:26 - 09:56"
+        "BBC Events 06 - no_brand_title: The Budget: What It Means For You - 28/10/2026 11:26 - 15:00",
+        "BBC Events 07 - no_brand_title: High Speed Train Crash in Spain - 28/10/2026 09:37 - 09:30",
+        "BBC Events 08 - Autumnwatch: Autumn Calm - 28/10/2026 12:00 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -924,9 +973,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: India W v Zimbabwe W: 3rd ODI - 08:20 28/10/2026",
-        "Sky Sport 1 - LIVE: WPL Auction 2027 - 12:00 28/10/2026",
-        "Sky Sport 1 UHD - LIVE: WPL Auction 2027 - 12:00 28/10/2026",
         "Sky Sport 1 - LIVE: Asia-Pacific Amateur Champs: R1 - 01:00 29/10/2026",
         "Sky Sport 1 UHD - LIVE: Asia-Pacific Amateur Champs: R1 - 01:00 29/10/2026",
         "Sky Sport 2 - LIVE: WBBL: Renegades v Thunder - 04:00 29/10/2026",
@@ -941,10 +987,10 @@
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 4th T20 - 06:00 30/10/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 4th T20 - 06:00 30/10/2026",
         "Sky Sport 3 - LIVE: Tauihi: Hoiho v Kahu - 06:30 30/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: England v Samoa - 06:40 30/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: England v Samoa - 06:30 30/10/2026",
         "Sky Sport 5 - LIVE: AFLW: Geelong v Bulldogs - 08:00 30/10/2026",
         "Sky Sport 4 - LIVE: WBBL: Heat v Sixers - 08:05 30/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: England v Papua New Guinea - 09:00 30/10/2026",
+        "Sky Sport 2 - LIVE: RLWC: England v Papua New Guinea - 08:30 30/10/2026",
         "Sky Sport 3 - LIVE: PGA Champions Tour: R1 - 17:00 30/10/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Mexico P1 - 18:00 30/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico P1 - 18:00 30/10/2026",
@@ -956,33 +1002,33 @@
         "Sky Sport 1 - LIVE: FIA Formula 1: Mexico P2 - 21:30 30/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico P2 - 21:30 30/10/2026",
         "Sky Sport 4 - LIVE: Asia-Pacific Amateur Champs: R3 - 01:00 31/10/2026",
-        "Sky Sport 1 - LIVE: RLWC: Fiji v France - 01:50 31/10/2026",
-        "Sky Sport 1 UHD - LIVE: RLWC: Fiji v France - 01:50 31/10/2026",
+        "Sky Sport Select - LIVE: RLWC: Fiji v France - 02:00 31/10/2026",
         "Sky Sport 6 - LIVE: AFLW: Richmond v North Melbourne - 02:00 31/10/2026",
+        "Sky Sport 1 - LIVE: RLWC: Kiwis v Fiji - 03:30 31/10/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC: Kiwis v Fiji - 03:30 31/10/2026",
         "Sky Sport 5 - LIVE: RLWC Wheelchair: France v Scotland - 03:50 31/10/2026",
-        "Sky Sport 3 - LIVE: ALM: Newcastle Jets v Phoenix - 03:55 31/10/2026",
         "Sky Sport 9 - LIVE: ALW: Brisbane Roar v Sydney FC - 03:55 31/10/2026",
-        "Sky Sport 1 - LIVE: RLWC: Kiwis v Fiji - 04:00 31/10/2026",
-        "Sky Sport 1 UHD - LIVE: RLWC: Kiwis v Fiji - 04:00 31/10/2026",
+        "Sky Sport 3 - LIVE: ALM: Newcastle Jets v Phoenix - 03:55 31/10/2026",
         "Sky Sport 6 - LIVE: WBBL: Strikers v Stars - 04:00 31/10/2026",
         "Sky Sport 4 - LIVE: Rapid League: Whai v Pouakai - 05:30 31/10/2026",
         "Sky Sport 2 - LIVE: WXV: Black Ferns v France - 05:30 31/10/2026",
         "Sky Sport 9 - LIVE: ALW: Mariners v Adelaide Utd - 05:55 31/10/2026",
         "Sky Sport 5 - LIVE: RLWC Wheelchair Australia v Kiwis - 06:15 31/10/2026",
+        "Sky Sport 1 - LIVE: RLWC: Kiwi Ferns v PNG - 06:30 31/10/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC: Kiwi Ferns v PNG - 06:30 31/10/2026",
         "Sky Sport 4 - LIVE: Tauihi: Whai v Pouakai - 06:30 31/10/2026",
-        "Sky Sport 1 - LIVE: RLWC: Kiwi Ferns v PNG - 06:35 31/10/2026",
-        "Sky Sport 1 UHD - LIVE: RLWC: Kiwi Ferns v PNG - 06:35 31/10/2026",
         "Sky Sport 7 - LIVE: WXV: Japan v Wales - 06:45 31/10/2026",
         "Sky Sport 9 - LIVE: AFLW: Brisbane v Carlton - 08:00 31/10/2026",
         "Sky Sport 6 - LIVE: WBBL: Scorchers v Renegades - 08:05 31/10/2026",
         "Sky Sport 3 - LIVE: ALM: Macarthur v Western Sydney - 08:15 31/10/2026",
         "Sky Sport 5 - LIVE: ANZ PL Darts: Brisbane - 08:20 31/10/2026",
-        "Sky Sport 2 - LIVE: RLWC: Australia v Cook Islands - 09:00 31/10/2026",
+        "Sky Sport 1 - LIVE: RLWC: Australia v Cook Islands - 08:55 31/10/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC: Australia v Cook Islands - 08:55 31/10/2026",
         "Sky Sport 5 - LIVE: WSL: Everton v Man Utd - 12:40 31/10/2026",
         "Sky Sport 1 - LIVE: WXV: South Africa v Ireland - 12:50 31/10/2026",
         "Sky Sport 1 UHD - LIVE: WXV: South Africa v Ireland - 12:50 31/10/2026",
-        "Sky Sport 4 - LIVE: PL: Hull City v Ipswich Town - 14:50 31/10/2026",
         "Sky Sport 5 - LIVE: PL: Brentford v Nottingham Forest - 14:50 31/10/2026",
+        "Sky Sport 4 - LIVE: PL: Hull City v Ipswich Town - 14:50 31/10/2026",
         "Sky Sport 3 - LIVE: PL: Bournemouth v Leeds - 14:50 31/10/2026",
         "Sky Sport 6 - LIVE: PL: Coventry City v Sunderland - 14:50 31/10/2026",
         "Sky Sport 2 - LIVE: PL: Manchester City v Brighton - 14:50 31/10/2026",
@@ -1006,13 +1052,13 @@
         "Sky Sport 7 - LIVE: AFLW: Essendon v Collingwood - 02:00 01/11/2026",
         "Sky Sport 3 - LIVE: ALM: Melbourne Victory v Mariners - 03:55 01/11/2026",
         "Sky Sport 6 - LIVE: ALW: Canberra Utd v Western Sydney - 03:55 01/11/2026",
+        "Sky Sport 2 - LIVE: RLWC: Australia v Wales - 04:00 01/11/2026",
         "Sky Sport 7 - LIVE: AFLW: Adelaide v Melbourne - 04:00 01/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Thunder v Heat - 04:30 01/11/2026",
-        "Sky Sport 2 - LIVE: RLWC: Australia v Wales - 04:30 01/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 5th T20 - 06:00 01/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 5th T20 - 06:00 01/11/2026",
         "Sky Sport 7 - LIVE: AFLW: Fremantle v Sydney Swans - 06:00 01/11/2026",
-        "Sky Sport 3 - LIVE: RLWC: Lebanon v France - 06:40 01/11/2026",
+        "Sky Sport 2 - LIVE: RLWC: Lebanon v France - 06:30 01/11/2026",
         "Sky Sport 6 - LIVE: ALW: Melbourne Victory v Newcastle - 06:40 01/11/2026",
         "Sky Sport 5 - LIVE: ALM: Perth Glory v Adelaide Utd - 07:55 01/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Sixers v Hurricanes - 08:10 01/11/2026",
@@ -1034,8 +1080,17 @@
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Chequered Flag - 22:00 01/11/2026",
         "Sky Sport 1 - LIVE: Ted's Notebook: Mexico - 23:00 01/11/2026",
         "Sky Sport 1 UHD - LIVE: Ted's Notebook: Mexico - 23:00 01/11/2026",
+        "Sky Sport 2 - LIVE: WST: Northern Ireland Open: D3 Mor - 01:30 02/11/2026",
         "Sky Sport 1 - LIVE: WBBL: Stars v Scorchers - 07:30 02/11/2026",
-        "Sky Sport 1 UHD - LIVE: WBBL: Stars v Scorchers - 07:30 02/11/2026"
+        "Sky Sport 1 UHD - LIVE: WBBL: Stars v Scorchers - 07:30 02/11/2026",
+        "Sky Sport 1 - LIVE: RLWC Wheelchair: France v Kiwis - 23:45 02/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: France v Kiwis - 23:45 02/11/2026",
+        "Sky Sport 1 - LIVE: RLWC Wheelchair: Aus v Scotland - 02:20 03/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: Aus v Scotland - 02:20 03/11/2026",
+        "Sky Sport 1 - LIVE: RLWC Wheelchair: Ireland v Wales - 04:50 03/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: Ireland v Wales - 04:50 03/11/2026",
+        "Sky Sport 1 - LIVE: RLWC Wheelchair: England v USA - 07:20 03/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: England v USA - 07:20 03/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1084,7 +1139,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Oct. 27 - Wed 28/10 9:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 28 - Wed 28/10 1:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 28 - Wed 28/10 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 28 - Wed 28/10 4:00pm",
@@ -1108,7 +1162,8 @@
         "Sportsnet 03 : Columbus @ Carolina - Thu 29/10 11:00pm",
         "Sportsnet 05 : Utah @ Pittsburgh - Thu 29/10 11:00pm",
         "Sportsnet 02 : Winnipeg @ Tampa Bay - Thu 29/10 11:00pm",
-        "Sportsnet 06 : Chicago @ Detroit - Thu 29/10 11:30pm"
+        "Sportsnet 06 : Chicago @ Detroit - Thu 29/10 11:30pm",
+        "Sportsnet 07 : Boston @ St. Louis - Fri 30/10 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1211,7 +1266,6 @@
         "TSN 09 : Pat McAfee Show - Wed 28/10 4:00pm",
         "TSN 08 : Rich Eisen Show - Wed 28/10 4:00pm",
         "TSN 10 : 2026 FIFA U-17 Women's World Cup: Round of 16 - Brazil vs. Poland - Wed 28/10 5:48pm",
-        "TSN 11 : 2026 FIFA U-17 Women's World Cup: Round of 16 - DPR Korea vs. Morocco - Wed 28/10 5:48pm",
         "TSN 01 : NBA on TSN: 76ers vs. Pacers - Wed 28/10 11:00pm",
         "TSN 02 : NCAA Football: Jacksonville State vs. New Mexico State - Thu 29/10 12:00am",
         "TSN 03 : NBA on TSN: Lakers vs. Clippers - Thu 29/10 2:30am"
