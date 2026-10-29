@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T13:52:56.735589+00:00",
+  "scraped_at": "2026-10-29T17:17:37.268530+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -21,6 +21,10 @@
             },
             {
               "type": "fixture",
+              "text": "SPORTS SCENE 09 - 19:45-21:45 - Serie A: Fiorentina vs Atalanta 1080p"
+            },
+            {
+              "type": "fixture",
               "text": "SPORTS SCENE 11 - 19:45-21:45 - EFL Cup: Everton vs Newcastle United 720p"
             }
           ]
@@ -34,13 +38,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 29-Oct 05:23PM-07:38PM - Serie A 2026/27 -Frosinone vs Lecce[Live] [HK]",
+        "EVENT 02 - 29-Oct 05:23PM-07:38PM - Serie A 2026/27 -Frosinone vs Lecce[Live] [HK]",
         "EVENT 04 - 29-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E24 -Austria Wien vs Juventus - MD3[Live] [HK]",
         "EVENT 05 - 29-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27 E25 -Paris vs Hacken - MD3[Live] [HK]",
         "EVENT 06 - 29-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Austria Wien vs Juventus - MD3 [SG]",
         "EVENT 07 - 29-Oct 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Paris vs Hacken - MD3 [SG]",
-        "EVENT 02 - 29-Oct 07:38PM-09:45PM - Serie A 2026/27 -Fiorentina vs Atalanta[Live] [HK]",
-        "EVENT 01 - 29-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E26 -HB Koge vs Barcelona - MD3[Live] [HK]",
+        "EVENT 01 - 29-Oct 07:38PM-09:45PM - Serie A 2026/27 -Fiorentina vs Atalanta[Live] [HK]",
+        "EVENT 02 - 29-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E26 -HB Koge vs Barcelona - MD3[Live] [HK]",
         "EVENT 08 - 29-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27 E27 -Man City vs PSG - MD3[Live] [HK]",
         "EVENT 09 - 29-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: HB Koge vs Barcelona - MD3 [SG]",
         "EVENT 10 - 29-Oct 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Man City vs PSG - MD3 [SG]",
@@ -57,12 +61,28 @@
         "EVENT 05 - 31-Oct 11:50AM-01:53PM - Bundesliga 2 2026/27 E85 -Darmstadt vs Magdeburg[Live] [HK]",
         "EVENT 06 - 31-Oct 11:50AM-02:00PM - Bundesliga 2 2026/27: Wolfsburg vs Osnabruck [SG]",
         "EVENT 07 - 31-Oct 12:00PM-02:30PM - Premier League 26/27 -Chelsea vs Manchester United [Live Chat][Live] [HK]",
-        "EVENT 08 - 31-Oct 12:20PM-02:50PM - Chelsea v Manchester United (MW09) [SG]",
         "EVENT 03 - 31-Oct 12:35PM-02:45PM - Women's Super League 2026/27 E45 -Everton vs Man United[Live] [HK]",
         "EVENT 09 - 31-Oct 12:35PM-02:45PM - Women's Super League 2026/27: Everton vs Man United [SG]",
         "EVENT 10 - 31-Oct 12:40PM-02:45PM - Barclay's WSL '26/27 E22 -Everton v Manchester United[Live] [HK]",
         "EVENT 11 - 31-Oct 12:55PM-03:10PM - LaLiga 2026/27: Levante vs Atletico Madrid [SG]",
-        "EVENT 12 - 31-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD11 -Levante UD vs Atlético de Madrid[Live] [HK]"
+        "EVENT 12 - 31-Oct 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD11 -Levante UD vs Atlético de Madrid[Live] [HK]",
+        "EVENT 13 - 31-Oct 01:53PM-04:00PM - Serie A 2026/27 E91 -Bologna vs Monza[Live] [HK]",
+        "EVENT 01 - 31-Oct 02:20PM-04:30PM - Bundesliga 2026/27 -Leverkusen vs Stuttgart[Live] [HK]",
+        "EVENT 04 - 31-Oct 02:20PM-04:30PM - Bundesliga 2026/27: Leverkusen vs Stuttgart [SG]",
+        "EVENT 05 - 31-Oct 02:30PM-05:00PM - Premier League 26/27 -Manchester City vs Brighton & Hove Albion[Live] [HK]",
+        "EVENT 06 - 31-Oct 02:50PM-05:00PM - Premier League 26/27 -Bournemouth vs Leeds United[Live] [HK]",
+        "EVENT 07 - 31-Oct 02:50PM-05:00PM - Premier League 26/27 -Brentford vs Nottingham Forest[Live] [HK]",
+        "EVENT 14 - 31-Oct 02:50PM-05:00PM - Premier League 26/27 -Coventry City vs Sunderland[Live] [HK]",
+        "EVENT 15 - 31-Oct 02:50PM-05:00PM - Premier League 26/27 -Hull City vs Ipswich Town[Live] [HK]",
+        "EVENT 16 - 31-Oct 02:50PM-05:00PM - Bournemouth vs Leeds United (MW09) - Premier League 2026/27 [SG]",
+        "EVENT 17 - 31-Oct 02:50PM-05:00PM - Brentford vs Nottingham Forest (MW09) - Premier League 2026/27 [SG]",
+        "EVENT 18 - 31-Oct 02:50PM-05:00PM - Coventry City vs Sunderland (MW09) - Premier League 2026/27 [SG]",
+        "EVENT 20 - 31-Oct 02:50PM-05:20PM - Manchester City v Brighton & Hove Albion (MW09) (Goal Rush) [SG]",
+        "EVENT 03 - 31-Oct 03:07PM-03:50PM - LaLiga 2 2026/27: Eibar vs Almeria [SG]",
+        "EVENT 08 - 31-Oct 03:10PM-05:15PM - LaLiga 2026/27: Rayo Vallecano vs Celta Vigo [SG]",
+        "EVENT 09 - 31-Oct 03:15PM-05:30PM - LALIGA EA SPORTS 2026/2027 MD11 -Rayo Vallecano vs Celta[Live] [HK]",
+        "EVENT 01 - 31-Oct 04:53PM-07:00PM - Serie A 2026/27 E92 -Udinese vs Roma[Live] [HK]",
+        "EVENT 02 - 31-Oct 05:00PM-07:30PM - Premier League 26/27 -Tottenham Hotspur vs Crystal Palace[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -800,9 +820,9 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: King Charles Shows off Dance Moves in Bahamas - 29/10/2026 05:22 - 00:52",
+        "BBC Events 02 - Bowls: Scottish International Open: Scottish International Open - Final - 29/10/2026 15:55 - 18:00",
         "BBC Events 04 - no_brand_title: Ofcom Guidance on Verifying Ages of Social Media Users - 29/10/2026 06:22 - 01:33",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 29/10/2026 06:38 - 06:30",
-        "BBC Events 06 - Curling: European Curling Championships:  Germany v Scotland - 29/10/2026 12:48 - 16:00",
         "BBC Events 07 - no_brand_title: Space walk Live ATVالمشي في الفضاء بالمحطة الدولية بث مباشر - 29/10/2026 11:42 - 11:41",
         "BBC Events 09 - Autumnwatch: Autumn Calm - 29/10/2026 12:00 - 18:00"
       ],
@@ -981,8 +1001,8 @@
       "status": "ok",
       "fixtures": [
         "Paramount+ Event 01 - 16:50 - Serie A: Frosinone vs. Lecce",
-        "Paramount+ Event 02 - 17:00 - Uefa Womens Champions League: Paris FC vs. BK Häcken",
-        "Paramount+ Event 03 - 17:00 - Uefa Womens Champions League: Austria Wien vs. Juventus",
+        "Paramount+ Event 02 - 17:00 - UEFA Women's Champions League: Paris FC vs. BK Häcken",
+        "Paramount+ Event 03 - 17:00 - UEFA Women's Champions League: Austria Wien vs. Juventus",
         "Paramount+ Event 04 - 18:30 - Uefa Womens Champions League: HB Køge vs. Barcelona",
         "Paramount+ Event 05 - 18:30 - Uefa Womens Champions League: Man. City vs. PSG",
         "Paramount+ Event 06 - 18:30 - Efl Cup: Everton vs. Newcastle United",
@@ -1218,7 +1238,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | South Africa vs Australia",
         "Everton vs Newcastle",
         "Brisbane Heat vs Sydney Sixers",
         "Newport vs Chesterfield",
@@ -1252,8 +1271,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Oct. 29 - Thu 29/10 1:00pm",
-        "Sportsnet 02 : The Raptors Show: Oct. 29 - Thu 29/10 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 29 - Thu 29/10 4:00pm",
         "Sportsnet 01 : Frankly Hockey: Oct. 29 - Thu 29/10 6:00pm",
         "Sportsnet 02 : Blair & Barker: Oct. 29 - Thu 29/10 7:00pm",
@@ -1373,8 +1390,6 @@
         "TSN 04 : ATP 500 Tennis: Vienna - Day #4 (Centre Court) - Thu 29/10 12:30pm",
         "TSN 02 : ATP 500 Tennis: Vienna - Day #4 (glaubandich) - Thu 29/10 12:30pm",
         "TSN 03 : ATP 500 Tennis: Vienna - Early Round Coverage Day #4 - Thu 29/10 12:30pm",
-        "TSN 06 : 2026 FIFA U-17 Women's World Cup: Round of 16 - China PR vs. France - Thu 29/10 2:48pm",
-        "TSN 05 : 2026 FIFA U-17 Women's World Cup: Round of 16 - Nigeria vs. Mexico - Thu 29/10 2:48pm",
         "TSN 07 : ATP 500 Tennis: Basel - Day #4 (Court 1) - Thu 29/10 3:00pm",
         "TSN 09 : Pat McAfee Show - Thu 29/10 4:00pm",
         "TSN 08 : Rich Eisen Show - Thu 29/10 4:00pm",
