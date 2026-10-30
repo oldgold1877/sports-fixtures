@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T12:00:56.623607+00:00",
+  "scraped_at": "2026-10-30T13:44:54.243382+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -71,6 +71,10 @@
             {
               "type": "fixture",
               "text": "LIVE EVENT 09 - 11:30pmTrick R Treat Nationals Riverside"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 3pm BEAT LUKIE LITTLER ADDED"
             }
           ]
         }
@@ -135,7 +139,12 @@
         "EVENT 01 - 01-Nov 12:00AM-03:00AM - UFC Fight Night 2026 FN 27: Moicano vs Nolan [SG]",
         "EVENT 05 - 01-Nov 11:23AM-01:30PM - Serie A 2026/27 E94 -Como 1907 vs Venezia[Live] [HK]",
         "EVENT 06 - 01-Nov 11:50AM-01:55PM - Women's Super League 2026/27 E47 -London City Lionesses vs Man City[Live] [HK]",
-        "EVENT 07 - 01-Nov 11:55AM-02:00PM - Barclay's WSL '26/27 E23 -London City v Manchester City[Live] [HK]"
+        "EVENT 07 - 01-Nov 11:55AM-02:00PM - Barclay's WSL '26/27 E23 -London City v Manchester City[Live] [HK]",
+        "EVENT 03 - 01-Nov 12:20PM-02:25PM - Bundesliga 2 2026/27 -St. Pauli vs Nuremberg[Live] [HK]",
+        "EVENT 04 - 01-Nov 12:20PM-02:25PM - Bundesliga 2 2026/27: St. Pauli vs Nuremberg [SG]",
+        "EVENT 08 - 01-Nov 12:55PM-03:10PM - LaLiga 2026/27: Getafe vs Sevilla [SG]",
+        "EVENT 09 - 01-Nov 12:55PM-02:57PM - Super Lig 2026/27: Trabzonspor vs Gaziantep [SG]",
+        "EVENT 10 - 01-Nov 01:00PM-03:15PM - LALIGA EA SPORTS 2026/2027 MD11 -Getafe CF vs Sevilla FC[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -570,6 +579,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "17:00",
+          "name": "JAN-LENNARD STRUFF - NUNO BORGES",
+          "datetime": "2026-10-30 17:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "18:30",
           "name": "SWISS INDOORS BASEL",
           "datetime": "2026-10-30 18:30:00",
@@ -785,7 +806,7 @@
         {
           "sport": "FOOTBALL",
           "time": "17:00",
-          "name": "TORONTO ARGONAUTS - CALGARY STAMPEDERS",
+          "name": "TORONTO ARGONAUTS - WINNIPEG BLUE BOMBERS",
           "datetime": "2026-10-31 17:00:00",
           "channels": [
             {
@@ -957,7 +978,7 @@
         {
           "sport": "FOOTBALL",
           "time": "20:30",
-          "name": "BC LIONS - WINNIPEG BLUE BOMBERS",
+          "name": "BC LIONS - SASKATCHEWAN ROUGHRIDERS",
           "datetime": "2026-10-31 20:30:00",
           "channels": [
             {
@@ -1379,8 +1400,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: King to Meet Business Leaders in Guyana - 30/10/2026 05:50 - 02:20",
         "BBC Events 02 - no_brand_title: Tributes Are Being Paid for Sir Patrick Stewart - 30/10/2026 07:17 - 02:03",
+        "BBC Events 03 - Curling: European Curling Championships:  Scotland v Lithuania - 30/10/2026 12:46 - 16:00",
         "BBC Events 04 - no_brand_title: Tradespeople Want Action on Tool Theft - 30/10/2026 06:18 - 02:23",
-        "BBC Events 05 - UEFA Women's Champions League: Manchester City v Paris Saint-Germain - 30/10/2026 11:00 - 13:28",
         "BBC Events 06 - no_brand_title: The Combat Sport Building Resilience in Elderly - 30/10/2026 06:23 - 03:04",
         "BBC Events 08 - no_brand_title: BBC Weather Live - 30/10/2026 06:46 - 22:19"
       ],
@@ -1806,7 +1827,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Brisbane Heat vs Sydney Sixers",
         "Newport vs Chesterfield",
         "Adelaide Strikers vs Melbourne Stars",
         "Lincoln vs Birmingham",
