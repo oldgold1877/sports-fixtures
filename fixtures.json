@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T08:15:28.184407+00:00",
+  "scraped_at": "2026-10-30T12:00:56.623607+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -30,6 +30,47 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 05 - 00:00-02:00 - WWE Friday Night Smackdown 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 1:30pmONE Friday Fights 176 Khunsuk v YodUdon"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 8am ACA 209"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 4pm World Short Track Championship Charlotte"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 8:20pmZenith Racing Series Daytona"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 9:30pmIron Man Halloween Nationals PRP"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 6pm National 100 EAMS"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 10:20pmInaugural HalloweenFest Portsmouth"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 11:15pmTrophy Cup Tulare"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 11:30pmTrick R Treat Nationals Riverside"
             }
           ]
         }
@@ -91,7 +132,10 @@
         "EVENT 10 - 31-Oct 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD11 -FC Barcelona vs Deportivo Alavés[Live] [HK]",
         "EVENT 13 - 31-Oct 09:00PM-12:00AM - UFC Fight Night 2026 FN 27: Prelims: Moicano vs Nolan [SG]",
         "EVENT 04 - 31-Oct 11:00PM-01:00AM - USL Superleague '26 E9 -Carolina Ascent FC v Lexington[Live] [HK]",
-        "EVENT 01 - 01-Nov 12:00AM-03:00AM - UFC Fight Night 2026 FN 27: Moicano vs Nolan [SG]"
+        "EVENT 01 - 01-Nov 12:00AM-03:00AM - UFC Fight Night 2026 FN 27: Moicano vs Nolan [SG]",
+        "EVENT 05 - 01-Nov 11:23AM-01:30PM - Serie A 2026/27 E94 -Como 1907 vs Venezia[Live] [HK]",
+        "EVENT 06 - 01-Nov 11:50AM-01:55PM - Women's Super League 2026/27 E47 -London City Lionesses vs Man City[Live] [HK]",
+        "EVENT 07 - 01-Nov 11:55AM-02:00PM - Barclay's WSL '26/27 E23 -London City v Manchester City[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -671,7 +715,12 @@
           "time": "16:00",
           "name": "NAVY - NOTRE DAME",
           "datetime": "2026-10-31 16:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "FOOTBALL",
@@ -1330,10 +1379,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: King to Meet Business Leaders in Guyana - 30/10/2026 05:50 - 02:20",
         "BBC Events 02 - no_brand_title: Tributes Are Being Paid for Sir Patrick Stewart - 30/10/2026 07:17 - 02:03",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 30/10/2026 06:00 - 11:00",
         "BBC Events 04 - no_brand_title: Tradespeople Want Action on Tool Theft - 30/10/2026 06:18 - 02:23",
+        "BBC Events 05 - UEFA Women's Champions League: Manchester City v Paris Saint-Germain - 30/10/2026 11:00 - 13:28",
         "BBC Events 06 - no_brand_title: The Combat Sport Building Resilience in Elderly - 30/10/2026 06:23 - 03:04",
-        "BBC Events 07 - no_brand_title: Space walk Live ATVالمشي في الفضاء بالمحطة الدولية بث مباشر - 29/10/2026 11:42 - 11:41",
         "BBC Events 08 - no_brand_title: BBC Weather Live - 30/10/2026 06:46 - 22:19"
       ],
       "sections": [],
@@ -1641,7 +1689,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: RLWC: England v Papua New Guinea - 08:30 30/10/2026",
         "Sky Sport 5 - LIVE: PGA Champions Tour: R1 - 17:00 30/10/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Mexico P1 - 18:00 30/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico P1 - 18:00 30/10/2026",
@@ -1654,7 +1701,7 @@
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico P2 - 21:30 30/10/2026",
         "Sky Sport 4 - LIVE: Asia-Pacific Amateur Champs: R3 - 01:00 31/10/2026",
         "Sky Sport Select - LIVE: RLWC: Fiji v France - 02:00 31/10/2026",
-        "Sky Sport 6 - LIVE: AFLW: Richmond v North Melbourne - 02:00 31/10/2026",
+        "Sky Sport 6 - LIVE: AFLW: St Kilda v Port Adelaide - 02:00 31/10/2026",
         "Sky Sport 1 - LIVE: RLWC: Kiwis v Fiji - 03:30 31/10/2026",
         "Sky Sport 1 UHD - LIVE: RLWC: Kiwis v Fiji - 03:30 31/10/2026",
         "Sky Sport 5 - LIVE: RLWC Wheelchair: France v Scotland - 03:50 31/10/2026",
@@ -1669,7 +1716,7 @@
         "Sky Sport 1 - LIVE: RLWC: Kiwi Ferns v PNG - 06:30 31/10/2026",
         "Sky Sport 1 UHD - LIVE: RLWC: Kiwi Ferns v PNG - 06:30 31/10/2026",
         "Sky Sport 7 - LIVE: WXV: Japan v Wales - 06:45 31/10/2026",
-        "Sky Sport 9 - LIVE: AFLW: Brisbane v Carlton - 08:00 31/10/2026",
+        "Sky Sport 9 - LIVE: AFLW: West Coast v Hawthorn - 08:00 31/10/2026",
         "Sky Sport 6 - LIVE: WBBL: Scorchers v Renegades - 08:05 31/10/2026",
         "Sky Sport 3 - LIVE: ALM: Macarthur v Western Sydney - 08:15 31/10/2026",
         "Sky Sport 1 - LIVE: RLWC: Australia v Cook Islands - 08:55 31/10/2026",
@@ -1744,7 +1791,11 @@
         "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: England v USA - 07:20 03/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 1st ODI - 01:30 04/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st ODI - 01:30 04/11/2026",
-        "Sky Sport 2 - LIVE: WBBL: Hurricanes v Renegades - 08:05 04/11/2026"
+        "Sky Sport 2 - LIVE: WBBL: Hurricanes v Renegades - 08:05 04/11/2026",
+        "Sky Sport 2 - LIVE: WBBL: Strikers v Heat - 04:00 05/11/2026",
+        "Sky Sport 1 - LIVE: DP World Tour: Round 1 - 07:00 05/11/2026",
+        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 1 - 07:00 05/11/2026",
+        "Sky Sport 2 - LIVE: WBBL: Thunder v Scorchers - 08:10 05/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1787,7 +1838,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Oct. 29 - Fri 30/10 9:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Oct. 30 - Fri 30/10 1:00pm",
         "Sportsnet 02 : The Raptors Show: Oct. 30 - Fri 30/10 3:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Oct. 30 - Fri 30/10 4:00pm",
@@ -1811,7 +1861,8 @@
         "Sportsnet 04 : Bath Rugby vs. Sale Sharks - Sat 31/10 2:55pm",
         "Sportsnet 05 : Feyenoord vs. Fortuna Sittard - Sat 31/10 3:20pm",
         "Sportsnet 07 : Chicago @ Boston - Sat 31/10 5:00pm",
-        "Sportsnet 06 : St. Louis @ Detroit - Sat 31/10 5:00pm"
+        "Sportsnet 06 : St. Louis @ Detroit - Sat 31/10 5:00pm",
+        "Sportsnet 08 : Northampton Saints vs. Gloucester Rugby - Sat 31/10 5:20pm"
       ],
       "sections": [],
       "events": []
@@ -1822,7 +1873,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Guangzhou: Day 5 - WTA 250 - Fri 30/10 4:59am",
         "Stan 01 : Bristol v Leicester - PREM Rugby Round 5 2026/27 - Fri 30/10 7:41pm",
         "Stan 02 : USA v England - WXV 2026 - Fri 30/10 9:01pm",
         "Stan 03 : USA v Australia A - Men's International 2026 - Sat 31/10 12:01am",
