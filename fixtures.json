@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T18:00:53.471652+00:00",
+  "scraped_at": "2026-10-30T21:23:18.297752+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Friday 30 October 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 18:00-20:00 - Ligue 1: Le Havre vs PSG 1080p"
             },
             {
               "type": "fixture",
@@ -36,10 +32,6 @@
         {
           "section": "Live Events",
           "entries": [
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 1:30pmONE Friday Fights 176 Khunsuk v YodUdon"
-            },
             {
               "type": "fixture",
               "text": "LIVE EVENT 02 - 8am ACA 209"
@@ -87,10 +79,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 30-Oct 04:55PM-07:05PM - Super Lig 2026/27 -Konyaspor vs Galatasaray[Live] [HK]",
-        "EVENT 02 - 30-Oct 04:55PM-07:00PM - Super Lig 2026/27: Konyaspor vs Galatasaray [SG]",
-        "EVENT 04 - 30-Oct 05:20PM-07:25PM - Bundesliga 2 2026/27: Energie Cottbus vs Bochum [SG]",
-        "EVENT 06 - 30-Oct 05:55PM-08:00PM - Ligue 1 2026/27 E73 -Le Havre vs PSG[Live] [HK]",
         "EVENT 01 - 30-Oct 07:20PM-09:30PM - Bundesliga 2026/27 -Elversberg vs Mainz[Live] [HK]",
         "EVENT 02 - 30-Oct 07:25PM-09:30PM - Bundesliga 2026/27: Elversberg vs Mainz [SG]",
         "EVENT 03 - 30-Oct 07:55PM-10:00PM - LaLiga 2026/27: Villarreal vs Espanyol [SG]",
@@ -163,7 +151,11 @@
         "EVENT 13 - 01-Nov 04:25PM-06:35PM - Bundesliga 2026/27 -Frankfurt vs Hamburg[Live] [HK]",
         "EVENT 14 - 01-Nov 04:25PM-06:30PM - Bundesliga 2026/27: Frankfurt vs Hamburg [SG]",
         "EVENT 06 - 01-Nov 05:25PM-07:40PM - LaLiga 2026/27: Elche vs Valencia [SG]",
-        "EVENT 03 - 01-Nov 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD11 -Elche CF vs Valencia CF[Live] [HK]"
+        "EVENT 03 - 01-Nov 05:30PM-07:30PM - LALIGA EA SPORTS 2026/2027 MD11 -Elche CF vs Valencia CF[Live] [HK]",
+        "EVENT 07 - 01-Nov 07:38PM-09:45PM - Serie A 2026/27 -Juventus vs Napoli[Live] [HK]",
+        "EVENT 08 - 01-Nov 07:40PM-09:45PM - Ligue 1 2026/27 E81 -Marseille vs Toulouse[Live] [HK]",
+        "EVENT 09 - 01-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Real Sociedad [SG]",
+        "EVENT 10 - 01-Nov 08:00PM-10:00PM - LALIGA EA SPORTS 2026/2027 MD11 -Athletic Club vs Real Sociedad[Live] [HK]"
       ],
       "sections": [],
       "events": []
@@ -197,12 +189,7 @@
           "time": "23:00",
           "name": "DARTMOUTH - HARVARD",
           "datetime": "2026-10-30 23:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "FOOTBALL",
@@ -1337,7 +1324,7 @@
         {
           "sport": "TENNIS",
           "time": "14:00",
-          "name": "ERSTE BANK OPEN",
+          "name": "DANIIL MEDVEDEV - CARLOS ALCARAZ",
           "datetime": "2026-10-31 14:00:00",
           "channels": [
             {
@@ -1369,18 +1356,6 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
-        },
-        {
-          "sport": "WINTERSPORTS",
-          "time": "17:30",
-          "name": "SHORT TRACK WORLD TOUR",
-          "datetime": "2026-10-31 17:30:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
         }
       ]
     },
@@ -1388,26 +1363,8 @@
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
-      "status": "ok",
-      "fixtures": [
-        "Sky Sports Main Event UHD - Live: NFL Football - Carolina Panthers at Green Bay Packers - Thu 29/10 11:00pm",
-        "Sky Sports Main Event UHD - Live: Maybank Championship, LPGA Tour Golf - Day 2 - Fri 30/10 4:15am",
-        "Sky Sports Main Event UHD - Live: Test Cricket - 3rd Test, Day 4: South Africa v Australia - Fri 30/10 9:00am",
-        "Sky Sports Main Event UHD - Total Football - Episode 33 - Fri 30/10 4:30pm",
-        "Sky Sports Main Event UHD - The Premier League Show - Episode 144 - Fri 30/10 5:00pm",
-        "Sky Sports F1 UHD - Live: Formula 1 - Mexico City Grand Prix: 1st Practice - Fri 30/10 6:00pm",
-        "TNT Ultimate UHD - Live: PREM Rugby - Bristol Bears v Leicester Tigers - Fri 30/10 7:00pm",
-        "Sky Sports UHD 1 - Live: EFL Championship - Sheffield United v Wrexham - Fri 30/10 7:30pm",
-        "Sky Sports F1 UHD - The F1 Show - Mexico City - Fri 30/10 8:00pm",
-        "Sky Sports F1 UHD - F1 Academy - United States: Weekend Wrapped - Fri 30/10 11:30pm",
-        "Sky Sports F1 UHD - Formula 1 - Mexico City Grand Prix: 2nd Practice - Sat 31/10 1:00am",
-        "TNT Ultimate UHD - Live: Premier League - Chelsea v Manchester United - Sat 31/10 11:00am",
-        "Sky Sports UHD 1 - Live: WSL - Everton v Manchester United - Sat 31/10 12:30pm",
-        "Sky Sports Main Event UHD - Soccer Saturday - Sat 31/10 3:00pm",
-        "Sky Sports UHD 1 - Live: Saturday Night Football - Tottenham Hotspur v Crystal Palace - Sat 31/10 5:00pm",
-        "Sky Sports Main Event UHD - The Sky Sports Catch-Up - Sat 31/10 10:30pm",
-        "Sky Sports F1 UHD - Ted's Notebook - Mexico City Grand Prix: Qualifying - Sat 31/10 11:00pm"
-      ],
+      "status": "timeout",
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -1419,12 +1376,15 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: King to Meet Business Leaders in Guyana - 30/10/2026 05:50 - 02:20",
         "BBC Events 02 - no_brand_title: Tributes Are Being Paid for Sir Patrick Stewart - 30/10/2026 07:17 - 02:03",
-        "BBC Events 03 - UEFA Women's Champions League: Manchester City v Paris Saint-Germain - 30/10/2026 17:59 - 20:28",
         "BBC Events 04 - no_brand_title: Tradespeople Want Action on Tool Theft - 30/10/2026 06:18 - 02:23",
-        "BBC Events 05 - no_brand_title: Watch BBC Radio Lancashire Pre-Match show previewing weekend action - 30/10/2026 17:47 - 20:10",
         "BBC Events 06 - no_brand_title: The Combat Sport Building Resilience in Elderly - 30/10/2026 06:23 - 03:04",
+        "BBC Events 07 - Irish League Football Live: Coleraine v Glentoran - 30/10/2026 18:33 - 23:00",
         "BBC Events 08 - no_brand_title: BBC Weather Live - 30/10/2026 06:46 - 22:19",
-        "BBC Events 09 - no_brand_title: West Midlands Football Phone-In - 30/10/2026 - 30/10/2026 17:47 - 19:00"
+        "BBC Events 09 - Autumnwatch: Autumn Calm - 30/10/2026 20:30 - 00:00",
+        "BBC Events 11 - no_brand_title: Super Rygbi Cymru: Cwins Caerfyrddin v Casnewydd - 30/10/2026 18:44 - 21:35",
+        "BBC Events 12 - no_brand_title: Super Rygbi Cymru: Carmarthen Quins v Newport - 30/10/2026 18:45 - 21:35",
+        "BBC Events 13 - Bundesliga: Elversberg v Mainz 05 - 30/10/2026 19:02 - 21:30",
+        "BBC Events 14 - Women's Rugby Union: WXV Global Series: USA v England - 30/10/2026 20:46 - 23:15"
       ],
       "sections": [],
       "events": []
@@ -1615,7 +1575,7 @@
       "fixtures": [
         "Paramount+ Event 01 - 19:20 - English Football League: Sheffield United vs. Wrexham",
         "Paramount+ Event 02 - 20:35 - World Rugby: USA Eagles vs. England",
-        "Paramount+ Event 03 - 21:30 - Ufc: UFC Fight Night Preview Show: Moicano vs. Nolan",
+        "Paramount+ Event 03 - 21:30 - UFC Fight Night: UFC Fight Night Preview Show: Moicano vs. Nolan",
         "Paramount+ Event 04 - 23:20 - World Rugby: USA Eagles vs. Australia",
         "Paramount+ Event 01 - 05:30 - World Rugby: New Zealand vs. France",
         "Paramount+ Event 02 - 11:50 - English Football League: Stoke City vs. Preston North End",
@@ -1731,11 +1691,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: PREM: Bears v Tigers - 19:40 30/10/2026",
-        "Sky Sport 3 - LIVE: PGA Tour: Round 2 - 20:00 30/10/2026",
-        "Sky Sport 1 - LIVE: The F1 Show: Mexican Grand  Prix - 20:00 30/10/2026",
-        "Sky Sport 1 UHD - LIVE: The F1 Show: Mexican Grand  Prix - 20:00 30/10/2026",
-        "Sky Sport 2 - LIVE: WXV: USA v England - 21:00 30/10/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Mexico P2 - 21:30 30/10/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico P2 - 21:30 30/10/2026",
         "Sky Sport 4 - LIVE: Asia-Pacific Amateur Champs: R3 - 01:00 31/10/2026",
@@ -1845,7 +1800,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Newport vs Chesterfield",
+        "Sky Sports+ 1 | Newport vs Chesterfield",
         "Adelaide Strikers vs Melbourne Stars",
         "Lincoln vs Birmingham",
         "Birmingham vs Millwall",
@@ -1876,8 +1831,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Frankly Hockey: Oct. 30 - Fri 30/10 6:00pm",
-        "Sportsnet 02 : Blair & Barker: Oct. 30 - Fri 30/10 7:00pm",
         "Sportsnet 05 : Bristol Bears vs. Leicester Tigers - Fri 30/10 7:35pm",
         "Sportsnet 04 : Glasgow Warriors vs. Lions - Fri 30/10 7:35pm",
         "Sportsnet 06 : Real Kyper & Bourne: Oct. 30 - Fri 30/10 8:00pm",
@@ -1897,7 +1850,10 @@
         "Sportsnet 05 : Feyenoord vs. Fortuna Sittard - Sat 31/10 3:20pm",
         "Sportsnet 07 : Chicago @ Boston - Sat 31/10 5:00pm",
         "Sportsnet 06 : St. Louis @ Detroit - Sat 31/10 5:00pm",
-        "Sportsnet 08 : Northampton Saints vs. Gloucester Rugby - Sat 31/10 5:20pm"
+        "Sportsnet 08 : Northampton Saints vs. Gloucester Rugby - Sat 31/10 5:20pm",
+        "Sportsnet 09 : PSV Eindhoven v Willem II - Sat 31/10 5:35pm",
+        "Sportsnet 10 : sc Heerenveen vs. NEC - Sat 31/10 5:35pm",
+        "Sportsnet 11 : Edmonton @ New York Islanders - Sat 31/10 6:00pm"
       ],
       "sections": [],
       "events": []
@@ -1989,16 +1945,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 01 : ATP 500 Tennis: Vienna - Quarterfinals - Fri 30/10 12:30pm",
-        "TSN 03 : Pat McAfee Show - Fri 30/10 4:00pm",
-        "TSN 02 : Rich Eisen Show - Fri 30/10 4:00pm",
-        "TSN 06 : Formula 1 Driver Tracker - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 04 : Formula 1 Mixed On-Board Camera - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 07 : Formula 1 On-Board Camera: Kimi Antonelli - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 08 : Formula 1 On-Board Camera: Lance Stroll - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 09 : Formula 1 On-Board Camera: Max Verstappen - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 05 : Formula 1 Pit Lane - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 10 : Formula 1 Timing Channel - Mexico City Grand Prix Practice #1 - Fri 30/10 6:20pm",
-        "TSN 11 : 2026 NASCAR ORAP Series Practice & Qualifying: National Debt Relief 250 - Fri 30/10 7:00pm",
         "TSN 12 : LaLiga: Villarreal vs. Espanyol - Fri 30/10 7:48pm",
         "TSN 14 : Formula 1 Driver Tracker - Mexico City Grand Prix Practice #2 - Fri 30/10 9:50pm",
         "TSN 16 : Formula 1 Mixed On-Board Camera - Mexico City Grand Prix Practice #2 - Fri 30/10 9:50pm",
