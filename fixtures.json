@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-01T16:59:12.690635+00:00",
+  "scraped_at": "2026-11-01T18:00:50.401427+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 1 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 15:15-17:15 - La Liga: Racing Santander vs Real Madrid 1080p"
             },
             {
               "type": "fixture",
@@ -54,18 +50,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 01-Nov 03:07PM-05:15PM - LaLiga 2 2026/27: AD Ceuta vs Sporting Gijon [SG]",
-        "EVENT 02 - 01-Nov 03:10PM-05:20PM - LaLiga 2026/27: Racing de Santander vs Real Madrid [SG]",
-        "EVENT 03 - 01-Nov 04:20PM-06:30PM - Liverpool v Arsenal (MW09) [SG]",
-        "EVENT 04 - 01-Nov 04:25PM-06:30PM - Bundesliga 2026/27: Frankfurt vs Hamburg [SG]",
-        "EVENT 05 - 01-Nov 05:25PM-07:40PM - LaLiga 2026/27: Elche vs Valencia [SG]",
-        "EVENT 04 - 01-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Real Sociedad [SG]",
+        "EVENT 01 - 01-Nov 04:20PM-06:30PM - Liverpool v Arsenal (MW09) [SG]",
+        "EVENT 02 - 01-Nov 04:25PM-06:30PM - Bundesliga 2026/27: Frankfurt vs Hamburg [SG]",
+        "EVENT 03 - 01-Nov 05:25PM-07:40PM - LaLiga 2026/27: Elche vs Valencia [SG]",
+        "EVENT 03 - 01-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Real Sociedad [SG]",
         "EVENT 04 - 02-Nov 03:07PM-05:20PM - LaLiga 2 2026/27: Real Oviedo vs Las Palmas [SG]",
         "EVENT 02 - 02-Nov 07:50PM-10:00PM - Newcastle United v Everton (MW09) [SG]",
         "EVENT 03 - 02-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Mallorca vs Cadiz [SG]",
         "EVENT 04 - 02-Nov 07:55PM-10:00PM - LaLiga 2026/27: Deportivo vs Osasuna [SG]",
         "EVENT 01 - 03-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Man United vs Roma - MD4 [SG]",
-        "EVENT 02 - 03-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Atletico Madrid vs Bayern - MD4 [SG]"
+        "EVENT 02 - 03-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Atletico Madrid vs Bayern - MD4 [SG]",
+        "EVENT 02 - 03-Nov 05:40PM-07:55PM - Shakhtar vs Sporting - MD4 UEFA Champions League 2026/27 [SG]",
+        "EVENT 04 - 03-Nov 05:40PM-07:45PM - UEFA Champions League 2026/27: Galatasaray vs Stuttgart - MD4 [SG]"
       ],
       "sections": [],
       "events": []
@@ -790,12 +786,197 @@
     },
     {
       "name": "TOMORROWS EVENTS",
-      "type": "plain",
+      "type": "events",
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
       "sections": [],
-      "events": []
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "MONTRéAL ROSES - VANCOUVER RISE",
+          "datetime": "2026-11-02 00:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:20",
+          "name": "WASHINGTON COMMANDERS - PHILADELPHIA EAGLES",
+          "datetime": "2026-11-02 01:20:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:45",
+          "name": "PORTLAND TIMBERS - HOUSTON DYNAMO",
+          "datetime": "2026-11-02 02:45:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:00",
+          "name": "NEWCASTLE UNITED - EVERTON",
+          "datetime": "2026-11-02 20:00:00",
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "17:00",
+          "name": "SOUTH CAROLINA - MARYLAND",
+          "datetime": "2026-11-02 17:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:00",
+          "name": "FLORIDA - MIAMI",
+          "datetime": "2026-11-02 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:00",
+          "name": "MICHIGAN - OAKLAND",
+          "datetime": "2026-11-02 23:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:30",
+          "name": "DUKE - ARMY",
+          "datetime": "2026-11-02 23:30:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:30",
+          "name": "OHIO STATE - MICHIGAN",
+          "datetime": "2026-11-02 00:30:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "01:00",
+          "name": "ANAHEIM DUCKS - OTTAWA SENATORS",
+          "datetime": "2026-11-02 01:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "06:00",
+          "name": "HONG KONG TENNIS OPEN",
+          "datetime": "2026-11-02 06:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "09:30",
+          "name": "CHENNAI OPEN",
+          "datetime": "2026-11-02 09:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:00",
+          "name": "PARIS MASTERS",
+          "datetime": "2026-11-02 10:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "11:00",
+          "name": "CHENNAI OPEN",
+          "datetime": "2026-11-02 11:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "UHD EVENTS",
@@ -826,9 +1007,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Curling: European Curling Championships: Men's Final - 01/11/2026 12:44 - 17:00",
+        "BBC Events 01 - Autumnwatch: Autumn Calm - 01/11/2026 18:00 - 19:07",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 01/11/2026 06:28 - 20:30",
-        "BBC Events 04 - Autumnwatch: Autumn Calm - 01/11/2026 12:00 - 18:00",
         "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 01/11/202 عالم الظهيرة - 01/11/2026 11:36 - 11:35"
       ],
       "sections": [],
@@ -1023,20 +1203,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 10:50 - Serie A: Como vs. Venezia",
-        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: London City vs. Man. City",
-        "Paramount+ Event 03 - 11:20 - Barclays Women's Super League: Arsenal vs. Aston Villa",
-        "Paramount+ Event 04 - 13:20 - Serie A: Frosinone vs. Torino",
-        "Paramount+ Event 05 - 13:20 - Serie A: Lazio vs. Cagliari",
-        "Paramount+ Event 06 - 13:20 - English Football League: Sheffield Wednesday vs. Blackpool",
-        "Paramount+ Event 07 - 13:20 - Barclays Women's Super League: West Ham United vs. Liverpool",
-        "Paramount+ Event 08 - 13:20 - Barclays Women's Super League: Brighton vs. Crystal Palace",
-        "Paramount+ Event 09 - 13:20 - Barclays Women's Super League: Birmingham City vs. Tottenham",
-        "Paramount+ Event 10 - 13:25 - Scottish Professional Football League: Falkirk vs. Celtic",
-        "Paramount+ Event 11 - 13:30 - Barclays Women's Super League: Charlton Athletic vs. Chelsea",
-        "Paramount+ Event 12 - 14:25 - Scottish Professional Football League: Heart of Midlothian vs. Hibernian",
-        "Paramount+ Event 13 - 16:20 - Serie A: Lecce vs. Genoa",
-        "Paramount+ Event 14 - 18:30 - Serie A: Juventus vs. Napoli",
+        "Paramount+ Event 01 - 11:20 - Barclays Women's Super League: London City vs. Man. City",
+        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Arsenal vs. Aston Villa",
+        "Paramount+ Event 03 - 13:20 - Serie A: Frosinone vs. Torino",
+        "Paramount+ Event 04 - 13:20 - Serie A: Lazio vs. Cagliari",
+        "Paramount+ Event 05 - 13:20 - English Football League: Sheffield Wednesday vs. Blackpool",
+        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: West Ham United vs. Liverpool",
+        "Paramount+ Event 07 - 13:20 - Barclays Women's Super League: Brighton vs. Crystal Palace",
+        "Paramount+ Event 08 - 13:20 - Barclays Women's Super League: Birmingham City vs. Tottenham",
+        "Paramount+ Event 09 - 13:25 - Scottish Professional Football League: Falkirk vs. Celtic",
+        "Paramount+ Event 10 - 13:30 - Barclays Women's Super League: Charlton Athletic vs. Chelsea",
+        "Paramount+ Event 11 - 14:25 - Scottish Professional Football League: Heart of Midlothian vs. Hibernian",
+        "Paramount+ Event 12 - 16:20 - Serie A: Lecce vs. Genoa",
+        "Paramount+ Event 13 - 18:30 - Serie A: Juventus vs. Napoli",
         "Paramount+ Event 01 - 16:50 - Serie A: Sassuolo vs. Fiorentina",
         "Paramount+ Event 02 - 19:05 - Serie A: Atalanta vs. Parma",
         "Paramount+ Event 01 - 16:30 - Uefa Champions League: Shakhtar Donetsk vs. Sporting CP",
@@ -1105,7 +1284,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: UCI BMX Racing World Cup: Rd10 - 18:00 01/11/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Mexico Pre Race - 18:30 01/11/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Mexico Pre Race - 18:30 01/11/2026",
         "Sky Sport 1 - LIVE:FIA Formula 1: Mexico Grand Prix - 19:55 01/11/2026",
@@ -1215,7 +1393,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 06 : Charlton Athletic v Chelsea - Sun 01/11 2:20pm",
         "Sportsnet 02 : Winnipeg @ Carolina - Sun 01/11 6:00pm",
         "Sportsnet 01 : Minnesota @ Washington - Sun 01/11 8:30pm",
         "Sportsnet 03 : Utah @ Philadelphia - Sun 01/11 9:00pm",
@@ -1247,10 +1424,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 06 : West Ham United v Liverpool - WSL 2026/27 - Sun 01/11 1:50pm",
-        "Stan 02 : Birmingham City v Tottenham Hotspur - WSL 2026/27 - Sun 01/11 1:50pm",
-        "Stan 05 : Brighton & Hove Albion v Crystal Palace - WSL 2026/27 - Sun 01/11 1:50pm",
-        "Stan 07 : Charlton Athletic v Chelsea - WSL 2026/27 - Sun 01/11 2:21pm",
         "Stan 04 : Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 3:31pm",
         "Stan 08 : 4K • Liverpool v Arsenal - Premier League Matchweek 9 2026/2027 - Sun 01/11 4:21pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 9 - Nov 2 - Sun 01/11 7:01pm",
@@ -1324,7 +1497,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : NFL Fantasy Focus - Sun 01/11 4:30pm",
         "TSN 08 : LaLiga: Elche vs. Valencia - Sun 01/11 5:18pm",
         "TSN 09 : 2026 FIFA U-17 Women's World Cup: Quarterfinal - China PR vs. Brazil - Sun 01/11 5:48pm",
         "TSN 02 : 2026 FIFA U-17 Women's World Cup: Quarterfinal - Nigeria vs. Venezuela - Sun 01/11 5:48pm",
