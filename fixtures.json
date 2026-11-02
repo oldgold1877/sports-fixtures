@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02T12:01:01.039238+00:00",
+  "scraped_at": "2026-11-02T16:44:21.604537+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,38 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Monday 2 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Newcastle United vs Everton 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Newcastle United vs Everton 720p"
+            },
+            {
+              "type": "date",
+              "text": "Tuesday 3 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 01:00-04:00 - WWE Monday Night RAW 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:15-04:30 - NFL: Chicago Bears at Seattle Seahawks 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Chicago Bears at Seattle Seahawks 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 - World Snooker - International Championship 2026 - Stream 1"
@@ -47,7 +79,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 04 - 02-Nov 03:07PM-05:20PM - LaLiga 2 2026/27: Real Oviedo vs Las Palmas [SG]",
+        "EVENT 02 - 02-Nov 03:07PM-05:20PM - LaLiga 2 2026/27: Real Oviedo vs Las Palmas [SG]",
         "EVENT 02 - 02-Nov 07:50PM-10:00PM - Newcastle United v Everton (MW09) [SG]",
         "EVENT 03 - 02-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Mallorca vs Cadiz [SG]",
         "EVENT 04 - 02-Nov 07:55PM-10:00PM - LaLiga 2026/27: Deportivo vs Osasuna [SG]",
@@ -59,7 +91,10 @@
         "EVENT 03 - 03-Nov 07:55PM-10:00PM - Man United vs Roma - MD4 UEFA Champions League 2026/27 [SG]",
         "EVENT 05 - 03-Nov 07:55PM-10:00PM - Villarreal vs PSG - MD4 UEFA Champions League 2026/27 [SG]",
         "EVENT 01 - 04-Nov 10:30AM-12:30PM - East Asia Super League 2026/27 Ryukyu Golden Kings vs HK Eastern [SG]",
-        "EVENT 02 - 04-Nov 11:00AM-01:00PM - East Asia Super League 2026/27 TSG Ghosthawks vs Alvark Tokyo - TSG Ghosthawks vs Alvark Tokyo [SG]"
+        "EVENT 02 - 04-Nov 11:00AM-01:00PM - East Asia Super League 2026/27 TSG Ghosthawks vs Alvark Tokyo - TSG Ghosthawks vs Alvark Tokyo [SG]",
+        "EVENT 01 - 04-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Lens vs Como 1907 - MD4 [SG]",
+        "EVENT 03 - 04-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Dortmund vs Real Betis - MD4 [SG]",
+        "EVENT 01 - 04-Nov 03:25PM-05:30PM - Rennes vs Olympiacos - MD4 UEFA Europa League 2026/27 [SG]"
       ],
       "sections": [],
       "events": []
@@ -284,10 +319,6 @@
           "name": "SEATTLE SEAHAWKS - CHICAGO BEARS",
           "datetime": "2026-11-03 01:15:00",
           "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            },
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
@@ -549,9 +580,12 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 02/11/2026 07:06 - 20:22",
+        "BBC Events 02 - no_brand_title: Changes Expected to Immigration Rules - 02/11/2026 15:19 - 17:30",
         "BBC Events 03 - no_brand_title: Home Secretary To Revise Rules for Legal Migration - 02/11/2026 06:26 - 02:30",
         "BBC Events 04 - no_brand_title: Russia and Ukraine say Emergency Alert Apps Hit by Apparent Cyber-Attacks - 02/11/2026 06:28 - 01:55",
-        "BBC Events 07 - Women's Super League: Charlton Athletic v Chelsea - 02/11/2026 11:00 - 13:19"
+        "BBC Events 05 - Autumnwatch: Autumn Calm - 02/11/2026 13:20 - 18:00",
+        "BBC Events 06 - no_brand_title: Karl Bushby Homecoming - 02/11/2026 12:59 - 22:00",
+        "BBC Events 07 - no_brand_title: Defence Secretary Discusses Military Ties with Germany - 02/11/2026 15:58 - 17:15"
       ],
       "sections": [],
       "events": []
@@ -799,7 +833,12 @@
       "status": "ok",
       "fixtures": [
         "FloSports 01 - FloRugby: England vs Argentina - Mens - 06 Nov 19:45 UK / 14:45 ET / 11:45 PT",
-        "FloSports 02 - FloCollege: Davenport vs Arkansas State - 06 Nov 22:00 UK / 17:00 ET / 14:00 PT"
+        "FloSports 02 - FloCollege: Davenport vs Arkansas State - 06 Nov 22:00 UK / 17:00 ET / 14:00 PT",
+        "FloSports 01 - French Top 14: Toulouse vs Clermont - 07 Nov 13:30 UK / 08:30 ET / 05:30 PT",
+        "FloSports 02 - French Top 14: Racing 92 vs Castres - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 03 - French Top 14: Stade Francais vs Toulon - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 04 - French Top 14: Lyon vs Montpellier - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 05 - French Top 14: Perpignan vs Pau - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT"
       ],
       "sections": [],
       "events": []
@@ -848,17 +887,19 @@
         "Sky Sport 2 - LIVE: The F1 Show: Brazilian Grand Prix - 20:15 06/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd ODI - 01:30 07/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd ODI - 01:30 07/11/2026",
-        "Sky Sport 6 - LIVE: AFLW: Qualifying Final 1 - 02:00 07/11/2026",
+        "Sky Sport 6 - LIVE: AFLW: QF1: Cats v Melbourne - 02:00 07/11/2026",
         "Sky Sport 2 - LIVE: ALM: Auckland FC v Phoenix - 03:00 07/11/2026",
         "Sky Sport Select - LIVE: ALW: Newcastle Jets v Mariners - 03:55 07/11/2026",
         "Sky Sport 6 - LIVE: WBBL: Renegades v Strikers - 04:00 07/11/2026",
-        "Sky Sport 5 - LIVE: AFLW: Qualifying Final 2 - 05:00 07/11/2026",
+        "Sky Sport 5 - LIVE: AFLW: QF2: North Melb v Carlton - 05:00 07/11/2026",
         "Sky Sport 7 - LIVE: ALW: Brisbane Roar v Melb Victory - 05:55 07/11/2026",
-        "Sky Sport 2 - LIVE: RLWC: Semi-Final 1 - 06:25 07/11/2026",
+        "Sky Sport 2 - LIVE: RLWC SF1: Kiwi Ferns v Samoa - 06:25 07/11/2026",
         "Sky Sport 5 - LIVE: DP World Tour: Round 3 - 07:00 07/11/2026",
+        "Sky Sport 3 - LIVE: RLWC: Kiwi Ferns V Samoa (Te Reo) - 07:00 07/11/2026",
         "Sky Sport 7 - LIVE: ALW: Perth Glory v Canberra Utd - 07:55 07/11/2026",
         "Sky Sport 4 - LIVE: ALM: Melbourne City v Wanderers - 08:00 07/11/2026",
         "Sky Sport 6 - LIVE: WBBL: Heat v Hurricanes - 08:10 07/11/2026",
+        "Sky Sport 3 - LIVE: RLWC SF1: Kiwis V Tonga (Te Reo) - 09:00 07/11/2026",
         "Sky Sport 2 - LIVE: RLWC SF1: Kiwis v Tonga - 09:00 07/11/2026",
         "Sky Sport 7 - LIVE: ALM: Perth Glory v Newcastle Jets - 10:40 07/11/2026",
         "Sky Sport 2 - LIVE: NC: Italy v South Africa - 11:30 07/11/2026",
@@ -869,23 +910,42 @@
         "Sky Sport 1 UHD - LIVE: NC: Scotland v All Blacks - 13:15 07/11/2026",
         "Sky Sport 3 - LIVE: NC: Georgia v Canada - 13:50 07/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Brazil P3 - 14:15 07/11/2026",
-        "Sky Sport 7 - LIVE: PL: Fulham v Newcastle - 14:50 07/11/2026",
-        "Sky Sport 6 - LIVE: NC: Portugal v Chile - 14:50 07/11/2026",
         "Sky Sport 4 - LIVE: NC: Zimbabwe v Samoa - 14:50 07/11/2026",
         "Sky Sport 5 - LIVE: NC: Spain v Uruguay - 14:50 07/11/2026",
-        "Sky Sport 3 - LIVE: NC: Wales v Japan - 16:30 07/11/2026",
+        "Sky Sport 7 - LIVE: PL: Fulham v Newcastle - 14:50 07/11/2026",
+        "Sky Sport 6 - LIVE: NC: Portugal v Chile - 14:50 07/11/2026",
         "Sky Sport Select - LIVE: Zuffa Boxing 12 - 16:30 07/11/2026",
+        "Sky Sport 3 - LIVE: NC: Wales v Japan - 16:30 07/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Brazil Qual - 17:00 07/11/2026",
         "Sky Sport 5 - LIVE: PGA Tour: Round 3 - 19:00 07/11/2026",
-        "Sky Sport 2 - LIVE: Ted's Notebook: Brazil Quali - 20:00 07/11/2026",
         "Sky Sport 1 - LIVE: NC: France v Fiji - 20:00 07/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: France v Fiji - 20:00 07/11/2026",
+        "Sky Sport 2 - LIVE: Ted's Notebook: Brazil Quali - 20:00 07/11/2026",
         "Sky Sport 1 - LIVE: Rapid League: Whai v Queens - 01:00 08/11/2026",
         "Sky Sport 1 UHD - LIVE: Rapid League: Whai v Queens - 01:00 08/11/2026",
+        "Sky Sport 1 - LIVE: Tauihi: Whai v Queens - 02:00 08/11/2026",
+        "Sky Sport 1 UHD - LIVE: Tauihi: Whai v Queens - 02:00 08/11/2026",
         "Sky Sport 7 - LIVE: AFLW: Elimination Final 1 - 02:00 08/11/2026",
         "Sky Sport 6 - LIVE: WBBL: Sixers v Thunder - 02:00 08/11/2026",
-        "Sky Sport 1 - LIVE: Tauihi: Whai v Queens - 02:00 08/11/2026",
-        "Sky Sport 1 UHD - LIVE: Tauihi: Whai v Queens - 02:00 08/11/2026"
+        "Sky Sport 5 - LIVE: AFLW: EF2: Suns v Hawthorn - 04:00 08/11/2026",
+        "Sky Sport 7 - LIVE: ALM: Macarthur v Brisbane Roar - 04:00 08/11/2026",
+        "Sky Sport 3 - LIVE: Tauihi: Hoiho v Pouakai - 04:00 08/11/2026",
+        "Sky Sport 3 - LIVE: Tauihi: Hoiho v Pouakai - 05:00 08/11/2026",
+        "Sky Sport 5 - LIVE: ALM: Adelaide v Melbourne Victory - 05:55 08/11/2026",
+        "Sky Sport 1 - LIVE: RLWC SF2: Australia v Fiji - 06:00 08/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC SF2: Australia v Fiji - 06:00 08/11/2026",
+        "Sky Sport 6 - LIVE: WBBL: Scorchers v Stars - 06:10 08/11/2026",
+        "Sky Sport 4 - LIVE: DP World Tour: Round 4 - 06:30 08/11/2026",
+        "Sky Sport 7 - LIVE: AFLW: Elimination Final 2 - 06:30 08/11/2026",
+        "Sky Sport 1 - LIVE: RLWC SF2: Australia v Samoa - 09:00 08/11/2026",
+        "Sky Sport 1 UHD - LIVE: RLWC SF2: Australia v Samoa - 09:00 08/11/2026",
+        "Sky Sport 4 - LIVE: WSL: Tottenham v Brighton - 13:50 08/11/2026",
+        "Sky Sport 5 - LIVE: WSL: Crystal Palace v Charlton - 13:50 08/11/2026",
+        "Sky Sport Select - LIVE: PL: Brighton v Brentford - 13:50 08/11/2026",
+        "Sky Sport 9 - LIVE: PL: Ipswich Town v Bournemouth - 13:50 08/11/2026",
+        "Sky Sport 7 - LIVE: PL: Sunderland v Chelsea - 13:50 08/11/2026",
+        "Sky Sport 6 - LIVE: PL: Crystal Palace v Liverpool - 13:50 08/11/2026",
+        "Sky Sport 2 - LIVE: NC: England v Australia - 14:30 08/11/2026"
       ],
       "sections": [],
       "events": []
@@ -936,7 +996,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 2 - Mon 02/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 2 - Mon 02/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 2 - Mon 02/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 2 - Mon 02/11 7:00pm",
@@ -959,7 +1018,8 @@
         "Sportsnet 05 : GSOC Masters - Draw 3 - Tue 03/11 9:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 3 - Tue 03/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 3 - Tue 03/11 11:00pm",
-        "Sportsnet 03 : Colorado @ Columbus - Wed 04/11 12:00am"
+        "Sportsnet 03 : Colorado @ Columbus - Wed 04/11 12:00am",
+        "Sportsnet 04 : Dallas @ Washington - Wed 04/11 12:00am"
       ],
       "sections": [],
       "events": []
