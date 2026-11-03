@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-03T12:00:54.572038+00:00",
+  "scraped_at": "2026-11-03T14:47:42.547997+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -43,6 +43,38 @@
             {
               "type": "fixture",
               "text": "UEFA | 02 - Shakhtar vs Sporting 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - UCL GOALS SHOW 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Atletico Madrid vs Bayern Munich 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Barcelona vs Aston Villa 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Bodo/Glimt vs Lille 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Feyenoord vs inter Milan 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Lask vs Slovan Bratislava 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Manchester United vs Roma 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 10 - Villareal vs PSG 1:00am"
             }
           ]
         }
@@ -56,11 +88,11 @@
       "status": "ok",
       "fixtures": [
         "EVENT 01 - 03-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Man United vs Roma - MD4 [SG]",
-        "EVENT 02 - 03-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Atletico Madrid vs Bayern - MD4 [SG]",
-        "EVENT 02 - 03-Nov 05:40PM-07:55PM - Shakhtar vs Sporting - MD4 UEFA Champions League 2026/27 [SG]",
+        "EVENT 03 - 03-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Atletico Madrid vs Bayern - MD4 [SG]",
+        "EVENT 03 - 03-Nov 05:40PM-07:55PM - Shakhtar vs Sporting - MD4 UEFA Champions League 2026/27 [SG]",
         "EVENT 04 - 03-Nov 05:40PM-07:45PM - UEFA Champions League 2026/27: Galatasaray vs Stuttgart - MD4 [SG]",
         "EVENT 01 - 03-Nov 07:55PM-10:00PM - Atletico Madrid vs Bayern - MD4 UEFA Champions League 2026/27 [SG]",
-        "EVENT 03 - 03-Nov 07:55PM-10:00PM - Man United vs Roma - MD4 UEFA Champions League 2026/27 [SG]",
+        "EVENT 02 - 03-Nov 07:55PM-10:00PM - Man United vs Roma - MD4 UEFA Champions League 2026/27 [SG]",
         "EVENT 05 - 03-Nov 07:55PM-10:00PM - Villarreal vs PSG - MD4 UEFA Champions League 2026/27 [SG]",
         "EVENT 01 - 04-Nov 10:30AM-12:30PM - East Asia Super League 2026/27 Ryukyu Golden Kings vs HK Eastern [SG]",
         "EVENT 02 - 04-Nov 11:00AM-01:00PM - East Asia Super League 2026/27 TSG Ghosthawks vs Alvark Tokyo - TSG Ghosthawks vs Alvark Tokyo [SG]",
@@ -352,6 +384,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "18:00",
+          "name": "C. NORRIE - B. SHELTON",
+          "datetime": "2026-11-03 18:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "19:30",
           "name": "C. RUUD - R. JODAR",
           "datetime": "2026-11-03 19:30:00",
@@ -566,7 +610,7 @@
       "fixtures": [
         "Sky Sports Main Event UHD - Live: NBA Basketball - Oklahoma City Thunder at Cleveland Cavaliers - Mon 02/11 11:30pm",
         "Sky Sports Main Event UHD - Live: NFL Football - Chicago Bears at Seattle Seahawks - Tue 03/11 1:00am",
-        "Sky Sports Main Event UHD - Live Tennis: ATP Paris Masters 2026 - Day 2 - Tue 03/11 10:00am",
+        "Sky Sports Main Event UHD - Live Tennis: ATP Paris Masters 2026 - Day 2 - Tue 03/11 12:00pm",
         "Sky Sports UHD 1 - Live: EFL Championship - West Bromwich Albion v Southampton - Tue 03/11 7:30pm",
         "Sky Sports Main Event UHD - Paper Talk - Tue 03/11 10:30pm"
       ],
@@ -579,12 +623,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Politics Scotland: Politics Scotland: First Minister's Questions - 03/11/2026 14:20 - 15:05",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 03/11/2026 07:01 - 04:20",
         "BBC Events 03 - no_brand_title: King to Deliver Speech on Slave Trade - 03/11/2026 05:46 - 02:59",
-        "BBC Events 04 - no_brand_title: Unprecedented Rise in Cyber Attacks - 03/11/2026 10:35 - 12:15",
+        "BBC Events 04 - no_brand_title: Welsh First Minister's Questions - 03/11/2026 13:21 - 15:00",
         "BBC Events 05 - no_brand_title: Millions Voting in US Midterm Elections - 03/11/2026 09:58 - 09:50",
         "BBC Events 06 - no_brand_title: MI5 Avoids Contempt of Court Case - 03/11/2026 10:49 - 10:23",
-        "BBC Events 07 - Autumnwatch: Autumn Calm - 03/11/2026 12:00 - 18:00"
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 03/11/2026 12:00 - 18:00",
+        "BBC Events 09 - no_brand_title: Cwestiynau i'r Prif Weinidog - 03/11/2026 13:21 - 15:00",
+        "BBC Events 10 - no_brand_title: King to Address Slavery in Commonwealth Speech - 03/11/2026 13:00 - 16:00"
       ],
       "sections": [],
       "events": []
@@ -878,7 +925,8 @@
         "FloSports 02 - French Top 14: Racing 92 vs Castres - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 03 - French Top 14: Stade Francais vs Toulon - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 04 - French Top 14: Lyon vs Montpellier - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
-        "FloSports 05 - French Top 14: Perpignan vs Pau - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT"
+        "FloSports 05 - French Top 14: Perpignan vs Pau - 07 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 01 - French Top 14: RC Vannes vs Bordeaux-Begles - 08 Nov 14:00 UK / 09:00 ET / 06:00 PT"
       ],
       "sections": [],
       "events": []
@@ -1050,7 +1098,8 @@
         "Sportsnet 02 : Anaheim @ Vancouver - Wed 04/11 2:00am",
         "Sportsnet 01 : Sportsnet Central: Nov. 3 - Wed 04/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 4 - Wed 04/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 4 - Wed 04/11 4:00pm"
+        "Sportsnet 02 : The Raptors Show: Nov. 4 - Wed 04/11 4:00pm",
+        "Sportsnet 03 : GSOC Masters - Draw 6 - Wed 04/11 5:00pm"
       ],
       "sections": [],
       "events": []
@@ -1061,7 +1110,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Manchester United U19 v Roma U19 - UEFA Youth League 2026/2027 - Tue 03/11 12:56pm",
+        "Stan 03 : Manchester United U19 v Roma U19 - UEFA Youth League 2026/2027 - Tue 03/11 12:54pm",
         "Stan 02 : Galatasaray v Stuttgart - UEFA Champions League Matchday 4 2026/2027 - Tue 03/11 5:41pm",
         "Stan 01 : Shakhtar Donetsk v Sporting CP - UEFA Champions League Matchday 4 2026/2027 - Tue 03/11 5:41pm",
         "Stan 03 : Football Zone: MD4 Wednesday - UEFA Champions League 2026/27 - Tue 03/11 7:41pm",
