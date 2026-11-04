@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-04T12:00:56.034601+00:00",
+  "scraped_at": "2026-11-04T14:59:39.664696+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -47,8 +47,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 04-Nov 10:30AM-12:30PM - East Asia Super League 2026/27 Ryukyu Golden Kings vs HK Eastern [SG]",
-        "EVENT 02 - 04-Nov 11:00AM-01:00PM - East Asia Super League 2026/27 TSG Ghosthawks vs Alvark Tokyo - TSG Ghosthawks vs Alvark Tokyo [SG]",
         "EVENT 01 - 04-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Lens vs Como 1907 - MD4 [SG]",
         "EVENT 03 - 04-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Dortmund vs Real Betis - MD4 [SG]",
         "EVENT 01 - 04-Nov 03:25PM-05:30PM - Rennes vs Olympiacos - MD4 UEFA Europa League 2026/27 [SG]",
@@ -580,7 +578,8 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 04/11/2026 06:44 - 02:20",
         "BBC Events 03 - no_brand_title: King Addresses Colonial Legacy At Commonwealth Meeting - 04/11/2026 05:57 - 01:32",
         "BBC Events 04 - no_brand_title: الانتخابات النصفية الأمريكية 03/11/2026 - 03/11/2026 19:48 - 19:47",
-        "BBC Events 05 - no_brand_title: Key Moment: Democrats Win Texas Senate Seat - 04/11/2026 11:15 - 11:10"
+        "BBC Events 05 - no_brand_title: Key Moment: Democrats Win Texas Senate Seat - 04/11/2026 11:15 - 11:10",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 04/11/2026 12:00 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -668,7 +667,24 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "MLS 01 : MLS Countdown (MLS) - Sat 07/11 07:25pm",
+        "MLS 02 : Miami vs. Charlotte (MLS) - Sat 07/11 07:25pm",
+        "MLS 03 : Chicago vs. Columbus (MLS) - Sat 07/11 07:25pm",
+        "MLS 04 : Cincinnati vs. Nashville (MLS) - Sat 07/11 07:25pm",
+        "MLS 05 : D.C. vs. New York City (MLS) - Sat 07/11 07:25pm",
+        "MLS 07 : New York vs. Atlanta (MLS) - Sat 07/11 07:25pm",
+        "MLS 08 : Orlando vs. New England (MLS) - Sat 07/11 07:25pm",
+        "MLS 09 : Philadelphia vs. Toronto (MLS) - Sat 07/11 07:25pm",
+        "MLS 10 : MLS 360 (MLS) - Sat 07/11 08:55pm",
+        "MLS 11 : Austin vs. Portland (MLS) - Sat 07/11 11:55pm",
+        "MLS 12 : Dallas vs. Colorado (MLS) - Sat 07/11 11:55pm",
+        "MLS 13 : Houston vs. St. Louis (MLS) - Sat 07/11 11:55pm",
+        "MLS 14 : Minnesota vs. San Jose (MLS) - Sat 07/11 11:55pm",
+        "MLS 15 : Salt Lake vs. LA (MLS) - Sat 07/11 11:55pm",
+        "MLS 16 : San Diego vs. Kansas City (MLS) - Sat 07/11 11:55pm",
+        "MLS 17 : Seattle vs. LAFC (MLS) - Sat 07/11 11:55pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -773,7 +789,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 14:50 - Uefa Europa League: Rennes vs. Olympiacos",
+        "Paramount+ Event 01 - 14:50 - UEFA Europa League: Rennes vs. Olympiacos",
         "Paramount+ Event 02 - 16:30 - Uefa Champions League: AEK Athens vs. Real Madrid",
         "Paramount+ Event 03 - 16:30 - Uefa Champions League: Fenerbahçe vs. Liverpool",
         "Paramount+ Event 05 - 18:30 - Uefa Champions League: Porto vs. Napoli",
@@ -1028,7 +1044,33 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 4 - Wed 04/11 2:00pm",
+        "Sportsnet 02 : The Raptors Show: Nov. 4 - Wed 04/11 4:00pm",
+        "Sportsnet 03 : GSOC Masters - Draw 6 - Hardie vs. Spiller - Wed 04/11 5:00pm",
+        "Sportsnet 04 : The FAN Hockey Show: Nov. 4 - Wed 04/11 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Nov. 4 - Wed 04/11 7:00pm",
+        "Sportsnet 05 : GSOC Masters - Draw 7 - Homan vs. Fujisawa - Wed 04/11 9:00pm",
+        "Sportsnet 02 : Real Kyper & Bourne: Nov. 4 - Wed 04/11 9:00pm",
+        "Sportsnet 01 : The FAN Pregame: Nov. 4 - Wed 04/11 11:00pm",
+        "Sportsnet 03 : Philadelphia @ Detroit - Thu 05/11 12:00am",
+        "Sportsnet 06 : Chicago @ Florida - Thu 05/11 12:30am",
+        "Sportsnet 04 : Chicago @ New York - Thu 05/11 12:30am",
+        "Sportsnet 07 : GSOC Masters - Draw 8 - Bottcher vs. Koe - Thu 05/11 1:00am",
+        "Sportsnet 02 : Dallas @ San Antonio - Thu 05/11 2:30am",
+        "Sportsnet 05 : Calgary @ Seattle - Thu 05/11 3:00am",
+        "Sportsnet 01 : San Jose @ Los Angeles - Thu 05/11 3:00am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 4 - Thu 05/11 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 5 - Thu 05/11 2:00pm",
+        "Sportsnet 02 : The Raptors Show: Nov. 5 - Thu 05/11 4:00pm",
+        "Sportsnet 04 : GSOC Masters - Draw 10 - Gim vs. Hasselborg - Thu 05/11 5:00pm",
+        "Sportsnet 03 : The FAN Hockey Show: Nov. 5 - Thu 05/11 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Nov. 5 - Thu 05/11 7:00pm",
+        "Sportsnet 05 : GSOC Masters - Draw 11 - Mouat vs. McDonald - Thu 05/11 9:00pm",
+        "Sportsnet 02 : Real Kyper & Bourne: Nov. 5 - Thu 05/11 9:00pm",
+        "Sportsnet 01 : The FAN Pregame: Nov. 5 - Thu 05/11 11:00pm",
+        "Sportsnet 03 : Boston @ Pittsburgh - Fri 06/11 12:00am"
+      ],
       "sections": [],
       "events": []
     },
