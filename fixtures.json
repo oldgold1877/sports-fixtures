@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-07T13:41:29.345883+00:00",
+  "scraped_at": "2026-11-07T16:43:32.749530+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,26 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 7 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 12:30-14:30 - EPL: Leeds United vs Tottenham Hotspur 4K"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 12:30-14:30 - EPL: Leeds United vs Tottenham Hotspur 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 12:30-14:30 - EPL: Leeds United vs Tottenham Hotspur 720p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 12:45-14:45 - WSL: Chelsea FC vs Everton 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 14:30-16:30 - Bundesliga: Mainz 05 vs Bayern München 1080p"
             },
             {
               "type": "fixture",
@@ -114,7 +94,7 @@
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENTS EST Time"
+              "text": "LIVE EVENTS TIMES ARE EST TIMES"
             },
             {
               "type": "fixture",
@@ -207,25 +187,22 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 07-Nov 11:50AM-02:00PM - Bundesliga 2 2026/27: Nuremberg vs Darmstadt [SG]",
-        "EVENT 02 - 07-Nov 11:50AM-02:00PM - CAF Women's Champions League 2026: Sundowns Ladies vs FUS Rabat Women [SG]",
-        "EVENT 03 - 07-Nov 12:20PM-02:50PM - Leeds United v Tottenham Hotspur (MW10) [SG]",
         "EVENT 01 - 07-Nov 02:20PM-04:30PM - Bundesliga 2026/27: Mainz vs Bayern [SG]",
-        "EVENT 05 - 07-Nov 02:50PM-05:20PM - Arsenal v Hull City (MW10) [SG]",
-        "EVENT 06 - 07-Nov 02:50PM-05:00PM - Arsenal vs Hull City (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 07 - 07-Nov 02:50PM-05:00PM - Fulham vs Newcastle United (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 03 - 07-Nov 03:10PM-05:25PM - LaLiga 2026/27: Espanyol vs Deportivo [SG]",
-        "EVENT 02 - 07-Nov 04:30PM-05:00PM - Zuffa Boxing Pre Show 2026 Zuffa 12: Billam Smith vs Clarke [SG]",
-        "EVENT 04 - 07-Nov 05:00PM-07:00PM - Zuffa Boxing 2026 Zuffa 12: Prelims: Billam Smith vs Clarke [SG]",
-        "EVENT 02 - 07-Nov 05:20PM-07:25PM - Bundesliga 2026/27: Stuttgart vs Werder Bremen [SG]",
-        "EVENT 06 - 07-Nov 05:20PM-07:30PM - Nottingham Forest v Manchester City (MW10) [SG]",
-        "EVENT 07 - 07-Nov 05:20PM-07:30PM - The Emirates FA Cup 2026/27 R1: Altrincham vs Notts County - R1: Altrincham vs Notts County [SG]",
+        "EVENT 02 - 07-Nov 02:50PM-05:20PM - Arsenal v Hull City (MW10) [SG]",
+        "EVENT 03 - 07-Nov 02:50PM-05:00PM - Arsenal vs Hull City (MW10) - Premier League 2026/27 [SG]",
+        "EVENT 04 - 07-Nov 02:50PM-05:00PM - Fulham vs Newcastle United (MW10) - Premier League 2026/27 [SG]",
+        "EVENT 05 - 07-Nov 03:10PM-05:25PM - LaLiga 2026/27: Espanyol vs Deportivo [SG]",
+        "EVENT 06 - 07-Nov 04:30PM-05:00PM - Zuffa Boxing Pre Show 2026 Zuffa 12: Billam Smith vs Clarke [SG]",
+        "EVENT 07 - 07-Nov 05:00PM-07:00PM - Zuffa Boxing 2026 Zuffa 12: Prelims: Billam Smith vs Clarke [SG]",
+        "EVENT 03 - 07-Nov 05:20PM-07:25PM - Bundesliga 2026/27: Stuttgart vs Werder Bremen [SG]",
+        "EVENT 04 - 07-Nov 05:20PM-07:30PM - Nottingham Forest v Manchester City (MW10) [SG]",
+        "EVENT 06 - 07-Nov 05:20PM-07:30PM - The Emirates FA Cup 2026/27 R1: Altrincham vs Notts County - R1: Altrincham vs Notts County [SG]",
         "EVENT 08 - 07-Nov 05:25PM-07:40PM - LaLiga 2026/27: Osasuna vs Athletic Bilbao [SG]",
         "EVENT 05 - 07-Nov 07:00PM-10:00PM - Zuffa Boxing 2026 Zuffa 12: Billam Smith vs Clarke [SG]",
-        "EVENT 03 - 07-Nov 07:25PM-09:30PM - Bundesliga 2 2026/27: Hertha vs Wolfsburg [SG]",
-        "EVENT 02 - 07-Nov 07:55PM-10:00PM - LaLiga 2026/27: Valencia vs Real Madrid [SG]",
+        "EVENT 02 - 07-Nov 07:25PM-09:30PM - Bundesliga 2 2026/27: Hertha vs Wolfsburg [SG]",
+        "EVENT 03 - 07-Nov 07:55PM-10:00PM - LaLiga 2026/27: Valencia vs Real Madrid [SG]",
         "EVENT 01 - 07-Nov 10:00PM-01:00AM - UFC Fight Night 2026 FN 28: Prelims: Cortes Acosta vs Walker - FN 28: Prelims: Cortes Acosta vs Walker [SG]",
-        "EVENT 03 - 07-Nov 10:00PM-11:00PM - Zuffa Boxing Post Show 2026 Zuffa 12: Billam Smith vs Clarke [SG]",
+        "EVENT 02 - 07-Nov 10:00PM-11:00PM - Zuffa Boxing Post Show 2026 Zuffa 12: Billam Smith vs Clarke [SG]",
         "EVENT 02 - 08-Nov 01:00AM-04:00AM - UFC Fight Night 2026 FN 28: Cortes Acosta vs Walker - FN 28: Cortes Acosta vs Walker [SG]",
         "EVENT 03 - 08-Nov 11:50AM-02:00PM - The Emirates FA Cup 2026/27 R1: Stafford Rangers vs Grimsby Town [SG]",
         "EVENT 04 - 08-Nov 12:20PM-02:25PM - Bundesliga 2 2026/27: Heidenheim 1846 vs Hannover [SG]",
@@ -1880,11 +1857,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Final Score: 07/11/2026 - 07/11/2026 14:30 - 17:15",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 07/11/2026 06:50 - 18:07",
         "BBC Events 03 - no_brand_title: U2 Gear Up For 16th Album Release - 07/11/2026 06:31 - 01:33",
         "BBC Events 04 - no_brand_title: Police Federation Rejects Bonfire Night Violence - 07/11/2026 07:02 - 01:27",
-        "BBC Events 05 - no_brand_title: Polls Have Closed in New Zealand's General Election - 07/11/2026 09:49 - 07:40",
-        "BBC Events 07 - Autumnwatch: Autumn Calm - 07/11/2026 12:00 - 14:25"
+        "BBC Events 05 - no_brand_title: Polls Have Closed in New Zealand's General Election - 07/11/2026 09:49 - 07:40"
       ],
       "sections": [],
       "events": []
@@ -1920,8 +1897,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "GaaTv 01: Ulster: Fintona v Urris - 13:30",
-        "GaaTv 02: Antrim: Dunloy Cuchullains v Cushendall - 14:00 19:30"
+        "GaaTv 01: Connaght: Brothers Pearse v Tuairín 1:30pm",
+        "GaaTv 02: Ulster: Donaghmoyne v Desertmartin 3:30pm",
+        "GaaTv 03: Ulster: Erne Gaels v St Eunans 5pm",
+        "GaaTv 04: Ulster: Gowna v Crossmaglen Rangers 7:15pm"
       ],
       "sections": [],
       "events": []
@@ -2174,14 +2153,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: NC: Georgia v Canada - 13:50 07/11/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 1: Brazil P3 - 14:15 07/11/2026",
-        "Sky Sport 7 - LIVE: PL: Fulham v Newcastle - 14:50 07/11/2026",
-        "Sky Sport 4 - LIVE: NC: Zimbabwe v Samoa - 14:50 07/11/2026",
-        "Sky Sport 5 - LIVE: NC: Spain v Uruguay - 14:50 07/11/2026",
-        "Sky Sport 6 - LIVE: NC: Portugal v Chile - 14:50 07/11/2026",
-        "Sky Sport 3 - LIVE: NC: Wales v Japan - 16:25 07/11/2026",
-        "Sky Sport Select - LIVE: Zuffa Boxing 12 - 16:30 07/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Brazil Qual - 17:00 07/11/2026",
         "Sky Sport 3 - LIVE: NC: France v Fiji - 20:00 07/11/2026",
         "Sky Sport 2 - LIVE: Ted's Notebook: Brazil Quali - 20:00 07/11/2026",
@@ -2268,8 +2239,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Bristol City vs Norwich",
-        "Sky Sports+ 2 | Portsmouth vs Stoke",
         "Chris Billam-smith vs Chev Clarke",
         "Elif Turhan vs Alycia Baumgardner",
         "Leicester vs Walsall",
@@ -2295,8 +2264,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Chelsea vs. Everton - Sat 07/11 12:35pm",
-        "Sportsnet 02 : Manchester City vs. West Ham United - Sat 07/11 12:35pm",
         "Sportsnet 01 : Goals Show - Sat 07/11 2:45pm",
         "Sportsnet 04 : Tissot Sprint - Grand Prix of Qatar - Sat 07/11 3:30pm",
         "Sportsnet 05 : Altrincham vs. Notts County - Sat 07/11 5:20pm",
@@ -2318,7 +2285,8 @@
         "Sportsnet 14 : Tampa Bay @ Minnesota - Sun 08/11 1:00am",
         "Sportsnet 12 : UFC Fight Night - Cortes Acosta vs. Walker - Sun 08/11 1:00am",
         "Sportsnet 15 : Orlando @ Golden State - Sun 08/11 1:30am",
-        "Sportsnet 02 : Detroit @ Colorado - Sun 08/11 2:00am"
+        "Sportsnet 02 : Detroit @ Colorado - Sun 08/11 2:00am",
+        "Sportsnet 16 : Pittsburgh @ Los Angeles - Sun 08/11 2:00am"
       ],
       "sections": [],
       "events": []
@@ -2329,15 +2297,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Italy v South Africa - Nations Championship Round 4 2026 - Sat 07/11 11:31am",
-        "Stan 06 : Leeds United v Tottenham Hotspur - Premier League Matchweek 10 2026/2027 - Sat 07/11 11:31am",
-        "Stan 11 : 4K • Leeds United v Tottenham Hotspur - Premier League Matchweek 10 2026/2027 - Sat 07/11 12:21pm",
-        "Stan 02 : Chennai: Day 6 - WTA 250 - Sat 07/11 12:31pm",
-        "Stan 07 : Chelsea v Everton - WSL 2026/27 - Sat 07/11 12:36pm",
-        "Stan 03 : Manchester City v West Ham United - WSL 2026/27 - Sat 07/11 12:36pm",
-        "Stan 08 : Qualifying: 6 Hours of Monza - WEC 2026 - Sat 07/11 1:11pm",
-        "Stan 09 : Scotland v New Zealand - Nations Championship Round 4 2026 - Sat 07/11 1:16pm",
-        "Stan 10 : Georgia v Canada - Nations Cup Round 4 2026 - Sat 07/11 1:51pm",
+        "Stan 09 : Scotland v New Zealand - Nations Championship Round 4 2026 - Sat 07/11 1:15pm",
+        "Stan 10 : Georgia v Canada - Nations Cup Round 4 2026 - Sat 07/11 1:50pm",
         "Stan 04 : Arsenal v Hull City - Premier League Matchweek 10 2026/2027 - Sat 07/11 2:51pm",
         "Stan 12 : Fulham v Newcastle United - Premier League Matchweek 10 2026/2027 - Sat 07/11 2:51pm",
         "Stan 14 : Portugal v Chile - Nations Cup Round 4 2026 - Sat 07/11 2:51pm",
@@ -2386,7 +2347,10 @@
         "Stan 03 : Indian Wells: Day 2 - WTA Finals - Mon 09/11 8:01pm",
         "Stan 01 : Indian Wells: Day 3 - WTA Finals - Tue 10/11 8:01pm",
         "Stan 01 : Indian Wells: Day 4 - WTA Finals - Wed 11/11 8:01pm",
-        "Stan 01 : Indian Wells: Day 5 - WTA Finals - Thu 12/11 8:01pm"
+        "Stan 01 : Indian Wells: Day 5 - WTA Finals - Thu 12/11 8:01pm",
+        "Stan 01 : Qualifying LMP3 & GT3: Le Castellet - Asian Le Mans Cup 2026/27 - Fri 13/11 2:11pm",
+        "Stan 02 : Qualifying GT: Le Castellet - Asian Le Mans Series 2026/27 - Fri 13/11 3:06pm",
+        "Stan 03 : Hypercar & LMP2: Le Castellet - Asian Le Mans Series 2026/27 - Fri 13/11 3:51pm"
       ],
       "sections": [],
       "events": []
@@ -2406,14 +2370,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : LaLiga: Malaga vs. Racing Santander - Sat 07/11 12:48pm",
-        "TSN 08 : Formula 1 Driver Tracker - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 07 : Formula 1 Mixed On-Board Camera - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 03 : Formula 1 On-Board Camera: Charles Leclerc - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 09 : Formula 1 On-Board Camera: George Russell - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 05 : Formula 1 On-Board Camera: Lance Stroll - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 06 : Formula 1 Pit Lane - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
-        "TSN 04 : Formula 1 Timing Channel - Sao Paulo Grand Prix Practice #3 - Sat 07/11 2:20pm",
         "TSN 10 : 2026 FIFA U-17 Women's World Cup: Third Place Match - DPR Korea vs. Brazil - Sat 07/11 2:48pm",
         "TSN 11 : LaLiga: Espanyol vs. Deportivo - Sat 07/11 3:03pm",
         "TSN 15 : ATP 1000 Tennis: Paris - Doubles Semifinals - Sat 07/11 5:00pm",
