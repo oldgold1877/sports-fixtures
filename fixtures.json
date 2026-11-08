@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-08T08:15:26.291875+00:00",
+  "scraped_at": "2026-11-08T12:01:12.129800+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -107,86 +107,6 @@
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLY ONLINE DURING EVENT SESSIONS BETWEEN 31/10 AND 07/11"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENTS TIMES ARE EST TIMES"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 5pm UFC Fight Night Acosta v Walker"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 02 - 12pm WWE Crown Jewel"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 03 - (SD) WWE Crown Jewel"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 04 - 12/2pm Billam Smith v Clarke"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 05 - 2pm BKFC 96 Cohoon v Weir"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 06 - 11am/2pm Buatsi v Hutchinson 2"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 07 - 11am Nexzone Fight Night Sullu v Ismail"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 08 - 12pm Oktagon 97 Severino v Holzer"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 09 - 12pm Petrosyan Mania Gold Edition"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 10 - 2/3pm Cage Warriors 212"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 11 - 7pm PFC 55"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 12 - 8pm Perez v Rivera"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 13 - 8pm GCW The Crossroads"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 14 - 2:25pmGNCC Buckwheat 100"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 15 - 1pm Crown Vic Nationals Caraway"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 16 - 7:30pmThe Dirt Track at Charlotte"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 17 - 4pm Fall Brawl Hickory"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 19 - 7pm Southern Thunder Super Dirt Series"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 20 - 9pm AMA EnduroCross Salt Lake"
             }
           ]
         }
@@ -1016,6 +936,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "WINTERSPORTS",
+          "time": "17:00",
+          "name": "CUP OF CHINA",
+          "datetime": "2026-11-08 17:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -1240,7 +1172,9 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 08/11/2026 06:55 - 18:30",
         "BBC Events 02 - no_brand_title: Trump asks UFC Boss to be White House Press Secretary - 08/11/2026 05:34 - 04:39",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 08/11/2026 06:00 - 10:13"
+        "BBC Events 04 - Remembrance Sunday: The Cenotaph: Signed: 2026 - 08/11/2026 10:13 - 12:37",
+        "BBC Events 05 - Remembrance Sunday: The Cenotaph: No Commentary: 2026 - The Cenotaph - 08/11/2026 09:44 - 12:40",
+        "BBC Events 06 - Remembrance Sunday: The Cenotaph: Accessible Commentary: 2026 - The Cenotaph - 08/11/2026 09:48 - 12:40"
       ],
       "sections": [],
       "events": []
@@ -1413,8 +1347,8 @@
       "status": "ok",
       "fixtures": [
         "Paramount+ Event 01 - 10:50 - Serie A: Napoli vs. Lazio",
-        "Paramount+ Event 02 - 11:20 - Barclays Womens Super League: Liverpool vs. Arsenal",
-        "Paramount+ Event 03 - 11:20 - Barclays Womens Super League: Aston Villa vs. Man. United",
+        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Liverpool vs. Arsenal",
+        "Paramount+ Event 03 - 11:20 - Barclays Women's Super League: Aston Villa vs. Man. United",
         "Paramount+ Event 04 - 13:20 - Serie A: Monza vs. Atalanta",
         "Paramount+ Event 05 - 13:20 - Serie A: Genoa vs. Milan",
         "Paramount+ Event 06 - 13:20 - Barclays Womens Super League: Crystal Palace vs. Charlton Athletic",
@@ -1501,16 +1435,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: RLWC SF2: Australia v Samoa - 08:30 08/11/2026",
-        "Sky Sport 1 UHD - LIVE: RLWC SF2: Australia v Samoa - 08:30 08/11/2026",
-        "Sky Sport 3 - LIVE: WSL: Aston Villa v Man United - 11:50 08/11/2026",
-        "Sky Sport 5 - LIVE: WSL: Liverpool v Arsenal - 11:50 08/11/2026",
-        "Sky Sport Select - LIVE: PL: Brighton v Brentford - 13:50 08/11/2026",
-        "Sky Sport 7 - LIVE: PL: Sunderland v Chelsea - 13:50 08/11/2026",
-        "Sky Sport 9 - LIVE: PL: Ipswich Town v Bournemouth - 13:50 08/11/2026",
-        "Sky Sport 6 - LIVE: PL: Crystal Palace v Liverpool - 13:50 08/11/2026",
         "Sky Sport 5 - LIVE: WSL: Crystal Palace v Charlton - 13:50 08/11/2026",
         "Sky Sport 4 - LIVE: WSL: Tottenham v Brighton - 13:50 08/11/2026",
+        "Sky Sport Select - LIVE: PL: Brighton v Brentford - 13:50 08/11/2026",
+        "Sky Sport 6 - LIVE: PL: Crystal Palace v Liverpool - 13:50 08/11/2026",
+        "Sky Sport 7 - LIVE: PL: Sunderland v Chelsea - 13:50 08/11/2026",
+        "Sky Sport 9 - LIVE: PL: Ipswich Town v Bournemouth - 13:50 08/11/2026",
         "Sky Sport 2 - LIVE: NC: England v Australia - 14:30 08/11/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Brazil Pre Race - 15:30 08/11/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Brazil Pre Race - 15:30 08/11/2026",
@@ -1518,9 +1448,9 @@
         "Sky Sport 1 UHD - LIVE:FIA Formula 1: Brazil Grand Prix - 16:55 08/11/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Chequered Flag - 19:00 08/11/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Chequered Flag - 19:00 08/11/2026",
-        "Sky Sport 2 - LIVE: PGA Tour: Round 4 - 20:00 08/11/2026",
         "Sky Sport 1 - LIVE: Ted's Notebook: Brazil - 20:00 08/11/2026",
         "Sky Sport 1 UHD - LIVE: Ted's Notebook: Brazil - 20:00 08/11/2026",
+        "Sky Sport 2 - LIVE: PGA Tour: Round 4 - 20:00 08/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: Ranking SF1 - 23:50 08/11/2026",
         "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: Ranking SF1 - 23:50 08/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: Ranking SF2 - 02:20 09/11/2026",
@@ -1533,8 +1463,8 @@
         "Sky Sport 6 - LIVE: SS: NSW v S Australia D1 - 23:30 10/11/2026",
         "Sky Sport 1 - LIVE: WBBL: Scorchers v Thunder - 08:05 11/11/2026",
         "Sky Sport 1 UHD - LIVE: WBBL: Scorchers v Thunder - 08:05 11/11/2026",
-        "Sky Sport 6 - LIVE: SS: Victoria v W Australia D2 - 23:25 11/11/2026",
         "Sky Sport 5 - LIVE: SS: NSW v S Australia D2 - 23:25 11/11/2026",
+        "Sky Sport 6 - LIVE: SS: Victoria v W Australia D2 - 23:25 11/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: 7th Place Playoff - 23:50 11/11/2026",
         "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: 7th Place Playoff - 23:50 11/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: 5th Place Playoff - 02:20 12/11/2026",
@@ -1568,18 +1498,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Crystal Palace vs Liverpool",
+        "Sky Sports+ 1 | Crystal Palace vs Liverpool",
+        "Sky Sports+ 2 | Brighton vs Brentford",
+        "Sky Sports+ 3 | Ipswich vs Bournemouth",
+        "Sky Sports+ 5 | Sunderland vs Chelsea",
         "Elif Turhan vs Alycia Baumgardner",
         "Doncaster vs Leyton Orient",
-        "Brighton vs Brentford",
         "Los Angeles Golf Club vs New York Golf Club",
         "Leicester vs Walsall",
         "Mk Dons vs Burton",
-        "Ipswich vs Bournemouth",
         "Sheff Wed vs Plymouth",
         "Crystal Palace vs Charlton",
         "Stevenage vs Mansfield",
-        "Sunderland vs Chelsea",
         "Stockport vs Reading",
         "Man Utd vs Aston Villa",
         "Wigan vs Barnsley",
@@ -1612,7 +1542,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 7 - Sun 08/11 10:00am",
         "Sportsnet 02 : sc Heerenveen vs. Feyenoord - Sun 08/11 11:05am",
         "Sportsnet 03 : Aston Villa vs. Manchester United - Sun 08/11 11:50am",
         "Sportsnet 04 : Liverpool vs. Arsenal - Sun 08/11 11:50am",
@@ -1635,7 +1564,8 @@
         "Sportsnet 06 : Tampa Bay @ Winnipeg - Sun 08/11 11:00pm",
         "Sportsnet 07 : New Jersey @ Toronto - Mon 09/11 12:00am",
         "Sportsnet 02 : Philadelphia @ Calgary - Mon 09/11 12:00am",
-        "Sportsnet 08 : Brooklyn @ Dallas - Mon 09/11 12:30am"
+        "Sportsnet 08 : Brooklyn @ Dallas - Mon 09/11 12:30am",
+        "Sportsnet 03 : Pittsburgh @ Anaheim - Mon 09/11 1:00am"
       ],
       "sections": [],
       "events": []
@@ -1646,12 +1576,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Seoul v Ulsan - K League 2026 - Sun 08/11 4:54am",
-        "Stan 02 : Machida Zelvia v Sanfrecce Hiroshima - J.League 2026 - Sun 08/11 4:55am",
-        "Stan 03 : Vissel Kobe v Urawa Red Diamonds - J.League 2026 - Sun 08/11 4:55am",
-        "Stan 04 : Gamba Osaka v Cerezo Osaka - J.League 2026 - Sun 08/11 5:55am",
-        "Stan 05 : Gangwon v Jeonbuk - K League 2026 - Sun 08/11 7:26am",
-        "Stan 06 : Hong Kong: Day 7 - WTA 250 - Sun 08/11 8:01am",
         "Stan 07 : Race: 6 Hours of Monza - WEC 2026 - Sun 08/11 9:31am",
         "Stan 01 : Aston Villa v Manchester United - WSL 2026/27 - Sun 08/11 11:51am",
         "Stan 02 : Liverpool v Arsenal - WSL 2026/27 - Sun 08/11 11:51am",
@@ -1705,7 +1629,10 @@
         "Stan 15 : Brighton & Hove Albion v Liverpool - WSL 2026/27 - Sat 14/11 5:06pm",
         "Stan 03 : Indian Wells: Day 7 - WTA Finals - Sat 14/11 8:01pm",
         "Stan 02 : Ireland v Fiji - Nations Championship Round 5 2026 - Sat 14/11 8:01pm",
-        "Stan 01 : Race Day: The Bend - Australian Superbikes Championship 2026 - Sun 15/11 2:01am"
+        "Stan 01 : Race Day: The Bend - Australian Superbikes Championship 2026 - Sun 15/11 2:01am",
+        "Stan 02 : Race 2: Le Castellet - Asian Le Mans Cup 2026/27 - Sun 15/11 8:16am",
+        "Stan 01 : Race 2: Le Castellet - Asian Le Mans Series 2026/27 - Sun 15/11 12:01pm",
+        "Stan 03 : West Ham United v Charlton Athletic - WSL 2026/27 - Sun 15/11 1:56pm"
       ],
       "sections": [],
       "events": []
@@ -1732,12 +1659,10 @@
         "TSN 06 : ATP 250 Tennis: Stockholm - Day #1 - Sun 08/11 3:00pm",
         "TSN 05 : NFL Fantasy Focus - Sun 08/11 3:00pm",
         "TSN 07 : LaLiga: Real Sociedad vs. Rayo Vallecano - Sun 08/11 3:03pm",
-        "TSN 13 : Formula 1 Driver Tracker - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 12 : Formula 1 Mixed On-Board Camera - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 11 : Formula 1 On-Board Camera: Charles Leclerc - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 14 : Formula 1 On-Board Camera: George Russell - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 09 : Formula 1 On-Board Camera: Lance Stroll - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
-        "TSN 08 : Formula 1 Pit Lane - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 10 : Formula 1 Timing Channel - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 01 : LaLiga: Celta vs. Levante - Sun 08/11 5:18pm",
         "TSN 15 : LaLiga: Villarreal vs. Getafe - Sun 08/11 5:18pm",
