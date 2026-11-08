@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-08T16:54:30.588270+00:00",
+  "scraped_at": "2026-11-08T18:00:52.062472+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 8 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 14:30-17:30 - NFL: Cincinnati Bengals at Atlanta Falcons 1080p"
             },
             {
               "type": "fixture",
@@ -50,6 +46,18 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 03 - 20:00-22:00 - La Liga: Atletico Madrid vs Barcelona 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Monday 9 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:15-04:30 - NFL: Tampa Bay Buccaneers at Chicago Bears 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Tampa Bay Buccaneers at Chicago Bears 1080p"
             },
             {
               "type": "date",
@@ -91,14 +99,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 08-Nov 02:50PM-05:00PM - The Emirates FA Cup 2026/27 R1: Wimborne Town vs Crawley Town [SG]",
-        "EVENT 04 - 08-Nov 04:20PM-06:30PM - Manchester United v Aston Villa (MW10) [SG]",
-        "EVENT 05 - 08-Nov 04:25PM-06:25PM - Bundesliga 2026/27: Freiburg vs FC Union [SG]",
-        "EVENT 01 - 08-Nov 05:05PM-07:15PM - The Emirates FA Cup 2026/27 R1: Oldham Athletic vs Sheffield Wednesday - R1: Oldham Athletic vs Sheffield Wednesday [SG]",
-        "EVENT 02 - 08-Nov 05:25PM-07:40PM - LaLiga 2026/27: Villarreal vs Getafe [SG]",
-        "EVENT 03 - 08-Nov 06:25PM-08:30PM - Bundesliga 2026/27: Hoffenheim vs Schalke [SG]",
-        "EVENT 01 - 08-Nov 07:55PM-10:00PM - LaLiga 2026/27: Atletico Madrid vs Barcelona [SG]",
-        "EVENT 01 - 09-Nov 07:20PM-09:30PM - The Emirates FA Cup 2026/27 R1: Plymouth Parkway vs Berkhamsted [SG]"
+        "EVENT 01 - 08-Nov 04:20PM-06:30PM - Manchester United v Aston Villa (MW10) [SG]",
+        "EVENT 02 - 08-Nov 04:25PM-06:25PM - Bundesliga 2026/27: Freiburg vs FC Union [SG]",
+        "EVENT 04 - 08-Nov 05:05PM-07:15PM - The Emirates FA Cup 2026/27 R1: Oldham Athletic vs Sheffield Wednesday - R1: Oldham Athletic vs Sheffield Wednesday [SG]",
+        "EVENT 05 - 08-Nov 05:25PM-07:40PM - LaLiga 2026/27: Villarreal vs Getafe [SG]",
+        "EVENT 06 - 08-Nov 06:25PM-08:30PM - Bundesliga 2026/27: Hoffenheim vs Schalke [SG]",
+        "EVENT 03 - 08-Nov 07:55PM-10:00PM - LaLiga 2026/27: Atletico Madrid vs Barcelona [SG]",
+        "EVENT 01 - 09-Nov 07:20PM-09:30PM - The Emirates FA Cup 2026/27 R1: Plymouth Parkway vs Berkhamsted [SG]",
+        "EVENT 02 - 10-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Hacken vs Chelsea - MD4 [SG]",
+        "EVENT 04 - 10-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Paris - MD4 [SG]"
       ],
       "sections": [],
       "events": []
@@ -1138,7 +1147,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 08/11/2026 06:55 - 18:30",
         "BBC Events 02 - no_brand_title: Trump asks UFC Boss to be White House Press Secretary - 08/11/2026 05:34 - 04:39",
-        "BBC Events 03 - Curling: Grand Slam of Curling Masters - Final - 08/11/2026 16:27 - 20:30"
+        "BBC Events 03 - Curling: Grand Slam of Curling Masters - Final - 08/11/2026 16:27 - 20:30",
+        "BBC Events 05 - Autumnwatch: Autumn Calm - 08/11/2026 16:40 - 19:08"
       ],
       "sections": [],
       "events": []
@@ -1310,17 +1320,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 10:50 - Serie A: Napoli vs. Lazio",
-        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Liverpool vs. Arsenal",
-        "Paramount+ Event 03 - 11:20 - Barclays Women's Super League: Aston Villa vs. Man. United",
-        "Paramount+ Event 04 - 13:20 - Serie A: Monza vs. Atalanta",
-        "Paramount+ Event 05 - 13:20 - Serie A: Genoa vs. Milan",
-        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Crystal Palace vs. Charlton Athletic",
-        "Paramount+ Event 07 - 13:20 - Barclays Women's Super League: Tottenham vs. Brighton",
-        "Paramount+ Event 08 - 13:30 - Barclays Women's Super League: London City vs. Birmingham City",
-        "Paramount+ Event 09 - 14:05 - World Rugby: Hong Kong China vs. USA Eagles",
-        "Paramount+ Event 10 - 16:00 - Serie A: Inter vs. Como",
-        "Paramount+ Event 11 - 18:30 - Serie A: Fiorentina vs. Juventus",
+        "Paramount+ Event 01 - 11:20 - Barclays Women's Super League: Liverpool vs. Arsenal",
+        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Aston Villa vs. Man. United",
+        "Paramount+ Event 03 - 13:20 - Serie A: Monza vs. Atalanta",
+        "Paramount+ Event 04 - 13:20 - Serie A: Genoa vs. Milan",
+        "Paramount+ Event 05 - 13:20 - Barclays Women's Super League: Crystal Palace vs. Charlton Athletic",
+        "Paramount+ Event 06 - 13:20 - Barclays Women's Super League: Tottenham vs. Brighton",
+        "Paramount+ Event 07 - 13:30 - Barclays Women's Super League: London City vs. Birmingham City",
+        "Paramount+ Event 08 - 14:05 - World Rugby: Hong Kong China vs. USA Eagles",
+        "Paramount+ Event 09 - 16:00 - Serie A: Inter vs. Como",
+        "Paramount+ Event 10 - 18:30 - Serie A: Fiorentina vs. Juventus",
         "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Real Madrid vs. Paris FC",
         "Paramount+ Event 02 - 16:30 - Uefa Womens Champions League: BK Häcken vs. Chelsea",
         "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Roma vs. Servette",
@@ -1451,7 +1460,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 4 | Crystal Palace vs Charlton",
         "Sky Sports+ 6 | Man Utd vs Aston Villa",
         "Elif Turhan vs Alycia Baumgardner",
         "Doncaster vs Leyton Orient",
@@ -1491,10 +1499,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 08 : Cray Wanderers vs. Stockport County - Sun 08/11 2:05pm",
-        "Sportsnet 09 : London City Lionesses vs. Birmingham City - Sun 08/11 2:20pm",
-        "Sportsnet 10 : Wimborne Town vs. Crawley Town - Sun 08/11 2:50pm",
-        "Sportsnet 11 : Grand Prix of Qatar - Sun 08/11 3:00pm",
         "Sportsnet 13 : AZ Alkmaar vs. FC Groningen - Sun 08/11 3:35pm",
         "Sportsnet 12 : SC Cambuur vs. PSV Eindhoven - Sun 08/11 3:35pm",
         "Sportsnet 14 : GSOC Masters - Men's Final - Sun 08/11 5:00pm",
@@ -1522,14 +1526,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 14 : Ipswich Town v Bournemouth - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
-        "Stan 09 : Sunderland v Chelsea - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
-        "Stan 13 : Brighton & Hove Albion v Brentford - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
-        "Stan 10 : Crystal Palace v Liverpool - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
-        "Stan 11 : Crystal Palace v Charlton Athletic - WSL 2026/27 - Sun 08/11 1:50pm",
-        "Stan 12 : Tottenham Hotspur v Brighton & Hove Albion - WSL 2026/27 - Sun 08/11 1:50pm",
-        "Stan 05 : Cray Wanderers v Stockport County - FA Cup 2026/2027 - Sun 08/11 2:06pm",
-        "Stan 15 : London City Lionesses v Birmingham City - WSL 2026/27 - Sun 08/11 2:21pm",
         "Stan 06 : England v Australia - Nations Championship Round 4 2026 - Sun 08/11 2:31pm",
         "Stan 16 : Hong Kong China v USA - Nations Cup Round 4 2026 - Sun 08/11 2:36pm",
         "Stan 17 : Wimborne Town v Crawley Town - FA Cup 2026/2027 - Sun 08/11 2:51pm",
@@ -1595,10 +1591,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 04 : NFL International Series: Bengals vs. Falcons - Sun 08/11 2:30pm",
         "TSN 06 : ATP 250 Tennis: Stockholm - Day #1 - Sun 08/11 3:00pm",
-        "TSN 05 : NFL Fantasy Focus - Sun 08/11 3:00pm",
-        "TSN 07 : LaLiga: Real Sociedad vs. Rayo Vallecano - Sun 08/11 3:03pm",
         "TSN 13 : Formula 1 Driver Tracker - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 12 : Formula 1 Mixed On-Board Camera - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
         "TSN 11 : Formula 1 On-Board Camera: Charles Leclerc - Sao Paulo Grand Prix - Sun 08/11 4:30pm",
