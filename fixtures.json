@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-08T14:00:12.134968+00:00",
+  "scraped_at": "2026-11-08T16:54:30.588270+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,30 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 8 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 14:00-16:00 - EPL: Ipswich Town vs AFC Bournemouth 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 14:00-16:00 - EPL: Crystal Palace vs Liverpool 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 14:00-16:00 - EPL: Sunderland vs Chelsea 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 14:00-16:00 - EPL: Brighton & Hove Albion vs Brentford 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 14:00-16:00 - Serie A: Genoa vs Milan 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 14:00-16:00 - EPL: Crystal Palace vs Liverpool 720p"
             },
             {
               "type": "fixture",
@@ -115,22 +91,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 08-Nov 11:50AM-02:00PM - The Emirates FA Cup 2026/27 R1: Stafford Rangers vs Grimsby Town [SG]",
-        "EVENT 03 - 08-Nov 12:20PM-02:25PM - Bundesliga 2 2026/27: Heidenheim 1846 vs Hannover [SG]",
-        "EVENT 04 - 08-Nov 12:55PM-03:00PM - LaLiga 2026/27: Elche vs Real Betis [SG]",
-        "EVENT 06 - 08-Nov 01:50PM-04:00PM - Brighton and Hove Albion vs Brentford (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 07 - 08-Nov 01:50PM-04:20PM - Crystal Palace v Liverpool (MW10) (Goal Rush) [SG]",
-        "EVENT 08 - 08-Nov 01:50PM-04:00PM - Crystal Palace vs Liverpool (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 09 - 08-Nov 01:50PM-04:00PM - Ipswich Town vs Bournemouth (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 10 - 08-Nov 01:50PM-04:00PM - Sunderland vs Chelsea (MW10) - Premier League 2026/27 [SG]",
-        "EVENT 05 - 08-Nov 02:05PM-04:15PM - The Emirates FA Cup 2026/27 R1: Cray Wanderers vs Stockport County - R1: Cray Wanderers vs Stockport County [SG]",
-        "EVENT 02 - 08-Nov 02:25PM-04:25PM - Bundesliga 2026/27: Cologne vs Leverkusen [SG]",
-        "EVENT 03 - 08-Nov 02:50PM-05:00PM - The Emirates FA Cup 2026/27 R1: Wimborne Town vs Crawley Town [SG]",
-        "EVENT 06 - 08-Nov 04:20PM-06:30PM - Manchester United v Aston Villa (MW10) [SG]",
-        "EVENT 08 - 08-Nov 04:25PM-06:25PM - Bundesliga 2026/27: Freiburg vs FC Union [SG]",
+        "EVENT 02 - 08-Nov 02:50PM-05:00PM - The Emirates FA Cup 2026/27 R1: Wimborne Town vs Crawley Town [SG]",
+        "EVENT 04 - 08-Nov 04:20PM-06:30PM - Manchester United v Aston Villa (MW10) [SG]",
+        "EVENT 05 - 08-Nov 04:25PM-06:25PM - Bundesliga 2026/27: Freiburg vs FC Union [SG]",
         "EVENT 01 - 08-Nov 05:05PM-07:15PM - The Emirates FA Cup 2026/27 R1: Oldham Athletic vs Sheffield Wednesday - R1: Oldham Athletic vs Sheffield Wednesday [SG]",
-        "EVENT 03 - 08-Nov 05:25PM-07:40PM - LaLiga 2026/27: Villarreal vs Getafe [SG]",
-        "EVENT 04 - 08-Nov 06:25PM-08:30PM - Bundesliga 2026/27: Hoffenheim vs Schalke [SG]",
+        "EVENT 02 - 08-Nov 05:25PM-07:40PM - LaLiga 2026/27: Villarreal vs Getafe [SG]",
+        "EVENT 03 - 08-Nov 06:25PM-08:30PM - Bundesliga 2026/27: Hoffenheim vs Schalke [SG]",
         "EVENT 01 - 08-Nov 07:55PM-10:00PM - LaLiga 2026/27: Atletico Madrid vs Barcelona [SG]",
         "EVENT 01 - 09-Nov 07:20PM-09:30PM - The Emirates FA Cup 2026/27 R1: Plymouth Parkway vs Berkhamsted [SG]"
       ],
@@ -636,6 +602,10 @@
           "datetime": "2026-11-08 17:30:00",
           "channels": [
             {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
               "name": "FOX SPORTS 2",
               "category": "SPORT | USA & CANADA"
             }
@@ -863,9 +833,9 @@
         },
         {
           "sport": "TENNIS",
-          "time": "14:01",
+          "time": "14:00",
           "name": "PARIS MASTERS",
-          "datetime": "2026-11-08 14:01:00",
+          "datetime": "2026-11-08 14:00:00",
           "channels": [
             {
               "name": "TSN 3",
@@ -1168,7 +1138,7 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 08/11/2026 06:55 - 18:30",
         "BBC Events 02 - no_brand_title: Trump asks UFC Boss to be White House Press Secretary - 08/11/2026 05:34 - 04:39",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 08/11/2026 12:45 - 14:14"
+        "BBC Events 03 - Curling: Grand Slam of Curling Masters - Final - 08/11/2026 16:27 - 20:30"
       ],
       "sections": [],
       "events": []
@@ -1429,11 +1399,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: NC: England v Australia - 14:30 08/11/2026",
-        "Sky Sport 1 - LIVE: FIA Formula 1: Brazil Pre Race - 15:30 08/11/2026",
-        "Sky Sport 1 UHD - LIVE: FIA Formula 1: Brazil Pre Race - 15:30 08/11/2026",
-        "Sky Sport 1 - LIVE:FIA Formula 1: Brazil Grand Prix - 16:55 08/11/2026",
-        "Sky Sport 1 UHD - LIVE:FIA Formula 1: Brazil Grand Prix - 16:55 08/11/2026",
         "Sky Sport 1 - LIVE: FIA Formula 1: Chequered Flag - 19:00 08/11/2026",
         "Sky Sport 1 UHD - LIVE: FIA Formula 1: Chequered Flag - 19:00 08/11/2026",
         "Sky Sport 1 - LIVE: Ted's Notebook: Brazil - 20:00 08/11/2026",
@@ -1486,11 +1451,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Crystal Palace vs Liverpool",
-        "Sky Sports+ 2 | Brighton vs Brentford",
-        "Sky Sports+ 3 | Ipswich vs Bournemouth",
         "Sky Sports+ 4 | Crystal Palace vs Charlton",
-        "Sky Sports+ 5 | Sunderland vs Chelsea",
+        "Sky Sports+ 6 | Man Utd vs Aston Villa",
         "Elif Turhan vs Alycia Baumgardner",
         "Doncaster vs Leyton Orient",
         "Los Angeles Golf Club vs New York Golf Club",
@@ -1499,7 +1461,6 @@
         "Sheff Wed vs Plymouth",
         "Stevenage vs Mansfield",
         "Stockport vs Reading",
-        "Man Utd vs Aston Villa",
         "Wigan vs Barnsley",
         "Wimbledon vs Blackpool",
         "Wycombe vs Huddersfield",
@@ -1530,13 +1491,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : sc Heerenveen vs. Feyenoord - Sun 08/11 11:05am",
-        "Sportsnet 03 : Aston Villa vs. Manchester United - Sun 08/11 11:50am",
-        "Sportsnet 04 : Liverpool vs. Arsenal - Sun 08/11 11:50am",
-        "Sportsnet 05 : Stafford Rangers vs. Grimsby Town - Sun 08/11 11:50am",
-        "Sportsnet 06 : FC Twente vs. AFC Ajax - Sun 08/11 1:20pm",
-        "Sportsnet 01 : Crystal Palace vs. Charlton Athletic - Sun 08/11 1:50pm",
-        "Sportsnet 07 : Tottenham Hotspur vs. Brighton & Hove Albion - Sun 08/11 1:50pm",
         "Sportsnet 08 : Cray Wanderers vs. Stockport County - Sun 08/11 2:05pm",
         "Sportsnet 09 : London City Lionesses vs. Birmingham City - Sun 08/11 2:20pm",
         "Sportsnet 10 : Wimborne Town vs. Crawley Town - Sun 08/11 2:50pm",
@@ -1553,7 +1507,11 @@
         "Sportsnet 07 : New Jersey @ Toronto - Mon 09/11 12:00am",
         "Sportsnet 02 : Philadelphia @ Calgary - Mon 09/11 12:00am",
         "Sportsnet 08 : Brooklyn @ Dallas - Mon 09/11 12:30am",
-        "Sportsnet 03 : Pittsburgh @ Anaheim - Mon 09/11 1:00am"
+        "Sportsnet 03 : Pittsburgh @ Anaheim - Mon 09/11 1:00am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 8 - Mon 09/11 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 9 - Mon 09/11 2:00pm",
+        "Sportsnet 02 : The Raptors Show: Nov. 9 - Mon 09/11 4:00pm",
+        "Sportsnet 03 : The FAN Hockey Show: Nov. 9 - Mon 09/11 5:00pm"
       ],
       "sections": [],
       "events": []
@@ -1564,17 +1522,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Aston Villa v Manchester United - WSL 2026/27 - Sun 08/11 11:51am",
-        "Stan 02 : Liverpool v Arsenal - WSL 2026/27 - Sun 08/11 11:51am",
-        "Stan 03 : Stafford Rangers v Grimsby Town - FA Cup 2026/2027 - Sun 08/11 11:51am",
-        "Stan 04 : Chennai: Day 7 - WTA 250 - Sun 08/11 1:01pm",
-        "Stan 08 : Goal Rush: Crystal Palace v Liverpool • 9 Nov - Premier League 2026/2027 - Sun 08/11 1:01pm",
-        "Stan 13 : Brighton & Hove Albion v Brentford - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:51pm",
-        "Stan 11 : Crystal Palace v Charlton Athletic - WSL 2026/27 - Sun 08/11 1:51pm",
-        "Stan 10 : Crystal Palace v Liverpool - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:51pm",
-        "Stan 14 : Ipswich Town v Bournemouth - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:51pm",
-        "Stan 09 : Sunderland v Chelsea - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:51pm",
-        "Stan 12 : Tottenham Hotspur v Brighton & Hove Albion - WSL 2026/27 - Sun 08/11 1:51pm",
+        "Stan 14 : Ipswich Town v Bournemouth - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
+        "Stan 09 : Sunderland v Chelsea - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
+        "Stan 13 : Brighton & Hove Albion v Brentford - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
+        "Stan 10 : Crystal Palace v Liverpool - Premier League Matchweek 10 2026/2027 - Sun 08/11 1:50pm",
+        "Stan 11 : Crystal Palace v Charlton Athletic - WSL 2026/27 - Sun 08/11 1:50pm",
+        "Stan 12 : Tottenham Hotspur v Brighton & Hove Albion - WSL 2026/27 - Sun 08/11 1:50pm",
         "Stan 05 : Cray Wanderers v Stockport County - FA Cup 2026/2027 - Sun 08/11 2:06pm",
         "Stan 15 : London City Lionesses v Birmingham City - WSL 2026/27 - Sun 08/11 2:21pm",
         "Stan 06 : England v Australia - Nations Championship Round 4 2026 - Sun 08/11 2:31pm",
@@ -1585,8 +1538,8 @@
         "Stan 19 : Oldham Athletic v Sheffield Wednesday - FA Cup 2026/2027 - Sun 08/11 5:06pm",
         "Stan 20 : Gotham FC v Seattle Reign FC - NWSL 2026 - Sun 08/11 5:31pm",
         "Stan 01 : PL Weekend Wrap: Matchweek 10 - Nov 9 - Sun 08/11 7:01pm",
+        "Stan 03 : Washington Spirit v Portland Thorns FC - NWSL 2026 - Sun 08/11 7:56pm",
         "Stan 02 : Indian Wells: Day 1 - WTA Finals - Sun 08/11 8:01pm",
-        "Stan 03 : Washington Spirit v Portland Thorns FC - NWSL 2026 - Sun 08/11 8:01pm",
         "Stan 01 : Second Round Draw - FA Cup 2026/27 - Mon 09/11 6:31pm",
         "Stan 02 : Plymouth Parkway v Berkhamsted - FA Cup 2026/2027 - Mon 09/11 7:21pm",
         "Stan 03 : Indian Wells: Day 2 - WTA Finals - Mon 09/11 8:01pm",
@@ -1619,7 +1572,10 @@
         "Stan 01 : Race Day: The Bend - Australian Superbikes Championship 2026 - Sun 15/11 2:01am",
         "Stan 02 : Race 2: Le Castellet - Asian Le Mans Cup 2026/27 - Sun 15/11 8:16am",
         "Stan 01 : Race 2: Le Castellet - Asian Le Mans Series 2026/27 - Sun 15/11 12:01pm",
-        "Stan 03 : West Ham United v Charlton Athletic - WSL 2026/27 - Sun 15/11 1:56pm"
+        "Stan 04 : Aston Villa v Birmingham City - WSL 2026/27 - Sun 15/11 1:56pm",
+        "Stan 03 : West Ham United v Charlton Athletic - WSL 2026/27 - Sun 15/11 1:56pm",
+        "Stan 05 : Scotland v Australia - Nations Championship Round 5 2026 - Sun 15/11 2:31pm",
+        "Stan 02 : Arsenal v London City Lionesses - WSL 2026/27 - Sun 15/11 4:21pm"
       ],
       "sections": [],
       "events": []
@@ -1639,8 +1595,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : LaLiga 2: Andorra vs. Mallorca - Sun 08/11 12:48pm",
-        "TSN 03 : LaLiga: Elche vs. Real Betis - Sun 08/11 12:48pm",
         "TSN 04 : NFL International Series: Bengals vs. Falcons - Sun 08/11 2:30pm",
         "TSN 06 : ATP 250 Tennis: Stockholm - Day #1 - Sun 08/11 3:00pm",
         "TSN 05 : NFL Fantasy Focus - Sun 08/11 3:00pm",
