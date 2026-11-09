@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-09T08:15:30.026198+00:00",
+  "scraped_at": "2026-11-09T12:00:59.328767+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -52,7 +52,8 @@
         "EVENT 04 - 10-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Paris - MD4 [SG]",
         "EVENT 03 - 10-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Inter vs Man City - MD4 [SG]",
         "EVENT 05 - 10-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: PSG vs Bayern - MD4 [SG]",
-        "EVENT 06 - 10-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Roma vs Servette - MD4 [SG]"
+        "EVENT 06 - 10-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Roma vs Servette - MD4 [SG]",
+        "EVENT 01 - 11-Nov 10:00AM-12:00PM - East Asia Super League 2026/27 KCC Egis vs Fubon Braves [SG]"
       ],
       "sections": [],
       "events": []
@@ -212,20 +213,8 @@
         {
           "sport": "TENNIS",
           "time": "12:00",
-          "name": "JAMES DUCKWORTH - CAMERON NORRIE",
+          "name": "STOCKHOLM OPEN",
           "datetime": "2026-11-09 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "13:10",
-          "name": "A. VALLEJO - U. HUMBERT",
-          "datetime": "2026-11-09 13:10:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -264,19 +253,11 @@
           "datetime": "2026-11-09 20:00:00",
           "channels": [
             {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "22:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-09 22:00:00",
-          "channels": [
-            {
               "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -523,8 +504,10 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 09/11/2026 06:45 - 18:43",
-        "BBC Events 02 - Autumnwatch: Autumn Calm - 09/11/2026 06:00 - 10:00",
-        "BBC Events 03 - no_brand_title: New Technology Tackling Retail Crime - 09/11/2026 05:54 - 01:29"
+        "BBC Events 02 - no_brand_title: Phone-in: Are Victims Being Treated Fairly During Rape Trials? - 09/11/2026 09:57 - 08:53",
+        "BBC Events 03 - no_brand_title: New Technology Tackling Retail Crime - 09/11/2026 05:54 - 01:29",
+        "BBC Events 04 - The FA Cup: First Round: Altrincham v Notts County - 09/11/2026 10:00 - 13:07",
+        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 09/11/2026 عالم الظهيرة - 09/11/2026 11:35 - 11:34"
       ],
       "sections": [],
       "events": []
@@ -837,7 +820,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 8 - Mon 09/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 9 - Mon 09/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 9 - Mon 09/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 9 - Mon 09/11 5:00pm",
@@ -872,7 +854,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Chennai: Day 7 - WTA 250 - Mon 09/11 5:29am",
         "Stan 01 : Second Round Draw - FA Cup 2026/27 - Mon 09/11 6:31pm",
         "Stan 02 : Plymouth Parkway v Berkhamsted - FA Cup 2026/2027 - Mon 09/11 7:21pm",
         "Stan 03 : Indian Wells: Day 2 - WTA Finals - Mon 09/11 8:01pm",
