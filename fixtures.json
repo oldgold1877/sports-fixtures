@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-09T12:00:59.328767+00:00",
+  "scraped_at": "2026-11-09T17:02:15.470694+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,18 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Monday 9 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 19:30-21:30 - FA Cup: Plymouth Parkway vs Berkhamsted 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 - World Snooker - International Championship 2026 - Stream 1"
@@ -215,18 +227,6 @@
           "time": "12:00",
           "name": "STOCKHOLM OPEN",
           "datetime": "2026-11-09 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "18:30",
-          "name": "LEO BORG - TOBY SAMUEL",
-          "datetime": "2026-11-09 18:30:00",
           "channels": [
             {
               "name": "TENNIS CHANNEL",
@@ -492,7 +492,7 @@
         "TNT Ultimate UHD - Live: FA Cup Football - First Round: Plymouth Parkway v Berkhamsted - Mon 09/11 6:30pm",
         "Sky Sports F1 UHD - Formula 1 - Sao Paulo Grand Prix: Stand Alone Race - Mon 09/11 7:00pm",
         "Sky Sports Main Event UHD - Sports Centre - Mon 09/11 7:00pm",
-        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 2: Singles - Mon 09/11 7:30pm"
+        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 2, Singles: Aryna Sabalenka v Karolina Muchova - Mon 09/11 7:30pm"
       ],
       "sections": [],
       "events": []
@@ -506,8 +506,9 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 09/11/2026 06:45 - 18:43",
         "BBC Events 02 - no_brand_title: Phone-in: Are Victims Being Treated Fairly During Rape Trials? - 09/11/2026 09:57 - 08:53",
         "BBC Events 03 - no_brand_title: New Technology Tackling Retail Crime - 09/11/2026 05:54 - 01:29",
-        "BBC Events 04 - The FA Cup: First Round: Altrincham v Notts County - 09/11/2026 10:00 - 13:07",
-        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 09/11/2026 عالم الظهيرة - 09/11/2026 11:35 - 11:34"
+        "BBC Events 04 - Women's Super League: London City v Birmingham City - 09/11/2026 16:17 - 18:44",
+        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 09/11/2026 عالم الظهيرة - 09/11/2026 11:35 - 11:34",
+        "BBC Events 06 - no_brand_title: Are Rage Rooms Therapy? - 09/11/2026 12:20 - 11:46"
       ],
       "sections": [],
       "events": []
@@ -731,7 +732,10 @@
       "type": "plain",
       "last_updated": "Last updated: Mon 09 Nov 2026 05:00:06 UK",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "FloSports 02 - FloCollege: Davenport vs West Chester - 14 Nov 15:00 UK / 10:00 ET / 07:00 PT",
+        "FloSports 01 - FloCollege: Davenport vs Ohio St - 14 Nov 17:00 UK / 12:00 ET / 09:00 PT"
+      ],
       "sections": [],
       "events": []
     },
@@ -749,8 +753,8 @@
         "Sky Sport 6 - LIVE: SS: NSW v S Australia D1 - 23:30 10/11/2026",
         "Sky Sport 1 - LIVE: WBBL: Scorchers v Thunder - 08:05 11/11/2026",
         "Sky Sport 1 UHD - LIVE: WBBL: Scorchers v Thunder - 08:05 11/11/2026",
-        "Sky Sport 5 - LIVE: SS: NSW v S Australia D2 - 23:25 11/11/2026",
         "Sky Sport 6 - LIVE: SS: Victoria v W Australia D2 - 23:25 11/11/2026",
+        "Sky Sport 5 - LIVE: SS: NSW v S Australia D2 - 23:25 11/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: 7th Place Playoff - 23:50 11/11/2026",
         "Sky Sport 1 UHD - LIVE: RLWC Wheelchair: 7th Place Playoff - 23:50 11/11/2026",
         "Sky Sport 1 - LIVE: RLWC Wheelchair: 5th Place Playoff - 02:20 12/11/2026",
@@ -820,8 +824,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 9 - Mon 09/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 9 - Mon 09/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 9 - Mon 09/11 5:00pm",
         "Sportsnet 04 : Second Round Draw Show - Mon 09/11 6:30pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 9 - Mon 09/11 7:00pm",
@@ -843,7 +845,8 @@
         "Sportsnet 05 : Colorado @ Toronto - Wed 11/11 12:00am",
         "Sportsnet 03 : French Language Broadcast: Minnesota @ Montreal - Wed 11/11 12:00am",
         "Sportsnet 04 : French Language Broadcast: Washington @ Ottawa - Wed 11/11 12:00am",
-        "Sportsnet 06 : Minnesota @ Montreal - Wed 11/11 12:00am"
+        "Sportsnet 06 : Minnesota @ Montreal - Wed 11/11 12:00am",
+        "Sportsnet 07 : Washington @ Ottawa - Wed 11/11 12:00am"
       ],
       "sections": [],
       "events": []
