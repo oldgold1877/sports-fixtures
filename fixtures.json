@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-09T21:16:44.899772+00:00",
+  "scraped_at": "2026-11-10T00:34:02.421166+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,18 +11,6 @@
         {
           "section": "Sports Scene",
           "entries": [
-            {
-              "type": "date",
-              "text": "Monday 9 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 19:30-21:30 - FA Cup: Plymouth Parkway vs Berkhamsted 1080p"
-            },
-            {
-              "type": "date",
-              "text": "Additional"
-            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 - World Snooker - International Championship 2026 - Stream 1"
@@ -59,7 +47,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 09-Nov 07:20PM-09:30PM - The Emirates FA Cup 2026/27 R1: Plymouth Parkway vs Berkhamsted [SG]",
         "EVENT 02 - 10-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Hacken vs Chelsea - MD4 [SG]",
         "EVENT 04 - 10-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Paris - MD4 [SG]",
         "EVENT 03 - 10-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Inter vs Man City - MD4 [SG]",
@@ -75,200 +62,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "01:20",
-          "name": "CHICAGO BEARS - TAMPA BAY BUCCANEERS",
-          "datetime": "2026-11-09 01:20:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:30",
-          "name": "DALLAS MAVERICKS - BROOKLYN NETS",
-          "datetime": "2026-11-09 00:30:00",
-          "channels": [
-            {
-              "name": "YES",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:00",
-          "name": "MILWAUKEE BUCKS - BOSTON CELTICS",
-          "datetime": "2026-11-09 01:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:00",
-          "name": "SOUTHERN CAL - UTAH STATE",
-          "datetime": "2026-11-09 01:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "23:00",
-          "name": "OHIO STATE - MARSHALL",
-          "datetime": "2026-11-09 23:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "23:30",
-          "name": "INDIANA - SYRACUSE",
-          "datetime": "2026-11-09 23:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FIGHTING",
-          "time": "01:30",
-          "name": "ELIF NUR TURHAN - ALYCIA BAUMGARDNER",
-          "datetime": "2026-11-09 01:30:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "00:00",
-          "name": "TORONTO MAPLE LEAFS - NEW JERSEY DEVILS",
-          "datetime": "2026-11-09 00:00:00",
-          "channels": [
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "18:00",
-          "name": "AUSTRIA - USA",
-          "datetime": "2026-11-09 18:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "18:00",
-          "name": "DENMARK - CANADA",
-          "datetime": "2026-11-09 18:00:00",
-          "channels": [
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "00:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-09 00:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "12:00",
-          "name": "STOCKHOLM OPEN",
-          "datetime": "2026-11-09 12:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "19:00",
-          "name": "STOCKHOLM OPEN",
-          "datetime": "2026-11-09 19:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "20:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-09 20:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -482,20 +275,327 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "BOWLING GREEN - KENT STATE",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "INDIANA - MARYLAND",
+          "datetime": "2026-11-11 23:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:00",
+          "name": "DUKE - MICHIGAN STATE",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:00",
+          "name": "IOWA - VIRGINIA TECH",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "00:00",
+          "name": "PRINCETON - VILLANOVA",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "SNY",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "01:00",
+          "name": "PHILADELPHIA 76ERS - BOSTON CELTICS",
+          "datetime": "2026-11-11 01:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "01:30",
+          "name": "WISCONSIN - FAIRFIELD",
+          "datetime": "2026-11-11 01:30:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "02:00",
+          "name": "KANSAS STATE - CREIGHTON",
+          "datetime": "2026-11-11 02:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "02:30",
+          "name": "KENTUCKY - KANSAS",
+          "datetime": "2026-11-11 02:30:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "03:30",
+          "name": "SOUTHERN CAL - COLLEGE OF CHARLESTON",
+          "datetime": "2026-11-11 03:30:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "04:00",
+          "name": "PORTLAND TRAIL BLAZERS - OKLAHOMA CITY THUNDER",
+          "datetime": "2026-11-11 04:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:30",
+          "name": "DARTMOUTH - NEW HAMPSHIRE",
+          "datetime": "2026-11-11 23:30:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "MONTREAL CANADIENS - MINNESOTA WILD",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "OTTAWA SENATORS - WASHINGTON CAPITALS",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "TORONTO MAPLE LEAFS - COLORADO AVALANCHE",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "WINNIPEG JETS - NEW JERSEY DEVILS",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "01:00",
+          "name": "ST. LOUIS BLUES - DETROIT RED WINGS",
+          "datetime": "2026-11-11 01:00:00",
+          "channels": [
+            {
+              "name": "TNT US",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "14:00",
+          "name": "CANADA - FINLAND",
+          "datetime": "2026-11-11 14:00:00",
+          "channels": [
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "14:00",
+          "name": "GERMANY - SWITZERLAND",
+          "datetime": "2026-11-11 14:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "18:00",
+          "name": "JAPAN - SWEDEN",
+          "datetime": "2026-11-11 18:00:00",
+          "channels": [
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "18:00",
+          "name": "USA - CZECH REPUBLIC",
+          "datetime": "2026-11-11 18:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "00:00",
+          "name": "WTA FINALS",
+          "datetime": "2026-11-11 00:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "20:00",
+          "name": "WTA FINALS",
+          "datetime": "2026-11-11 20:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "22:00",
+          "name": "WTA FINALS",
+          "datetime": "2026-11-11 22:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Main Event UHD - Live: NFL Football - Green Bay Packers at New England Patriots - Sun 08/11 9:15pm",
-        "Sky Sports F1 UHD - Ted's Notebook - Sao Paulo Grand Prix: Race - Sun 08/11 11:45pm",
-        "Sky Sports Main Event UHD - Football Night in America - Episode 12 - Mon 09/11 12:30am",
-        "Sky Sports Main Event UHD - The EFL Show - Mon 09/11 2:00pm",
-        "Sky Sports Main Event UHD - The Premier League Show - Episode 150 - Mon 09/11 5:00pm",
-        "TNT Ultimate UHD - Live: FA Cup Football - First Round: Plymouth Parkway v Berkhamsted - Mon 09/11 6:30pm",
-        "Sky Sports F1 UHD - Formula 1 - Sao Paulo Grand Prix: Stand Alone Race - Mon 09/11 7:00pm",
-        "Sky Sports Main Event UHD - Sports Centre - Mon 09/11 7:00pm",
-        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 2, Singles: Aryna Sabalenka v Karolina Muchova - Mon 09/11 7:30pm"
+        "Sky Sports F1 UHD - Formula 1 - Sao Paulo Grand Prix: Stand Alone Race - Mon 09/11 11:00pm",
+        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 2: Doubles - Tue 10/11 12:00am",
+        "Sky Sports Main Event UHD - Live: NFL Football - Buffalo Bills at Minnesota Vikings - Tue 10/11 1:00am",
+        "Sky Sports Main Event UHD - The Premier League Show - Episode 151 - Tue 10/11 5:00pm",
+        "Sky Sports Main Event UHD - Sports Centre - Tue 10/11 7:00pm",
+        "Sky Sports Main Event UHD - Live: NBA Basketball - Boston Celtics at Philadelphia 76ers - Wed 11/11 3:00am"
       ],
       "sections": [],
       "events": []
@@ -506,11 +606,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "BBC Events 01 - Autumnwatch: Autumn Calm - 10/11/2026 00:00 - 06:00",
         "BBC Events 02 - no_brand_title: Phone-in: Are Victims Being Treated Fairly During Rape Trials? - 09/11/2026 09:57 - 08:53",
         "BBC Events 03 - no_brand_title: New Technology Tackling Retail Crime - 09/11/2026 05:54 - 01:29",
         "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - 09/11/2026 عالم الظهيرة - 09/11/2026 11:35 - 11:34",
-        "BBC Events 06 - no_brand_title: Are Rage Rooms Therapy? - 09/11/2026 12:20 - 11:46",
-        "BBC Events 08 - Autumnwatch: Autumn Calm - 09/11/2026 18:45 - 23:59"
+        "BBC Events 06 - no_brand_title: Are Rage Rooms Therapy? - 09/11/2026 12:20 - 11:46"
       ],
       "sections": [],
       "events": []
@@ -521,7 +621,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Euro Basketball League 01 : Virtus Costa Bologna vs Tezenis Verona - Mon 09/11 07:00pm",
         "Euro Basketball League 01 : Balkan Botevgrad vs PAOK Thessaloniki  - Tue 10/11 05:00pm",
         "Euro Basketball League 02 : Neptunas Klaipeda vs Slask Wroclaw - Tue 10/11 05:00pm",
         "Euro Basketball League 03 : U-BT Cluj-Napoca vs Turk Telekom Ankara - Tue 10/11 05:00pm",
@@ -544,7 +643,9 @@
         "Euro Basketball League 03 : Olympiacos Piraeus vs Dubai Basketball - Thu 12/11 07:15pm",
         "Euro Basketball League 04 : Armani Olimpia Milan vs Zalgiris Kaunas - Thu 12/11 07:30pm",
         "Euro Basketball League 05 : Valencia Basket vs FC Bayern Munich - Thu 12/11 07:30pm",
-        "Euro Basketball League 06 : Real Madrid vs Crvena Zvezda Meridianbet Belgrade - Thu 12/11 08:00pm"
+        "Euro Basketball League 06 : Real Madrid vs Crvena Zvezda Meridianbet Belgrade - Thu 12/11 08:00pm",
+        "Euro Basketball League 01 : Anadolu Efes Istanbul vs Virtus Bologna - Fri 13/11 05:30pm",
+        "Euro Basketball League 02 : Panathinaikos AKTOR Athens vs FC Barcelona - Fri 13/11 07:15pm"
       ],
       "sections": [],
       "events": []
@@ -566,9 +667,13 @@
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Mon Nov 09, 2026 12:00am GMT",
+      "last_updated": "Last Updated: Tue Nov 10, 2026 12:00am GMT",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "GAA Plus 01: AIB Leinster Football Championship - CUALA v SARSFIELDS - Sat 14/11 4:45pm",
+        "GAA Plus 02: AIB Munster Hurling Championship - INAGH-KILNAMONA v GLEN ROVERS - Sun 15/11 1:15pm",
+        "GAA Plus 03: AIB Connacht Football Championship - SALTHILL–KNOCKNACARRA  v ST. BRIGID'S GAA - Sun 15/11 3:15pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -667,7 +772,10 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 1 - Afternoon Session - Grand Slam of Darts | Main Feed (English) - Sat 14/11 12:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 1 - Evening Session - Grand Slam of Darts | Main Feed (English) - Sat 14/11 7:00pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -684,7 +792,8 @@
         "Paramount+ Event 05 - 19:15 - Uefa Womens Champions League: PSG vs. Bayern",
         "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: OH Leuven vs. HB Køge",
         "Paramount+ Event 02 - 19:15 - Uefa Womens Champions League: Benfica vs. Austria Wien",
-        "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Lyonnes"
+        "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Lyonnes",
+        "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Barcelona vs. Arsenal"
       ],
       "sections": [],
       "events": []
@@ -826,9 +935,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 05 : Plymouth Parkway vs. Berkhamsted - Mon 09/11 7:20pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 9 - Mon 09/11 9:00pm",
-        "Sportsnet 01 : The FAN Pregame: Nov. 9 - Mon 09/11 11:00pm",
         "Sportsnet 03 : Memphis @ Toronto - Tue 10/11 12:00am",
         "Sportsnet 04 : New York Rangers @ Edmonton - Tue 10/11 1:00am",
         "Sportsnet 02 : Philadelphia @ Vancouver - Tue 10/11 2:00am",
@@ -847,7 +953,11 @@
         "Sportsnet 06 : Minnesota @ Montreal - Wed 11/11 12:00am",
         "Sportsnet 07 : Washington @ Ottawa - Wed 11/11 12:00am",
         "Sportsnet 08 : Florida @ Columbus - Wed 11/11 12:30am",
-        "Sportsnet 09 : Boston @ Philadelphia - Wed 11/11 1:00am"
+        "Sportsnet 09 : Boston @ Philadelphia - Wed 11/11 1:00am",
+        "Sportsnet 10 : Detroit @ St. Louis - Wed 11/11 1:00am",
+        "Sportsnet 11 : New Jersey @ Winnipeg - Wed 11/11 1:00am",
+        "Sportsnet 01 : Nashville @ Los Angeles - Wed 11/11 3:00am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 10 - Wed 11/11 10:00am"
       ],
       "sections": [],
       "events": []
@@ -858,9 +968,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Second Round Draw - FA Cup 2026/27 - Mon 09/11 6:31pm",
-        "Stan 02 : Plymouth Parkway v Berkhamsted - FA Cup 2026/2027 - Mon 09/11 7:21pm",
-        "Stan 03 : Indian Wells: Day 2 - WTA Finals - Mon 09/11 8:01pm",
         "Stan 01 : Indian Wells: Day 3 - WTA Finals - Tue 10/11 8:01pm",
         "Stan 01 : Indian Wells: Day 4 - WTA Finals - Wed 11/11 8:01pm",
         "Stan 01 : Indian Wells: Day 5 - WTA Finals - Thu 12/11 8:01pm",
@@ -938,7 +1045,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Stockholm - Day #2 - Mon 09/11 12:00pm",
         "TSN 04 : 2026 WTA Finals: Round Robin - Day #2 - Mon 09/11 8:00pm",
         "TSN 02 : NBA on TSN: Wizards vs. Pistons - Tue 10/11 12:00am",
         "TSN 01 : Field Pass with The Pat McAfee Show: Bills vs. Vikings - Tue 10/11 1:15am"
