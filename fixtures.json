@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-11T18:21:23.880766+00:00",
+  "scraped_at": "2026-11-11T23:20:19.938208+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -16,9 +16,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 11-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: OH Leuven vs HB Koge - MD4 [SG]",
-        "EVENT 03 - 11-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Benfica vs Austria Wien - MD4 [SG]",
-        "EVENT 04 - 11-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Juventus vs OL Lyonnes - MD4 [SG]",
         "EVENT 01 - 12-Nov 02:45PM-04:55PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ghana vs Somalia [SG]",
         "EVENT 02 - 12-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: DR Congo vs Sierra Leone [SG]",
         "EVENT 04 - 12-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Equatorial Guinea vs Zimbabwe [SG]",
@@ -29,7 +26,10 @@
         "EVENT 01 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
         "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]",
         "EVENT 01 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
-        "EVENT 03 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]"
+        "EVENT 03 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]",
+        "EVENT 02 - 13-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Egypt vs Malawi [SG]",
+        "EVENT 03 - 13-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Burgos [SG]",
+        "EVENT 04 - 13-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Morocco vs Niger [SG]"
       ],
       "sections": [],
       "events": []
@@ -725,7 +725,6 @@
         "BBC Events 01 - Autumnwatch: Autumn Calm - 11/11/2026 18:00 - 00:00",
         "BBC Events 02 - no_brand_title: Two Minute Silence to Mark Armistice Day - 11/11/2026 10:46 - 10:24",
         "BBC Events 03 - no_brand_title: Phone In: Have We Got a Celebrity Problem? - 11/11/2026 08:55 - 08:31",
-        "BBC Events 05 - no_brand_title: BBC Weather Live - 11/11/2026 09:27 - 18:50",
         "BBC Events 06 - no_brand_title: Phone In: Monaco and Man Utd: Sack Carrick? - 11/11/2026 09:49 - 08:46"
       ],
       "sections": [],
@@ -898,9 +897,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: OH Leuven vs. HB Køge",
-        "Paramount+ Event 02 - 19:15 - Uefa Womens Champions League: Benfica vs. Austria Wien",
-        "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Lyonnes",
+        "Paramount+ Event 01 - 19:15 - Uefa Womens Champions League: Benfica vs. Austria Wien",
+        "Paramount+ Event 02 - 19:15 - UEFA Women's Champions League: Juventus vs. Lyonnes",
         "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Barcelona vs. Arsenal",
         "Paramount+ Event 02 - 19:20 - Uefa Womens Champions League: Benfica vs. Austria Wien"
       ],
@@ -1075,8 +1073,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 15 | Barnsley vs Oldham",
-        "Sky Sports+ 16 | Sheff Wed vs Accrington",
         "Luton vs Peterborough",
         "Stockport vs Reading",
         "Bristol R vs Chesterfield",
@@ -1101,9 +1097,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Nov. 11 - Wed 11/11 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Nov. 11 - Wed 11/11 7:00pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 11 - Wed 11/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 11 - Wed 11/11 11:00pm",
         "Sportsnet 03 : Cleveland @ New York - Thu 12/11 12:00am",
         "Sportsnet 04 : Tampa Bay @ Buffalo - Thu 12/11 12:00am",
@@ -1125,7 +1118,9 @@
         "Sportsnet 03 : UFC 334 Pre-Fight Press Conference - Thu 12/11 10:50pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 12 - Thu 12/11 11:00pm",
         "Sportsnet 05 : Toronto @ Philadelphia - Thu 12/11 11:30pm",
-        "Sportsnet 04 : Colorado @ Ottawa - Fri 13/11 12:00am"
+        "Sportsnet 04 : Colorado @ Ottawa - Fri 13/11 12:00am",
+        "Sportsnet 06 : French Language Broadcast: Colorado @ Ottawa - Fri 13/11 12:00am",
+        "Sportsnet 07 : French Language Broadcast: Montreal @ Boston - Fri 13/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1136,7 +1131,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Indian Wells: Day 4 - WTA Finals - Wed 11/11 8:01pm",
+        "Stan 01 : Indian Wells: Day 4 - WTA Finals - Wed 11/11 8:00pm",
         "Stan 01 : Indian Wells: Day 5 - WTA Finals - Thu 12/11 8:01pm",
         "Stan 01 : Qualifying LMP3 & GT3: Le Castellet - Asian Le Mans Cup 2026/27 - Fri 13/11 2:06pm",
         "Stan 02 : Qualifying GT: Le Castellet - Asian Le Mans Series 2026/27 - Fri 13/11 3:01pm",
@@ -1215,9 +1210,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : ATP 250 Tennis: Stockholm - Day #4 - Wed 11/11 12:00pm",
-        "TSN 03 : Pat McAfee Show - Wed 11/11 5:00pm",
-        "TSN 02 : Rich Eisen Show - Wed 11/11 5:00pm",
         "TSN 04 : 2026 WTA Finals: Round Robin - Day #4 - Wed 11/11 8:00pm",
         "TSN 02 : NCAA Football: Buffalo vs. Ball State - Thu 12/11 12:30am",
         "TSN 03 : NCAA Football: Sacramento State vs. Central Michigan - Thu 12/11 12:30am"
