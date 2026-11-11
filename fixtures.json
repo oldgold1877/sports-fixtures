@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-11T12:00:53.563433+00:00",
+  "scraped_at": "2026-11-11T14:51:37.143559+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -43,6 +43,18 @@
             {
               "type": "fixture",
               "text": "UEFA | 02 - Real Madrid vs Paris FC 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Inter Milan vs Manchester City 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - PSG vs Bayern Munich 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Roma vs Servette 1:00am"
             }
           ]
         }
@@ -55,8 +67,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 11-Nov 10:00AM-12:00PM - East Asia Super League 2026/27 KCC Egis vs Fubon Braves [SG]",
-        "EVENT 01 - 11-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: OH Leuven vs HB Koge - MD4 [SG]",
+        "EVENT 02 - 11-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: OH Leuven vs HB Koge - MD4 [SG]",
         "EVENT 03 - 11-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Benfica vs Austria Wien - MD4 [SG]",
         "EVENT 04 - 11-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Juventus vs OL Lyonnes - MD4 [SG]",
         "EVENT 01 - 12-Nov 02:45PM-04:55PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ghana vs Somalia [SG]",
@@ -65,7 +76,9 @@
         "EVENT 06 - 12-Nov 04:55PM-06:55PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress): Guinea vs Eritrea [SG]",
         "EVENT 02 - 12-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Cameroon vs Namibia [SG]",
         "EVENT 03 - 12-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ivory Coast vs Gambia [SG]",
-        "EVENT 04 - 12-Nov 06:55PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress): Senegal vs Sudan [SG]"
+        "EVENT 04 - 12-Nov 06:55PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress): Senegal vs Sudan [SG]",
+        "EVENT 01 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
+        "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]"
       ],
       "sections": [],
       "events": []
@@ -760,6 +773,7 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: Two Minute Silence to Mark Armistice Day - 11/11/2026 10:46 - 10:24",
         "BBC Events 03 - no_brand_title: Phone In: Have We Got a Celebrity Problem? - 11/11/2026 08:55 - 08:31",
+        "BBC Events 04 - Autumnwatch: Autumn Calm - 11/11/2026 12:00 - 18:00",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 11/11/2026 09:27 - 18:50",
         "BBC Events 06 - no_brand_title: Phone In: Monaco and Man Utd: Sack Carrick? - 11/11/2026 09:49 - 08:46"
       ],
@@ -1154,7 +1168,8 @@
         "Sportsnet 04 : Carolina @ Seattle - Thu 12/11 5:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 12 - Thu 12/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 12 - Thu 12/11 7:00pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 12 - Thu 12/11 9:00pm"
+        "Sportsnet 02 : Real Kyper & Bourne: Nov. 12 - Thu 12/11 9:00pm",
+        "Sportsnet 03 : UFC 334 Pre-Fight Press Conference - Thu 12/11 10:50pm"
       ],
       "sections": [],
       "events": []
