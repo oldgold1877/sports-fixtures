@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-11T14:51:37.143559+00:00",
+  "scraped_at": "2026-11-11T18:00:51.145949+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,58 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 12 - World Snooker - International Championship 2026 - Stream 1"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 13 - World Snooker - International Championship 2026 - Stream 2"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 14 - World Snooker - International Championship 2026 - Stream 3"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 15 - World Snooker - International Championship 2026 - Stream 4"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "THE BELOW ARE ONLY ONLINE DURING EVENT SESSIONS BETWEEN 31/10 AND 07/11"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 01 - Hacken vs Chelsea 10:45pm"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 02 - Real Madrid vs Paris FC 10:45pm"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 03 - Inter Milan vs Manchester City 1:00am"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 04 - PSG vs Bayern Munich 1:00am"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 05 - Roma vs Servette 1:00am"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -78,7 +27,9 @@
         "EVENT 03 - 12-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ivory Coast vs Gambia [SG]",
         "EVENT 04 - 12-Nov 06:55PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress): Senegal vs Sudan [SG]",
         "EVENT 01 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
-        "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]"
+        "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]",
+        "EVENT 01 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
+        "EVENT 03 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]"
       ],
       "sections": [],
       "events": []
@@ -99,18 +50,6 @@
           "channels": [
             {
               "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "23:00",
-          "name": "INDIANA - MARYLAND",
-          "datetime": "2026-11-11 23:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -409,6 +348,18 @@
           "channels": [
             {
               "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "INDIANA - MARYLAND",
+          "datetime": "2026-11-12 00:30:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -773,7 +724,6 @@
       "fixtures": [
         "BBC Events 02 - no_brand_title: Two Minute Silence to Mark Armistice Day - 11/11/2026 10:46 - 10:24",
         "BBC Events 03 - no_brand_title: Phone In: Have We Got a Celebrity Problem? - 11/11/2026 08:55 - 08:31",
-        "BBC Events 04 - Autumnwatch: Autumn Calm - 11/11/2026 12:00 - 18:00",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 11/11/2026 09:27 - 18:50",
         "BBC Events 06 - no_brand_title: Phone In: Monaco and Man Utd: Sack Carrick? - 11/11/2026 09:49 - 08:46"
       ],
@@ -947,10 +897,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: OH Leuven vs. HB Køge",
+        "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: OH Leuven vs. HB Køge",
         "Paramount+ Event 02 - 19:15 - Uefa Womens Champions League: Benfica vs. Austria Wien",
         "Paramount+ Event 03 - 19:15 - Uefa Womens Champions League: Juventus vs. Lyonnes",
-        "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Barcelona vs. Arsenal"
+        "Paramount+ Event 01 - 16:30 - Uefa Womens Champions League: Barcelona vs. Arsenal",
+        "Paramount+ Event 02 - 19:20 - Uefa Womens Champions League: Benfica vs. Austria Wien"
       ],
       "sections": [],
       "events": []
@@ -1024,6 +975,7 @@
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 19:00 12/11/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 19:00 12/11/2026",
         "Sky Sport 2 - LIVE: PGA Champions Tour: R1 - 21:00 12/11/2026",
+        "Sky Sport 3 - LIVE: UFC 334: Press Conference - 23:00 12/11/2026",
         "Sky Sport 9 - LIVE: SS: NSW v S Australia D3 - 23:25 12/11/2026",
         "Sky Sport 7 - LIVE: SS: Victoria v W Australia D3 - 23:25 12/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 4th ODI - 01:30 13/11/2026",
@@ -1064,8 +1016,8 @@
         "Sky Sport 1 - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
         "Sky Sport 6 - LIVE: WSL: Chelsea v Man City - 13:20 14/11/2026",
-        "Sky Sport 7 - LIVE: NC: Hong Kong v Canada - 13:50 14/11/2026",
         "Sky Sport 2 - LIVE: NC: Georgia v Tonga - 13:50 14/11/2026",
+        "Sky Sport 7 - LIVE: NC: Hong Kong v Canada - 13:50 14/11/2026",
         "Sky Sport 9 - LIVE: PFL Dubai 2 - 14:00 14/11/2026",
         "Sky Sport 3 - LIVE: NC: Portugal v Samoa - 14:50 14/11/2026",
         "Sky Sport 5 - LIVE: NC: Zimbabwe v Uruguay - 14:50 14/11/2026",
@@ -1108,7 +1060,10 @@
         "Sky Sport 1 - LIVE: WBBL: Thunder v Stars - 07:30 16/11/2026",
         "Sky Sport 1 UHD - LIVE: WBBL: Thunder v Stars - 07:30 16/11/2026",
         "Sky Sport 1 - LIVE: Grand Slam of Darts: D3 - 19:00 16/11/2026",
-        "Sky Sport 1 UHD - LIVE: Grand Slam of Darts: D3 - 19:00 16/11/2026"
+        "Sky Sport 1 UHD - LIVE: Grand Slam of Darts: D3 - 19:00 16/11/2026",
+        "Sky Sport 1 - LIVE: Silver Ferns v Net Blacks: G1 - 06:30 17/11/2026",
+        "Sky Sport 1 UHD - LIVE: Silver Ferns v Net Blacks: G1 - 06:30 17/11/2026",
+        "Sky Sport 2 - LIVE: WBBL: Strikers v Sixers - 08:05 17/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1119,6 +1074,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 15 | Barnsley vs Oldham",
+        "Sky Sports+ 16 | Sheff Wed vs Accrington",
         "Luton vs Peterborough",
         "Stockport vs Reading",
         "Bristol R vs Chesterfield",
@@ -1132,9 +1089,7 @@
         "Wigan vs Barnsley",
         "Wimbledon vs Blackpool",
         "Shrewsbury vs Oldham",
-        "Swindon vs Grimsby",
-        "Barnsley vs Oldham",
-        "Sheff Wed vs Accrington"
+        "Swindon vs Grimsby"
       ],
       "sections": [],
       "events": []
@@ -1145,8 +1100,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 11 - Wed 11/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 11 - Wed 11/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 11 - Wed 11/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 11 - Wed 11/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 11 - Wed 11/11 9:00pm",
