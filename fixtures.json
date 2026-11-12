@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-12T08:15:25.337162+00:00",
+  "scraped_at": "2026-11-12T12:00:50.640598+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,21 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Barcelona vs Arsenal 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Benfica vs Austria Wien 20:00pm"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -17,7 +31,7 @@
       "status": "ok",
       "fixtures": [
         "EVENT 01 - 12-Nov 02:45PM-04:55PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Ghana vs Somalia [SG]",
-        "EVENT 02 - 12-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: DR Congo vs Sierra Leone [SG]",
+        "EVENT 03 - 12-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: DR Congo vs Sierra Leone [SG]",
         "EVENT 04 - 12-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Equatorial Guinea vs Zimbabwe [SG]",
         "EVENT 06 - 12-Nov 04:55PM-06:55PM - TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress): Guinea vs Eritrea [SG]",
         "EVENT 02 - 12-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Cameroon vs Namibia [SG]",
@@ -742,9 +756,8 @@
       "fixtures": [
         "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 4: Doubles - Thu 12/11 12:00am",
         "Sky Sports Main Event UHD - Live: DP World Tour Championship, DP World Tour Golf - Day 1 - Thu 12/11 7:00am",
-        "Sky Sports Main Event UHD - The World Football Show - Thu 12/11 2:00pm",
-        "Sky Sports Main Event UHD - Live: Austin Championship, PGA Tour Golf - Day 1: Featured Groups - Thu 12/11 2:30pm",
         "Sky Sports Main Event UHD - Live: Pelican Women's Championship, LPGA Tour Golf - Day 1 - Thu 12/11 4:00pm",
+        "Sky Sports Main Event UHD - Live: Austin Championship, PGA Tour Golf - Day 1 - Thu 12/11 7:00pm",
         "Sky Sports Main Event UHD - Live: NFL Football - Washington Commanders at New York Giants - Fri 13/11 12:00am"
       ],
       "sections": [],
@@ -757,13 +770,13 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: Nvidia Board Reportedly Weighs Ousting CEO Jensen Huang - 12/11/2026 01:55 - 01:01",
-        "BBC Events 02 - no_brand_title: Two Minute Silence to Mark Armistice Day - 11/11/2026 10:46 - 10:24",
-        "BBC Events 03 - no_brand_title: Phone In: Have We Got a Celebrity Problem? - 11/11/2026 08:55 - 08:31",
+        "BBC Events 03 - no_brand_title: Cop Leaders' Speeches - 12/11/2026 09:06 - 08:53",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 12/11/2026 06:44 - 20:00",
-        "BBC Events 05 - Autumnwatch: Autumn Calm - 12/11/2026 06:00 - 12:00",
-        "BBC Events 06 - no_brand_title: Phone In: Monaco and Man Utd: Sack Carrick? - 11/11/2026 09:49 - 08:46",
+        "BBC Events 06 - no_brand_title: Man Utd Sack Head Coach Michael Carrick - 12/11/2026 10:00 - 09:59",
         "BBC Events 07 - no_brand_title: Andy Burnham to Speak at COP31 - 12/11/2026 06:30 - 01:17",
-        "BBC Events 08 - no_brand_title: UK Economy Grew by 0.7% in Third Quarter - 12/11/2026 07:53 - 07:02"
+        "BBC Events 08 - no_brand_title: UK Economy Grew by 0.7% in Third Quarter - 12/11/2026 07:53 - 07:02",
+        "BBC Events 09 - no_brand_title: Production Unlocked Glasgow - 12/11/2026 08:24 - 20:00",
+        "BBC Events 11 - no_brand_title: Ariel Views, 12 November 2026 - 12/11/2026 10:45 - 12:15"
       ],
       "sections": [],
       "events": []
@@ -1156,7 +1169,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 11 - Thu 12/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 12 - Thu 12/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 12 - Thu 12/11 4:00pm",
         "Sportsnet 04 : Carolina @ Seattle - Thu 12/11 5:00pm",
