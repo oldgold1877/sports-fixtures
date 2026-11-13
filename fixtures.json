@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-13T18:00:57.269957+00:00",
+  "scraped_at": "2026-11-13T18:21:16.889807+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -99,10 +99,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
-        "EVENT 02 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]",
-        "EVENT 02 - 13-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Egypt vs Malawi [SG]",
-        "EVENT 03 - 13-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Burgos [SG]",
+        "EVENT 03 - 13-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Egypt vs Malawi [SG]",
+        "EVENT 01 - 13-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Burgos [SG]",
         "EVENT 04 - 13-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Morocco vs Niger [SG]",
         "EVENT 03 - 14-Nov 12:35PM-02:50PM - Women's Super League 2026/27: Man United vs Crystal Palace [SG]",
         "EVENT 04 - 14-Nov 12:52PM-03:00PM - LaLiga 2 2026/27: Valladolid vs Castellon [SG]",
@@ -1209,18 +1207,6 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
-        },
-        {
-          "sport": "WINTERSPORTS",
-          "time": "17:00",
-          "name": "SKATE AMERICA",
-          "datetime": "2026-11-14 17:00:00",
-          "channels": [
-            {
-              "name": "NBC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
         }
       ]
     },
@@ -1250,11 +1236,14 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: WWII Secret Bunker in Dover Opens to Public - 13/11/2026 03:26 - 01:37",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 13/11/2026 07:04 - 21:49",
+        "BBC Events 03 - Autumnwatch: Autumn Calm - 13/11/2026 18:00 - 18:58",
         "BBC Events 04 - no_brand_title: Microsoft Says Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 05:24 - 05:06",
         "BBC Events 05 - no_brand_title: Scandal-Hit Nvidia CEO Jensen Huang Resigns - 13/11/2026 05:28 - 02:11",
+        "BBC Events 07 - Youth Olympic Games: Youth Olympics Closing Ceremony - 13/11/2026 17:42 - 18:35",
         "BBC Events 08 - no_brand_title: مايكروسوفت تكثّف جهودها لمعالجة عطل واسع النطاق تسبب في إرباك عالمي - 13/11/2026 11:39 - 19:00",
         "BBC Events 09 - no_brand_title: Clean-up Begins as Oil Spill Shuts Kent Beaches - 13/11/2026 05:55 - 01:52",
-        "BBC Events 10 - no_brand_title: Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 07:14 - 06:59"
+        "BBC Events 10 - no_brand_title: Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 07:14 - 06:59",
+        "BBC Events 11 - no_brand_title: BBC Radio Tees Sport - Pete Wild - 13/11/2026 17:45 - 19:05"
       ],
       "sections": [],
       "events": []
@@ -1716,7 +1705,9 @@
         "Sportsnet 03 : Detroit @ Tampa Bay - Sun 15/11 12:00am",
         "Sportsnet 04 : Edmonton @ Toronto - Sun 15/11 12:00am",
         "Sportsnet 07 : Florida @ St. Louis - Sun 15/11 12:00am",
-        "Sportsnet 08 : Minnesota @ Boston - Sun 15/11 12:00am"
+        "Sportsnet 08 : Minnesota @ Boston - Sun 15/11 12:00am",
+        "Sportsnet 09 : New Jersey @ Washington - Sun 15/11 12:00am",
+        "Sportsnet 10 : Ottawa @ Pittsburgh - Sun 15/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1726,7 +1717,68 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Stan 02 : Qualifying GT & Hypercar: Le Castellet - Asian Le Mans Series 2026/27 - Fri 13/11 3:01pm",
+        "Stan 03 : Hypercar & LMP2: Le Castellet - Asian Le Mans Series 2026/27 - Fri 13/11 3:51pm",
+        "Stan 05 : France v South Africa - Nations Championship Round 5 2026 - Fri 13/11 7:56pm",
+        "Stan 04 : Indian Wells: Day 6 - WTA Finals - Fri 13/11 8:01pm",
+        "Stan 01 : Race 1: Le Castellet - Asian Le Mans Cup 2026/27 - Sat 14/11 7:51am",
+        "Stan 02 : Italy v Argentina - Nations Championship Round 5 2026 - Sat 14/11 11:31am",
+        "Stan 03 : Race 1: Le Castellet - Asian Le Mans Series 2026/27 - Sat 14/11 11:51am",
+        "Stan 04 : Manchester United v Crystal Palace - WSL 2026/27 - Sat 14/11 12:36pm",
+        "Stan 05 : Wales v New Zealand - Nations Championship Round 5 2026 - Sat 14/11 1:16pm",
+        "Stan 06 : Chelsea v Manchester City - WSL 2026/27 - Sat 14/11 1:21pm",
+        "Stan 07 : Georgia v Tonga - Nations Cup Round 5 2026 - Sat 14/11 1:51pm",
+        "Stan 08 : Hong Kong China v Canada - Nations Cup Round 5 2026 - Sat 14/11 1:51pm",
+        "Stan 09 : PFL 15 - Dubai 2026 - Sat 14/11 2:01pm",
+        "Stan 10 : Portugal v Samoa - Nations Cup Round 5 2026 - Sat 14/11 2:51pm",
+        "Stan 11 : Tottenham Hotspur v Everton - WSL 2026/27 - Sat 14/11 2:51pm",
+        "Stan 01 : Zimbabwe v Uruguay - Nations Cup Round 5 2026 - Sat 14/11 2:51pm",
+        "Stan 12 : Spain v Chile - Nations Cup Round 5 2026 - Sat 14/11 3:51pm",
+        "Stan 13 : Romania v USA - Nations Cup Round 5 2026 - Sat 14/11 4:21pm",
+        "Stan 14 : England v Japan - Nations Championship Round 5 2026 - Sat 14/11 4:31pm",
+        "Stan 16 : Washington Spirit v Utah Royals - NWSL 2026 - Sat 14/11 5:01pm",
+        "Stan 15 : Brighton & Hove Albion v Liverpool - WSL 2026/27 - Sat 14/11 5:06pm",
+        "Stan 02 : Ireland v Fiji - Nations Championship Round 5 2026 - Sat 14/11 7:56pm",
+        "Stan 03 : Indian Wells: Day 7 - WTA Finals - Sat 14/11 8:01pm",
+        "Stan 01 : Race Day: The Bend - Australian Superbikes Championship 2026 - Sun 15/11 2:01am",
+        "Stan 02 : Race 2: Le Castellet - Asian Le Mans Cup 2026/27 - Sun 15/11 8:01am",
+        "Stan 01 : Race 2: Le Castellet - Asian Le Mans Series 2026/27 - Sun 15/11 11:51am",
+        "Stan 04 : Aston Villa v Birmingham City - WSL 2026/27 - Sun 15/11 1:51pm",
+        "Stan 03 : West Ham United v Charlton Athletic - WSL 2026/27 - Sun 15/11 1:51pm",
+        "Stan 05 : Scotland v Australia - Nations Championship Round 5 2026 - Sun 15/11 2:31pm",
+        "Stan 02 : Arsenal v London City Lionesses - WSL 2026/27 - Sun 15/11 4:21pm",
+        "Stan 06 : Gotham FC v Kansas City Current - NWSL 2026 - Sun 15/11 8:01pm",
+        "Stan 01 : Indian Wells: Day 8 - WTA Finals - Sun 15/11 8:01pm",
+        "Stan 01 : 60th CMA Awards 2026 - Thu 19/11 1:01am",
+        "Stan 02 : Kashiwa Reysol v Chiba - J.League 2026 - Fri 20/11 9:56am",
+        "Stan 01 : Vissel Kobe v Mito - J.League 2026 - Fri 20/11 9:56am",
+        "Stan 03 : Romania v Canada - Nations Cup Round 6 2026 - Fri 20/11 4:21pm",
+        "Stan 01 : Jeonbuk v Seoul - K League 2026 - Sat 21/11 4:56am",
+        "Stan 03 : Kyoto Sanga v Urawa Red Diamonds - J.League 2026 - Sat 21/11 4:56am",
+        "Stan 02 : Sanfrecce Hiroshima v Yokohama F. Marinos - J.League 2026 - Sat 21/11 4:56am",
+        "Stan 04 : Incheon v Ulsan - K League 2026 - Sat 21/11 7:26am",
+        "Stan 05 : Hong Kong China v Tonga - Nations Cup Round 6 2026 - Sat 21/11 8:51am",
+        "Stan 06 : PL Live • 21 Nov - Premier League 2026/2027 - Sat 21/11 11:01am",
+        "Stan 01 : Manchester City v Fulham - Premier League Matchweek 11 2026/2027 - Sat 21/11 11:31am",
+        "Stan 02 : 4K • Manchester City v Fulham - Premier League Matchweek 11 2026/2027 - Sat 21/11 12:21pm",
+        "Stan 03 : Liverpool v Chelsea - WSL 2026/27 - Sat 21/11 12:36pm",
+        "Stan 07 : England v New Zealand - Nations Championship Round 6 2026 - Sat 21/11 1:16pm",
+        "Stan 08 : Georgia v USA - Nations Cup Round 6 2026 - Sat 21/11 1:51pm",
+        "Stan 04 : Scotland v Japan - Nations Championship Round 6 2026 - Sat 21/11 2:01pm",
+        "Stan 11 : Aston Villa v Sunderland - Premier League Matchweek 11 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 13 : Bournemouth v Nottingham Forest - Premier League Matchweek 11 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 10 : Chelsea v Leeds United - Premier League Matchweek 11 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 09 : Coventry City v Crystal Palace - Premier League Matchweek 11 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 14 : Goal Rush: Chelsea v Leeds United • 22 Nov - Premier League 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 15 : Portugal v Uruguay - Nations Cup Round 6 2026 - Sat 21/11 2:51pm",
+        "Stan 12 : Tottenham Hotspur v Ipswich Town - Premier League Matchweek 11 2026/2027 - Sat 21/11 2:51pm",
+        "Stan 05 : Spain v Samoa - Nations Cup Round 6 2026 - Sat 21/11 3:51pm",
+        "Stan 17 : Ireland v South Africa - Nations Championship Round 6 2026 - Sat 21/11 4:31pm",
+        "Stan 16 : Italy v Fiji - Nations Championship Round 6 2026 - Sat 21/11 4:31pm",
+        "Stan 18 : London City Lionesses v Crystal Palace - WSL 2026/27 - Sat 21/11 5:06pm",
+        "Stan 19 : Zimbabwe v Chile - Nations Cup Round 6 2026 - Sat 21/11 5:06pm"
+      ],
       "sections": [],
       "events": []
     },
