@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-13T08:15:27.744754+00:00",
+  "scraped_at": "2026-11-13T12:01:00.903607+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -9,35 +9,32 @@
       "fixtures": [],
       "sections": [
         {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 13 : Machineseeker German Masters 2027 Qualifiers - Stream 2"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 14 : Machineseeker German Masters 2027 Qualifiers - Stream 3"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 15 : Machineseeker German Masters 2027 Qualifiers - Stream 4"
+            }
+          ]
+        },
+        {
           "section": "Live Events",
           "entries": [
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
-            },
-            {
-              "type": "fixture",
-              "text": "WST Play 1 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
-            },
-            {
-              "type": "fixture",
-              "text": "WST Play 2 : Machineseeker German Masters 2027 Qualifiers - Stream 2"
-            },
-            {
-              "type": "fixture",
-              "text": "WST Play 3 : Machineseeker German Masters 2027 Qualifiers - Stream 3"
-            },
-            {
-              "type": "fixture",
-              "text": "WST Play 4 : Machineseeker German Masters 2027 Qualifiers - Stream 4"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 01 - Barcelona vs Arsenal 17:45pm"
-            },
-            {
-              "type": "fixture",
-              "text": "UEFA | 02 - Benfica vs Austria Wien 20:00pm"
             }
           ]
         }
@@ -50,9 +47,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
+        "EVENT 02 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
         "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]",
-        "EVENT 01 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
+        "EVENT 02 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
         "EVENT 03 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]",
         "EVENT 02 - 13-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Egypt vs Malawi [SG]",
         "EVENT 03 - 13-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Burgos [SG]",
@@ -123,6 +120,18 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "15:00",
+          "name": "NDHSAA DIVISION A CHAMPIONSHIP",
+          "datetime": "2026-11-13 15:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "19:45",
           "name": "NETHERLANDS - GREECE",
           "datetime": "2026-11-13 19:45:00",
@@ -136,12 +145,36 @@
         {
           "sport": "FOOTBALL",
           "time": "21:00",
+          "name": "CENTRAL CASS - KINDRED",
+          "datetime": "2026-11-13 21:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:00",
           "name": "NDHSAA DIVISION AA",
           "datetime": "2026-11-13 21:00:00",
           "channels": [
             {
               "name": "ABC",
               "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "PURDUE - MICHIGAN STATE",
+          "datetime": "2026-11-13 23:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -346,12 +379,7 @@
           "time": "00:00",
           "name": "WTA FINALS",
           "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
+          "channels": []
         },
         {
           "sport": "TENNIS",
@@ -1167,11 +1195,8 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: WWII Secret Bunker in Dover Opens to Public - 13/11/2026 03:26 - 01:37",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 13/11/2026 07:04 - 21:49",
-        "BBC Events 03 - no_brand_title: Cop Leaders' Speeches - 12/11/2026 09:06 - 08:53",
         "BBC Events 04 - no_brand_title: Microsoft Says Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 05:24 - 05:06",
         "BBC Events 05 - no_brand_title: Scandal-Hit Nvidia CEO Jensen Huang Resigns - 13/11/2026 05:28 - 02:11",
-        "BBC Events 06 - no_brand_title: Man Utd Sack Head Coach Michael Carrick - 12/11/2026 10:00 - 09:59",
-        "BBC Events 07 - Autumnwatch: Autumn Calm - 13/11/2026 06:00 - 12:00",
         "BBC Events 09 - no_brand_title: Clean-up Begins as Oil Spill Shuts Kent Beaches - 13/11/2026 05:55 - 01:52",
         "BBC Events 10 - no_brand_title: Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 07:14 - 06:59"
       ],
@@ -1207,12 +1232,13 @@
       "fixtures": [
         "ESPN Event 01 - 13/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 10 Washington Commanders vs. New York Giants",
         "ESPN Event 01 - 13/11/2026 - 17:00 UK / 12:00 ET - Soccer - International Friendly: Germany vs. Belgium",
+        "ESPN Event 02 - 13/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 10 Washington Commanders vs. New York Giants",
         "ESPN Event 03 - 13/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Leganés vs. Burgos",
         "ESPN Event 04 - 13/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Leganés vs. Burgos",
         "ESPN Event 02 - 13/11/2026 - 19:50 UK / 14:50 ET - Soccer - Spanish Copa del Rey: Salamanca CF vs. Celta de Vigo (Round 1) (Copa del Rey)",
         "ESPN Event 01 - 13/11/2026 - 23:00 UK / 18:00 ET - Football - Collegiate Sprint Football League: Pennsylvania vs. Cornell",
         "ESPN Event 02 - 14/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Florida State vs. Pittsburgh",
-        "ESPN Event 03 - 14/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 10 Washington Commanders vs. New York Giants",
+        "ESPN Event 03 - 14/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: New York Rangers vs. Vancouver Canucks",
         "ESPN Event 04 - 14/11/2026 - 01:45 UK / 20:45 ET - Hockey - Men’s College Club Hockey: Cincinnati vs. NC State",
         "ESPN Event 05 - 14/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Nashville Predators vs. Vegas Golden Knights",
         "ESPN Event 01 - 14/11/2026 - 03:00 UK / 22:00 ET - Football - NCAA Football: Southern Utah vs. Portland State",
@@ -1221,9 +1247,43 @@
         "ESPN Event 08 - 14/11/2026 - 03:55 UK / 22:55 ET - Soccer - Australian A-League Women: Melbourne City FC vs. Newcastle Jets",
         "ESPN Event 02 - 14/11/2026 - 05:55 UK / 00:55 ET - Soccer - Australian A-League Women: Central Coast Mariners FC vs. Perth Glory",
         "ESPN Event 03 - 14/11/2026 - 06:00 UK / 01:00 ET - Football - NFL: Dallas Cowboys vs. San Francisco 49ers",
-        "ESPN Event 01 - 14/11/2026 - 07:30 UK / 02:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Mainland Pouakai (Round 8)",
+        "ESPN Event 01 - 14/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Mainland Pouakai (Round 8)",
         "ESPN Event 01 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: Valladolid vs. Castellón",
-        "ESPN Event 02 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: En Español-Valladolid vs. Castellón"
+        "ESPN Event 02 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: En Español-Valladolid vs. Castellón",
+        "ESPN Event 03 - 14/11/2026 - 13:30 UK / 08:30 ET - Football - NFL: Minnesota Vikings vs. Green Bay Packers",
+        "ESPN Event 04 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Real Sociedad B vs. Sporting Gijón",
+        "ESPN Event 05 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Real Sociedad B vs. Sporting Gijón",
+        "ESPN Event 06 - 14/11/2026 - 15:30 UK / 10:30 ET - Football - NCAA Football: SIAC Championship - Kentucky State vs. Benedict (Championship)",
+        "ESPN Event 01 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Auburn vs. Mississippi State",
+        "ESPN Event 02 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Presbyterian vs. Morehead State",
+        "ESPN Event 07 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Princeton vs. Yale",
+        "ESPN Event 08 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Duke vs. #7 Miami",
+        "ESPN Event 09 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Stonehill vs. Robert Morris",
+        "ESPN Event 10 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - #13 Wake Forest vs. SMU",
+        "ESPN Event 11 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Georgetown vs. Fordham",
+        "ESPN Event 12 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Columbia vs. Brown",
+        "ESPN Event 13 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Norfolk State vs. Morgan State",
+        "ESPN Event 14 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Butler vs. Marist",
+        "ESPN Event 15 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Illinois State vs. Youngstown State",
+        "ESPN Event 16 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Villanova vs. Holy Cross",
+        "ESPN Event 17 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: #13 Wake Forest vs. SMU",
+        "ESPN Event 18 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - Duke vs. #7 Miami",
+        "ESPN Event 19 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Syracuse vs. NC State",
+        "ESPN Event 20 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Almería vs. FC Andorra",
+        "ESPN Event 21 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Almería vs. FC Andorra",
+        "ESPN Event 22 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: RCD Mallorca vs. Cordoba",
+        "ESPN Event 23 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-RCD Mallorca vs. Cordoba",
+        "ESPN Event 03 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: The Citadel vs. VMI",
+        "ESPN Event 24 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Georgia Tech vs. Clemson",
+        "ESPN Event 25 - 14/11/2026 - 17:45 UK / 12:45 ET - Football - NCAA Football: #3 Alabama vs. Vanderbilt",
+        "ESPN Event 26 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: UAB vs. Temple",
+        "ESPN Event 27 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Delaware State vs. Howard",
+        "ESPN Event 28 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Murray State vs. Indiana State",
+        "ESPN Event 29 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Bucknell vs. William & Mary",
+        "ESPN Event 30 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Arkansas State vs. Coastal Carolina",
+        "ESPN Event 31 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: Army vs. Dartmouth (Semifinal)",
+        "ESPN Event 32 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Chattanooga vs. Furman",
+        "ESPN Event 33 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Dartmouth vs. Cornell"
       ],
       "sections": [],
       "events": []
@@ -1580,7 +1640,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 12 - Fri 13/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 13 - Fri 13/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 13 - Fri 13/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 13 - Fri 13/11 5:00pm",
@@ -1715,7 +1774,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "UFC 334: OFFICIAL WEIGH-IN SHOW - Fri 13/11 1:50pm",
         "UFC 335 & UFC 336: PRESS CONFERENCE - Fri 13/11 9:00pm",
         "UFC 334: CEREMONIAL WEIGH-IN - Fri 13/11 10:00pm",
