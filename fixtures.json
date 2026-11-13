@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-13T12:01:00.903607+00:00",
+  "scraped_at": "2026-11-13T15:01:16.935495+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,30 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Friday 13 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: Netherlands vs Greece 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: Scotland vs North Macedonia 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 19:45-21:45 - UEFA Nations League: Serbia vs Germany 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 19:45-21:45 - UEFA Nations League: Netherlands vs Greece 720p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
@@ -35,6 +59,34 @@
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENTS"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 01 - 1:30pmONE Friday Fights 78 Shimon v Ondash"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 02 - 7pm Toughman Contest"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 03 - 8pm Peterson v Hernandez"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 04 - 9:30pmFloRacing Night In America Senoia"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 05 - 5pm NARA Nationals Southern Illinois"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 9pm AMA EnduroCross Idaho Falls"
             }
           ]
         }
@@ -47,10 +99,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 02 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
-        "EVENT 03 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]",
-        "EVENT 02 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
-        "EVENT 03 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]",
+        "EVENT 01 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Comoros vs Congo [SG]",
+        "EVENT 02 - 13-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zambia vs Burundi [SG]",
+        "EVENT 01 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Africa vs Kenya [SG]",
+        "EVENT 02 - 13-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tunisia vs Libya [SG]",
         "EVENT 02 - 13-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Egypt vs Malawi [SG]",
         "EVENT 03 - 13-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: Leganes vs Burgos [SG]",
         "EVENT 04 - 13-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Morocco vs Niger [SG]",
@@ -61,7 +113,10 @@
         "EVENT 04 - 14-Nov 05:05PM-07:15PM - Women's Super League 2026/27: Brighton vs Liverpool [SG]",
         "EVENT 02 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Algeria vs Togo [SG]",
         "EVENT 03 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs South Sudan [SG]",
-        "EVENT 04 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]"
+        "EVENT 04 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]",
+        "EVENT 03 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026 Game4Ricky: Man City & Man United vs The World [SG]",
+        "EVENT 04 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026: Game 4 Ricky - Team Hitman vs Team Hatton [SG]",
+        "EVENT 05 - 15-Nov 01:50PM-04:00PM - Women's Super League 2026/27: Aston Villa vs Birmingham [SG]"
       ],
       "sections": [],
       "events": []
@@ -379,7 +434,12 @@
           "time": "00:00",
           "name": "WTA FINALS",
           "datetime": "2026-11-13 00:00:00",
-          "channels": []
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         },
         {
           "sport": "TENNIS",
@@ -806,10 +866,6 @@
           "datetime": "2026-11-14 21:30:00",
           "channels": [
             {
-              "name": "TBS",
-              "category": "TV | USA & CANADA"
-            },
-            {
               "name": "TNT US",
               "category": "TV | USA & CANADA"
             }
@@ -1195,8 +1251,11 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: WWII Secret Bunker in Dover Opens to Public - 13/11/2026 03:26 - 01:37",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 13/11/2026 07:04 - 21:49",
+        "BBC Events 03 - no_brand_title: Mauricio Pochettino news conference - 13/11/2026 14:06 - 15:15",
         "BBC Events 04 - no_brand_title: Microsoft Says Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 05:24 - 05:06",
         "BBC Events 05 - no_brand_title: Scandal-Hit Nvidia CEO Jensen Huang Resigns - 13/11/2026 05:28 - 02:11",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 13/11/2026 12:00 - 18:00",
+        "BBC Events 08 - no_brand_title: مايكروسوفت تكثّف جهودها لمعالجة عطل واسع النطاق تسبب في إرباك عالمي - 13/11/2026 11:39 - 19:00",
         "BBC Events 09 - no_brand_title: Clean-up Begins as Oil Spill Shuts Kent Beaches - 13/11/2026 05:55 - 01:52",
         "BBC Events 10 - no_brand_title: Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 07:14 - 06:59"
       ],
@@ -1230,7 +1289,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 13/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 10 Washington Commanders vs. New York Giants",
         "ESPN Event 01 - 13/11/2026 - 17:00 UK / 12:00 ET - Soccer - International Friendly: Germany vs. Belgium",
         "ESPN Event 02 - 13/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 10 Washington Commanders vs. New York Giants",
         "ESPN Event 03 - 13/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Leganés vs. Burgos",
@@ -1518,9 +1576,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Asian Le Mans Cup R1: QL - 14:05 13/11/2026",
-        "Sky Sport 2 - LIVE: Asian Le Mans Cup R2: QL - 14:35 13/11/2026",
-        "Sky Sport 2 - LIVE: Asian Le Mans Series R1: Q1 - 15:00 13/11/2026",
         "Sky Sport 2 - LIVE: Asian Le Mans Series R2: Q1 - 15:25 13/11/2026",
         "Sky Sport 2 - LIVE: Asian Le Mans Series R1: Q2 - 15:50 13/11/2026",
         "Sky Sport 2 - LIVE: Asian Le Mans Series R2: Q2 - 16:10 13/11/2026",
@@ -1663,7 +1718,8 @@
         "Sportsnet 01 : Denver @ New Orleans - Sun 15/11 12:00am",
         "Sportsnet 03 : Detroit @ Tampa Bay - Sun 15/11 12:00am",
         "Sportsnet 04 : Edmonton @ Toronto - Sun 15/11 12:00am",
-        "Sportsnet 07 : Florida @ St. Louis - Sun 15/11 12:00am"
+        "Sportsnet 07 : Florida @ St. Louis - Sun 15/11 12:00am",
+        "Sportsnet 08 : Minnesota @ Boston - Sun 15/11 12:00am"
       ],
       "sections": [],
       "events": []
