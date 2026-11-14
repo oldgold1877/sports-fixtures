@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-14T18:00:52.589700+00:00",
+  "scraped_at": "2026-11-14T21:08:03.577078+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,14 +14,6 @@
             {
               "type": "date",
               "text": "Saturday 14 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:00-19:00 - UEFA Nations League: Norway vs Wales 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 17:00-19:00 - UEFA Nations League: Georgia vs Hungary 1080p"
             },
             {
               "type": "fixture",
@@ -102,14 +94,6 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 15 : Machineseeker German Masters 2027 Qualifiers - Stream 4"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 01 - 17:00-19:00 - UEFA Nations League: Georgia vs Hungary"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 02 - 17:00-19:00 - UEFA Nations League: Norway vs Wales"
             },
             {
               "type": "fixture",
@@ -275,11 +259,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 14-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Uganda vs Botswana [SG]",
-        "EVENT 03 - 14-Nov 05:05PM-07:15PM - Women's Super League 2026/27: Brighton vs Liverpool [SG]",
         "EVENT 02 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Algeria vs Togo [SG]",
-        "EVENT 04 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs South Sudan [SG]",
-        "EVENT 03 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]",
+        "EVENT 03 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs South Sudan [SG]",
+        "EVENT 05 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]",
         "EVENT 03 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026 Game4Ricky: Man City & Man United vs The World [SG]",
         "EVENT 04 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026: Game 4 Ricky - Team Hitman vs Team Hatton [SG]",
         "EVENT 05 - 15-Nov 01:50PM-04:00PM - Women's Super League 2026/27: Aston Villa vs Birmingham [SG]",
@@ -616,6 +598,10 @@
           "name": "OREGON - MICHIGAN",
           "datetime": "2026-11-14 20:30:00",
           "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
             {
               "name": "FOX SPORTS 1",
               "category": "SPORT | USA & CANADA"
@@ -1895,9 +1881,8 @@
         "BBC Events 04 - no_brand_title: Milburn: Young Should Have Legal Guarantee of Job, Training or Employment - 14/11/2026 06:02 - 05:49",
         "BBC Events 05 - no_brand_title: MENA LIVE STREAMING -14/11/2026 عالم الظهيرة - 14/11/2026 11:14 - 11:13",
         "BBC Events 06 - no_brand_title: FAA Orders Rare Grounding of All US Flights - 13/11/2026 21:20 - 21:16",
-        "BBC Events 08 - no_brand_title: BBC Weather Live - 14/11/2026 15:40 - 23:49",
-        "BBC Events 09 - UEFA Nations League: Norway v Wales - 14/11/2026 16:37 - 20:00",
-        "BBC Events 10 - no_brand_title: no_episode_title - 14/11/2026 17:09 - 19:02"
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 14/11/2026 20:00 - 00:00",
+        "BBC Events 08 - no_brand_title: BBC Weather Live - 14/11/2026 15:40 - 23:49"
       ],
       "sections": [],
       "events": []
@@ -1940,44 +1925,55 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Real Sociedad B vs. Sporting Gijón",
-        "ESPN Event 02 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Real Sociedad B vs. Sporting Gijón",
-        "ESPN Event 06 - 14/11/2026 - 15:30 UK / 10:30 ET - Football - NCAA Football: SIAC Championship - Kentucky State vs. Benedict (Championship)",
-        "ESPN Event 19 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Syracuse vs. NC State",
-        "ESPN Event 11 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Georgetown vs. Fordham",
-        "ESPN Event 10 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - #13 Wake Forest vs. SMU",
-        "ESPN Event 12 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Columbia vs. Brown",
-        "ESPN Event 02 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Presbyterian vs. Morehead State",
-        "ESPN Event 13 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Norfolk State vs. Morgan State",
-        "ESPN Event 09 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Stonehill vs. Robert Morris",
-        "ESPN Event 16 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Villanova vs. Holy Cross",
-        "ESPN Event 18 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - Duke vs. #7 Miami",
-        "ESPN Event 08 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Duke vs. #7 Miami",
-        "ESPN Event 17 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: #13 Wake Forest vs. SMU",
-        "ESPN Event 07 - 14/11/2026 - 17:01 UK / 12:01 ET - Football - NCAA Football: Princeton vs. Yale",
-        "ESPN Event 14 - 14/11/2026 - 17:03 UK / 12:03 ET - Football - NCAA Football: Butler vs. Marist",
-        "ESPN Event 21 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Almería vs. FC Andorra",
-        "ESPN Event 20 - 14/11/2026 - 17:25 UK / 12:25 ET - Soccer - Spanish LALIGA 2: Almería vs. FC Andorra",
-        "ESPN Event 23 - 14/11/2026 - 17:26 UK / 12:26 ET - Soccer - Spanish LALIGA 2: En Español-RCD Mallorca vs. Cordoba",
+        "ESPN Event 01 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Almería vs. FC Andorra",
+        "ESPN Event 02 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: RCD Mallorca vs. Cordoba",
+        "ESPN Event 03 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-RCD Mallorca vs. Cordoba",
+        "ESPN Event 04 - 14/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Almería vs. FC Andorra",
         "ESPN Event 03 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: The Citadel vs. VMI",
-        "ESPN Event 24 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Georgia Tech vs. Clemson",
-        "ESPN Event 25 - 14/11/2026 - 17:43 UK / 12:43 ET - Football - NCAA Football: #3 Alabama vs. Vanderbilt",
-        "ESPN Event 04 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Harvard vs. Pennsylvania",
+        "ESPN Event 05 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Dartmouth vs. Cornell",
+        "ESPN Event 06 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: Army vs. Dartmouth (Semifinal)",
+        "ESPN Event 07 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: American International vs. Harvard (Semifinal)",
+        "ESPN Event 08 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Harvard vs. Pennsylvania",
         "ESPN Event 26 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: UAB vs. Temple",
-        "ESPN Event 27 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Delaware State vs. Howard",
-        "ESPN Event 28 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Murray State vs. Indiana State",
-        "ESPN Event 29 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Bucknell vs. William & Mary",
-        "ESPN Event 30 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Arkansas State vs. Coastal Carolina",
-        "ESPN Event 31 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: Army vs. Dartmouth (Semifinal)",
-        "ESPN Event 32 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: American International vs. Harvard (Semifinal)",
         "ESPN Event 32 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Chattanooga vs. Furman",
-        "ESPN Event 33 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Dartmouth vs. Cornell",
-        "ESPN Event 34 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Lafayette vs. Colgate",
         "ESPN Event 15 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: East Carolina vs. Charlotte",
-        "ESPN Event 06 - 14/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: #22 Missouri vs. #1 Georgia",
+        "ESPN Event 29 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Bucknell vs. William & Mary",
+        "ESPN Event 28 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Murray State vs. Indiana State",
+        "ESPN Event 27 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Delaware State vs. Howard",
+        "ESPN Event 30 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Arkansas State vs. Coastal Carolina",
+        "ESPN Event 09 - 14/11/2026 - 18:30 UK / 13:30 ET - Football - NCAA Football: North Carolina Central vs. South Carolina State",
+        "ESPN Event 10 - 14/11/2026 - 18:30 UK / 13:30 ET - Football - NCAA Football: East Tennessee State vs. Wofford",
+        "ESPN Event 11 - 14/11/2026 - 18:55 UK / 13:55 ET - Soccer - Northern Super League: Montreal Roses FC vs. AFC Toronto (Championship)",
+        "ESPN Event 12 - 14/11/2026 - 18:59 UK / 13:59 ET - Football - NCAA Football: Central Arkansas vs. Eastern Kentucky",
+        "ESPN Event 13 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Gardner-Webb vs. Western Illinois",
+        "ESPN Event 14 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: South Dakota State vs. Southern Illinois",
+        "ESPN Event 16 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Abilene Christian vs. Austin Peay",
+        "ESPN Event 17 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Houston Christian vs. Northwestern State",
+        "ESPN Event 18 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Kennesaw State vs. Sam Houston",
+        "ESPN Event 19 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: North Alabama vs. West Georgia",
+        "ESPN Event 20 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Lehigh vs. Richmond",
+        "ESPN Event 21 - 14/11/2026 - 19:00 UK / 14:00 ET - Football - NCAA Football: Northern Iowa vs. South Dakota",
+        "ESPN Event 22 - 14/11/2026 - 19:02 UK / 14:02 ET - Football - NCAA Football: Kansas State vs. TCU",
+        "ESPN Event 23 - 14/11/2026 - 19:03 UK / 14:03 ET - Football - NCAA Football: Southeast Missouri State vs. Charleston Southern",
+        "ESPN Event 24 - 14/11/2026 - 19:30 UK / 14:30 ET - Football - NCAA Football: Mercer vs. Tennessee Tech",
+        "ESPN Event 25 - 14/11/2026 - 19:34 UK / 14:34 ET - Soccer - Spanish LALIGA 2: En Español-Real Oviedo vs. Girona FC",
+        "ESPN Event 31 - 14/11/2026 - 19:46 UK / 14:46 ET - Football - NCAA Football: Kansas State vs. TCU",
+        "ESPN Event 33 - 14/11/2026 - 19:55 UK / 14:55 ET - Soccer - Spanish LALIGA 2: Real Oviedo vs. Girona FC",
+        "ESPN Event 34 - 14/11/2026 - 19:58 UK / 14:58 ET - Football - NCAA Football: Florida International vs. Delaware",
+        "ESPN Event 35 - 14/11/2026 - 19:59 UK / 14:59 ET - Football - NCAA Football: #8 Tennessee vs. Texas A&M",
+        "ESPN Event 36 - 14/11/2026 - 20:00 UK / 15:00 ET - Football - NCAA Football: Tarleton State vs. West Florida",
+        "ESPN Event 37 - 14/11/2026 - 20:00 UK / 15:00 ET - Football - NCAA Football: New Mexico State vs. Missouri State",
+        "ESPN Event 38 - 14/11/2026 - 20:00 UK / 15:00 ET - Football - NCAA Football: Jackson State vs. Alabama State",
+        "ESPN Event 39 - 14/11/2026 - 20:00 UK / 15:00 ET - Football - NCAA Football: Lindenwood vs. UT Martin",
+        "ESPN Event 40 - 14/11/2026 - 20:03 UK / 15:03 ET - Football - NCAA Football: SkyCast - #8 Tennessee vs. Texas A&M",
+        "ESPN Event 41 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Jacksonville State vs. Western Kentucky",
+        "ESPN Event 42 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Georgia Southern vs. Georgia State",
+        "ESPN Event 05 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Eastern Illinois vs. Tennessee State",
+        "ESPN Event 43 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: SkyCast - #22 Missouri vs. #1 Georgia",
+        "ESPN Event 06 - 14/11/2026 - 20:42 UK / 15:42 ET - Football - NCAA Football: #22 Missouri vs. #1 Georgia",
         "ESPN Event 01 - 14/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Fresno State vs. Texas State",
         "ESPN Event 02 - 14/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: East Texas A&M vs. Lamar",
-        "ESPN Event 05 - 14/11/2026 - 21:15 UK / 16:15 ET - Football - NCAA Football: Auburn vs. Mississippi State",
+        "ESPN Event 44 - 14/11/2026 - 21:15 UK / 16:15 ET - Football - NCAA Football: Auburn vs. Mississippi State",
         "ESPN Event 03 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Tulane vs. Rice",
         "ESPN Event 08 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Coast Guard Academy vs. Merchant Marine Academy",
         "ESPN Event 15 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Illinois State vs. Youngstown State",
@@ -2164,22 +2160,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 02 - 12:05 - Barclays Women's Super League: Man. United vs. Crystal Palace",
-        "Paramount+ Event 03 - 12:30 - Barclays Women's Super League: Chelsea vs. Man. City",
-        "Paramount+ Event 04 - 13:20 - World Rugby: Hong Kong China vs. Canada",
-        "Paramount+ Event 05 - 13:20 - World Rugby: Georgia vs. Tonga",
-        "Paramount+ Event 06 - 14:20 - World Rugby: Portugal vs. Samoa",
-        "Paramount+ Event 07 - 14:20 - English Football League: Sheffield Wednesday vs. Plymouth Argyle",
-        "Paramount+ Event 08 - 14:20 - English Football League: Salford City vs. Northampton Town",
-        "Paramount+ Event 09 - 14:20 - English Football League: Bristol Rovers vs. Chesterfield",
-        "Paramount+ Event 10 - 14:20 - English Football League: Leicester City vs. Bradford City",
-        "Paramount+ Event 11 - 14:20 - Barclays Women's Super League: Tottenham vs. Everton",
-        "Paramount+ Event 12 - 14:20 - English Football League: Stockport County vs. Reading",
-        "Paramount+ Event 13 - 14:20 - World Rugby: Zimbabwe vs. Uruguay",
-        "Paramount+ Event 14 - 15:20 - World Rugby: Spain vs. Chile",
-        "Paramount+ Event 15 - 15:50 - World Rugby: Romania vs. USA Eagles",
-        "Paramount+ Event 16 - 16:30 - Barclays Women's Super League: Brighton vs. Liverpool",
-        "Paramount+ Event 17 - 16:50 - English Football League: Fleetwood Town vs. Tranmere Rovers",
+        "Paramount+ Event 01 - 15:20 - World Rugby: Spain vs. Chile",
+        "Paramount+ Event 02 - 15:50 - World Rugby: Romania vs. USA Eagles",
+        "Paramount+ Event 03 - 16:30 - Barclays Women's Super League: Brighton vs. Liverpool",
+        "Paramount+ Event 04 - 16:50 - English Football League: Fleetwood Town vs. Tranmere Rovers",
         "Paramount+ Event 02 - 13:20 - Barclays Womens Super League: West Ham United vs. Charlton Athletic",
         "Paramount+ Event 03 - 13:20 - Barclays Womens Super League: Aston Villa vs. Birmingham City",
         "Paramount+ Event 04 - 15:30 - Barclays Womens Super League: Arsenal vs. London City"
@@ -2233,7 +2217,6 @@
       "last_updated": "Last updated: Sat 14 Nov 2026 05:00:04 UK",
       "status": "ok",
       "fixtures": [
-        "FloSports 02 - FloCollege: Davenport vs West Chester - 14 Nov 15:00 UK / 10:00 ET / 07:00 PT",
         "FloSports 01 - FloCollege: Davenport vs Ohio St - 14 Nov 17:00 UK / 12:00 ET / 09:00 PT",
         "FloSports 03 - FloCollege: Davenport vs Ohio St - 14 Nov 23:30 UK / 18:30 ET / 15:30 PT"
       ],
@@ -2246,9 +2229,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: PGA Tour: Round 3 - 19:00 14/11/2026",
-        "Sky Sport 2 - LIVE: NC: Ireland v Fiji - 20:00 14/11/2026",
-        "Sky Sport 7 - LIVE: PGA Champions Tour: R3 - 21:00 14/11/2026",
         "Sky Sport 5 - LIVE: Nextgen Championship 2026 Rd1 Day2 - 21:55 14/11/2026",
         "Sky Sport 6 - LIVE: WBBL: Sixers v Renegades - 23:30 14/11/2026",
         "Sky Sport 4 - LIVE: Rapid League: Queens v Whai - 01:00 15/11/2026",
@@ -2270,9 +2250,9 @@
         "Sky Sport 1 - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
         "Sky Sport 5 - LIVE: WSL: Arsenal v London City - 16:20 15/11/2026",
-        "Sky Sport 4 - LIVE: Grand Slam of Darts: D2 Eve - 19:00 15/11/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 19:00 15/11/2026",
         "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 19:00 15/11/2026",
+        "Sky Sport 4 - LIVE: Grand Slam of Darts: D2 Eve - 19:00 15/11/2026",
         "Sky Sport 6 - LIVE: PGA Champions Tour: R4 - 21:00 15/11/2026",
         "Sky Sport 3 - LIVE: ODC: New South Wales v S Australia - 22:55 15/11/2026",
         "Sky Sport 5 - LIVE: ODC: Queensland v Tasmania - 23:55 15/11/2026",
@@ -2305,7 +2285,13 @@
         "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas P2 - 03:45 20/11/2026",
         "Sky Sport 4 - LIVE: Rapid League: Kahu v Queens - 05:30 20/11/2026",
         "Sky Sport 2 - LIVE: The F1 Show: Las Vegas Grand  Prix - 06:10 20/11/2026",
-        "Sky Sport 4 - LIVE: Tauihi: Kahu v Queens - 06:30 20/11/2026"
+        "Sky Sport 4 - LIVE: Tauihi: Kahu v Queens - 06:30 20/11/2026",
+        "Sky Sport 2 - LIVE: WBBL: Strikers v Renegades - 07:45 20/11/2026",
+        "Sky Sport 3 - LIVE: ALM: Western Sydney v Adelaide Utd - 08:00 20/11/2026",
+        "Sky Sport 2 - LIVE: NC: Romania v Canada - 16:20 20/11/2026",
+        "Sky Sport 1 - LIVE: PGA Tour: Round 2 - 17:00 20/11/2026",
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 2 - 17:00 20/11/2026",
+        "Sky Sport 3 - LIVE: Grand Slam of Darts: D7 - 19:00 20/11/2026"
       ],
       "sections": [],
       "events": []
@@ -2316,18 +2302,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 5 | Mk Dons vs Burton",
-        "Sky Sports+ 7 | Sheff Wed vs Plymouth",
-        "Sky Sports+ 8 | Wigan vs Barnsley",
-        "Sky Sports+ 9 | Wimbledon vs Blackpool",
-        "Sky Sports+ 10 | Bristol R vs Chesterfield",
-        "Sky Sports+ 11 | Colchester vs Gillingham",
-        "Sky Sports+ 12 | Crewe vs Newport",
-        "Sky Sports+ 13 | Port Vale vs Accrington",
-        "Sky Sports+ 14 | Rochdale vs York",
-        "Sky Sports+ 15 | Salford vs Northampton",
-        "Sky Sports+ 16 | Shrewsbury vs Oldham",
-        "Sky Sports+ 17 | Swindon vs Grimsby",
         "Sydney Thunder vs Melbourne Stars",
         "Adelaide Strikers vs Sydney Sixers",
         "Luton vs Peterborough"
@@ -2341,7 +2315,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 04 : Brighton & Hove Albion vs. Liverpool - Sat 14/11 5:05pm",
         "Sportsnet 05 : Seattle @ Carolina - Sat 14/11 6:00pm",
         "Sportsnet 02 : Winnipeg @ Chicago - Sat 14/11 8:30pm",
         "Sportsnet 06 : Colorado @ Montreal - Sun 15/11 12:00am",
@@ -2362,7 +2335,10 @@
         "Sportsnet 02 : UFC 334 Post-Fight Press Conference - Sun 15/11 4:50am",
         "Sportsnet 01 : Sportsnet Central: Nov. 14 - Sun 15/11 10:00am",
         "Sportsnet 01 : Aston Villa vs. Birmingham City - Sun 15/11 1:50pm",
-        "Sportsnet 02 : West Ham United vs. Charlton Athletic - Sun 15/11 1:50pm"
+        "Sportsnet 02 : West Ham United vs. Charlton Athletic - Sun 15/11 1:50pm",
+        "Sportsnet 03 : Arsenal vs. London City Lionesses - Sun 15/11 4:20pm",
+        "Sportsnet 04 : Indiana @ Philadelphia - Sun 15/11 6:00pm",
+        "Sportsnet 01 : Los Angeles Lakers @ Phoenix - Sun 15/11 9:00pm"
       ],
       "sections": [],
       "events": []
@@ -2373,14 +2349,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 10 : Portugal v Samoa - Nations Cup Round 5 2026 - Sat 14/11 2:51pm",
-        "Stan 11 : Tottenham Hotspur v Everton - WSL 2026/27 - Sat 14/11 2:51pm",
-        "Stan 01 : Zimbabwe v Uruguay - Nations Cup Round 5 2026 - Sat 14/11 2:51pm",
-        "Stan 12 : Spain v Chile - Nations Cup Round 5 2026 - Sat 14/11 3:51pm",
-        "Stan 13 : Romania v USA - Nations Cup Round 5 2026 - Sat 14/11 4:21pm",
-        "Stan 14 : England v Japan - Nations Championship Round 5 2026 - Sat 14/11 4:31pm",
-        "Stan 16 : Washington Spirit v Utah Royals - NWSL 2026 - Sat 14/11 5:01pm",
-        "Stan 15 : Brighton & Hove Albion v Liverpool - WSL 2026/27 - Sat 14/11 5:06pm",
         "Stan 02 : Ireland v Fiji - Nations Championship Round 5 2026 - Sat 14/11 7:56pm",
         "Stan 03 : Indian Wells: Day 7 - WTA Finals - Sat 14/11 8:01pm",
         "Stan 01 : Race Day: The Bend - Australian Superbikes Championship 2026 - Sun 15/11 2:01am",
@@ -2425,7 +2393,17 @@
         "Stan 01 : Wales v Australia - Nations Championship Round 6 2026 - Sat 21/11 7:31pm",
         "Stan 02 : France v Argentina - Nations Championship Round 6 2026 - Sat 21/11 8:01pm",
         "Stan 03 : PL Saturday Wrap: Matchweek 11 - Nov 22 - Sat 21/11 8:01pm",
-        "Stan 01 : Gimcheon v Jeju - K League 2026 - Sun 22/11 4:56am"
+        "Stan 01 : Gimcheon v Jeju - K League 2026 - Sun 22/11 4:56am",
+        "Stan 02 : Gwangju v Bucheon - K League 2026 - Sun 22/11 4:56am",
+        "Stan 02 : Birmingham City v Manchester United - WSL 2026/27 - Sun 22/11 11:51am",
+        "Stan 01 : Manchester City v Tottenham Hotspur - WSL 2026/27 - Sun 22/11 11:51am",
+        "Stan 03 : Hull City v Brighton & Hove Albion - Premier League Matchweek 11 2026/2027 - Sun 22/11 1:01pm",
+        "Stan 04 : PL Live • 23 Nov - Premier League 2026/2027 - Sun 22/11 1:01pm",
+        "Stan 06 : Charlton Athletic v Aston Villa - WSL 2026/27 - Sun 22/11 1:51pm",
+        "Stan 05 : Everton v Brighton & Hove Albion - WSL 2026/27 - Sun 22/11 1:51pm",
+        "Stan 07 : Arsenal v West Ham United - WSL 2026/27 - Sun 22/11 2:21pm",
+        "Stan 09 : 4K • Liverpool v Manchester United - Premier League Matchweek 11 2026/2027 - Sun 22/11 4:21pm",
+        "Stan 08 : Liverpool v Manchester United - Premier League Matchweek 11 2026/2027 - Sun 22/11 4:21pm"
       ],
       "sections": [],
       "events": []
@@ -2445,8 +2423,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : NCAA Football: Auburn vs. Mississippi State - Sat 14/11 5:00pm",
-        "TSN 03 : NCAA Football: Wake Forest vs. SMU - Sat 14/11 5:00pm",
         "TSN 04 : NCAA Football: Alabama vs. Vanderbilt - Sat 14/11 5:45pm",
         "TSN 01 : NCAA Football: Kansas State vs. TCU - Sat 14/11 7:00pm",
         "TSN 07 : 2026 WTA Finals: Singles & Doubles Semifinals - Sat 14/11 8:00pm",
