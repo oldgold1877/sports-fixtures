@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-13T22:24:04.996751+00:00",
+  "scraped_at": "2026-11-14T12:00:54.365978+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -26,6 +26,26 @@
             {
               "type": "fixture",
               "text": "SPORTS SCENE 15 : Machineseeker German Masters 2027 Qualifiers - Stream 4"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 14:00-16:00 - UEFA Nations League: Kosovo vs Israel"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 17:00-19:00 - UEFA Nations League: Georgia vs Hungary"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 01 - 19:45-21:45 - UEFA Nations League: Sweden vs Bosnia and Herzegovina"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 17:00-19:00 - UEFA Nations League: Norway vs Wales"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 02 - 19:45-21:45 - UEFA Nations League: Portugal vs Denmark"
             }
           ]
         },
@@ -38,27 +58,127 @@
             },
             {
               "type": "fixture",
+              "text": "Live Football 01 : Moldova v Kazakhstan 17:00 PM"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 02 : Andorra vs Gibraltar 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 03 : Bulgaria vs Iceland 19:45 PM"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 04 : Liechtenstien vs Azerbaijan 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 05 : luxembourg vs Estonia 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 06 : Netherlands vs Greece 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 07 : Scotland vs North Macedonia 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 08 : Serbia vs Germany 19:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 09 : Slovakia v faroe Islands 19:45 PM"
+            },
+            {
+              "type": "fixture",
+              "text": "Live Football 10: Slovenia v Switzerland 19:45 PM"
+            },
+            {
+              "type": "fixture",
               "text": "LIVE EVENTS"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 02 - 7pm Toughman Contest"
+              "text": "LIVE EVENT 01 - 5pm UFC 334 Prelims"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 03 - 8pm Peterson v Hernandez"
+              "text": "LIVE EVENT 02 - 9pm UFC 334 Gane v Hokit"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 04 - 9:30pmFloRacing Night In America Senoia"
+              "text": "LIVE EVENT 03 - 8pm AEW Full Gear"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 05 - 5pm NARA Nationals Southern Illinois"
+              "text": "LIVE EVENT 04 - (HD) AEW Full Gear"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 06 - 9pm AMA EnduroCross Idaho Falls"
+              "text": "LIVE EVENT 05 - 5am Eternal MMA 112"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 06 - 8am/12pm Zuffa 13 Adames v Warburton"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 07 - 9am PFL Nemkov v Bilostenniy"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 08 - 11am RAF Abu Dhabi Chimaev v Weidman"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 09 - 4:30pm/2pm Riley v Coupe"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 2pm FCC 48"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 2/3pm Cage Warriors 213"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 7:30pmTNT Extreme Wrestling Cold Day In Hell"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 5pm/8pm  Pacheco v Fulghum"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 6pm GCW Massacre in Missoula"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 15 - 7pm Toughman Contest"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 16 - 5:30pm10th Annual Islip 300 Riverhead"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 17 - 9:30pmFloRacing Night In America Senoia"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 18 - 5pm NARA Nationals Southern Illinois"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 19 - 1pm 2nd Annual Gobbler"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 20 - 6pm Volusia Sprint Cars"
             }
           ]
         }
@@ -89,376 +209,6 @@
     },
     {
       "name": "TODAYS EVENTS",
-      "type": "events",
-      "last_updated": "",
-      "status": "ok",
-      "fixtures": [],
-      "sections": [],
-      "events": [
-        {
-          "sport": "FOOTBALL",
-          "time": "00:30",
-          "name": "CURAçAO - PANAMA",
-          "datetime": "2026-11-13 00:30:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "01:00",
-          "name": "SOUTH FLORIDA - MEMPHIS",
-          "datetime": "2026-11-13 01:00:00",
-          "channels": [
-            {
-              "name": "ESPN",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "01:15",
-          "name": "NEW YORK GIANTS - WASHINGTON COMMANDERS",
-          "datetime": "2026-11-13 01:15:00",
-          "channels": [
-            {
-              "name": "TSN 1",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 4",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "15:00",
-          "name": "NDHSAA DIVISION A CHAMPIONSHIP",
-          "datetime": "2026-11-13 15:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "19:45",
-          "name": "NETHERLANDS - GREECE",
-          "datetime": "2026-11-13 19:45:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 1",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:00",
-          "name": "CENTRAL CASS - KINDRED",
-          "datetime": "2026-11-13 21:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "21:00",
-          "name": "NDHSAA DIVISION AA",
-          "datetime": "2026-11-13 21:00:00",
-          "channels": [
-            {
-              "name": "ABC",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "23:00",
-          "name": "PURDUE - MICHIGAN STATE",
-          "datetime": "2026-11-13 23:00:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "23:00",
-          "name": "SAINT MARTIN - EL SALVADOR",
-          "datetime": "2026-11-13 23:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "COLUMBIA - MICHIGAN",
-          "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "SNY",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "00:00",
-          "name": "FAIRLEIGH DICKINSON - MANHATTAN",
-          "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "YES",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:00",
-          "name": "MINNESOTA TIMBERWOLVES - DALLAS MAVERICKS",
-          "datetime": "2026-11-13 01:00:00",
-          "channels": [
-            {
-              "name": "NBA TV",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "01:30",
-          "name": "IOWA - NORTHERN IOWA",
-          "datetime": "2026-11-13 01:30:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "03:30",
-          "name": "UCLA - ARIZONA",
-          "datetime": "2026-11-13 03:30:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "BASKETBALL",
-          "time": "23:00",
-          "name": "CLEMSON - GEORGETOWN",
-          "datetime": "2026-11-13 23:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "16:00",
-          "name": "BAHRAIN INTERNATIONAL",
-          "datetime": "2026-11-13 16:00:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "EQUESTRIAN",
-          "time": "17:30",
-          "name": "AMERICA'S DAY AT THE RACES",
-          "datetime": "2026-11-13 17:30:00",
-          "channels": [
-            {
-              "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "07:00",
-          "name": "DP WORLD TOUR CHAMPIONSHIP",
-          "datetime": "2026-11-13 07:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "16:00",
-          "name": "THE ANNIKA",
-          "datetime": "2026-11-13 16:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "19:00",
-          "name": "AUSTIN CHAMPIONSHIP",
-          "datetime": "2026-11-13 19:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "️ GOLF",
-          "time": "21:00",
-          "name": "CHARLES SCHWAB CUP CHAMPIONSHIP",
-          "datetime": "2026-11-13 21:00:00",
-          "channels": [
-            {
-              "name": "GOLF CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "00:00",
-          "name": "BOSTON BRUINS - MONTREAL CANADIENS",
-          "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "NESN",
-              "category": "SPORT | USA & CANADA"
-            },
-            {
-              "name": "TSN 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "00:00",
-          "name": "OTTAWA SENATORS - COLORADO AVALANCHE",
-          "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "TSN 5",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "ICE HOCKEY",
-          "time": "01:00",
-          "name": "DALLAS STARS - WINNIPEG JETS",
-          "datetime": "2026-11-13 01:00:00",
-          "channels": [
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "00:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-13 00:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "20:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-13 20:00:00",
-          "channels": [
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "TENNIS",
-          "time": "22:00",
-          "name": "WTA FINALS",
-          "datetime": "2026-11-13 22:00:00",
-          "channels": [
-            {
-              "name": "TENNIS CHANNEL",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "01:00",
-          "name": "SMU - LOUISVILLE",
-          "datetime": "2026-11-13 01:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "VOLLEYBALL",
-          "time": "03:00",
-          "name": "PEPPERDINE - SAN DIEGO",
-          "datetime": "2026-11-13 03:00:00",
-          "channels": [
-            {
-              "name": "ESPNU",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TOMORROWS EVENTS",
       "type": "events",
       "last_updated": "",
       "status": "ok",
@@ -752,18 +502,6 @@
         {
           "sport": "FOOTBALL",
           "time": "20:30",
-          "name": "BYU - BAYLOR",
-          "datetime": "2026-11-14 20:30:00",
-          "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "20:30",
           "name": "INDIANA - SOUTHERN CAL",
           "datetime": "2026-11-14 20:30:00",
           "channels": [
@@ -815,18 +553,6 @@
         },
         {
           "sport": "FOOTBALL",
-          "time": "21:15",
-          "name": "MICHIGAN STATE - WASHINGTON",
-          "datetime": "2026-11-14 21:15:00",
-          "channels": [
-            {
-              "name": "BIG TEN NETWORK",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
           "time": "21:30",
           "name": "HAITI - UNITED STATES",
           "datetime": "2026-11-14 21:30:00",
@@ -840,11 +566,11 @@
         {
           "sport": "FOOTBALL",
           "time": "22:30",
-          "name": "WEST VIRGINIA - KANSAS",
+          "name": "MICHIGAN STATE - WASHINGTON",
           "datetime": "2026-11-14 22:30:00",
           "channels": [
             {
-              "name": "ESPNU",
+              "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1155,6 +881,18 @@
         },
         {
           "sport": "TENNIS",
+          "time": "12:00",
+          "name": "TAYLOR FRITZ - THIAGO AGUSTIN TIRANTE",
+          "datetime": "2026-11-14 12:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
           "time": "20:00",
           "name": "WTA FINALS",
           "datetime": "2026-11-14 20:00:00",
@@ -1180,19 +918,845 @@
       ]
     },
     {
+      "name": "TOMORROWS EVENTS",
+      "type": "events",
+      "last_updated": "",
+      "status": "ok",
+      "fixtures": [],
+      "sections": [],
+      "events": [
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "BYU - BAYLOR",
+          "datetime": "2026-11-15 00:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:00",
+          "name": "PENN STATE - MINNESOTA",
+          "datetime": "2026-11-15 00:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "IOWA - PURDUE",
+          "datetime": "2026-11-15 00:30:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "00:30",
+          "name": "LSU - TEXAS",
+          "datetime": "2026-11-15 00:30:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:00",
+          "name": "UTSA - NORTH TEXAS",
+          "datetime": "2026-11-15 02:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:30",
+          "name": "OKLAHOMA STATE - TEXAS TECH",
+          "datetime": "2026-11-15 02:30:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "02:30",
+          "name": "SAN DIEGO STATE - UTAH STATE",
+          "datetime": "2026-11-15 02:30:00",
+          "channels": [
+            {
+              "name": "USA NETWORK",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "03:00",
+          "name": "UTEP - WYOMING",
+          "datetime": "2026-11-15 03:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "03:30",
+          "name": "ARIZONA - UTAH",
+          "datetime": "2026-11-15 03:30:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "14:00",
+          "name": "CYPRUS - MONTENEGRO",
+          "datetime": "2026-11-15 14:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "14:30",
+          "name": "DETROIT LIONS - NEW ENGLAND PATRIOTS",
+          "datetime": "2026-11-15 14:30:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:00",
+          "name": "NORTH CAROLINA - VIRGINIA",
+          "datetime": "2026-11-15 17:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "ATLANTA FALCONS - KANSAS CITY CHIEFS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "CLEVELAND BROWNS - HOUSTON TEXANS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "GREEN BAY PACKERS - MINNESOTA VIKINGS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "INDIANAPOLIS COLTS - MIAMI DOLPHINS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "NEW ORLEANS SAINTS - CAROLINA PANTHERS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "NEW YORK JETS - BUFFALO BILLS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "18:00",
+          "name": "TENNESSEE TITANS - JACKSONVILLE JAGUARS",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "19:00",
+          "name": "GEORGETOWN - AKRON",
+          "datetime": "2026-11-15 19:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "19:45",
+          "name": "FRANCE - TüRKIYE",
+          "datetime": "2026-11-15 19:45:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:00",
+          "name": "GOTHAM FC - KANSAS CITY CURRENT",
+          "datetime": "2026-11-15 20:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "20:00",
+          "name": "INDIANA - WASHINGTON",
+          "datetime": "2026-11-15 20:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:00",
+          "name": "SMU - NORTH CAROLINA",
+          "datetime": "2026-11-15 21:00:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:05",
+          "name": "ARIZONA CARDINALS - LOS ANGELES RAMS",
+          "datetime": "2026-11-15 21:05:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:05",
+          "name": "LAS VEGAS RAIDERS - SEATTLE SEAHAWKS",
+          "datetime": "2026-11-15 21:05:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "21:25",
+          "name": "DALLAS COWBOYS - SAN FRANCISCO 49ERS",
+          "datetime": "2026-11-15 21:25:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "EDMONTON ELKS - MONTREAL ALOUETTES",
+          "datetime": "2026-11-15 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "PANAMA - CURAçAO",
+          "datetime": "2026-11-15 23:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            },
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "01:00",
+          "name": "MEMPHIS GRIZZLIES - BROOKLYN NETS",
+          "datetime": "2026-11-15 01:00:00",
+          "channels": [
+            {
+              "name": "YES",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "01:00",
+          "name": "MIAMI HEAT - DETROIT PISTONS",
+          "datetime": "2026-11-15 01:00:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "15:30",
+          "name": "FC BAYERN MüNCHEN - SYNTAINICS MBC",
+          "datetime": "2026-11-15 15:30:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "IOWA - VANDERBILT",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "MEMPHIS - LOUISVILLE",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "NEBRASKA - BOISE STATE",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "SOUTH CAROLINA - SOUTHERN CAL",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "STONY BROOK - SACRED HEART",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "SNY",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:00",
+          "name": "IOWA - CREIGHTON",
+          "datetime": "2026-11-15 20:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:00",
+          "name": "TEXAS - BAYLOR",
+          "datetime": "2026-11-15 20:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "21:00",
+          "name": "TEXAS LEGENDS - RIO GRANDE VALLEY VIPERS",
+          "datetime": "2026-11-15 21:00:00",
+          "channels": [
+            {
+              "name": "NBA TV",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "22:30",
+          "name": "LOUISVILLE - UCONN",
+          "datetime": "2026-11-15 22:30:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:00",
+          "name": "TORONTO RAPTORS - NEW YORK KNICKS",
+          "datetime": "2026-11-15 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "23:00",
+          "name": "UCLA - PRINCETON",
+          "datetime": "2026-11-15 23:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "01:00",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-11-15 01:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "EQUESTRIAN",
+          "time": "17:30",
+          "name": "AMERICA'S DAY AT THE RACES",
+          "datetime": "2026-11-15 17:30:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FIGHTING",
+          "time": "01:00",
+          "name": "DIEGO PACHECO - DARIUS FULGHUM",
+          "datetime": "2026-11-15 01:00:00",
+          "channels": [
+            {
+              "name": "TNT US",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "06:30",
+          "name": "DP WORLD TOUR CHAMPIONSHIP",
+          "datetime": "2026-11-15 06:30:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "19:00",
+          "name": "AUSTIN CHAMPIONSHIP",
+          "datetime": "2026-11-15 19:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "️ GOLF",
+          "time": "22:00",
+          "name": "CHARLES SCHWAB CUP CHAMPIONSHIP",
+          "datetime": "2026-11-15 22:00:00",
+          "channels": [
+            {
+              "name": "GOLF CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
+          "name": "BOSTON BRUINS - MINNESOTA WILD",
+          "datetime": "2026-11-15 00:00:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "14:00",
+          "name": "USA - FINLAND",
+          "datetime": "2026-11-15 14:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "18:00",
+          "name": "CANADA - SWEDEN",
+          "datetime": "2026-11-15 18:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "MOTORSPORTS",
+          "time": "22:00",
+          "name": "IN-N-OUT BURGER NHRA FINALS",
+          "datetime": "2026-11-15 22:00:00",
+          "channels": [
+            {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "00:00",
+          "name": "WTA FINALS",
+          "datetime": "2026-11-15 00:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "10:30",
+          "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-15 10:30:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "13:00",
+          "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-15 13:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "17:00",
+          "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-15 17:00:00",
+          "channels": [
+            {
+              "name": "TSN 5",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "19:30",
+          "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-15 19:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "20:00",
+          "name": "WTA FINALS",
+          "datetime": "2026-11-15 20:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "22:30",
+          "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-15 22:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "03:00",
+          "name": "SOUTHERN CAL - WASHINGTON",
+          "datetime": "2026-11-15 03:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "19:00",
+          "name": "NORTHEASTERN - WILLIAM & MARY",
+          "datetime": "2026-11-15 19:00:00",
+          "channels": [
+            {
+              "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "WINTERSPORTS",
+          "time": "17:00",
+          "name": "SKATE AMERICA",
+          "datetime": "2026-11-15 17:00:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "WINTERSPORTS",
+          "time": "19:05",
+          "name": "FIGURE SKATING GRAND PRIX",
+          "datetime": "2026-11-15 19:05:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "UHD EVENTS",
       "type": "plain",
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports Main Event UHD - Live: NFL Football - Washington Commanders at New York Giants - Fri 13/11 12:00am",
-        "Sky Sports Main Event UHD - Live: DP World Tour Championship, DP World Tour Golf - Day 2 - Fri 13/11 7:00am",
-        "Sky Sports Main Event UHD - Live: Austin Championship, PGA Tour Golf - Day 2: Featured Groups - Fri 13/11 1:00pm",
-        "Sky Sports Main Event UHD - Live: Pelican Women's Championship, LPGA Tour Golf - Day 2 - Fri 13/11 4:00pm",
-        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 6, Singles: Mirra Andreeva v Karolina Muchova - Fri 13/11 7:30pm",
+        "Sky Sports Main Event UHD - Live Tennis: WTA Finals 2026 - Day 6: Doubles - Sat 14/11 12:00am",
+        "Sky Sports Main Event UHD - Live: DP World Tour Championship, DP World Tour Golf - Day 3 - Sat 14/11 7:00am",
         "Sky Sports UHD 1 - Live: EFL League Two - Exeter City v Cheltenham Town - Sat 14/11 12:00pm",
         "Sky Sports Main Event UHD - Live: Grand Slam of Darts - Day 1 - Sat 14/11 1:00pm",
-        "Sky Sports F1 UHD - GB3 Championship Motor Racing - Barcelona: Highlights - Sat 14/11 6:00pm"
+        "Sky Sports F1 UHD - GB3 Championship Motor Racing - Barcelona: Highlights - Sat 14/11 6:00pm",
+        "Sky Sports Main Event UHD - Sports Sunday - Sun 15/11 12:30pm",
+        "Sky Sports UHD 1 - Live: WSL - Aston Villa v Birmingham City - Sun 15/11 1:30pm",
+        "Sky Sports Main Event UHD - Live: NFL Football - San Francisco 49ers at Dallas Cowboys - Sun 15/11 11:30pm"
       ],
       "sections": [],
       "events": []
@@ -1203,12 +1767,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: WWII Secret Bunker in Dover Opens to Public - 13/11/2026 03:26 - 01:37",
-        "BBC Events 03 - Autumnwatch: Autumn Calm - 13/11/2026 22:00 - 00:00",
-        "BBC Events 04 - no_brand_title: Microsoft Says Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 05:24 - 05:06",
-        "BBC Events 05 - no_brand_title: Scandal-Hit Nvidia CEO Jensen Huang Resigns - 13/11/2026 05:28 - 02:11",
-        "BBC Events 09 - no_brand_title: Clean-up Begins as Oil Spill Shuts Kent Beaches - 13/11/2026 05:55 - 01:52",
-        "BBC Events 10 - no_brand_title: Attempts to Fix Global Outage Not Going 'as Expected' - 13/11/2026 07:14 - 06:59"
+        "BBC Events 01 - no_brand_title: US Flights Take Off Again After Rare Ground Stop Lifted - 14/11/2026 03:34 - 01:48",
+        "BBC Events 02 - no_brand_title: Jojo The Gorilla Settles Into Gabon Sanctuary - 14/11/2026 07:31 - 07:09",
+        "BBC Events 04 - no_brand_title: Milburn: Young Should Have Legal Guarantee of Job, Training or Employment - 14/11/2026 06:02 - 05:49",
+        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING -14/11/2026 عالم الظهيرة - 14/11/2026 11:14 - 11:13",
+        "BBC Events 06 - no_brand_title: FAA Orders Rare Grounding of All US Flights - 13/11/2026 21:20 - 21:16"
       ],
       "sections": [],
       "events": []
@@ -1219,9 +1782,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Euro Basketball League 01 : Anadolu Efes Istanbul vs Virtus Bologna - Fri 13/11 05:30pm",
-        "Euro Basketball League 02 : Panathinaikos AKTOR Athens vs FC Barcelona - Fri 13/11 07:15pm",
-        "Euro Basketball League 03 : LDLC ASVEL Villeurbanne vs Besiktas Istanbul - Fri 13/11 07:30pm",
         "Euro Basketball League 01 : Melbourne United vs South East Melbourne Phoenix - Sat 14/11 08:30am",
         "Euro Basketball League 02 : Limoges vs Paris Basketball - Sat 14/11 07:30pm",
         "Euro Basketball League 01 : Sydney Kings vs New Zealand Breakers - Sun 15/11 04:00am",
@@ -1229,7 +1789,21 @@
         "Euro Basketball League 03 : Aris Thessaloniki vs Olympiacos Piraeus - Sun 15/11 03:30pm",
         "Euro Basketball League 04 : Napoli Basketball vs Pallacanestro Trieste - Sun 15/11 04:00pm",
         "Euro Basketball League 05 : Dolomiti Energia Trentino vs Virtus Costa Bologna - Sun 15/11 06:00pm",
-        "Euro Basketball League 06 : Le Mans Sarthe Basket vs LDLC ASVEL Villeurbanne - Sun 15/11 06:00pm"
+        "Euro Basketball League 06 : Le Mans Sarthe Basket vs LDLC ASVEL Villeurbanne - Sun 15/11 06:00pm",
+        "Euro Basketball League 01 : Dubai Basketball vs Anadolu Efes Istanbul - Tue 17/11 04:00pm",
+        "Euro Basketball League 02 : Turk Telekom Ankara vs La Laguna Tenerife - Tue 17/11 04:30pm",
+        "Euro Basketball League 03 : Balkan Botevgrad vs ratiopharm ulm - Tue 17/11 05:00pm",
+        "Euro Basketball League 04 : Maccabi Rapyd Tel Aviv vs Olympiacos Piraeus - Tue 17/11 05:00pm",
+        "Euro Basketball League 05 : Fenerbahce Tarfin Istanbul vs LDLC ASVEL Villeurbanne - Tue 17/11 06:00pm",
+        "Euro Basketball League 06 : Zalgiris Kaunas vs FC Bayern Munich - Tue 17/11 06:00pm",
+        "Euro Basketball League 07 : Roma Basketball vs Bahcesehir College Istanbul - Tue 17/11 07:00pm",
+        "Euro Basketball League 08 : Rostock Seawolves  vs Hapoel Midtown Jerusalem - Tue 17/11 07:00pm",
+        "Euro Basketball League 09 : Armani Olimpia Milan vs Crvena Zvezda Meridianbet Belgrade - Tue 17/11 07:30pm",
+        "Euro Basketball League 10 : FC Barcelona vs Paris Basketball - Tue 17/11 07:30pm",
+        "Euro Basketball League 11 : Kosner Baskonia Vitoria-Gasteiz vs Hapoel IBI Tel Aviv - Tue 17/11 07:30pm",
+        "Euro Basketball League 12 : London Lions vs Siauliai Basketball - Tue 17/11 07:30pm",
+        "Euro Basketball League 13 : Partizan Mozzart Bet Belgrade vs Valencia Basket - Tue 17/11 07:45pm",
+        "Euro Basketball League 14 : Virtus Bologna vs Panathinaikos AKTOR Athens - Tue 17/11 08:00pm"
       ],
       "sections": [],
       "events": []
@@ -1240,20 +1814,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 13/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Leganés vs. Burgos",
-        "ESPN Event 02 - 13/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Leganés vs. Burgos",
-        "ESPN Event 01 - 13/11/2026 - 23:00 UK / 18:00 ET - Football - Collegiate Sprint Football League: Pennsylvania vs. Cornell",
-        "ESPN Event 02 - 14/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Florida State vs. Pittsburgh",
-        "ESPN Event 03 - 14/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: New York Rangers vs. Vancouver Canucks",
-        "ESPN Event 04 - 14/11/2026 - 01:45 UK / 20:45 ET - Hockey - Men’s College Club Hockey: Cincinnati vs. NC State",
-        "ESPN Event 05 - 14/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Nashville Predators vs. Vegas Golden Knights",
-        "ESPN Event 01 - 14/11/2026 - 03:00 UK / 22:00 ET - Football - NCAA Football: Southern Utah vs. Portland State",
-        "ESPN Event 06 - 14/11/2026 - 03:15 UK / 22:15 ET - Football - NCAA Football: #14 Houston vs. Colorado",
-        "ESPN Event 07 - 14/11/2026 - 03:55 UK / 22:55 ET - Soccer - Australian A-League Women: Melbourne Victory vs. Adelaide United",
-        "ESPN Event 08 - 14/11/2026 - 03:55 UK / 22:55 ET - Soccer - Australian A-League Women: Melbourne City FC vs. Newcastle Jets",
-        "ESPN Event 02 - 14/11/2026 - 05:55 UK / 00:55 ET - Soccer - Australian A-League Women: Central Coast Mariners FC vs. Perth Glory",
-        "ESPN Event 03 - 14/11/2026 - 06:00 UK / 01:00 ET - Football - NFL: Dallas Cowboys vs. San Francisco 49ers",
-        "ESPN Event 01 - 14/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Mainland Pouakai (Round 8)",
         "ESPN Event 01 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: Valladolid vs. Castellón",
         "ESPN Event 02 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: En Español-Valladolid vs. Castellón",
         "ESPN Event 03 - 14/11/2026 - 13:30 UK / 08:30 ET - Football - NFL: Minnesota Vikings vs. Green Bay Packers",
@@ -1270,7 +1830,6 @@
         "ESPN Event 12 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Columbia vs. Brown",
         "ESPN Event 13 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Norfolk State vs. Morgan State",
         "ESPN Event 14 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Butler vs. Marist",
-        "ESPN Event 15 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Illinois State vs. Youngstown State",
         "ESPN Event 16 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Villanova vs. Holy Cross",
         "ESPN Event 17 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: #13 Wake Forest vs. SMU",
         "ESPN Event 18 - 14/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - Duke vs. #7 Miami",
@@ -1282,14 +1841,68 @@
         "ESPN Event 03 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: The Citadel vs. VMI",
         "ESPN Event 24 - 14/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Georgia Tech vs. Clemson",
         "ESPN Event 25 - 14/11/2026 - 17:45 UK / 12:45 ET - Football - NCAA Football: #3 Alabama vs. Vanderbilt",
+        "ESPN Event 15 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: East Carolina vs. Charlotte",
         "ESPN Event 26 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: UAB vs. Temple",
         "ESPN Event 27 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Delaware State vs. Howard",
         "ESPN Event 28 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Murray State vs. Indiana State",
         "ESPN Event 29 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Bucknell vs. William & Mary",
         "ESPN Event 30 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Arkansas State vs. Coastal Carolina",
         "ESPN Event 31 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: Army vs. Dartmouth (Semifinal)",
+        "ESPN Event 32 - 14/11/2026 - 18:00 UK / 13:00 ET - Rugby - NCAA Women's Rugby: American International vs. Harvard (Semifinal)",
         "ESPN Event 32 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Chattanooga vs. Furman",
-        "ESPN Event 33 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Dartmouth vs. Cornell"
+        "ESPN Event 33 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Dartmouth vs. Cornell",
+        "ESPN Event 34 - 14/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Lafayette vs. Colgate",
+        "ESPN Event 04 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Arizona State vs. UCF",
+        "ESPN Event 05 - 14/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Eastern Illinois vs. Tennessee State",
+        "ESPN Event 06 - 14/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: #22 Missouri vs. #1 Georgia",
+        "ESPN Event 01 - 14/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Fresno State vs. Texas State",
+        "ESPN Event 02 - 14/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: East Texas A&M vs. Lamar",
+        "ESPN Event 07 - 14/11/2026 - 21:15 UK / 16:15 ET - Football - NCAA Football: #19 Ole Miss vs. Oklahoma",
+        "ESPN Event 03 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Tulane vs. Rice",
+        "ESPN Event 08 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Coast Guard Academy vs. Merchant Marine Academy",
+        "ESPN Event 15 - 14/11/2026 - 21:30 UK / 16:30 ET - Football - NCAA Football: Illinois State vs. Youngstown State",
+        "ESPN Event 09 - 14/11/2026 - 22:00 UK / 17:00 ET - Football - NCAA Football: Southern Miss vs. Louisiana Tech",
+        "ESPN Event 10 - 14/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: Weber State vs. Northern Arizona",
+        "ESPN Event 11 - 14/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: Stephen F. Austin vs. UT Rio Grande Valley",
+        "ESPN Event 12 - 14/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: App State vs. Marshall",
+        "ESPN Event 13 - 14/11/2026 - 23:00 UK / 18:00 ET - Soccer - USL Championship: Charleston Battery vs. Louisville City FC (Eastern Conference Final)",
+        "ESPN Event 14 - 14/11/2026 - 23:15 UK / 18:15 ET - Football - NCAA Football: SkyCast - Florida vs. #11 Kentucky",
+        "ESPN Event 16 - 14/11/2026 - 23:15 UK / 18:15 ET - Football - NCAA Football: Florida vs. #11 Kentucky",
+        "ESPN Event 17 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Philadelphia Flyers vs. Columbus Blue Jackets",
+        "ESPN Event 18 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Florida Panthers vs. St. Louis Blues",
+        "ESPN Event 19 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Colorado Avalanche vs. Montreal Canadiens",
+        "ESPN Event 20 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Minnesota Wild vs. Boston Bruins",
+        "ESPN Event 21 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: New Jersey Devils vs. Washington Capitals",
+        "ESPN Event 22 - 14/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Detroit Red Wings vs. Tampa Bay Lightning",
+        "ESPN Event 23 - 15/11/2026 - 00:00 UK / 19:00 ET - Soccer - Fútbol Americas: Futbol Americas: USMNT vs. Haiti Reaction Show",
+        "ESPN Event 24 - 15/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Louisville vs. North Carolina",
+        "ESPN Event 25 - 15/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Ottawa Senators vs. Pittsburgh Penguins",
+        "ESPN Event 26 - 15/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: McNeese vs. SE Louisiana",
+        "ESPN Event 27 - 15/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Troy vs. South Alabama",
+        "ESPN Event 28 - 15/11/2026 - 00:05 UK / 19:05 ET - Football - NCAA Football: Montana State vs. Northern Colorado",
+        "ESPN Event 29 - 15/11/2026 - 00:15 UK / 19:15 ET - Football - NCAA Football: Florida Atlantic vs. Tulsa",
+        "ESPN Event 04 - 15/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Buffalo Sabres vs. Dallas Stars",
+        "ESPN Event 05 - 15/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: UNLV vs. New Mexico",
+        "ESPN Event 30 - 15/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: SkyCast+: #6 Texas vs. #21 LSU",
+        "ESPN Event 31 - 15/11/2026 - 00:37 UK / 19:37 ET - Football - NCAA Football: #6 Texas vs. #21 LSU",
+        "ESPN Event 06 - 15/11/2026 - 00:45 UK / 19:45 ET - Football - NCAA Football: #17 South Carolina vs. Arkansas",
+        "ESPN Event 32 - 15/11/2026 - 00:55 UK / 19:55 ET - Soccer - Australian A-League Women: Wellington Phoenix vs. Sydney FC",
+        "ESPN Event 01 - 15/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: UC Davis vs. Idaho",
+        "ESPN Event 02 - 15/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: San Jose Sharks vs. Utah Mammoth",
+        "ESPN Event 03 - 15/11/2026 - 02:00 UK / 21:00 ET - Basketball - Tauihi Basketball New Zealand: Tauranga Whai vs. Tokomanawa Queens (Round 8)",
+        "ESPN Event 07 - 15/11/2026 - 02:00 UK / 21:00 ET - Football - NCAA Football: Eastern Washington vs. Utah Tech",
+        "ESPN Event 08 - 15/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Calgary Flames vs. Los Angeles Kings",
+        "ESPN Event 09 - 15/11/2026 - 03:00 UK / 22:00 ET - Hockey - NHL: New York Islanders vs. Anaheim Ducks",
+        "ESPN Event 10 - 15/11/2026 - 03:55 UK / 22:55 ET - Soccer - Australian A-League Women: Canberra United vs. Brisbane Roar FC",
+        "ESPN Event 11 - 15/11/2026 - 04:00 UK / 23:00 ET - Football - NCAA Football: North Dakota State vs. Hawai'i",
+        "ESPN Event 01 - 15/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: Tenerife vs. Ceuta",
+        "ESPN Event 02 - 15/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: En Español-Tenerife vs. Ceuta",
+        "ESPN Event 03 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Granada vs. Las Palmas",
+        "ESPN Event 04 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Granada vs. Las Palmas",
+        "ESPN Event 01 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Eldense vs. CE Sabadell FC",
+        "ESPN Event 02 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Eldense vs. CE Sabadell FC",
+        "ESPN Event 05 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: SD Eibar vs. Cádiz",
+        "ESPN Event 06 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-SD Eibar vs. Cadiz"
       ],
       "sections": [],
       "events": []
@@ -1300,10 +1913,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "GaaTv 01: Connaght: Brothers Pearse v Tuairín 1:30pm",
-        "GaaTv 02: Ulster: Donaghmoyne v Desertmartin 3:30pm",
-        "GaaTv 03: Ulster: Erne Gaels v St Eunans 5pm",
-        "GaaTv 04: Ulster: Gowna v Crossmaglen Rangers 7:15pm"
+        "GaaTv01: Armagh :  Clann Eireann vs Culloville  7:30pm"
       ],
       "sections": [],
       "events": []
@@ -1311,7 +1921,7 @@
     {
       "name": "GAA PLUS",
       "type": "plain",
-      "last_updated": "Last Updated: Fri Nov 13, 2026 12:00am GMT",
+      "last_updated": "Last Updated: Sat Nov 14, 2026 12:00am GMT",
       "status": "ok",
       "fixtures": [
         "GAA Plus 01: AIB Leinster Football Championship - CUALA v SARSFIELDS - Sat 14/11 4:45pm",
@@ -1354,20 +1964,20 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Knicks at Pacers - Sat 14/11 12:00am",
-        "Bucks at Magic - Sat 14/11 12:00am",
-        "Cavaliers at Heat - Sat 14/11 01:00am",
-        "Hawks at Bulls - Sat 14/11 01:00am",
-        "Grizzlies at Pelicans - Sat 14/11 01:00am",
-        "Jazz at Rockets - Sat 14/11 01:30am",
-        "Warriors at Spurs - Sat 14/11 02:30am",
-        "Trail Blazers at Kings - Sat 14/11 03:00am",
-        "Thunder at Clippers - Sat 14/11 03:30am",
         "Nuggets at Pelicans - Sun 15/11 12:00am",
         "Mavericks at Cavaliers - Sun 15/11 12:30am",
         "Pistons at Heat - Sun 15/11 01:00am",
         "Nets at Grizzlies - Sun 15/11 01:00am",
-        "Bulls at Timberwolves - Sun 15/11 01:00am"
+        "Bulls at Timberwolves - Sun 15/11 01:00am",
+        "Pacers at 76ers - Sun 15/11 06:00pm",
+        "Lakers at Suns - Sun 15/11 09:00pm",
+        "Hornets at Clippers - Sun 15/11 09:30pm",
+        "Spurs at Jazz - Sun 15/11 10:00pm",
+        "Mavericks at Celtics - Sun 15/11 11:00pm",
+        "Knicks at Raptors - Sun 15/11 11:00pm",
+        "Rockets at Wizards - Mon 16/11 12:00am",
+        "Hawks at Bucks - Mon 16/11 01:00am",
+        "Thunder at Kings - Mon 16/11 02:00am"
       ],
       "sections": [],
       "events": []
@@ -1387,8 +1997,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "New York Rangers at Vancouver Canucks - Sat 14/11 02:00am",
-        "Nashville Predators at Vegas Golden Knights - Sat 14/11 03:00am",
         "Seattle Kraken at Carolina Hurricanes - Sat 14/11 06:00pm",
         "Winnipeg Jets at Chicago Blackhawks - Sat 14/11 08:30pm",
         "Colorado Avalanche at Montreal Canadiens - Sun 15/11 12:00am",
@@ -1406,7 +2014,9 @@
         "Edmonton Oilers at Philadelphia Flyers - Mon 16/11 12:30am",
         "Calgary Flames at Anaheim Ducks - Mon 16/11 01:00am",
         "Florida Panthers at Dallas Stars - Mon 16/11 01:00am",
-        "Nashville Predators at San Jose Sharks - Mon 16/11 02:00am"
+        "Nashville Predators at San Jose Sharks - Mon 16/11 02:00am",
+        "Vancouver Canucks at Vegas Golden Knights - Mon 16/11 02:00am",
+        "Montreal Canadiens at New York Rangers - Tue 17/11 12:30am"
       ],
       "sections": [],
       "events": []
@@ -1422,7 +2032,8 @@
         "PDC Darts 1 : 2026 Grand Slam of Darts | Day 2 - Afternoon Session - Grand Slam of Darts | Main Feed (English) - Sun 15/11 12:00pm",
         "PDC Darts 2 : 2026 Grand Slam of Darts | Day 2 - Evening Session - Grand Slam of Darts | Main Feed (English) - Sun 15/11 7:00pm",
         "PDC Darts 1 : 2026 Grand Slam of Darts | Day 3 - Evening Session - Grand Slam of Darts | Main Feed (English) - Mon 16/11 7:00pm",
-        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 4 - Evening Session - Grand Slam of Darts | Main Feed (English) - Tue 17/11 7:00pm"
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 4 - Evening Session - Grand Slam of Darts | Main Feed (English) - Tue 17/11 7:00pm",
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 5 - Evening Session - Grand Slam of Darts | Main Feed (English) - Wed 18/11 7:00pm"
       ],
       "sections": [],
       "events": []
@@ -1434,7 +2045,7 @@
       "status": "ok",
       "fixtures": [
         "Paramount+ Event 02 - 11:50 - English Football League: Exeter City vs. Cheltenham Town",
-        "Paramount+ Event 03 - 12:05 - Barclays Womens Super League: Man. United vs. Crystal Palace",
+        "Paramount+ Event 03 - 12:05 - Barclays Women's Super League: Man. United vs. Crystal Palace",
         "Paramount+ Event 04 - 12:30 - Barclays Womens Super League: Chelsea vs. Man. City",
         "Paramount+ Event 05 - 13:20 - World Rugby: Hong Kong China vs. Canada",
         "Paramount+ Event 06 - 13:20 - World Rugby: Georgia vs. Tonga",
@@ -1463,16 +2074,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 7 : World Cup SS: Beijing 1 (Speed Skating) - Fri 13/11 9:00am",
-        "Peacock 5 : Rinkside Live: Men's (Figure Skating) - Fri 13/11 6:00pm",
-        "Peacock 5 : Rinkside Live: Pairs (Figure Skating) - Fri 13/11 7:15pm",
-        "Peacock 6 : Rinkside Live: Rhythm Dance (Figure Skating) - Fri 13/11 7:30pm",
-        "Peacock 5 : Rinkside Live: Women's (Figure Skating) - Fri 13/11 9:45pm",
-        "Peacock 1 : Pittsburgh vs. Butler (Basketball) - Fri 13/11 11:00pm",
-        "Peacock 2 : Michigan State vs. Notre Dame (Hockey) - Sat 14/11 12:00am",
-        "Peacock 3 : Lexington SC v. FTL United (Soccer) - Sat 14/11 12:30am",
-        "Peacock 4 : Virginia vs. Maryland (Basketball) - Sat 14/11 1:00am",
-        "Peacock 1 : Men's & Pairs Short Program (Figure Skating) - Sat 14/11 3:00am",
         "Peacock 1 : Levi: Women’s Slalom Run 1 (Alpine Skiing) - Sat 14/11 9:00am",
         "Peacock 5 : World Cup SS: Beijing 2 (Speed Skating) - Sat 14/11 9:00am",
         "Peacock 1 : Levi: Women’s Slalom Run 2 (Alpine Skiing) - Sat 14/11 12:00pm",
@@ -1500,7 +2101,9 @@
         "Peacock 1 : Steelers vs. Bengals (NFL) - Mon 16/11 12:00am",
         "Peacock 2 : Sunday Night Football Final (NFL) - Mon 16/11 4:30am",
         "Peacock 1 : Performance View: ORL vs. BOS (NBA) - Mon 16/11 11:30pm",
-        "Peacock 2 : Magic vs. Celtics (NBA) - Mon 16/11 11:30pm"
+        "Peacock 2 : Magic vs. Celtics (NBA) - Mon 16/11 11:30pm",
+        "Peacock 1 : Performance View: DET vs. SAS (NBA) - Wed 18/11 12:00am",
+        "Peacock 2 : Pistons vs. Spurs (NBA) - Wed 18/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1508,7 +2111,7 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "Last updated: Fri 13 Nov 2026 05:00:03 UK",
+      "last_updated": "Last updated: Sat 14 Nov 2026 05:00:04 UK",
       "status": "ok",
       "fixtures": [
         "FloSports 02 - FloCollege: Davenport vs West Chester - 14 Nov 15:00 UK / 10:00 ET / 07:00 PT",
@@ -1524,28 +2127,13 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 7 - LIVE: SS: NSW v S Australia D4 - 23:25 13/11/2026",
-        "Sky Sport 9 - LIVE: SS: Victoria v W Australia D4 - 23:25 13/11/2026",
-        "Sky Sport 5 - LIVE: ALW: Melb Victory v Adelaide Utd - 03:55 14/11/2026",
-        "Sky Sport 4 - LIVE: WBBL: Hurricanes v Heat - 04:35 14/11/2026",
-        "Sky Sport 2 - LIVE: Rapid League: Pouakai v Kahu - 05:30 14/11/2026",
-        "Sky Sport 3 - LIVE: T100 Triathlon: Dubai - 06:00 14/11/2026",
-        "Sky Sport Select - LIVE: ALW: Mariners v Perth Glory - 06:05 14/11/2026",
-        "Sky Sport 2 - LIVE: Tauihi: Pouakai v Kahu - 06:30 14/11/2026",
-        "Sky Sport 1 - LIVE: DP World Tour: Round 3 - 07:00 14/11/2026",
-        "Sky Sport 1 UHD - LIVE: DP World Tour: Round 3 - 07:00 14/11/2026",
-        "Sky Sport 5 - LIVE: Asian Le Mans Cup R1: Race - 07:50 14/11/2026",
-        "Sky Sport 4 - LIVE: WBBL: Scorchers v Strikers - 08:05 14/11/2026",
-        "Sky Sport 2 - LIVE: NC: Italy v Argentina - 11:30 14/11/2026",
-        "Sky Sport Select - LIVE: Asian Le Mans Series R1: Race - 11:50 14/11/2026",
-        "Sky Sport 5 - LIVE: Zuffa Boxing 13 - 12:30 14/11/2026",
         "Sky Sport 3 - LIVE: WSL: Man United v Crystal Palace - 12:35 14/11/2026",
         "Sky Sport 4 - LIVE: Grand Slam of Darts: D1 Aft - 13:00 14/11/2026",
         "Sky Sport 1 - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
         "Sky Sport 6 - LIVE: WSL: Chelsea v Man City - 13:20 14/11/2026",
-        "Sky Sport 2 - LIVE: NC: Georgia v Tonga - 13:50 14/11/2026",
         "Sky Sport 7 - LIVE: NC: Hong Kong v Canada - 13:50 14/11/2026",
+        "Sky Sport 2 - LIVE: NC: Georgia v Tonga - 13:50 14/11/2026",
         "Sky Sport 9 - LIVE: PFL Dubai 2 - 14:00 14/11/2026",
         "Sky Sport 3 - LIVE: NC: Portugal v Samoa - 14:50 14/11/2026",
         "Sky Sport 6 - LIVE: NC: Spain v Chile - 15:50 14/11/2026",
@@ -1570,8 +2158,8 @@
         "Sky Sport 6 - LIVE: Asian Le Mans Cup R2: Race - 08:00 15/11/2026",
         "Sky Sport 9 - LIVE: Asian Le Mans Series R2: Race - 11:50 15/11/2026",
         "Sky Sport 2 - LIVE: Grand Slam of Darts: D2 Aft - 13:00 15/11/2026",
-        "Sky Sport 5 - LIVE: WSL: Aston Villa v Birmingham - 13:50 15/11/2026",
         "Sky Sport 6 - LIVE: WSL: West Ham v Charlton - 13:50 15/11/2026",
+        "Sky Sport 5 - LIVE: WSL: Aston Villa v Birmingham - 13:50 15/11/2026",
         "Sky Sport 1 - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
         "Sky Sport 5 - LIVE: WSL: Arsenal v London City - 16:20 15/11/2026",
@@ -1601,7 +2189,16 @@
         "Sky Sport 1 UHD - LIVE: Silver Ferns v Net Blacks: G2 - 06:30 19/11/2026",
         "Sky Sport 2 - LIVE: WBBL: Heat v Thunder - 08:10 19/11/2026",
         "Sky Sport 1 - LIVE: PGA Tour: Round 1 - 17:00 19/11/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 17:00 19/11/2026"
+        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 1 - 17:00 19/11/2026",
+        "Sky Sport 3 - LIVE: Grand Slam of Darts: D6 - 19:00 19/11/2026",
+        "Sky Sport 4 - LIVE: Fijian Cup Touch D1 - 19:55 19/11/2026",
+        "Sky Sport 1 - LIVE: BLACKCAPS v India: 1st Test D2 - 21:30 19/11/2026",
+        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st Test D2 - 21:30 19/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas P1 - 00:00 20/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas P2 - 03:45 20/11/2026",
+        "Sky Sport 4 - LIVE: Rapid League: Kahu v Queens - 05:30 20/11/2026",
+        "Sky Sport 2 - LIVE: The F1 Show: Las Vegas Grand  Prix - 06:10 20/11/2026",
+        "Sky Sport 4 - LIVE: Tauihi: Kahu v Queens - 06:30 20/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1616,10 +2213,10 @@
         "Adelaide Strikers vs Sydney Sixers",
         "Luton vs Peterborough",
         "Mk Dons vs Burton",
+        "Stockport vs Reading",
         "Sheff Wed vs Plymouth",
         "Wigan vs Barnsley",
         "Wimbledon vs Blackpool",
-        "Stockport vs Reading",
         "Bristol R vs Chesterfield",
         "Colchester vs Gillingham",
         "Crewe vs Newport",
@@ -1638,15 +2235,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 13 - Fri 13/11 9:00pm",
-        "Sportsnet 04 : UFC 334 Ceremonial Weigh-In - Fri 13/11 9:50pm",
-        "Sportsnet 01 : The FAN Pregame: Nov. 13 - Fri 13/11 11:00pm",
-        "Sportsnet 05 : Atlanta @ Chicago - Sat 14/11 1:00am",
-        "Sportsnet 03 : Cleveland @ Miami - Sat 14/11 1:00am",
-        "Sportsnet 02 : New York Rangers @ Vancouver - Sat 14/11 2:00am",
-        "Sportsnet 01 : Nashville @ Vegas - Sat 14/11 3:00am",
-        "Sportsnet 04 : Oklahoma City @ Los Angeles Clippers - Sat 14/11 3:30am",
-        "Sportsnet 01 : Sportsnet Central: Nov. 13 - Sat 14/11 10:00am",
         "Sportsnet 02 : Manchester United vs. Crystal Palace - Sat 14/11 12:35pm",
         "Sportsnet 03 : Chelsea vs. Manchester City - Sat 14/11 1:20pm",
         "Sportsnet 01 : Tottenham Hotspur vs. Everton - Sat 14/11 2:50pm",
@@ -1662,7 +2250,15 @@
         "Sportsnet 09 : New Jersey @ Washington - Sun 15/11 12:00am",
         "Sportsnet 10 : Ottawa @ Pittsburgh - Sun 15/11 12:00am",
         "Sportsnet 12 : Philadelphia @ Columbus - Sun 15/11 12:00am",
-        "Sportsnet 11 : UFC 334 - Gane vs. Hokit Prelims - Sun 15/11 12:00am"
+        "Sportsnet 11 : UFC 334 - Gane vs. Hokit Prelims - Sun 15/11 12:00am",
+        "Sportsnet 05 : Buffalo @ Dallas - Sun 15/11 1:00am",
+        "Sportsnet 13 : UFC 334 - Gane vs. Hokit - Sun 15/11 1:50am",
+        "Sportsnet 14 : San Jose @ Utah - Sun 15/11 2:00am",
+        "Sportsnet 16 : Calgary @ Los Angeles - Sun 15/11 3:00am",
+        "Sportsnet 15 : New York Islanders @ Anaheim - Sun 15/11 3:00am",
+        "Sportsnet 02 : UFC 334 Post-Fight Press Conference - Sun 15/11 4:50am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 14 - Sun 15/11 10:00am",
+        "Sportsnet 01 : Aston Villa vs. Birmingham City - Sun 15/11 1:50pm"
       ],
       "sections": [],
       "events": []
@@ -1673,9 +2269,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 05 : France v South Africa - Nations Championship Round 5 2026 - Fri 13/11 7:56pm",
-        "Stan 04 : Indian Wells: Day 6 - WTA Finals - Fri 13/11 8:01pm",
-        "Stan 01 : Race 1: Le Castellet - Asian Le Mans Cup 2026/27 - Sat 14/11 7:51am",
         "Stan 02 : Italy v Argentina - Nations Championship Round 5 2026 - Sat 14/11 11:31am",
         "Stan 03 : Race 1: Le Castellet - Asian Le Mans Series 2026/27 - Sat 14/11 11:51am",
         "Stan 04 : Manchester United v Crystal Palace - WSL 2026/27 - Sat 14/11 12:36pm",
@@ -1732,7 +2325,9 @@
         "Stan 18 : London City Lionesses v Crystal Palace - WSL 2026/27 - Sat 21/11 5:06pm",
         "Stan 19 : Zimbabwe v Chile - Nations Cup Round 6 2026 - Sat 21/11 5:06pm",
         "Stan 21 : 4K • Newcastle United v Arsenal - Premier League Matchweek 11 2026/2027 - Sat 21/11 5:21pm",
-        "Stan 20 : Newcastle United v Arsenal - Premier League Matchweek 11 2026/2027 - Sat 21/11 5:21pm"
+        "Stan 20 : Newcastle United v Arsenal - Premier League Matchweek 11 2026/2027 - Sat 21/11 5:21pm",
+        "Stan 01 : Wales v Australia - Nations Championship Round 6 2026 - Sat 21/11 7:31pm",
+        "Stan 02 : France v Argentina - Nations Championship Round 6 2026 - Sat 21/11 8:01pm"
       ],
       "sections": [],
       "events": []
@@ -1752,13 +2347,25 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 04 : 2026 WTA Finals: Round Robin - Day #6 - Fri 13/11 8:00pm",
-        "TSN 01 : NCAA Women's Hockey: Boston University vs. Boston College - Fri 13/11 11:00pm",
-        "TSN 05 : NCAA Football: Florida State vs. Pittsburgh - Sat 14/11 12:00am",
-        "TSN 02 : NCAA Men's Basketball: Georgia vs. North Carolina - Sat 14/11 12:00am",
-        "TSN 03 : NCAA Men's Hockey: Northeastern vs. UConn - Sat 14/11 12:00am",
-        "TSN 06 : NCAA Men's Basketball: Arizona vs. Auburn - Sat 14/11 2:00am",
-        "TSN 07 : NCAA Football: Houston vs. Colorado - Sat 14/11 3:15am"
+        "TSN 01 : ATP 250 Tennis: Stockholm - Final - Sat 14/11 12:00pm",
+        "TSN 02 : NCAA Football: Auburn vs. Mississippi State - Sat 14/11 5:00pm",
+        "TSN 03 : NCAA Football: Wake Forest vs. SMU - Sat 14/11 5:00pm",
+        "TSN 04 : NCAA Football: Alabama vs. Vanderbilt - Sat 14/11 5:45pm",
+        "TSN 01 : NCAA Football: Kansas State vs. TCU - Sat 14/11 7:00pm",
+        "TSN 07 : 2026 WTA Finals: Singles & Doubles Semifinals - Sat 14/11 8:00pm",
+        "TSN 06 : NCAA Football: Tennessee vs. Texas A&M - Sat 14/11 8:00pm",
+        "TSN 05 : NCAA Women's Hockey: Dartmouth vs. Cornell - Sat 14/11 8:00pm",
+        "TSN 08 : NCAA Football: Arizona State vs. UCF - Sat 14/11 8:30pm",
+        "TSN 09 : NCAA Football: California vs. Virginia - Sat 14/11 8:30pm",
+        "TSN 10 : NCAA Football: Ole Miss vs. Oklahoma - Sat 14/11 9:15pm",
+        "TSN 11 : NCAA Football: Kansas vs. West Virginia - Sat 14/11 10:30pm",
+        "TSN 12 : NCAA Football: Florida vs. Kentucky - Sat 14/11 11:15pm",
+        "TSN 03 : NCAA Football: Louisville vs. North Carolina - Sun 15/11 12:00am",
+        "TSN 02 : NCAA Men's Hockey: UMass vs. Boston College - Sun 15/11 12:00am",
+        "TSN 04 : NCAA Football: Stanford vs. Virginia Tech - Sun 15/11 12:30am",
+        "TSN 13 : NCAA Football: South Carolina vs. Arkansas - Sun 15/11 12:45am",
+        "TSN 14 : NBA on TSN: Bulls vs. Timberwolves - Sun 15/11 1:00am",
+        "TSN 01 : NCAA Football: Texas Tech vs. Oklahoma State - Sun 15/11 2:30am"
       ],
       "sections": [],
       "events": []
@@ -1769,9 +2376,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "UFC 334: OFFICIAL WEIGH-IN SHOW - Fri 13/11 1:50pm",
-        "UFC 335 & UFC 336: PRESS CONFERENCE - Fri 13/11 9:00pm",
-        "UFC 334: CEREMONIAL WEIGH-IN - Fri 13/11 10:00pm",
         "ETERNAL MMA 112 - Sat 14/11 10:00am",
         "CAGE WARRIORS 213 PRELIMS - Sat 14/11 7:00pm",
         "FCC 48 - Sat 14/11 7:00pm",
