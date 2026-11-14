@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-14T12:00:54.365978+00:00",
+  "scraped_at": "2026-11-14T13:53:51.350242+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,26 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Saturday 14 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 13:30-15:30 - WSL: Chelsea FC vs Manchester City 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:00-19:00 - UEFA Nations League: Norway vs Wales 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 17:00-19:00 - UEFA Nations League: Georgia vs Hungary 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
@@ -191,18 +211,21 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 14-Nov 12:35PM-02:50PM - Women's Super League 2026/27: Man United vs Crystal Palace [SG]",
-        "EVENT 04 - 14-Nov 12:52PM-03:00PM - LaLiga 2 2026/27: Valladolid vs Castellon [SG]",
-        "EVENT 02 - 14-Nov 02:50PM-05:05PM - Women's Super League 2026/27: Tottenham vs Everton [SG]",
+        "EVENT 01 - 14-Nov 12:35PM-02:50PM - Women's Super League 2026/27: Man United vs Crystal Palace [SG]",
+        "EVENT 02 - 14-Nov 12:52PM-03:00PM - LaLiga 2 2026/27: Valladolid vs Castellon [SG]",
+        "EVENT 04 - 14-Nov 02:50PM-05:05PM - Women's Super League 2026/27: Tottenham vs Everton [SG]",
         "EVENT 01 - 14-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Uganda vs Botswana [SG]",
-        "EVENT 04 - 14-Nov 05:05PM-07:15PM - Women's Super League 2026/27: Brighton vs Liverpool [SG]",
+        "EVENT 03 - 14-Nov 05:05PM-07:15PM - Women's Super League 2026/27: Brighton vs Liverpool [SG]",
         "EVENT 02 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Algeria vs Togo [SG]",
-        "EVENT 03 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs South Sudan [SG]",
-        "EVENT 04 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]",
+        "EVENT 04 - 14-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Angola vs South Sudan [SG]",
+        "EVENT 03 - 14-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Real Oviedo vs Girona [SG]",
         "EVENT 03 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026 Game4Ricky: Man City & Man United vs The World [SG]",
         "EVENT 04 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026: Game 4 Ricky - Team Hitman vs Team Hatton [SG]",
         "EVENT 05 - 15-Nov 01:50PM-04:00PM - Women's Super League 2026/27: Aston Villa vs Birmingham [SG]",
-        "EVENT 05 - 15-Nov 04:20PM-06:30PM - Women's Super League 2026/27: Arsenal vs London City Lionesses [SG]"
+        "EVENT 05 - 15-Nov 04:20PM-06:30PM - Women's Super League 2026/27: Arsenal vs London City Lionesses [SG]",
+        "EVENT 01 - 16-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Namibia vs Cameroon [SG]",
+        "EVENT 02 - 16-Nov 12:45PM-02:45PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Sudan vs Senegal [SG]",
+        "EVENT 03 - 16-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zimbabwe vs Equatorial Guinea [SG]"
       ],
       "sections": [],
       "events": []
@@ -571,6 +594,18 @@
           "channels": [
             {
               "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "22:30",
+          "name": "UCF - ARIZONA STATE",
+          "datetime": "2026-11-14 22:30:00",
+          "channels": [
+            {
+              "name": "ESPNU",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1771,7 +1806,9 @@
         "BBC Events 02 - no_brand_title: Jojo The Gorilla Settles Into Gabon Sanctuary - 14/11/2026 07:31 - 07:09",
         "BBC Events 04 - no_brand_title: Milburn: Young Should Have Legal Guarantee of Job, Training or Employment - 14/11/2026 06:02 - 05:49",
         "BBC Events 05 - no_brand_title: MENA LIVE STREAMING -14/11/2026 عالم الظهيرة - 14/11/2026 11:14 - 11:13",
-        "BBC Events 06 - no_brand_title: FAA Orders Rare Grounding of All US Flights - 13/11/2026 21:20 - 21:16"
+        "BBC Events 06 - no_brand_title: FAA Orders Rare Grounding of All US Flights - 13/11/2026 21:20 - 21:16",
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 14/11/2026 12:00 - 18:00",
+        "BBC Events 10 - Women's Super League: Chelsea v Manchester City - 14/11/2026 12:25 - 15:55"
       ],
       "sections": [],
       "events": []
@@ -1814,8 +1851,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: Valladolid vs. Castellón",
-        "ESPN Event 02 - 14/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA 2: En Español-Valladolid vs. Castellón",
+        "ESPN Event 02 - 14/11/2026 - 12:51 UK / 07:51 ET - Soccer - Spanish LALIGA 2: En Español-Valladolid vs. Castellón",
+        "ESPN Event 01 - 14/11/2026 - 12:55 UK / 07:55 ET - Soccer - Spanish LALIGA 2: Valladolid vs. Castellón",
         "ESPN Event 03 - 14/11/2026 - 13:30 UK / 08:30 ET - Football - NFL: Minnesota Vikings vs. Green Bay Packers",
         "ESPN Event 04 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Real Sociedad B vs. Sporting Gijón",
         "ESPN Event 05 - 14/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Real Sociedad B vs. Sporting Gijón",
@@ -2046,7 +2083,7 @@
       "fixtures": [
         "Paramount+ Event 02 - 11:50 - English Football League: Exeter City vs. Cheltenham Town",
         "Paramount+ Event 03 - 12:05 - Barclays Women's Super League: Man. United vs. Crystal Palace",
-        "Paramount+ Event 04 - 12:30 - Barclays Womens Super League: Chelsea vs. Man. City",
+        "Paramount+ Event 04 - 12:30 - Barclays Women's Super League: Chelsea vs. Man. City",
         "Paramount+ Event 05 - 13:20 - World Rugby: Hong Kong China vs. Canada",
         "Paramount+ Event 06 - 13:20 - World Rugby: Georgia vs. Tonga",
         "Paramount+ Event 07 - 14:20 - World Rugby: Portugal vs. Samoa",
@@ -2127,13 +2164,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: WSL: Man United v Crystal Palace - 12:35 14/11/2026",
-        "Sky Sport 4 - LIVE: Grand Slam of Darts: D1 Aft - 13:00 14/11/2026",
-        "Sky Sport 1 - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
-        "Sky Sport 1 UHD - LIVE: NC: Wales v All Blacks - 13:15 14/11/2026",
-        "Sky Sport 6 - LIVE: WSL: Chelsea v Man City - 13:20 14/11/2026",
-        "Sky Sport 7 - LIVE: NC: Hong Kong v Canada - 13:50 14/11/2026",
-        "Sky Sport 2 - LIVE: NC: Georgia v Tonga - 13:50 14/11/2026",
         "Sky Sport 9 - LIVE: PFL Dubai 2 - 14:00 14/11/2026",
         "Sky Sport 3 - LIVE: NC: Portugal v Samoa - 14:50 14/11/2026",
         "Sky Sport 6 - LIVE: NC: Spain v Chile - 15:50 14/11/2026",
@@ -2209,22 +2239,22 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 5 | Mk Dons vs Burton",
+        "Sky Sports+ 6 | Stockport vs Reading",
+        "Sky Sports+ 7 | Sheff Wed vs Plymouth",
+        "Sky Sports+ 8 | Wigan vs Barnsley",
+        "Sky Sports+ 9 | Wimbledon vs Blackpool",
+        "Sky Sports+ 10 | Bristol R vs Chesterfield",
+        "Sky Sports+ 11 | Colchester vs Gillingham",
+        "Sky Sports+ 12 | Crewe vs Newport",
+        "Sky Sports+ 13 | Port Vale vs Accrington",
+        "Sky Sports+ 14 | Rochdale vs York",
+        "Sky Sports+ 15 | Salford vs Northampton",
+        "Sky Sports+ 16 | Shrewsbury vs Oldham",
+        "Sky Sports+ 17 | Swindon vs Grimsby",
         "Sydney Thunder vs Melbourne Stars",
         "Adelaide Strikers vs Sydney Sixers",
-        "Luton vs Peterborough",
-        "Mk Dons vs Burton",
-        "Stockport vs Reading",
-        "Sheff Wed vs Plymouth",
-        "Wigan vs Barnsley",
-        "Wimbledon vs Blackpool",
-        "Bristol R vs Chesterfield",
-        "Colchester vs Gillingham",
-        "Crewe vs Newport",
-        "Port Vale vs Accrington",
-        "Rochdale vs York",
-        "Salford vs Northampton",
-        "Shrewsbury vs Oldham",
-        "Swindon vs Grimsby"
+        "Luton vs Peterborough"
       ],
       "sections": [],
       "events": []
