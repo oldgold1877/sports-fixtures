@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-15T14:27:31.510304+00:00",
+  "scraped_at": "2026-11-15T17:32:40.708910+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Sunday 15 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 14:30-17:30 - NFL: New England Patriots at Detroit Lions 1080p"
             },
             {
               "type": "fixture",
@@ -111,10 +107,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 03 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026 Game4Ricky: Man City & Man United vs The World [SG]",
-        "EVENT 04 - 15-Nov 01:30PM-04:30PM - Legends Football Match 2026: Game 4 Ricky - Team Hitman vs Team Hatton [SG]",
-        "EVENT 05 - 15-Nov 01:50PM-04:00PM - Women's Super League 2026/27: Aston Villa vs Birmingham [SG]",
-        "EVENT 05 - 15-Nov 04:20PM-06:30PM - Women's Super League 2026/27: Arsenal vs London City Lionesses [SG]",
+        "EVENT 01 - 15-Nov 04:20PM-06:30PM - Women's Super League 2026/27: Arsenal vs London City Lionesses [SG]",
         "EVENT 01 - 16-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Namibia vs Cameroon [SG]",
         "EVENT 02 - 16-Nov 12:45PM-02:45PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Sudan vs Senegal [SG]",
         "EVENT 03 - 16-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Zimbabwe vs Equatorial Guinea [SG]",
@@ -123,7 +116,10 @@
         "EVENT 02 - 16-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Eritrea vs Guinea [SG]",
         "EVENT 01 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Malawi vs Egypt [SG]",
         "EVENT 02 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Sudan vs Angola [SG]",
-        "EVENT 03 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tanzania vs Nigeria [SG]"
+        "EVENT 03 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tanzania vs Nigeria [SG]",
+        "EVENT 01 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Gambia vs Ivory Coast [SG]",
+        "EVENT 02 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Libya vs Tunisia [SG]",
+        "EVENT 03 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Sierra Leone vs DR Congo [SG]"
       ],
       "sections": [],
       "events": []
@@ -506,10 +502,6 @@
           "name": "PANAMA - CURAçAO",
           "datetime": "2026-11-15 23:00:00",
           "channels": [
-            {
-              "name": "FOX",
-              "category": "TV | USA & CANADA"
-            },
             {
               "name": "FOX SPORTS 2",
               "category": "SPORT | USA & CANADA"
@@ -1151,6 +1143,7 @@
         "BBC Events 03 - no_brand_title: MENA LIVE STREAMING -15/11/2026 عالم الظهيرة - 15/11/2026 11:58 - 11:57",
         "BBC Events 04 - no_brand_title: Laura Kuenssberg Speaks to Former Labour Minister Alan Milburn - 15/11/2026 10:28 - 10:05",
         "BBC Events 05 - Autumnwatch: Autumn Calm - 15/11/2026 13:25 - 19:12",
+        "BBC Events 06 - no_brand_title: Welsh Cup: Cambrian Utd  v Bangor 1876 - 15/11/2026 16:57 - 19:45",
         "BBC Events 07 - no_brand_title: Laura Kuenssberg Speaks to Alan Milburn Ahead of Youth Review - 15/11/2026 11:06 - 10:59"
       ],
       "sections": [],
@@ -1197,19 +1190,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 02 - 15/11/2026 - 12:52 UK / 07:52 ET - Soccer - Spanish LALIGA 2: En Español-Tenerife vs. Ceuta",
-        "ESPN Event 01 - 15/11/2026 - 12:52 UK / 07:52 ET - Soccer - Spanish LALIGA 2: Tenerife vs. Ceuta",
-        "ESPN Event 03 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Granada vs. Las Palmas",
-        "ESPN Event 04 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Granada vs. Las Palmas",
+        "ESPN Event 01 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Granada vs. Las Palmas",
+        "ESPN Event 02 - 15/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Granada vs. Las Palmas",
         "ESPN Event 01 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Eldense vs. CE Sabadell FC",
-        "ESPN Event 02 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Eldense vs. CE Sabadell FC",
-        "ESPN Event 05 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: SD Eibar vs. Cádiz",
-        "ESPN Event 06 - 15/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-SD Eibar vs. Cadiz",
+        "ESPN Event 05 - 15/11/2026 - 17:22 UK / 12:22 ET - Soccer - Spanish LALIGA 2: SD Eibar vs. Cádiz",
+        "ESPN Event 06 - 15/11/2026 - 17:22 UK / 12:22 ET - Soccer - Spanish LALIGA 2: En Español-SD Eibar vs. Cadiz",
+        "ESPN Event 02 - 15/11/2026 - 17:25 UK / 12:25 ET - Soccer - Spanish LALIGA 2: En Español-Eldense vs. CE Sabadell FC",
         "ESPN Event 07 - 15/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: #19 Ole Miss vs. Oklahoma",
         "ESPN Event 03 - 15/11/2026 - 20:00 UK / 15:00 ET - Soccer - NWSL: Gotham FC vs. Kansas City Current (Semifinal)",
         "ESPN Event 01 - 15/11/2026 - 22:15 UK / 17:15 ET - Soccer - Futbol W: Futbol W: Gotham vs. KC Current Reaction Show",
         "ESPN Event 02 - 16/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Edmonton Oilers vs. Philadelphia Flyers",
-        "ESPN Event 03 - 16/11/2026 - 00:00 UK / 19:00 ET - Soccer - USL Championship: New Mexico United vs. Sacramento Republic FC (Western Conference Final)",
         "ESPN Event 04 - 16/11/2026 - 01:00 UK / 20:00 ET - Hockey - NHL: Calgary Flames vs. Anaheim Ducks",
         "ESPN Event 05 - 16/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: Nashville Predators vs. San Jose Sharks",
         "ESPN Event 06 - 16/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: Vancouver Canucks vs. Vegas Golden Knights",
@@ -1381,7 +1371,7 @@
       "fixtures": [
         "Paramount+ Event 01 - 13:20 - Barclays Women's Super League: West Ham United vs. Charlton Athletic",
         "Paramount+ Event 02 - 13:20 - Barclays Women's Super League: Aston Villa vs. Birmingham City",
-        "Paramount+ Event 03 - 15:30 - Barclays Womens Super League: Arsenal vs. London City"
+        "Paramount+ Event 03 - 15:30 - Barclays Women's Super League: Arsenal vs. London City"
       ],
       "sections": [],
       "events": []
@@ -1431,11 +1421,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
-        "Sky Sport 1 UHD - LIVE: NC: Scotland v Australia - 14:30 15/11/2026",
-        "Sky Sport 5 - LIVE: WSL: Arsenal v London City - 16:20 15/11/2026",
-        "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 17:30 15/11/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 17:30 15/11/2026",
         "Sky Sport 4 - LIVE: Grand Slam of Darts: D2 Eve - 19:00 15/11/2026",
         "Sky Sport 6 - LIVE: PGA Champions Tour: R4 - 20:30 15/11/2026",
         "Sky Sport 3 - LIVE: ODC: New South Wales v S Australia - 22:55 15/11/2026",
@@ -1521,8 +1506,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Aston Villa vs. Birmingham City - Sun 15/11 1:50pm",
-        "Sportsnet 02 : West Ham United vs. Charlton Athletic - Sun 15/11 1:50pm",
         "Sportsnet 03 : Arsenal vs. London City Lionesses - Sun 15/11 4:20pm",
         "Sportsnet 04 : Indiana @ Philadelphia - Sun 15/11 6:00pm",
         "Sportsnet 01 : Los Angeles Lakers @ Phoenix - Sun 15/11 9:00pm",
@@ -1556,9 +1539,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Race 2: Le Castellet - Asian Le Mans Series 2026/27 - Sun 15/11 11:51am",
-        "Stan 04 : Aston Villa v Birmingham City - WSL 2026/27 - Sun 15/11 1:51pm",
-        "Stan 03 : West Ham United v Charlton Athletic - WSL 2026/27 - Sun 15/11 1:51pm",
         "Stan 05 : Scotland v Australia - Nations Championship Round 5 2026 - Sun 15/11 2:31pm",
         "Stan 02 : Arsenal v London City Lionesses - WSL 2026/27 - Sun 15/11 4:21pm",
         "Stan 06 : Gotham FC v Kansas City Current - NWSL 2026 - Sun 15/11 8:01pm",
@@ -1614,7 +1594,8 @@
         "Stan 01 : Galatasaray v Aston Villa - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 5:41pm",
         "Stan 03 : Football Zone: MD5 Wednesday - UEFA Champions League 2026/27 - Tue 24/11 7:41pm",
         "Stan 04 : Arsenal v Borussia Dortmund - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm",
-        "Stan 05 : Manchester City v Napoli - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm"
+        "Stan 05 : Manchester City v Napoli - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm",
+        "Stan 06 : Real Madrid v PSV - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm"
       ],
       "sections": [],
       "events": []
