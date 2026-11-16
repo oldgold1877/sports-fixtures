@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-16T08:15:28.215427+00:00",
+  "scraped_at": "2026-11-16T12:00:57.322397+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -61,7 +61,8 @@
         "EVENT 03 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Sierra Leone vs DR Congo [SG]",
         "EVENT 01 - 17-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Congo vs Comoros [SG]",
         "EVENT 02 - 17-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Liberia vs Cape Verde [SG]",
-        "EVENT 03 - 17-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Niger vs Morocco [SG]"
+        "EVENT 03 - 17-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Niger vs Morocco [SG]",
+        "EVENT 01 - 18-Nov 10:00AM-12:00PM - East Asia Super League 2026/27 Sono Skygunners vs Broncos [SG]"
       ],
       "sections": [],
       "events": []
@@ -357,6 +358,18 @@
           ]
         },
         {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "WESTERN MICHIGAN - EASTERN MICHIGAN",
+          "datetime": "2026-11-17 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "BASKETBALL",
           "time": "00:00",
           "name": "BOSTON CELTICS - ORLANDO MAGIC",
@@ -525,10 +538,6 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 16/11/2026 06:26 - 05:35",
-        "BBC Events 03 - no_brand_title: MENA LIVE STREAMING -15/11/2026 عالم الظهيرة - 15/11/2026 11:58 - 11:57",
-        "BBC Events 04 - no_brand_title: Laura Kuenssberg Speaks to Former Labour Minister Alan Milburn - 15/11/2026 10:28 - 10:05",
-        "BBC Events 06 - Autumnwatch: Autumn Calm - 16/11/2026 06:00 - 12:00",
-        "BBC Events 07 - no_brand_title: Laura Kuenssberg Speaks to Alan Milburn Ahead of Youth Review - 15/11/2026 11:06 - 10:59",
         "BBC Events 08 - no_brand_title: PM Looks to Reset Europe Relationship - 16/11/2026 06:02 - 01:40"
       ],
       "sections": [],
@@ -575,24 +584,33 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 16/11/2026 - 07:30 UK / 02:30 ET - Football - NFL: NFL Football: 2026 Week 10 Pittsburgh Steelers vs. Cincinnati Bengals",
         "ESPN Event 01 - 16/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Auburn vs. Mississippi State",
         "ESPN Event 02 - 16/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Albacete vs. RC Celta Fortuna",
         "ESPN Event 03 - 16/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Albacete vs. RC Celta Fortuna",
+        "ESPN Event 01 - 17/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: Seattle Seahawks vs. Las Vegas Raiders",
+        "ESPN Event 02 - 17/11/2026 - 01:15 UK / 20:15 ET - Football - NFL: Los Angeles Chargers vs. Baltimore Ravens",
+        "ESPN Event 03 - 17/11/2026 - 01:15 UK / 20:15 ET - Football - NFL: MNF with Peyton and Eli-Los Angeles Chargers vs. Baltimore Ravens",
         "ESPN Event 01 - 17/11/2026 - 02:00 UK / 21:00 ET - Hockey - NHL: Vancouver Canucks vs. Utah Mammoth",
-        "ESPN Event 02 - 17/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: Los Angeles Chargers vs. Baltimore Ravens",
-        "ESPN Event 01 - 17/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: Los Angeles Chargers vs. Baltimore Ravens",
+        "ESPN Event 03 - 17/11/2026 - 02:00 UK / 21:00 ET - Soccer - USL Championship: New Mexico United vs. Sacramento Republic FC (Western Conference Final)",
         "ESPN Event 01 - 17/11/2026 - 16:00 UK / 11:00 ET - Football - NCAA Football: Florida State vs. Pittsburgh",
         "ESPN Event 02 - 17/11/2026 - 17:00 UK / 12:00 ET - Soccer - International Friendly: Croatia vs. Germany",
         "ESPN Event 03 - 17/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: #22 Missouri vs. #1 Georgia",
-        "ESPN Event 04 - 17/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: Los Angeles Chargers vs. Baltimore Ravens",
         "ESPN Event 01 - 17/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: Eastern Michigan vs. Western Michigan",
         "ESPN Event 02 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Columbus Blue Jackets vs. New York Islanders",
         "ESPN Event 03 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Buffalo Sabres vs. Philadelphia Flyers",
         "ESPN Event 04 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Ottawa Senators vs. Winnipeg Jets",
         "ESPN Event 05 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Los Angeles Kings vs. Boston Bruins",
         "ESPN Event 06 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Edmonton Oilers vs. Florida Panthers",
-        "ESPN Event 07 - 18/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Kent State"
+        "ESPN Event 07 - 18/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Kent State",
+        "ESPN Event 08 - 18/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: SEC Inside: Texas vs. LSU",
+        "ESPN Event 09 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Washington Capitals vs. Tampa Bay Lightning",
+        "ESPN Event 10 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Anaheim Ducks vs. St. Louis Blues",
+        "ESPN Event 11 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Nashville Predators vs. Minnesota Wild",
+        "ESPN Event 12 - 18/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: The Pulse: Texas A&M Football vs. Tennessee - Episode 19",
+        "ESPN Event 13 - 18/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Calgary Flames vs. San Jose Sharks",
+        "ESPN Event 01 - 18/11/2026 - 17:30 UK / 12:30 ET - Soccer - UEFA Women's Champions League: En Español-BK Hacken FF vs. Manchester City",
+        "ESPN Event 02 - 18/11/2026 - 19:45 UK / 14:45 ET - Soccer - UEFA Women's Champions League: En Español-Juventus FC vs. OH Leuven",
+        "ESPN Event 01 - 19/11/2026 - 00:12 UK / 19:12 ET - Basketball - NBA: Milwaukee Bucks vs. Miami Heat"
       ],
       "sections": [],
       "events": []
@@ -840,9 +858,9 @@
         "Sky Sport 5 - LIVE: Rapid League: Whai v Pouakai - 05:30 21/11/2026",
         "Sky Sport Select - LIVE: ALM: Mariners v Perth Glory - 05:55 21/11/2026",
         "Sky Sport 7 - LIVE: ALW: Sydney FC v Canberra Utd - 06:05 21/11/2026",
+        "Sky Sport 5 - LIVE: Tauihi: Whai v Pouakai - 06:30 21/11/2026",
         "Sky Sport 1 - LIVE: Silver Ferns v Net Blacks: G3 - 06:30 21/11/2026",
         "Sky Sport 1 UHD - LIVE: Silver Ferns v Net Blacks: G3 - 06:30 21/11/2026",
-        "Sky Sport 5 - LIVE: Tauihi: Whai v Pouakai - 06:30 21/11/2026",
         "Sky Sport 2 - LIVE: Australia v England: 1st T20 - 07:30 21/11/2026",
         "Sky Sport 4 - LIVE: ALM: Brisbane Roar v Sydney FC - 08:00 21/11/2026",
         "Sky Sport 6 - LIVE: NC: Hong Kong v Tonga - 08:50 21/11/2026",
@@ -850,19 +868,31 @@
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks - 13:15 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Georgia v USA - 13:50 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Scotland v Japan - 14:00 21/11/2026",
-        "Sky Sport Select - LIVE: PL: Bournemouth v Nott'm Forest - 14:50 21/11/2026",
-        "Sky Sport 7 - LIVE: PL: Coventry v Crystal Palace - 14:50 21/11/2026",
-        "Sky Sport 9 - LIVE: PL: Aston Villa v Sunderland - 14:50 21/11/2026",
         "Sky Sport 6 - LIVE: PL: Tottenham Hotspur v Ipswich - 14:50 21/11/2026",
+        "Sky Sport 9 - LIVE: PL: Aston Villa v Sunderland - 14:50 21/11/2026",
+        "Sky Sport 7 - LIVE: PL: Coventry v Crystal Palace - 14:50 21/11/2026",
         "Sky Sport 4 - LIVE: NC: Portugal v Uruguay - 14:50 21/11/2026",
+        "Sky Sport Select - LIVE: PL: Bournemouth v Nott'm Forest - 14:50 21/11/2026",
         "Sky Sport 5 - LIVE: NC: Spain v Samoa - 15:50 21/11/2026",
-        "Sky Sport 3 - LIVE: NC: Italy v Fiji - 16:30 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Ireland v South Africa - 16:30 21/11/2026",
+        "Sky Sport 3 - LIVE: NC: Italy v Fiji - 16:30 21/11/2026",
         "Sky Sport Select - LIVE: NC: Zimbabwe v Chile - 17:10 21/11/2026",
         "Sky Sport 5 - LIVE: PGA Tour: Round 3 - 18:00 21/11/2026",
         "Sky Sport 6 - LIVE: Grand Slam of Darts: D8 - 19:00 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Wales v Australia - 19:30 21/11/2026",
-        "Sky Sport 3 - LIVE: NC: France v Argentina - 20:00 21/11/2026"
+        "Sky Sport 3 - LIVE: NC: France v Argentina - 20:00 21/11/2026",
+        "Sky Sport 1 - LIVE: BLACKCAPS v India: 1st Test D4 - 21:30 21/11/2026",
+        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st Test D4 - 21:30 21/11/2026",
+        "Sky Sport 9 - LIVE: SS: NSW v Queensland D1 - 23:25 21/11/2026",
+        "Sky Sport 4 - LIVE: Rapid League: Queens v Hoiho - 01:00 22/11/2026",
+        "Sky Sport 3 - LIVE: ALM: Phoenix v Macarthur - 01:30 22/11/2026",
+        "Sky Sport 4 - LIVE: Tauihi: Queens v Hoiho - 02:00 22/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas Pre Race - 02:30 22/11/2026",
+        "Sky Sport 2 - LIVE:FIA Formula 1: Las Vegas Grand Prix - 03:55 22/11/2026",
+        "Sky Sport 6 - LIVE: ALW: Melb Victory v Perth Glory - 03:55 22/11/2026",
+        "Sky Sport 4 - LIVE: WBBL: Heat v Strikers - 04:15 22/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Chequered Flag - 06:00 22/11/2026",
+        "Sky Sport 4 - LIVE: WBBL: Stars v Renegades - 08:10 22/11/2026"
       ],
       "sections": [],
       "events": []
@@ -873,7 +903,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Sydney Thunder vs Melbourne Stars",
         "Adelaide Strikers vs Sydney Sixers",
         "Southampton vs Derby",
         "Newcastle vs Arsenal",
@@ -900,7 +929,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 15 - Mon 16/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 16 - Mon 16/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 16 - Mon 16/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 16 - Mon 16/11 5:00pm",
@@ -1028,9 +1056,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762819134000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     }
