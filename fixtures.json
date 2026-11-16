@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-16T18:00:59.660253+00:00",
+  "scraped_at": "2026-11-16T20:47:27.344442+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,10 +14,6 @@
             {
               "type": "date",
               "text": "Monday 16 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 17:00-19:00 - UEFA Nations League: Iceland vs Luxembourg 1080p"
             },
             {
               "type": "fixture",
@@ -71,6 +67,26 @@
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Germany  vs Netherlands  12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Gibraltar  vs Malta 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Greece  vs Serbia  12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - North Macedonia vs Slovania 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Switzerland vs Scotland 12:45am"
             }
           ]
         }
@@ -83,8 +99,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 16-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Central African Republic vs Benin [SG]",
-        "EVENT 02 - 16-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Eritrea vs Guinea [SG]",
         "EVENT 01 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Malawi vs Egypt [SG]",
         "EVENT 02 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Sudan vs Angola [SG]",
         "EVENT 03 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tanzania vs Nigeria [SG]",
@@ -96,7 +110,9 @@
         "EVENT 03 - 17-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Niger vs Morocco [SG]",
         "EVENT 01 - 18-Nov 10:00AM-12:00PM - East Asia Super League 2026/27 Sono Skygunners vs Broncos [SG]",
         "EVENT 01 - 18-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Hacken vs Man City - MD5 [SG]",
-        "EVENT 02 - 18-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Inter - MD5 [SG]"
+        "EVENT 02 - 18-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Inter - MD5 [SG]",
+        "EVENT 03 - 18-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Chelsea vs PSG - MD5 [SG]",
+        "EVENT 04 - 18-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Juventus vs OH Leuven - MD5 [SG]"
       ],
       "sections": [],
       "events": []
@@ -584,6 +600,7 @@
       "status": "ok",
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 16/11/2026 06:26 - 05:35",
+        "BBC Events 02 - Autumnwatch: Autumn Calm - 16/11/2026 18:00 - 00:00",
         "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - عالم الظهيرة 16/11/2026 - 16/11/2026 11:49 - 11:48",
         "BBC Events 08 - no_brand_title: PM Looks to Reset Europe Relationship - 16/11/2026 06:02 - 01:40"
       ],
@@ -862,8 +879,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: Grand Slam of Darts: D3 - 19:00 16/11/2026",
-        "Sky Sport 1 UHD - LIVE: Grand Slam of Darts: D3 - 19:00 16/11/2026",
         "Sky Sport 1 - LIVE: Silver Ferns v Net Blacks: G1 - 06:30 17/11/2026",
         "Sky Sport 1 UHD - LIVE: Silver Ferns v Net Blacks: G1 - 06:30 17/11/2026",
         "Sky Sport 2 - LIVE: WBBL: Strikers v Sixers - 08:05 17/11/2026",
@@ -977,8 +992,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Nov. 16 - Mon 16/11 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Nov. 16 - Mon 16/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 16 - Mon 16/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 16 - Mon 16/11 11:00pm",
         "Sportsnet 03 : Montreal @ New York Rangers - Tue 17/11 12:00am",
@@ -999,7 +1012,9 @@
         "Sportsnet 06 : Edmonton @ Florida - Wed 18/11 12:00am",
         "Sportsnet 08 : French Language Broadcast: Ottawa @ Winnipeg - Wed 18/11 12:00am",
         "Sportsnet 02 : GSOC National - Draw 4 - Wed 18/11 12:00am",
-        "Sportsnet 09 : Los Angeles @ Boston - Wed 18/11 12:00am"
+        "Sportsnet 09 : Los Angeles @ Boston - Wed 18/11 12:00am",
+        "Sportsnet 10 : New York @ Toronto - Wed 18/11 12:00am",
+        "Sportsnet 11 : Ottawa @ Winnipeg - Wed 18/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1089,9 +1104,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #2 - Mon 16/11 5:00pm",
         "TSN 03 : Pat McAfee Show - Mon 16/11 5:00pm",
-        "TSN 02 : Rich Eisen Show - Mon 16/11 5:00pm",
         "TSN 01 : Monday Night Football with Peyton and Eli: Chargers vs. Ravens - Tue 17/11 1:15am"
       ],
       "sections": [],
