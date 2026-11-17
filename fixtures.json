@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-17T12:00:58.627031+00:00",
+  "scraped_at": "2026-11-17T16:37:34.598269+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -35,6 +35,38 @@
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Bosnia Herzigovina vs Romania 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Denmark vs Norway 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Hungary vs Northern Ireland 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Israel vs Austria 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Poland vs Sweden 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Republic of Ireland vs Kosovo 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Ukraine vs Georgia 12:45am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Wales vs Portugal 12:45am"
             }
           ]
         }
@@ -47,9 +79,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Malawi vs Egypt [SG]",
-        "EVENT 02 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: South Sudan vs Angola [SG]",
-        "EVENT 03 - 17-Nov 12:45PM-03:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Tanzania vs Nigeria [SG]",
         "EVENT 01 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Gambia vs Ivory Coast [SG]",
         "EVENT 02 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Libya vs Tunisia [SG]",
         "EVENT 03 - 17-Nov 03:45PM-06:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Sierra Leone vs DR Congo [SG]",
@@ -141,6 +170,18 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "23:00",
+          "name": "WESTERN MICHIGAN - EASTERN MICHIGAN",
+          "datetime": "2026-11-17 23:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -649,7 +690,7 @@
       "fixtures": [
         "Sky Sports Main Event UHD - Live: NBA Basketball - Orlando Magic at Boston Celtics - Mon 16/11 11:30pm",
         "Sky Sports Main Event UHD - Live: NFL Football - Los Angeles Chargers at Baltimore Ravens - Tue 17/11 1:00am",
-        "Sky Sports Main Event UHD - Live Tennis: ATP Finals 2026 - Day 3: Singles - Tue 17/11 12:00pm",
+        "Sky Sports Main Event UHD - Live Tennis: ATP Finals 2026 - Day 3, Singles: Arthur Fils v Rafael Jodar - Tue 17/11 12:00pm",
         "Sky Sports Main Event UHD - Live: Test Cricket - 1st Test, Day 3: South Africa v Bangladesh - Tue 17/11 3:00pm",
         "Sky Sports UHD 2 - Live: Grand Slam of Darts - Day 4 - Tue 17/11 7:00pm",
         "Sky Sports Main Event UHD - The Transfer Show - Wed 18/11 4:00pm"
@@ -667,7 +708,8 @@
         "BBC Events 02 - no_brand_title: PM says UK Lost More Than it Gained from Brexit - 17/11/2026 05:36 - 02:16",
         "BBC Events 03 - no_brand_title: Russell Brand Prison Message Being Investigated - 17/11/2026 07:33 - 02:41",
         "BBC Events 06 - no_brand_title: Key Report on Youth Employment - 17/11/2026 05:59 - 17:06",
-        "BBC Events 07 - no_brand_title: Alleged Russel Brand Rape Victim Speaks to BBC - 17/11/2026 11:30 - 11:21"
+        "BBC Events 07 - no_brand_title: Alleged Russel Brand Rape Victim Speaks to BBC - 17/11/2026 11:30 - 11:21",
+        "BBC Events 08 - Autumnwatch: Autumn Calm - 17/11/2026 12:00 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -1074,7 +1116,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 17 - Tue 17/11 2:00pm",
         "Sportsnet 02 : GSOC National - Draw 2 - Homan vs. Sturmay  - Tue 17/11 4:00pm",
         "Sportsnet 03 : The Raptors Show: Nov. 17 - Tue 17/11 4:00pm",
         "Sportsnet 04 : The FAN Hockey Show: Nov. 17 - Tue 17/11 5:00pm",
@@ -1097,7 +1138,8 @@
         "Sportsnet 01 : Calgary @ San Jose - Wed 18/11 3:00am",
         "Sportsnet 03 : Dallas @ Vegas - Wed 18/11 3:00am",
         "Sportsnet 05 : Charlotte @ Los Angeles Lakers - Wed 18/11 4:00am",
-        "Sportsnet 01 : Sportsnet Central: Nov. 17 - Wed 18/11 10:00am"
+        "Sportsnet 01 : Sportsnet Central: Nov. 17 - Wed 18/11 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 18 - Wed 18/11 2:00pm"
       ],
       "sections": [],
       "events": []
@@ -1187,7 +1229,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #3 - Tue 17/11 10:30am",
         "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #3 - Tue 17/11 5:00pm",
         "TSN 03 : Pat McAfee Show - Tue 17/11 5:00pm",
         "TSN 02 : Rich Eisen Show - Tue 17/11 5:00pm",
