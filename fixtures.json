@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-17T08:15:44.524839+00:00",
+  "scraped_at": "2026-11-17T12:00:58.627031+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -141,18 +141,6 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "23:00",
-          "name": "WESTERN MICHIGAN - EASTERN MICHIGAN",
-          "datetime": "2026-11-17 23:00:00",
-          "channels": [
-            {
-              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -638,6 +626,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "03:30",
+          "name": "UCLA - SOUTHERN CAL",
+          "datetime": "2026-11-18 03:30:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -666,9 +666,8 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 17/11/2026 07:08 - 23:21",
         "BBC Events 02 - no_brand_title: PM says UK Lost More Than it Gained from Brexit - 17/11/2026 05:36 - 02:16",
         "BBC Events 03 - no_brand_title: Russell Brand Prison Message Being Investigated - 17/11/2026 07:33 - 02:41",
-        "BBC Events 04 - Autumnwatch: Autumn Calm - 17/11/2026 06:00 - 12:00",
-        "BBC Events 05 - no_brand_title: MENA LIVE STREAMING - عالم الظهيرة 16/11/2026 - 16/11/2026 11:49 - 11:48",
-        "BBC Events 06 - no_brand_title: Key Report on Youth Employment - 17/11/2026 05:59 - 17:06"
+        "BBC Events 06 - no_brand_title: Key Report on Youth Employment - 17/11/2026 05:59 - 17:06",
+        "BBC Events 07 - no_brand_title: Alleged Russel Brand Rape Victim Speaks to BBC - 17/11/2026 11:30 - 11:21"
       ],
       "sections": [],
       "events": []
@@ -729,10 +728,24 @@
         "ESPN Event 10 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Anaheim Ducks vs. St. Louis Blues",
         "ESPN Event 11 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Nashville Predators vs. Minnesota Wild",
         "ESPN Event 12 - 18/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: The Pulse: Texas A&M Football vs. Tennessee - Episode 19",
+        "ESPN Event 13 - 18/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: San Francisco 49ers vs. Dallas Cowboys",
         "ESPN Event 13 - 18/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Calgary Flames vs. San Jose Sharks",
+        "ESPN Event 01 - 18/11/2026 - 06:00 UK / 01:00 ET - Football - NFL: Seattle Seahawks vs. Las Vegas Raiders",
         "ESPN Event 01 - 18/11/2026 - 17:30 UK / 12:30 ET - Soccer - UEFA Women's Champions League: En Español-BK Hacken FF vs. Manchester City",
+        "ESPN Event 02 - 18/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: Houston Texans vs. Cleveland Browns",
         "ESPN Event 02 - 18/11/2026 - 19:45 UK / 14:45 ET - Soccer - UEFA Women's Champions League: En Español-Juventus FC vs. OH Leuven",
-        "ESPN Event 01 - 19/11/2026 - 00:12 UK / 19:12 ET - Basketball - NBA: Milwaukee Bucks vs. Miami Heat"
+        "ESPN Event 01 - 19/11/2026 - 00:12 UK / 19:12 ET - Basketball - NBA: Milwaukee Bucks vs. Miami Heat",
+        "ESPN Event 02 - 19/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: Central Michigan vs. Buffalo",
+        "ESPN Event 03 - 19/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Montreal Canadiens vs. New Jersey Devils",
+        "ESPN Event 04 - 19/11/2026 - 02:00 UK / 21:00 ET - Football - NFL: Minnesota Vikings vs. Green Bay Packers",
+        "ESPN Event 05 - 19/11/2026 - 02:35 UK / 21:35 ET - Basketball - NBA: Boston Celtics vs. Denver Nuggets",
+        "ESPN Event 01 - 19/11/2026 - 06:30 UK / 01:30 ET - Football - NFL: Pittsburgh Steelers vs. Cincinnati Bengals",
+        "ESPN Event 01 - 19/11/2026 - 16:30 UK / 11:30 ET - Basketball - NBA G League: Texas Legends vs. Memphis Hustle",
+        "ESPN Event 02 - 19/11/2026 - 17:30 UK / 12:30 ET - Soccer - UEFA Women's Champions League: En Español-Paris FC vs. HB Køge",
+        "ESPN Event 03 - 19/11/2026 - 17:50 UK / 12:50 ET - Soccer - Spanish Copa de la Reina: En Español-Celta vs. Espanyol",
+        "ESPN Event 04 - 19/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: Washington Commanders vs. New York Giants",
+        "ESPN Event 05 - 19/11/2026 - 19:40 UK / 14:40 ET - Soccer - UEFA Women's Champions League: En Español-Arsenal FC vs. OL Lyonnes",
+        "ESPN Event 06 - 19/11/2026 - 19:45 UK / 14:45 ET - Soccer - UEFA Women's Champions League: En Español-SL Benfica vs. AS Roma"
       ],
       "sections": [],
       "events": []
@@ -865,7 +878,18 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 4 - Evening Session - Grand Slam of Darts Main Feed (Italian) - Tue 17/11 7:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 4 - Evening Session - Grand Slam of Darts | Main Feed (English) - Tue 17/11 7:00pm",
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 5 - Evening Session - Grand Slam of Darts Main Feed (Italian) - Wed 18/11 7:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 5 - Evening Session - Grand Slam of Darts | Main Feed (English) - Wed 18/11 7:00pm",
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 6 - Evening Session - Grand Slam of Darts Main Feed (Italian) - Thu 19/11 7:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 6 - Evening Session - Grand Slam of Darts | Main Feed (English) - Thu 19/11 7:00pm",
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 7 - Evening Session - Grand Slam of Darts Main Feed (Italian) - Fri 20/11 7:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 7 - Evening Session - Grand Slam of Darts | Main Feed (English) - Fri 20/11 7:00pm",
+        "PDC Darts 1 : 2026 Grand Slam of Darts | Day 8 - Evening Session - Grand Slam of Darts Main Feed (Italian) - Sat 21/11 7:00pm",
+        "PDC Darts 2 : 2026 Grand Slam of Darts | Day 8 - Evening Session - Grand Slam of Darts | Main Feed (English) - Sat 21/11 7:00pm"
+      ],
       "sections": [],
       "events": []
     },
@@ -1020,7 +1044,9 @@
         "Sky Sport 2 - LIVE: PGA Tour: Round 4 - 18:00 22/11/2026",
         "Sky Sport 3 - LIVE: Grand Slam of Darts: D9 Eve - 19:30 22/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 1st Test D5 - 21:30 22/11/2026",
-        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st Test D5 - 21:30 22/11/2026"
+        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st Test D5 - 21:30 22/11/2026",
+        "Sky Sport 4 - LIVE: SS: NSW v Queensland D2 - 23:25 22/11/2026",
+        "Sky Sport 5 - LIVE: SS: W Australia v Tasmania D1 - 02:25 23/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1048,7 +1074,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 16 - Tue 17/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 17 - Tue 17/11 2:00pm",
         "Sportsnet 02 : GSOC National - Draw 2 - Homan vs. Sturmay  - Tue 17/11 4:00pm",
         "Sportsnet 03 : The Raptors Show: Nov. 17 - Tue 17/11 4:00pm",
@@ -1071,7 +1096,8 @@
         "Sportsnet 15 : Nashville @ Minnesota - Wed 18/11 1:00am",
         "Sportsnet 01 : Calgary @ San Jose - Wed 18/11 3:00am",
         "Sportsnet 03 : Dallas @ Vegas - Wed 18/11 3:00am",
-        "Sportsnet 05 : Charlotte @ Los Angeles Lakers - Wed 18/11 4:00am"
+        "Sportsnet 05 : Charlotte @ Los Angeles Lakers - Wed 18/11 4:00am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 17 - Wed 18/11 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1181,7 +1207,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762819134000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "ARES 45 - Fri 20/11 7:00pm",
         "BISON KOMBAT 11 - Fri 20/11 11:00pm"
       ],
