@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-17T19:35:19.359001+00:00",
+  "scraped_at": "2026-11-17T23:45:53.766654+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,38 +11,6 @@
         {
           "section": "Sports Scene",
           "entries": [
-            {
-              "type": "date",
-              "text": "Tuesday 17 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 04 - 19:45-21:45 - UEFA Nations League: Hungary vs Northern Ireland 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 19:45-21:45 - UEFA Nations League: Wales vs Portugal 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 06 - 19:45-21:45 - UEFA Nations League: Poland vs Sweden 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 08 - 19:45-21:45 - UEFA Nations League: Ireland Republic vs Kosovo 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 19:45-21:45 - UEFA Nations League:  Denmark vs Norway 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 19:45-21:45 - UEFA Nations League: Wales vs Portugal 720p"
-            },
-            {
-              "type": "date",
-              "text": "Additional"
-            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
@@ -111,16 +79,16 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 17-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Congo vs Comoros [SG]",
-        "EVENT 02 - 17-Nov 06:45PM-09:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Liberia vs Cape Verde [SG]",
-        "EVENT 03 - 17-Nov 07:45PM-10:00PM - TotalEnergies Africa Cup of Nations Qualifiers 2027: Niger vs Morocco [SG]",
         "EVENT 01 - 18-Nov 10:00AM-12:00PM - East Asia Super League 2026/27 Sono Skygunners vs Broncos [SG]",
         "EVENT 01 - 18-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Hacken vs Man City - MD5 [SG]",
         "EVENT 02 - 18-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Real Madrid vs Inter - MD5 [SG]",
         "EVENT 03 - 18-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Chelsea vs PSG - MD5 [SG]",
         "EVENT 04 - 18-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Juventus vs OH Leuven - MD5 [SG]",
         "EVENT 02 - 19-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Austria Wien vs Bayern - MD5 [SG]",
-        "EVENT 03 - 19-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Paris vs HB Koge - MD5 [SG]"
+        "EVENT 03 - 19-Nov 05:40PM-07:55PM - UEFA Women's Champions League 2026/27: Paris vs HB Koge - MD5 [SG]",
+        "EVENT 05 - 19-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Arsenal vs OL Lyonnes - MD5 [SG]",
+        "EVENT 06 - 19-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Barcelona vs Servette - MD5 [SG]",
+        "EVENT 07 - 19-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Benfica vs Roma - MD5 [SG]"
       ],
       "sections": [],
       "events": []
@@ -542,7 +510,7 @@
         {
           "sport": "BASKETBALL",
           "time": "19:00",
-          "name": "TBD - TBD",
+          "name": "TBD - RUTGERS",
           "datetime": "2026-11-18 19:00:00",
           "channels": [
             {
@@ -554,7 +522,7 @@
         {
           "sport": "BASKETBALL",
           "time": "21:30",
-          "name": "TBD - TBD",
+          "name": "TBD - HOUSTON",
           "datetime": "2026-11-18 21:30:00",
           "channels": [
             {
@@ -735,11 +703,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: BBC Weather Live - 17/11/2026 07:08 - 23:21",
         "BBC Events 02 - no_brand_title: PM says UK Lost More Than it Gained from Brexit - 17/11/2026 05:36 - 02:16",
         "BBC Events 03 - no_brand_title: Russell Brand Prison Message Being Investigated - 17/11/2026 07:33 - 02:41",
         "BBC Events 04 - Autumnwatch: Autumn Calm - 17/11/2026 18:00 - 00:00",
-        "BBC Events 05 - UEFA Nations League: Wales v Portugal - 17/11/2026 19:09 - 23:00",
         "BBC Events 07 - no_brand_title: Alleged Russel Brand Rape Victim Speaks to BBC - 17/11/2026 11:30 - 11:21"
       ],
       "sections": [],
@@ -786,14 +752,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 17/11/2026 - 17:00 UK / 12:00 ET - Soccer - International Friendly: Croatia vs. Germany",
-        "ESPN Event 03 - 17/11/2026 - 17:59 UK / 12:59 ET - Football - NCAA Football: #22 Missouri vs. #1 Georgia",
         "ESPN Event 01 - 17/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: Eastern Michigan vs. Western Michigan",
         "ESPN Event 02 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Columbus Blue Jackets vs. New York Islanders",
         "ESPN Event 03 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Buffalo Sabres vs. Philadelphia Flyers",
         "ESPN Event 04 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Ottawa Senators vs. Winnipeg Jets",
         "ESPN Event 05 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Los Angeles Kings vs. Boston Bruins",
         "ESPN Event 06 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Edmonton Oilers vs. Florida Panthers",
+        "ESPN Event 07 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Edmonton Oilers vs. Florida Panthers",
+        "ESPN Event 04 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Ottawa Senators vs. Winnipeg Jets",
+        "ESPN Event 08 - 17/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Buffalo Sabres vs. Philadelphia Flyers",
         "ESPN Event 07 - 18/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Kent State",
         "ESPN Event 08 - 18/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: SEC Inside: Texas vs. LSU",
         "ESPN Event 09 - 18/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Washington Capitals vs. Tampa Bay Lightning",
@@ -989,7 +956,31 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "Peacock 1 : Performance View: DET vs. SAS (NBA) - Wed 18/11 12:00am",
+        "Peacock 2 : Pistons vs. Spurs (NBA) - Wed 18/11 12:00am",
+        "Peacock 3 : Arkansas vs. Indiana (Basketball) - Wed 18/11 12:00am",
+        "Peacock 4 : Star Cam A (NBA) - Wed 18/11 1:00am",
+        "Peacock 5 : Star Cam B (NBA) - Wed 18/11 1:00am",
+        "Peacock 6 : Courtside View (NBA) - Wed 18/11 1:00am",
+        "Peacock 7 : Action Cams: DET vs. SAS (NBA) - Wed 18/11 1:00am",
+        "Peacock 8 : Star Cam A (NBA) - Wed 18/11 1:00am",
+        "Peacock 9 : Star Cam B (NBA) - Wed 18/11 1:00am",
+        "Peacock 10 : Courtside View (NBA) - Wed 18/11 1:00am",
+        "Peacock 1 : Hornets vs. Lakers (NBA) - Wed 18/11 4:00am",
+        "Peacock 2 : Performance View: CHA vs. LAL (NBA) - Wed 18/11 4:00am",
+        "Peacock 1 : Kansas vs. Minnesota (Basketball) - Thu 19/11 12:30am",
+        "Peacock 1 : Texas A&M vs. TCU (Basketball) - Fri 20/11 12:30am",
+        "Peacock 1 : SS World Cup: Obihiro Day 1 (Speed Skating) - Fri 20/11 5:35am",
+        "Peacock 1 : Pairs Short Program (Figure Skating) - Fri 20/11 12:00pm",
+        "Peacock 1 : Women's Short Program (Figure Skating) - Fri 20/11 1:30pm",
+        "Peacock 1 : Men's Short Program (Figure Skating) - Fri 20/11 3:25pm",
+        "Peacock 1 : Rhythm Dance (Figure Skating) - Fri 20/11 5:20pm",
+        "Peacock 1 : Seton Hall vs. UConn (Basketball) - Sat 21/11 12:30am",
+        "Peacock 1 : Stanford vs. Washington (Basketball) - Sat 21/11 3:00am",
+        "Peacock 1 : ST World Tour: Seoul 1 (Short Track) - Sat 21/11 5:00am",
+        "Peacock 2 : SS World Cup: Obihiro 2 (Speed Skating) - Sat 21/11 5:35am"
+      ],
       "sections": [],
       "events": []
     },
@@ -1029,7 +1020,7 @@
         "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas P2 - 03:45 20/11/2026",
         "Sky Sport 4 - LIVE: Rapid League: Kahu v Queens - 05:30 20/11/2026",
         "Sky Sport 3 - LIVE: ALW: Wanderers v Phoenix - 05:45 20/11/2026",
-        "Sky Sport 2 - LIVE: The F1 Show: Las Vegas Grand  Prix - 06:10 20/11/2026",
+        "Sky Sport 2 - LIVE: The F1 Show: Las Vegas Grand  Prix - 06:15 20/11/2026",
         "Sky Sport 4 - LIVE: Tauihi: Kahu v Queens - 06:30 20/11/2026",
         "Sky Sport 2 - LIVE: WBBL: Strikers v Renegades - 07:45 20/11/2026",
         "Sky Sport 3 - LIVE: ALM: Western Sydney v Adelaide Utd - 08:00 20/11/2026",
@@ -1059,11 +1050,11 @@
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks - 13:15 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Georgia v USA - 13:50 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Scotland v Japan - 14:00 21/11/2026",
-        "Sky Sport 4 - LIVE: NC: Portugal v Uruguay - 14:50 21/11/2026",
-        "Sky Sport Select - LIVE: PL: Bournemouth v Nott'm Forest - 14:50 21/11/2026",
         "Sky Sport 6 - LIVE: PL: Tottenham Hotspur v Ipswich - 14:50 21/11/2026",
-        "Sky Sport 7 - LIVE: PL: Coventry v Crystal Palace - 14:50 21/11/2026",
         "Sky Sport 9 - LIVE: PL: Aston Villa v Sunderland - 14:50 21/11/2026",
+        "Sky Sport 7 - LIVE: PL: Coventry v Crystal Palace - 14:50 21/11/2026",
+        "Sky Sport Select - LIVE: PL: Bournemouth v Nott'm Forest - 14:50 21/11/2026",
+        "Sky Sport 4 - LIVE: NC: Portugal v Uruguay - 14:50 21/11/2026",
         "Sky Sport 5 - LIVE: NC: Spain v Samoa - 15:50 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Ireland v South Africa - 16:30 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Italy v Fiji - 16:30 21/11/2026",
@@ -1079,8 +1070,8 @@
         "Sky Sport 3 - LIVE: ALM: Phoenix v Macarthur - 01:30 22/11/2026",
         "Sky Sport 4 - LIVE: Tauihi: Queens v Hoiho - 02:00 22/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Las Vegas Pre Race - 02:30 22/11/2026",
-        "Sky Sport 6 - LIVE: ALW: Melb Victory v Perth Glory - 03:55 22/11/2026",
         "Sky Sport 2 - LIVE:FIA Formula 1: Las Vegas Grand Prix - 03:55 22/11/2026",
+        "Sky Sport 6 - LIVE: ALW: Melb Victory v Perth Glory - 03:55 22/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Heat v Strikers - 04:15 22/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Chequered Flag - 06:00 22/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Stars v Renegades - 08:10 22/11/2026",
@@ -1103,7 +1094,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 7 | Luton vs Peterborough",
         "Southampton vs Derby",
         "Norwich vs Cardiff",
         "Blackpool vs Wigan",
@@ -1120,9 +1110,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Frankly Hockey: Nov. 17 - Tue 17/11 7:00pm",
-        "Sportsnet 03 : GSOC National - Draw 3 - Dunstone vs. Spiller  - Tue 17/11 8:00pm",
-        "Sportsnet 05 : Real Kyper & Bourne: Nov. 17 - Tue 17/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 17 - Tue 17/11 11:00pm",
         "Sportsnet 04 : Buffalo @ Philadelphia - Wed 18/11 12:00am",
         "Sportsnet 07 : Columbus @ New York Islanders - Wed 18/11 12:00am",
@@ -1142,7 +1129,10 @@
         "Sportsnet 01 : Sportsnet Central: Nov. 17 - Wed 18/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 18 - Wed 18/11 2:00pm",
         "Sportsnet 03 : GSOC National - Draw 6 - Y. Schwaller vs. Bottcher  - Wed 18/11 4:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 18 - Wed 18/11 4:00pm"
+        "Sportsnet 02 : The Raptors Show: Nov. 18 - Wed 18/11 4:00pm",
+        "Sportsnet 04 : The FAN Hockey Show: Nov. 18 - Wed 18/11 5:00pm",
+        "Sportsnet 01 : Frankly Hockey: Nov. 18 - Wed 18/11 7:00pm",
+        "Sportsnet 02 : GSOC National - Draw 7 - Pätz vs. Sturmay  - Wed 18/11 8:00pm"
       ],
       "sections": [],
       "events": []
@@ -1232,10 +1222,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 03 : Pat McAfee Show - Tue 17/11 5:00pm",
-        "TSN 02 : Rich Eisen Show - Tue 17/11 5:00pm",
-        "TSN 04 : NCAA Men's Basketball: Rutgers vs. Houston - Tue 17/11 7:00pm",
-        "TSN 05 : NCAA Men's Basketball: Notre Dame vs. Florida - Tue 17/11 9:30pm",
         "TSN 01 : NCAA Men's Basketball: Illinois vs. Duke - Wed 18/11 12:00am",
         "TSN 02 : CFP Rankings Show - Wed 18/11 2:00am",
         "TSN 03 : NCAA Men's Basketball: UNLV vs. Kansas - Wed 18/11 2:30am",
