@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-18T18:01:03.846808+00:00",
+  "scraped_at": "2026-11-18T19:14:02.653095+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -417,6 +417,18 @@
         },
         {
           "sport": "FOOTBALL",
+          "time": "03:35",
+          "name": "MERIDIAN - ST. MARTIN",
+          "datetime": "2026-11-19 03:35:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
           "time": "13:00",
           "name": "FRANCE U17 - HAITI U17",
           "datetime": "2026-11-19 13:00:00",
@@ -724,6 +736,7 @@
         "BBC Events 03 - no_brand_title: Anticipation Builds in China Ahead of Xi-Putin-Trump Meeting - 18/11/2026 05:35 - 04:44",
         "BBC Events 04 - no_brand_title: World Leaders Arrive in China for APEC Summit - 18/11/2026 01:55 - 01:32",
         "BBC Events 05 - no_brand_title: BBC Weather Live - 18/11/2026 06:44 - 20:00",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 18/11/2026 18:00 - 00:00",
         "BBC Events 08 - no_brand_title: Voyager 1 Spacecraft Nears Historic Milestone - 18/11/2026 07:06 - 03:59"
       ],
       "sections": [],
@@ -967,8 +980,8 @@
       "fixtures": [
         "Paramount+ Event 01 - 17:00 - UEFA Women's Champions League: BK Häcken vs. Man. City",
         "Paramount+ Event 02 - 17:00 - UEFA Women's Champions League: Real Madrid vs. Inter",
-        "Paramount+ Event 03 - 18:30 - Uefa Womens Champions League: Juventus vs. OH Leuven",
-        "Paramount+ Event 04 - 18:30 - Uefa Womens Champions League: Chelsea vs. PSG",
+        "Paramount+ Event 03 - 18:30 - UEFA Women's Champions League: Chelsea vs. PSG",
+        "Paramount+ Event 04 - 18:30 - UEFA Women's Champions League: Juventus vs. OH Leuven",
         "Paramount+ Event 01 - 17:00 - Uefa Womens Champions League: Paris FC vs. HB Køge",
         "Paramount+ Event 02 - 17:00 - Uefa Womens Champions League: Austria Wien vs. Bayern",
         "Paramount+ Event 03 - 18:30 - Uefa Womens Champions League: Barcelona vs. Servette",
@@ -1040,7 +1053,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 2 - LIVE: Grand Slam of Darts: D5 - 19:00 18/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 1st Test D1 - 21:00 18/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 1st Test D1 - 21:00 18/11/2026",
         "Sky Sport 2 - LIVE: WBBL: Hurricanes v Scorchers - 04:30 19/11/2026",
@@ -1169,8 +1181,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : GSOC National - Draw 6 - Y. Schwaller vs. Bottcher  - Wed 18/11 4:00pm",
-        "Sportsnet 04 : The FAN Hockey Show: Nov. 18 - Wed 18/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 18 - Wed 18/11 7:00pm",
         "Sportsnet 02 : GSOC National - Draw 7 - Pätz vs. Sturmay  - Wed 18/11 8:00pm",
         "Sportsnet 05 : Real Kyper & Bourne: Nov. 18 - Wed 18/11 9:00pm",
@@ -1191,7 +1201,9 @@
         "Sportsnet 01 : The FAN Pregame: Nov. 19 - Thu 19/11 11:00pm",
         "Sportsnet 02 : GSOC National - Draw 12 - Thu 19/11 11:30pm",
         "Sportsnet 04 : Buffalo @ Washington - Fri 20/11 12:00am",
-        "Sportsnet 06 : French Language Broadcast: Montreal @ Carolina - Fri 20/11 12:00am"
+        "Sportsnet 06 : French Language Broadcast: Montreal @ Carolina - Fri 20/11 12:00am",
+        "Sportsnet 08 : French Language Broadcast: Philadelphia @ Ottawa - Fri 20/11 12:00am",
+        "Sportsnet 07 : Los Angeles @ Toronto - Fri 20/11 12:00am"
       ],
       "sections": [],
       "events": []
