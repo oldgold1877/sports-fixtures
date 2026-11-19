@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-19T08:15:30.957484+00:00",
+  "scraped_at": "2026-11-19T12:00:54.989113+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -54,7 +54,8 @@
         "EVENT 07 - 19-Nov 07:55PM-10:00PM - UEFA Women's Champions League 2026/27: Benfica vs Roma - MD5 [SG]",
         "EVENT 02 - 20-Nov 05:20PM-07:25PM - Bundesliga 2 2026/27: Darmstadt vs Heidenheim 1846 [SG]",
         "EVENT 03 - 20-Nov 07:25PM-09:30PM - Bundesliga 2026/27: Bayern vs Cologne [SG]",
-        "EVENT 02 - 20-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Espanyol [SG]"
+        "EVENT 02 - 20-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Espanyol [SG]",
+        "EVENT 03 - 21-Nov 11:50AM-02:00PM - Bundesliga 2 2026/27: Wolfsburg vs Holstein Kiel [SG]"
       ],
       "sections": [],
       "events": []
@@ -691,10 +692,26 @@
         },
         {
           "sport": "TENNIS",
-          "time": "13:00",
+          "time": "10:30",
           "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-20 10:30:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "13:00",
+          "name": "CARLOS ALCARAZ - FLAVIO COBOLLI",
           "datetime": "2026-11-20 13:00:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -703,10 +720,26 @@
         },
         {
           "sport": "TENNIS",
-          "time": "19:30",
+          "time": "17:00",
           "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-20 17:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "19:30",
+          "name": "DANIIL MEDVEDEV - FRANCES TIAFOE",
           "datetime": "2026-11-20 19:30:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -744,9 +777,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 19/11/2026 06:00 - 12:00",
+        "BBC Events 02 - no_brand_title: BBC Weather Live - 19/11/2026 07:41 - 00:43",
         "BBC Events 03 - no_brand_title: Covid Inquiry Examines Testing, Tracing and Isolation - 19/11/2026 06:12 - 04:17",
-        "BBC Events 05 - no_brand_title: Trump, Xi and Putin set to Hold Historic Meeting on Apec Sidelines - 19/11/2026 01:57 - 01:10"
+        "BBC Events 04 - no_brand_title: 'Feudal' Leasehold System Set to be Scrapped in England And Wales - 19/11/2026 09:38 - 08:36",
+        "BBC Events 05 - no_brand_title: Trump, Xi and Putin set to Hold Historic Meeting on Apec Sidelines - 19/11/2026 01:57 - 01:10",
+        "BBC Events 07 - no_brand_title: BBC London test - 19/11/2026 10:03 - 10:02",
+        "BBC Events 08 - no_brand_title: BBC Academy - Future of Story Telling - Live Event - 19/11/2026 10:15 - 20:00"
       ],
       "sections": [],
       "events": []
@@ -785,7 +821,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 19/11/2026 - 06:30 UK / 01:30 ET - Football - NFL: Pittsburgh Steelers vs. Cincinnati Bengals",
         "ESPN Event 01 - 19/11/2026 - 16:00 UK / 11:00 ET - Soccer - NJCAA Men’s Soccer: Lewis & Clark Community College vs. Salt Lake Community College (Semifinal)",
         "ESPN Event 01 - 19/11/2026 - 16:30 UK / 11:30 ET - Basketball - NBA G League: Texas Legends vs. Memphis Hustle",
         "ESPN Event 02 - 19/11/2026 - 17:30 UK / 12:30 ET - Soccer - UEFA Women's Champions League: En Español-Paris FC vs. HB Køge",
@@ -807,7 +842,6 @@
         "ESPN Event 10 - 20/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Edmonton Oilers vs. Tampa Bay Lightning",
         "ESPN Event 11 - 20/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Columbus Blue Jackets vs. Chicago Blackhawks",
         "ESPN Event 12 - 20/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Minnesota Wild vs. Calgary Flames",
-        "ESPN Event 13 - 20/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: San Francisco 49ers vs. Dallas Cowboys",
         "ESPN Event 14 - 20/11/2026 - 01:00 UK / 20:00 ET - Basketball - NBA G League: Mexico City Capitanes vs. Oklahoma City Blue",
         "ESPN Event 15 - 20/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: Anaheim Ducks vs. Colorado Avalanche",
         "ESPN Event 16 - 20/11/2026 - 02:10 UK / 21:10 ET - Hockey - NHL: Vancouver Canucks vs. Seattle Kraken",
@@ -818,7 +852,16 @@
         "ESPN Event 03 - 20/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Tokomanawa Queens vs. Northern Kahu (Round 9)",
         "ESPN Event 04 - 20/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Western Sydney Wanderers FC vs. Adelaide United",
         "ESPN Event 01 - 20/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 11 Indianapolis Colts vs. Houston Texans",
-        "ESPN Event 01 - 20/11/2026 - 16:00 UK / 11:00 ET - Football - NCAA Football: SEC Inside: Texas vs. LSU"
+        "ESPN Event 01 - 20/11/2026 - 16:00 UK / 11:00 ET - Football - NCAA Football: SEC Inside: Texas vs. LSU",
+        "ESPN Event 02 - 20/11/2026 - 18:00 UK / 13:00 ET - Soccer - German 3. Liga: Viktoria Koln vs. TSV Havelse",
+        "ESPN Event 03 - 20/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 11 Indianapolis Colts vs. Houston Texans",
+        "ESPN Event 04 - 20/11/2026 - 19:50 UK / 14:50 ET - Soccer - Spanish LALIGA: Athletic Club vs. RCD Espanyol (Matchday #13)",
+        "ESPN Event 05 - 20/11/2026 - 19:55 UK / 14:55 ET - Soccer - Spanish LALIGA: En Español-Athletic Club vs. RCD Espanyol",
+        "ESPN Event 01 - 21/11/2026 - 00:00 UK / 19:00 ET - Football - NJCAA Football: Northwest Mississippi vs. Hutchinson Community College (DI Semifinal)",
+        "ESPN Event 02 - 21/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: Bowling Green vs. Toledo",
+        "ESPN Event 03 - 21/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: Clemson vs. Duke",
+        "ESPN Event 04 - 21/11/2026 - 00:45 UK / 19:45 ET - Hockey - Men’s College Club Hockey: Auburn vs. Alabama",
+        "ESPN Event 05 - 21/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: UTEP vs. Air Force"
       ],
       "sections": [],
       "events": []
@@ -1164,7 +1207,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 2 | Brisbane Heat vs Sydney Thunder",
         "London City vs Crystal Palace",
         "Wolves vs Derby",
         "Middlesbrough vs Swansea",
@@ -1197,7 +1239,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 18 - Thu 19/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 19 - Thu 19/11 2:00pm",
         "Sportsnet 02 : GSOC National - Draw 10 - Thu 19/11 3:30pm",
         "Sportsnet 03 : The Raptors Show: Nov. 19 - Thu 19/11 4:00pm",
@@ -1349,7 +1390,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "UFC QATAR: CEREMONIAL WEIGH-IN - Fri 20/11 3:00pm",
         "ARES 45 - Fri 20/11 6:30pm",
         "BISON KOMBAT 11 - Fri 20/11 11:00pm",
