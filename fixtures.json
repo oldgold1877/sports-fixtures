@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-19T12:00:54.989113+00:00",
+  "scraped_at": "2026-11-19T16:13:40.422914+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -55,7 +55,19 @@
         "EVENT 02 - 20-Nov 05:20PM-07:25PM - Bundesliga 2 2026/27: Darmstadt vs Heidenheim 1846 [SG]",
         "EVENT 03 - 20-Nov 07:25PM-09:30PM - Bundesliga 2026/27: Bayern vs Cologne [SG]",
         "EVENT 02 - 20-Nov 07:55PM-10:00PM - LaLiga 2026/27: Athletic Bilbao vs Espanyol [SG]",
-        "EVENT 03 - 21-Nov 11:50AM-02:00PM - Bundesliga 2 2026/27: Wolfsburg vs Holstein Kiel [SG]"
+        "EVENT 03 - 21-Nov 11:50AM-02:00PM - Bundesliga 2 2026/27: Wolfsburg vs Holstein Kiel [SG]",
+        "EVENT 04 - 21-Nov 12:20PM-02:50PM - Manchester City v Fulham (MW11) [SG]",
+        "EVENT 01 - 21-Nov 12:55PM-03:10PM - LaLiga 2026/27: Alaves vs Deportivo [SG]",
+        "EVENT 02 - 21-Nov 12:55PM-03:00PM - Super Lig 2026/27: Galatasaray vs Samsunspor [SG]",
+        "EVENT 03 - 21-Nov 02:20PM-04:30PM - Bundesliga 2026/27: Leverkusen vs Paderborn [SG]",
+        "EVENT 05 - 21-Nov 02:50PM-05:00PM - Aston Villa vs Sunderland (MW11) - Premier League 2026/27 [SG]",
+        "EVENT 06 - 21-Nov 02:50PM-05:00PM - Bournemouth vs Nottingham Forest (MW11) - Premier League 2026/27 [SG]",
+        "EVENT 07 - 21-Nov 02:50PM-05:20PM - Chelsea v Leeds United (MW11) (Goal Rush) [SG]",
+        "EVENT 08 - 21-Nov 02:50PM-05:00PM - Chelsea vs Leeds United (MW11) - Premier League 2026/27 [SG]",
+        "EVENT 09 - 21-Nov 02:50PM-05:00PM - Coventry City vs Crystal Palace (MW11) - Premier League 2026/27 [SG]",
+        "EVENT 10 - 21-Nov 02:50PM-05:00PM - Tottenham Hotspur vs Ipswich Town (MW11) - Premier League 2026/27 [SG]",
+        "EVENT 04 - 21-Nov 03:10PM-05:25PM - LaLiga 2026/27: Rayo Vallecano vs Valencia [SG]",
+        "EVENT 01 - 21-Nov 03:55PM-06:00PM - Super Lig 2026/27: Kocaelispor vs Fenerbahce [SG]"
       ],
       "sections": [],
       "events": []
@@ -113,6 +125,18 @@
             {
               "name": "FOX SPORTS 2",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "22:00",
+          "name": "WIAAWI DIVISION 5 TOURNAMENT",
+          "datetime": "2026-11-19 22:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -419,6 +443,18 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "01:00",
+          "name": "WIAAWI DIVISION 4 TOURNAMENT",
+          "datetime": "2026-11-20 01:00:00",
+          "channels": [
+            {
+              "name": "ABC",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -781,8 +817,10 @@
         "BBC Events 03 - no_brand_title: Covid Inquiry Examines Testing, Tracing and Isolation - 19/11/2026 06:12 - 04:17",
         "BBC Events 04 - no_brand_title: 'Feudal' Leasehold System Set to be Scrapped in England And Wales - 19/11/2026 09:38 - 08:36",
         "BBC Events 05 - no_brand_title: Trump, Xi and Putin set to Hold Historic Meeting on Apec Sidelines - 19/11/2026 01:57 - 01:10",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 19/11/2026 12:00 - 18:00",
         "BBC Events 07 - no_brand_title: BBC London test - 19/11/2026 10:03 - 10:02",
-        "BBC Events 08 - no_brand_title: BBC Academy - Future of Story Telling - Live Event - 19/11/2026 10:15 - 20:00"
+        "BBC Events 08 - no_brand_title: BBC Academy - Future of Story Telling - Live Event - 19/11/2026 10:15 - 20:00",
+        "BBC Events 09 - no_brand_title: Covid Inquiry Report on Testing, Tracing and Isolation - 19/11/2026 11:44 - 10:18"
       ],
       "sections": [],
       "events": []
@@ -1156,10 +1194,10 @@
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks - 13:15 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Georgia v USA - 13:50 21/11/2026",
         "Sky Sport 2 - LIVE: NC: Scotland v Japan - 14:00 21/11/2026",
-        "Sky Sport 4 - LIVE: NC: Portugal v Uruguay - 14:50 21/11/2026",
         "Sky Sport 7 - LIVE: PL: Coventry v Crystal Palace - 14:50 21/11/2026",
         "Sky Sport 9 - LIVE: PL: Aston Villa v Sunderland - 14:50 21/11/2026",
         "Sky Sport Select - LIVE: PL: Bournemouth v Nott'm Forest - 14:50 21/11/2026",
+        "Sky Sport 4 - LIVE: NC: Portugal v Uruguay - 14:50 21/11/2026",
         "Sky Sport 6 - LIVE: PL: Tottenham Hotspur v Ipswich - 14:50 21/11/2026",
         "Sky Sport 5 - LIVE: NC: Spain v Samoa - 15:50 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Italy v Fiji - 16:30 21/11/2026",
@@ -1196,7 +1234,10 @@
         "Sky Sport 1 - LIVE: Australia v England: 2nd T20 - 07:30 24/11/2026",
         "Sky Sport 1 UHD - LIVE: Australia v England: 2nd T20 - 07:30 24/11/2026",
         "Sky Sport 4 - LIVE: SS: NSW v Queensland D4 - 23:25 24/11/2026",
-        "Sky Sport 5 - LIVE: SS: S Australia v Victoria D2 - 23:55 24/11/2026"
+        "Sky Sport 5 - LIVE: SS: S Australia v Victoria D2 - 23:55 24/11/2026",
+        "Sky Sport 6 - LIVE: SS: W Australia v Tasmania D3 - 02:25 25/11/2026",
+        "Sky Sport 1 - LIVE: WBBL: Renegades v Heat - 07:30 25/11/2026",
+        "Sky Sport 1 UHD - LIVE: WBBL: Renegades v Heat - 07:30 25/11/2026"
       ],
       "sections": [],
       "events": []
@@ -1239,7 +1280,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 19 - Thu 19/11 2:00pm",
         "Sportsnet 02 : GSOC National - Draw 10 - Thu 19/11 3:30pm",
         "Sportsnet 03 : The Raptors Show: Nov. 19 - Thu 19/11 4:00pm",
         "Sportsnet 04 : The FAN Hockey Show: Nov. 19 - Thu 19/11 5:00pm",
@@ -1262,7 +1302,8 @@
         "Sportsnet 16 : Minnesota @ Calgary - Fri 20/11 1:00am",
         "Sportsnet 14 : TNA iMPACT! - Fri 20/11 1:00am",
         "Sportsnet 03 : Anaheim @ Colorado - Fri 20/11 2:00am",
-        "Sportsnet 05 : Vancouver @ Seattle - Fri 20/11 2:30am"
+        "Sportsnet 05 : Vancouver @ Seattle - Fri 20/11 2:30am",
+        "Sportsnet 01 : Dallas @ Vegas - Fri 20/11 3:00am"
       ],
       "sections": [],
       "events": []
@@ -1356,7 +1397,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #5 - Thu 19/11 10:30am",
         "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #5 - Thu 19/11 5:00pm",
         "TSN 03 : Pat McAfee Show - Thu 19/11 5:00pm",
         "TSN 02 : Rich Eisen Show - Thu 19/11 5:00pm",
