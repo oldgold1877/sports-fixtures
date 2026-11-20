@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T12:00:59.488035+00:00",
+  "scraped_at": "2026-11-20T15:52:05.167766+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,22 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Friday 20 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 19:30-21:30 - Bundesliga: Bayern München vs Köln 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - League One: Barnsley vs Sheffield Wednesday 1080p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
@@ -68,7 +84,13 @@
         "EVENT 05 - 21-Nov 05:25PM-07:40PM - LaLiga 2026/27: Sevilla vs Real Betis [SG]",
         "EVENT 01 - 21-Nov 07:25PM-09:30PM - Bundesliga 2 2026/27: St. Pauli vs Bochum [SG]",
         "EVENT 02 - 21-Nov 07:52PM-10:00PM - LaLiga 2 2026/27: Tenerife vs Mallorca [SG]",
-        "EVENT 03 - 21-Nov 07:55PM-10:00PM - LaLiga 2026/27: Real Madrid vs Celta Vigo [SG]"
+        "EVENT 03 - 21-Nov 07:55PM-10:00PM - LaLiga 2026/27: Real Madrid vs Celta Vigo [SG]",
+        "EVENT 01 - 22-Nov 12:20PM-02:25PM - Bundesliga 2 2026/27: Energie Cottbus vs Hertha [SG]",
+        "EVENT 02 - 22-Nov 12:55PM-03:10PM - LaLiga 2026/27: Barcelona vs Villarreal [SG]",
+        "EVENT 03 - 22-Nov 12:55PM-03:00PM - Super Lig 2026/27: Konyaspor vs Besiktas [SG]",
+        "EVENT 05 - 22-Nov 01:50PM-04:20PM - Hull City v Brighton & Hove Albion (MW11) [SG]",
+        "EVENT 04 - 22-Nov 02:25PM-04:25PM - Bundesliga 2026/27: Augsburg vs Mainz [SG]",
+        "EVENT 01 - 22-Nov 03:10PM-05:25PM - LaLiga 2026/27: Racing de Santander vs Real Sociedad [SG]"
       ],
       "sections": [],
       "events": []
@@ -1082,6 +1104,18 @@
         {
           "sport": "ICE HOCKEY",
           "time": "00:00",
+          "name": "CORNELL - CLARKSON",
+          "datetime": "2026-11-21 00:00:00",
+          "channels": [
+            {
+              "name": "SNY",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "ICE HOCKEY",
+          "time": "00:00",
           "name": "MERRIMACK - BOSTON UNIVERSITY",
           "datetime": "2026-11-21 00:00:00",
           "channels": [
@@ -1223,6 +1257,7 @@
         "BBC Events 04 - no_brand_title: BBC Weather Live - 20/11/2026 09:21 - 22:27",
         "BBC Events 05 - no_brand_title: UK and EU to Agree on Youth Mobility Scheme, BBC Understands - 20/11/2026 06:41 - 06:28",
         "BBC Events 06 - no_brand_title: Nicky Campbell Phone In: Joanne Young - 20/11/2026 08:54 - 08:38",
+        "BBC Events 07 - Autumnwatch: Autumn Calm - 20/11/2026 12:00 - 18:00",
         "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - Protests - 20/11/2026 10:08 - 10:07",
         "BBC Events 11 - no_brand_title: Tens of Thousands of UK fridges Secured from Hackers - 20/11/2026 10:45 - 10:38"
       ],
@@ -1256,8 +1291,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 04 - 20/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Western Sydney Wanderers FC vs. Adelaide United",
-        "ESPN Event 01 - 20/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 11 Indianapolis Colts vs. Houston Texans",
         "ESPN Event 01 - 20/11/2026 - 16:00 UK / 11:00 ET - Football - NCAA Football: SEC Inside: Texas vs. LSU",
         "ESPN Event 02 - 20/11/2026 - 18:00 UK / 13:00 ET - Soccer - German 3. Liga: Viktoria Koln vs. TSV Havelse",
         "ESPN Event 03 - 20/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 11 Indianapolis Colts vs. Houston Texans",
@@ -1736,7 +1769,8 @@
         "Sportsnet 07 : Edmonton @ Carolina - Sat 21/11 6:00pm",
         "Sportsnet 02 : GSOC National - Men's Quarterfinals - Sat 21/11 7:00pm",
         "Sportsnet 01 : Chicago @ Calgary - Sat 21/11 8:30pm",
-        "Sportsnet 03 : Buffalo @ Florida - Sat 21/11 11:00pm"
+        "Sportsnet 03 : Buffalo @ Florida - Sat 21/11 11:00pm",
+        "Sportsnet 04 : Pittsburgh @ Nashville - Sat 21/11 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -1747,8 +1781,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 01 : Vissel Kobe v Mito - J.League 2026 - Fri 20/11 9:55am",
-        "Stan 02 : Kashiwa Reysol v Chiba - J.League 2026 - Fri 20/11 9:55am",
         "Stan 03 : Romania v Canada - Nations Cup Round 6 2026 - Fri 20/11 4:21pm",
         "Stan 06 : Qualification: F4 World Cup - Macau Grand Prix 2026 - Sat 21/11 3:31am",
         "Stan 01 : Jeonbuk v Seoul - K League 2026 - Sat 21/11 4:56am",
@@ -1830,7 +1862,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 ATP Finals: Doubles Round Robin - Day #6 - Fri 20/11 10:30am",
         "TSN 02 : 2026 ATP Finals: Doubles Round Robin - Day #6 - Fri 20/11 5:00pm",
         "TSN 05 : 2026 BJK Cup Playoffs: Brazil vs. Canada - Day #1 - Fri 20/11 5:00pm",
         "TSN 01 : NCAA Women's Field Hockey - SF#1 - Harvard vs. Maryland - Fri 20/11 5:00pm",
