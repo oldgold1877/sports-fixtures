@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T18:01:09.721863+00:00",
+  "scraped_at": "2026-11-20T18:57:01.683908+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -51,10 +51,6 @@
             {
               "type": "fixture",
               "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
-            },
-            {
-              "type": "fixture",
-              "text": "LIVE EVENT 01 - 1:30pmONE Friday Fights 179 Chartpayak v Klarob"
             },
             {
               "type": "fixture",
@@ -1307,12 +1303,16 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: Keaton Slater: A Family’s Fight for Justice - 20/11/2026 04:42 - 04:20",
         "BBC Events 02 - no_brand_title: Tumours Vanish in Pancreatic Cancer Pill Trial - 20/11/2026 05:06 - 03:05",
+        "BBC Events 03 - Autumnwatch: Autumn Calm - 20/11/2026 18:00 - 19:15",
         "BBC Events 04 - no_brand_title: BBC Weather Live - 20/11/2026 09:21 - 22:27",
         "BBC Events 05 - no_brand_title: UK and EU to Agree on Youth Mobility Scheme, BBC Understands - 20/11/2026 06:41 - 06:28",
         "BBC Events 06 - no_brand_title: Nicky Campbell Phone In: Joanne Young - 20/11/2026 08:54 - 08:38",
         "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - Protests - 20/11/2026 10:08 - 10:07",
         "BBC Events 10 - no_brand_title: West Midlands Football Phone-In - 20/11/2026 - 20/11/2026 17:40 - 19:00",
-        "BBC Events 11 - no_brand_title: Tens of Thousands of UK fridges Secured from Hackers - 20/11/2026 10:45 - 10:38"
+        "BBC Events 11 - no_brand_title: Tens of Thousands of UK fridges Secured from Hackers - 20/11/2026 10:45 - 10:38",
+        "BBC Events 12 - no_brand_title: Burnley v Blackburn Rovers - Derby Day preview - 20/11/2026 17:50 - 19:15",
+        "BBC Events 13 - Boxing: Live World Championship Boxing: Lauren Price v Michaela Kotaskova - The Undercard - 20/11/2026 18:27 - 21:30",
+        "BBC Events 14 - Irish League Football Live: Cliftonville v Glentoran - 20/11/2026 18:33 - 22:15"
       ],
       "sections": [],
       "events": []
@@ -1818,7 +1818,9 @@
         "Sportsnet 02 : GSOC National - Men's Quarterfinals - Sat 21/11 7:00pm",
         "Sportsnet 01 : Chicago @ Calgary - Sat 21/11 8:30pm",
         "Sportsnet 03 : Buffalo @ Florida - Sat 21/11 11:00pm",
-        "Sportsnet 04 : Pittsburgh @ Nashville - Sat 21/11 11:00pm"
+        "Sportsnet 04 : Pittsburgh @ Nashville - Sat 21/11 11:00pm",
+        "Sportsnet 06 : Columbus @ Toronto - Sun 22/11 12:00am",
+        "Sportsnet 05 : GSOC National - Men's & Women's Semifinals - Sun 22/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1829,7 +1831,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Romania v Canada - Nations Cup Round 6 2026 - Fri 20/11 4:21pm",
         "Stan 06 : Qualification: F4 World Cup - Macau Grand Prix 2026 - Sat 21/11 3:31am",
         "Stan 01 : Jeonbuk v Seoul - K League 2026 - Sat 21/11 4:56am",
         "Stan 03 : Kyoto Sanga v Urawa Red Diamonds - J.League 2026 - Sat 21/11 4:56am",
