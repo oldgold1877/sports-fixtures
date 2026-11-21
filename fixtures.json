@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-21T08:15:31.820863+00:00",
+  "scraped_at": "2026-11-21T12:01:04.624923+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -122,39 +122,59 @@
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 01 - 1:30pmONE Friday Fights 179 Chartpayak v Klarob"
+              "text": "LIVE EVENT 01 - 10am UFC Fight Night Prochazka v Stirling"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 02 - 6:30pmARES 45"
+              "text": "LIVE EVENT 02 - 7:30amShuriken Fight Series 25"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 03 - 6:30pmPrice v Kotaskova"
+              "text": "LIVE EVENT 03 - 12pm Oktagon 98 Legierski v Buchinger"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 04 - 5pm Jones v Pettus"
+              "text": "LIVE EVENT 04 - 12pm KOK 130 Radomski v Rifa"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 05 - 6pm Bison Kombat 11"
+              "text": "LIVE EVENT 05 - 5:30pmStein v Antonietti"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 07 - 8pm Jones v Pettus"
+              "text": "LIVE EVENT 06 - 6:30pmFight Clubbing 45"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 08 - 9pm BKFC Fight Night Richardson v Oxendine"
+              "text": "LIVE EVENT 07 - 3pm WOW 34"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 09 - 9pm Fury Challenger Series 18"
+              "text": "LIVE EVENT 08 - 5pm Top Level Pro 25 Thanksgiving Throwdown"
             },
             {
               "type": "fixture",
-              "text": "LIVE EVENT 10 - 10pm UWC 60"
+              "text": "LIVE EVENT 09 - 7pm WES Pro Sumo New Era V"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 10 - 2pm Georgia State Race Night One"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 11 - 9:45pmUSAC Chase Johnson Classic Merced"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 12 - 5pm Snowball Derby"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 13 - 11:30pmSouthern Thunder Super Dirt Series Championship"
+            },
+            {
+              "type": "fixture",
+              "text": "LIVE EVENT 14 - 8pm Bobby Martin Memorial Flip Flop 50 Night Two"
             }
           ]
         }
@@ -896,10 +916,26 @@
         },
         {
           "sport": "TENNIS",
-          "time": "13:30",
+          "time": "11:00",
           "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-21 11:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "13:30",
+          "name": "CARLOS ALCARAZ - BEN SHELTON",
           "datetime": "2026-11-21 13:30:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -908,10 +944,26 @@
         },
         {
           "sport": "TENNIS",
-          "time": "19:30",
+          "time": "17:00",
           "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-21 17:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "19:30",
+          "name": "ALEXANDER ZVEREV - DANIIL MEDVEDEV",
           "datetime": "2026-11-21 19:30:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -1624,11 +1676,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 21/11/2026 06:00 - 11:00",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 21/11/2026 06:23 - 22:58",
-        "BBC Events 06 - no_brand_title: Nicky Campbell Phone In: Joanne Young - 20/11/2026 08:54 - 08:38",
-        "BBC Events 08 - no_brand_title: MENA LIVE STREAMING - Protests - 20/11/2026 10:08 - 10:07",
-        "BBC Events 11 - no_brand_title: Tens of Thousands of UK fridges Secured from Hackers - 20/11/2026 10:45 - 10:38"
+        "BBC Events 03 - Autumnwatch: Autumn Calm - 21/11/2026 11:00 - 13:15"
       ],
       "sections": [],
       "events": []
@@ -1662,14 +1711,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 21/11/2026 - 05:45 UK / 00:45 ET - Soccer - Australian A-League Women: Brisbane Roar FC vs. Melbourne City FC",
-        "ESPN Event 02 - 21/11/2026 - 05:55 UK / 00:55 ET - Soccer - Australian A-League Women: Sydney FC vs. Canberra United",
-        "ESPN Event 03 - 21/11/2026 - 05:55 UK / 00:55 ET - Soccer - Australian A-League Men: Central Coast Mariners FC vs. Perth Glory",
-        "ESPN Event 04 - 21/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Mainland Pouakai vs. Tauranga Whai (Round 9)",
-        "ESPN Event 05 - 21/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Brisbane Roar FC vs. Sydney FC",
+        "ESPN Event 05 - 21/11/2026 - 08:40 UK / 03:40 ET - Soccer - Australian A-League Men: Brisbane Roar FC vs. Sydney FC",
         "ESPN Event 01 - 21/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA: D. Alaves vs. Deportivo A Coruña (Matchday #13)",
         "ESPN Event 02 - 21/11/2026 - 12:55 UK / 07:55 ET - Soccer - Spanish LALIGA: En Español-D. Alavés vs. Deportivo A Coruña",
         "ESPN Event 03 - 21/11/2026 - 13:00 UK / 08:00 ET - Soccer - German 3. Liga: Sonnenhof Grossaspach vs. Fortuna Dusseldorf",
+        "ESPN Event 04 - 21/11/2026 - 15:00 UK / 10:00 ET - Volleyball - NJCAA Volleyball: Northeastern Junior College vs. Arizona Western (Consolation)",
         "ESPN Event 04 - 21/11/2026 - 15:00 UK / 10:00 ET - Soccer - Spanish LALIGA: En Español-Rayo Vallecano vs. Valencia CF",
         "ESPN Event 05 - 21/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA: Rayo Vallecano vs. Valencia CF (Matchday #13)",
         "ESPN Event 06 - 21/11/2026 - 15:30 UK / 10:30 ET - Soccer - German 3. Liga: SV Waldhof Mannheim vs. Alemannia Aachen",
@@ -1700,10 +1746,10 @@
         "ESPN Event 29 - 21/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Castellón vs. Eldense",
         "ESPN Event 30 - 21/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Castellón vs. Eldense",
         "ESPN Event 31 - 21/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA: Sevilla FC vs. Real Betis (Matchday #13)",
+        "ESPN Event 12 - 21/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Truman State vs. #1 Ferris State (First Round)",
         "ESPN Event 32 - 21/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Lafayette Home Feed - Lehigh vs. Lafayette",
         "ESPN Event 33 - 21/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: Lehigh Away Feed - Lehigh vs. Lafayette",
         "ESPN Event 34 - 21/11/2026 - 17:30 UK / 12:30 ET - Football - NCAA Football: North Carolina vs. Virginia",
-        "ESPN Event 12 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Minnesota State vs. #3 Michigan Tech (First Round)",
         "ESPN Event 35 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Edward Waters vs. #2 Valdosta State (First Round)",
         "ESPN Event 36 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Carson-Newman vs. #3 Kentucky State (First Round)",
         "ESPN Event 37 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Marist vs. Davidson",
@@ -1717,7 +1763,66 @@
         "ESPN Event 45 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Charleston (WV) vs. #1 Slippery Rock (First Round)",
         "ESPN Event 46 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Colgate vs. Bucknell",
         "ESPN Event 47 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Morehead State vs. Butler",
-        "ESPN Event 48 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: The Citadel vs. Western Carolina"
+        "ESPN Event 48 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: Minnesota State vs. #3 Michigan Tech (First Round)",
+        "ESPN Event 48 - 21/11/2026 - 18:00 UK / 13:00 ET - Football - NCAA Football: The Citadel vs. Western Carolina",
+        "ESPN Event 04 - 21/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: NC State vs. Florida State",
+        "ESPN Event 05 - 21/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Yale vs. Harvard",
+        "ESPN Event 06 - 21/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: Arkansas vs. #5 Texas",
+        "ESPN Event 49 - 21/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: SkyCast - LSU vs. #9 Tennessee",
+        "ESPN Event 50 - 21/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: LSU vs. #9 Tennessee",
+        "ESPN Event 51 - 21/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: En Español-LSU vs. #9 Tennessee",
+        "ESPN Event 52 - 21/11/2026 - 20:45 UK / 15:45 ET - Football - NCAA Football: Texas A&M vs. #22 Oklahoma",
+        "ESPN Event 01 - 21/11/2026 - 21:00 UK / 16:00 ET - Soccer - NJCAA Women's Soccer: Miami Dade College vs. Arizona Western (Championship)",
+        "ESPN Event 02 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Northern Illinois vs. North Dakota State",
+        "ESPN Event 03 - 21/11/2026 - 21:00 UK / 16:00 ET - Soccer - NJCAA Men’s Soccer: Arizona Western vs. Salt Lake Community College (Championship)",
+        "ESPN Event 07 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Cal Poly vs. UC Davis",
+        "ESPN Event 08 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Western Colorado vs. #4 Central Washington (First Round)",
+        "ESPN Event 09 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Incarnate Word vs. East Texas A&M",
+        "ESPN Event 10 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Georgia State vs. Marshall",
+        "ESPN Event 11 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: South Alabama vs. Southern Miss",
+        "ESPN Event 13 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Georgia Southern vs. Troy",
+        "ESPN Event 14 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Tarleton State vs. North Alabama",
+        "ESPN Event 15 - 21/11/2026 - 21:00 UK / 16:00 ET - Volleyball - NJCAA Volleyball: Iowa Western Community College vs. Dodge City (3rd Place Game)",
+        "ESPN Event 16 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Northern Colorado vs. Northern Arizona",
+        "ESPN Event 17 - 21/11/2026 - 21:00 UK / 16:00 ET - Football - NCAA Football: Portland State vs. Eastern Washington",
+        "ESPN Event 12 - 21/11/2026 - 22:00 UK / 17:00 ET - Football - NCAA Football: Austin Peay vs. Central Arkansas",
+        "ESPN Event 18 - 21/11/2026 - 22:00 UK / 17:00 ET - Football - NCAA Football: UT Rio Grande Valley vs. Houston Christian",
+        "ESPN Event 19 - 21/11/2026 - 22:30 UK / 17:30 ET - Hockey - NHL: Buffalo Sabres vs. Florida Panthers",
+        "ESPN Event 20 - 21/11/2026 - 22:30 UK / 17:30 ET - Hockey - NHL: Pittsburgh Penguins vs. Nashville Predators",
+        "ESPN Event 21 - 21/11/2026 - 23:00 UK / 18:00 ET - Football - NCAA Football: Idaho vs. Idaho State",
+        "ESPN Event 22 - 21/11/2026 - 23:00 UK / 18:00 ET - Football - NFL: Minnesota Vikings vs. Green Bay Packers",
+        "ESPN Event 23 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: New Jersey Devils vs. St. Louis Blues",
+        "ESPN Event 24 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Los Angeles Kings vs. Ottawa Senators",
+        "ESPN Event 25 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Vegas Golden Knights vs. Winnipeg Jets",
+        "ESPN Event 26 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: New York Islanders vs. Detroit Red Wings",
+        "ESPN Event 27 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Columbus Blue Jackets vs. Toronto Maple Leafs",
+        "ESPN Event 28 - 21/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Washington Capitals vs. Boston Bruins",
+        "ESPN Event 29 - 22/11/2026 - 00:00 UK / 19:00 ET - Football - NJCAA Football: Trinity Valley vs. Iowa Western Community College (DI Semifinal)",
+        "ESPN Event 30 - 22/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Arkansas State vs. Louisiana Tech",
+        "ESPN Event 31 - 22/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Virginia Tech vs. #7 Miami",
+        "ESPN Event 32 - 22/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Lamar vs. McNeese",
+        "ESPN Event 33 - 22/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: SkyCast - Virginia Tech vs. #7 Miami",
+        "ESPN Event 34 - 22/11/2026 - 00:00 UK / 19:00 ET - Volleyball - NJCAA Volleyball: Salt Lake Community College vs. Miami Dade College (Championship)",
+        "ESPN Event 04 - 22/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: Pittsburgh vs. #23 Louisville",
+        "ESPN Event 05 - 22/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: #16 Kentucky vs. Missouri",
+        "ESPN Event 06 - 22/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: Colorado State vs. Fresno State",
+        "ESPN Event 35 - 22/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: SkyCast+: #1 Georgia vs. #21 South Carolina",
+        "ESPN Event 36 - 22/11/2026 - 00:37 UK / 19:37 ET - Football - NCAA Football: #1 Georgia vs. #21 South Carolina",
+        "ESPN Event 37 - 22/11/2026 - 00:37 UK / 19:37 ET - Football - NCAA Football: En Español-#1 Georgia vs. #21 South Carolina",
+        "ESPN Event 01 - 22/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: Stetson vs. San Diego",
+        "ESPN Event 02 - 22/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: UTSA vs. UAB",
+        "ESPN Event 03 - 22/11/2026 - 01:30 UK / 20:30 ET - Hockey - NHL: Anaheim Ducks vs. Utah Mammoth",
+        "ESPN Event 07 - 22/11/2026 - 01:55 UK / 20:55 ET - Soccer - Australian A-League Men: Wellington Phoenix vs. Macarthur FC",
+        "ESPN Event 08 - 22/11/2026 - 02:00 UK / 21:00 ET - Basketball - Tauihi Basketball New Zealand: Southern Hoiho vs. Tokomanawa Queens (Round 9)",
+        "ESPN Event 09 - 22/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Minnesota Wild vs. Vancouver Canucks",
+        "ESPN Event 10 - 22/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Seattle Kraken vs. San Jose Sharks",
+        "ESPN Event 11 - 22/11/2026 - 03:55 UK / 22:55 ET - Soccer - Australian A-League Women: Melbourne Victory vs. Perth Glory",
+        "ESPN Event 01 - 22/11/2026 - 12:30 UK / 07:30 ET - Soccer - Spanish LALIGA: FC Barcelona vs. Villarreal CF (Matchday #13)",
+        "ESPN Event 02 - 22/11/2026 - 15:00 UK / 10:00 ET - Soccer - Spanish LALIGA: En Español-Racing de Santander vs. Real Sociedad",
+        "ESPN Event 03 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA: Racing Santander vs. Real Sociedad (Matchday #13)",
+        "ESPN Event 04 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Sporting Gijón vs. Las Palmas",
+        "ESPN Event 05 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Sporting Gijón vs. Las Palmas",
+        "ESPN Event 06 - 22/11/2026 - 15:30 UK / 10:30 ET - Soccer - German 3. Liga: SV Wehen Wiesbaden vs. FC Saarbrucken"
       ],
       "sections": [],
       "events": []
@@ -1872,7 +1977,7 @@
         "Paramount+ Event 01 - 08:20 - World Rugby: Hong Kong China vs. Tonga",
         "Paramount+ Event 02 - 11:50 - English Football League: Millwall vs. Queens Park Rangers",
         "Paramount+ Event 03 - 11:50 - English Football League: Norwich City vs. Cardiff City",
-        "Paramount+ Event 04 - 12:05 - Barclays Womens Super League: Liverpool vs. Chelsea",
+        "Paramount+ Event 04 - 12:05 - Barclays Women's Super League: Liverpool vs. Chelsea",
         "Paramount+ Event 08 - 13:20 - World Rugby: Georgia vs. USA Eagles",
         "Paramount+ Event 09 - 13:20 - Serie A: Como vs. Cagliari",
         "Paramount+ Event 10 - 13:20 - Serie A: Lazio vs. Lecce",
@@ -1983,7 +2088,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: NC: Hong Kong v Tonga - 08:50 21/11/2026",
         "Sky Sport 1 - LIVE: NC: England v All Blacks - 13:15 21/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks - 13:15 21/11/2026",
         "Sky Sport 3 - LIVE: NC: Georgia v USA - 13:50 21/11/2026",
@@ -2055,6 +2159,12 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 5 | Southampton vs Derby",
+        "Sky Sports+ 6 | Norwich vs Cardiff",
+        "Sky Sports+ 7 | Blackpool vs Wigan",
+        "Sky Sports+ 8 | Reading vs Bromley",
+        "Sky Sports+ 10 | Gillingham vs Crewe",
+        "Sky Sports+ 11 | Newport vs Swindon",
         "London City vs Crystal Palace",
         "Wolves vs Derby",
         "Birmingham vs Man Utd",
@@ -2063,18 +2173,12 @@
         "Bristol C vs Wrexham",
         "Everton vs Brighton",
         "Cardiff vs Preston",
-        "Southampton vs Derby",
         "Charlton vs Lincoln",
-        "Norwich vs Cardiff",
         "Blackpool vs Leicester",
-        "Blackpool vs Wigan",
         "Bradford vs Barnsley",
-        "Reading vs Bromley",
         "Bromley vs Wycombe",
         "Stevenage vs Sheff Wed",
-        "Gillingham vs Crewe",
         "Crawley vs Barnet",
-        "Newport vs Swindon",
         "Port Vale vs Northampton",
         "Fleetwood vs Leeds U21",
         "Oxford U vs Tottenham U21",
@@ -2090,7 +2194,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 20 - Sat 21/11 10:00am",
         "Sportsnet 02 : Liverpool vs. Chelsea - Sat 21/11 12:35pm",
         "Sportsnet 01 : Tissot Sprint - Grand Prix of Portugal - Sat 21/11 2:30pm",
         "Sportsnet 03 : GSOC National - Women's Quarterfinals - Sat 21/11 3:00pm",
@@ -2125,12 +2228,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 03 : Kyoto Sanga v Urawa Red Diamonds - J.League 2026 - Sat 21/11 4:55am",
-        "Stan 02 : Sanfrecce Hiroshima v Yokohama F. Marinos - J.League 2026 - Sat 21/11 4:55am",
-        "Stan 01 : Jeonbuk v Seoul - K League 2026 - Sat 21/11 4:55am",
-        "Stan 07 : Qualification: GT & FR World Cup - Macau Grand Prix 2026 - Sat 21/11 6:21am",
-        "Stan 04 : Incheon v Ulsan - K League 2026 - Sat 21/11 7:26am",
-        "Stan 05 : Hong Kong China v Tonga - Nations Cup Round 6 2026 - Sat 21/11 8:51am",
+        "Stan 05 : Hong Kong China v Tonga - Nations Cup Round 6 2026 - Sat 21/11 8:50am",
         "Stan 06 : PL Live • 21 Nov - Premier League 2026/2027 - Sat 21/11 11:01am",
         "Stan 01 : Manchester City v Fulham - Premier League Matchweek 11 2026/2027 - Sat 21/11 11:31am",
         "Stan 02 : 4K • Manchester City v Fulham - Premier League Matchweek 11 2026/2027 - Sat 21/11 12:21pm",
@@ -2186,7 +2284,12 @@
         "Stan 02 : Fagiano Okayama v Shimizu S-Pulse - J.League 2026 - Wed 25/11 9:56am",
         "Stan 01 : Mito v Tokyo Verdy - J.League 2026 - Wed 25/11 9:56am",
         "Stan 03 : Nagasaki v Kawasaki Frontale - J.League 2026 - Wed 25/11 9:56am",
-        "Stan 04 : Sporting CP U19 v Manchester United U19 - UEFA Youth League 2026/2027 - Wed 25/11 12:56pm"
+        "Stan 04 : Sporting CP U19 v Manchester United U19 - UEFA Youth League 2026/2027 - Wed 25/11 12:56pm",
+        "Stan 01 : Sabah v Barcelona - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 5:41pm",
+        "Stan 02 : Slavia Praha v Villarreal - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 5:41pm",
+        "Stan 03 : Football Zone: MD5 Thursday - UEFA Champions League 2026/27 - Wed 25/11 7:41pm",
+        "Stan 04 : Club Brugge v Liverpool - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 7:56pm",
+        "Stan 05 : Sporting CP v Manchester United - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 7:56pm"
       ],
       "sections": [],
       "events": []
@@ -2245,7 +2348,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762993074000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
         "SHURIKEN FIGHT SERIES 25 - Sat 21/11 7:30am",
         "UFC FIGHT NIGHT: PROCHAZKA VS STIRLING PRELIMS - Sat 21/11 3:00pm",
         "UFC FIGHT NIGHT: PROCHAZKA VS STIRLING  - Sat 21/11 6:00pm",
