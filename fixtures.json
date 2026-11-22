@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-22T08:15:29.766392+00:00",
+  "scraped_at": "2026-11-22T12:00:54.302143+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -417,6 +417,10 @@
           "datetime": "2026-11-22 21:00:00",
           "channels": [
             {
+              "name": "FOX SPORTS 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
               "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
@@ -732,10 +736,26 @@
         },
         {
           "sport": "TENNIS",
-          "time": "17:00",
+          "time": "14:00",
           "name": "NITTO ATP FINALS",
+          "datetime": "2026-11-22 14:00:00",
+          "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "17:00",
+          "name": "ALEXANDER ZVEREV - CARLOS ALCARAZ",
           "datetime": "2026-11-22 17:00:00",
           "channels": [
+            {
+              "name": "TENNIS CHANNEL",
+              "category": "SPORT | USA & CANADA"
+            },
             {
               "name": "TSN 5",
               "category": "SPORT | USA & CANADA"
@@ -750,6 +770,30 @@
           "channels": [
             {
               "name": "FOX SPORTS 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "17:00",
+          "name": "NEBRASKA - INDIANA",
+          "datetime": "2026-11-22 17:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "23:00",
+          "name": "PENN STATE - ILLINOIS",
+          "datetime": "2026-11-22 23:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -863,6 +907,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "VOLLEYBALL",
+          "time": "01:00",
+          "name": "WISCONSIN - MICHIGAN STATE",
+          "datetime": "2026-11-23 01:00:00",
+          "channels": [
+            {
+              "name": "BIG TEN NETWORK",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -895,7 +951,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 22/11/2026 06:00 - 12:00"
+        "BBC Events 02 - no_brand_title: BBC Weather Live - 22/11/2026 08:20 - 23:08",
+        "BBC Events 03 - no_brand_title: COP31 in Second Day of Overtime - 22/11/2026 09:25 - 18:00",
+        "BBC Events 04 - Autumnwatch: Autumn Calm - 22/11/2026 12:00 - 18:00"
       ],
       "sections": [],
       "events": []
@@ -936,7 +994,36 @@
         "ESPN Event 03 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA: Racing Santander vs. Real Sociedad (Matchday #13)",
         "ESPN Event 04 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: Sporting Gijón vs. Las Palmas",
         "ESPN Event 05 - 22/11/2026 - 15:05 UK / 10:05 ET - Soccer - Spanish LALIGA 2: En Español-Sporting Gijón vs. Las Palmas",
-        "ESPN Event 06 - 22/11/2026 - 15:30 UK / 10:30 ET - Soccer - German 3. Liga: SV Wehen Wiesbaden vs. FC Saarbrucken"
+        "ESPN Event 06 - 22/11/2026 - 15:30 UK / 10:30 ET - Soccer - German 3. Liga: SV Wehen Wiesbaden vs. FC Saarbrucken",
+        "ESPN Event 01 - 22/11/2026 - 17:15 UK / 12:15 ET - Soccer - Spanish LALIGA: En Español-CA Osasuna vs. Malaga CF",
+        "ESPN Event 07 - 22/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA: CA Osasuna vs. Malaga CF (Matchday #13)",
+        "ESPN Event 08 - 22/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: Girona FC vs. SD Eibar",
+        "ESPN Event 09 - 22/11/2026 - 17:20 UK / 12:20 ET - Soccer - Spanish LALIGA 2: En Español-Girona FC vs. SD Eibar",
+        "ESPN Event 02 - 22/11/2026 - 19:30 UK / 14:30 ET - Soccer - Spanish LALIGA: En Español-Getafe CF vs. Atlético de Madrid",
+        "ESPN Event 03 - 22/11/2026 - 19:30 UK / 14:30 ET - Soccer - German 3. Liga: F.C. Hansa Rostock vs. MSV Duisburg",
+        "ESPN Event 04 - 22/11/2026 - 19:50 UK / 14:50 ET - Soccer - Spanish LALIGA: Getafe CF vs. Atletico de Madrid (Matchday #13)",
+        "ESPN Event 01 - 22/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Pittsburgh Penguins vs. Dallas Stars",
+        "ESPN Event 02 - 22/11/2026 - 23:30 UK / 18:30 ET - Hockey - NHL: Edmonton Oilers vs. St. Louis Blues",
+        "ESPN Event 03 - 23/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Chicago Blackhawks vs. Vancouver Canucks",
+        "ESPN Event 01 - 23/11/2026 - 07:30 UK / 02:30 ET - Football - NFL: NFL Football: 2026 Week 11 Minnesota Vikings vs. San Francisco 49ers",
+        "ESPN Event 01 - 23/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Ceuta vs. Almeria",
+        "ESPN Event 02 - 23/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Ceuta vs. Almería",
+        "ESPN Event 03 - 23/11/2026 - 19:50 UK / 14:50 ET - Soccer - Spanish LALIGA: Levante UD vs. Elche CF (Matchday #13)",
+        "ESPN Event 04 - 23/11/2026 - 19:55 UK / 14:55 ET - Soccer - Spanish LALIGA: En Español-Levante UD vs. Elche CF",
+        "ESPN Event 01 - 24/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Toronto Maple Leafs vs. New York Islanders",
+        "ESPN Event 02 - 24/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Utah Mammoth vs. Winnipeg Jets",
+        "ESPN Event 03 - 24/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Los Angeles Kings vs. Montreal Canadiens",
+        "ESPN Event 04 - 24/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Calgary Flames vs. Ottawa Senators",
+        "ESPN Event 05 - 24/11/2026 - 01:15 UK / 20:15 ET - Football - NFL: Cincinnati Bengals vs. Washington Commanders",
+        "ESPN Event 06 - 24/11/2026 - 02:10 UK / 21:10 ET - Hockey - NHL: Anaheim Ducks vs. Seattle Kraken",
+        "ESPN Event 07 - 24/11/2026 - 02:30 UK / 21:30 ET - Hockey - NHL: Minnesota Wild vs. San Jose Sharks",
+        "ESPN Event 01 - 24/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 11 Cincinnati Bengals vs. Washington Commanders",
+        "ESPN Event 01 - 24/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: 2026 Week 11 Cincinnati Bengals vs. Washington Commanders",
+        "ESPN Event 01 - 24/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 11 Cincinnati Bengals vs. Washington Commanders",
+        "ESPN Event 01 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Western Michigan",
+        "ESPN Event 02 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Kent State vs. Eastern Michigan",
+        "ESPN Event 03 - 25/11/2026 - 00:30 UK / 19:30 ET - Basketball - NBA G League: Osceola Magic vs. Laketown Squadron",
+        "ESPN Event 04 - 25/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: The Pulse: Texas A&M Football vs. Oklahoma - Episode 21"
       ],
       "sections": [],
       "events": []
@@ -1086,9 +1173,9 @@
       "status": "ok",
       "fixtures": [
         "Paramount+ Event 01 - 10:50 - Serie A: Juventus vs. Venezia",
-        "Paramount+ Event 02 - 11:20 - English Football League: Burnley vs. Blackburn Rovers",
-        "Paramount+ Event 03 - 11:20 - Barclays Womens Super League: Man. City vs. Tottenham",
-        "Paramount+ Event 04 - 11:20 - Barclays Womens Super League: Birmingham City vs. Man. United",
+        "Paramount+ Event 02 - 11:20 - Barclays Women's Super League: Man. City vs. Tottenham",
+        "Paramount+ Event 03 - 11:20 - Barclays Women's Super League: Birmingham City vs. Man. United",
+        "Paramount+ Event 04 - 11:20 - English Football League: Burnley vs. Blackburn Rovers",
         "Paramount+ Event 05 - 13:20 - Serie A: Bologna vs. Udinese",
         "Paramount+ Event 06 - 13:20 - Serie A: Sassuolo vs. Genoa",
         "Paramount+ Event 07 - 13:20 - Barclays Womens Super League: Charlton Athletic vs. Aston Villa",
@@ -1238,9 +1325,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 2 | Birmingham vs Man Utd",
         "Wolves vs Derby",
         "Mk Dons vs Notts",
-        "Birmingham vs Man Utd",
         "Middlesbrough vs Swansea",
         "Peterborough vs Cambridge U",
         "Charlton vs Aston Villa",
@@ -1273,7 +1360,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 21 - Sun 22/11 10:00am",
         "Sportsnet 02 : Birmingham City vs. Manchester United - Sun 22/11 11:50am",
         "Sportsnet 03 : Manchester City vs. Tottenham Hotspur - Sun 22/11 11:50am",
         "Sportsnet 04 : Grand Prix of Portugal - Sun 22/11 12:15pm",
@@ -1296,7 +1382,8 @@
         "Sportsnet 02 : The Raptors Show: Nov. 23 - Mon 23/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 23 - Mon 23/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 23 - Mon 23/11 7:00pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 23 - Mon 23/11 9:00pm"
+        "Sportsnet 02 : Real Kyper & Bourne: Nov. 23 - Mon 23/11 9:00pm",
+        "Sportsnet 01 : The FAN Pregame: Nov. 23 - Mon 23/11 11:00pm"
       ],
       "sections": [],
       "events": []
@@ -1307,9 +1394,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Gwangju v Bucheon - K League 2026 - Sun 22/11 4:51am",
-        "Stan 01 : Gimcheon v Jeju - K League 2026 - Sun 22/11 4:55am",
-        "Stan 06 : Race: FR World Cup - Macau Grand Prix 2026 - Sun 22/11 7:01am",
         "Stan 02 : Birmingham City v Manchester United - WSL 2026/27 - Sun 22/11 11:51am",
         "Stan 01 : Manchester City v Tottenham Hotspur - WSL 2026/27 - Sun 22/11 11:51am",
         "Stan 03 : Hull City v Brighton & Hove Albion - Premier League Matchweek 11 2026/2027 - Sun 22/11 1:01pm",
@@ -1364,7 +1448,11 @@
         "Stan 08 : Salzburg v Ararat-Armenia - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 5:41pm",
         "Stan 05 : Union Saint-Gilloise v Lech Poznań - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 5:41pm",
         "Stan 04 : Viktoria Plzeň v Benfica - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 5:41pm",
+        "Stan 23 : Ferencváros v Celje - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
+        "Stan 25 : Hoffenheim v Sturm Graz - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
         "Stan 20 : NEC v Rennes - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
+        "Stan 24 : OFI v Anderlecht - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
+        "Stan 22 : Olympique Lyonnais v Lillestrøm - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
         "Stan 21 : Sunderland v Jagiellonia Białystok - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm",
         "Stan 19 : Torreense v Celtic - UEFA Europa League Matchday 5 2026/2027 - Thu 26/11 7:56pm"
       ],
@@ -1407,9 +1495,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993074000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     }
