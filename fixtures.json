@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-23T18:54:43.087057+00:00",
+  "scraped_at": "2026-11-23T22:26:20.297358+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,18 +11,6 @@
         {
           "section": "Sports Scene",
           "entries": [
-            {
-              "type": "date",
-              "text": "Monday 23 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Brentford vs Everton 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Brentford vs Everton 720p"
-            },
             {
               "type": "date",
               "text": "Tuesday 24 November 2026"
@@ -50,9 +38,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 23-Nov 07:22PM-09:30PM - LaLiga 2 2026/27: AD Ceuta vs Almeria [SG]",
-        "EVENT 03 - 23-Nov 07:50PM-10:00PM - Brentford v Everton (MW11) [SG]",
-        "EVENT 04 - 23-Nov 07:55PM-10:00PM - LaLiga 2026/27: Levante vs Elche [SG]",
         "EVENT 01 - 24-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Arsenal vs Dortmund - MD5 [SG]",
         "EVENT 02 - 24-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: Feyenoord vs Porto - MD5 [SG]",
         "EVENT 02 - 24-Nov 05:40PM-07:55PM - Bodo/Glimt vs LASK - MD5 UEFA Champions League 2026/27 [SG]",
@@ -63,7 +48,10 @@
         "EVENT 01 - 25-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Sporting vs Man United - MD5 [SG]",
         "EVENT 02 - 25-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: PSG vs Roma - MD5 [SG]",
         "EVENT 02 - 25-Nov 05:40PM-07:55PM - Slavia Prague vs Villarreal - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 03 - 25-Nov 05:40PM-07:55PM - UEFA Champions League 2026/27: Sabah FK vs Barcelona - MD5 [SG]"
+        "EVENT 03 - 25-Nov 05:40PM-07:55PM - UEFA Champions League 2026/27: Sabah FK vs Barcelona - MD5 [SG]",
+        "EVENT 01 - 25-Nov 07:55PM-10:00PM - Club Brugge vs Liverpool - MD5 UEFA Champions League 2026/27 [SG]",
+        "EVENT 04 - 25-Nov 07:55PM-10:00PM - Sporting vs Man United - MD5 UEFA Champions League 2026/27 [SG]",
+        "EVENT 05 - 25-Nov 07:55PM-10:00PM - UEFA Champions League 2026/27: PSG vs Roma - MD5 [SG]"
       ],
       "sections": [],
       "events": []
@@ -486,7 +474,6 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 23/11/2026 06:49 - 23:26",
         "BBC Events 02 - no_brand_title: NHS Launches World's Largest AI Breast Cancer Screening Trial - 23/11/2026 05:23 - 01:59",
         "BBC Events 03 - Autumnwatch: Autumn Calm - 23/11/2026 18:00 - 00:00",
-        "BBC Events 04 - no_brand_title: Coventry City Fancast - 23/11/2026 18:00 - 19:00",
         "BBC Events 05 - no_brand_title: Confederation of British Industry Annual Conference - 23/11/2026 09:21 - 08:52"
       ],
       "sections": [],
@@ -518,9 +505,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 23/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: Ceuta vs. Almeria",
+        "ESPN Event 01 - 23/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Ceuta vs. Almería",
         "ESPN Event 02 - 23/11/2026 - 19:20 UK / 14:20 ET - Soccer - Spanish LALIGA 2: En Español-Ceuta vs. Almería",
         "ESPN Event 03 - 23/11/2026 - 19:50 UK / 14:50 ET - Soccer - Spanish LALIGA: Levante UD vs. Elche CF (Matchday #13)",
+        "ESPN Event 04 - 23/11/2026 - 19:55 UK / 14:55 ET - Soccer - Spanish LALIGA: En Español-Levante UD vs. Elche CF",
         "ESPN Event 04 - 23/11/2026 - 19:55 UK / 14:55 ET - Soccer - Spanish LALIGA: En Español-Levante UD vs. Elche CF",
         "ESPN Event 01 - 24/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Toronto Maple Leafs vs. New York Islanders",
         "ESPN Event 02 - 24/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Utah Mammoth vs. Winnipeg Jets",
@@ -766,7 +754,8 @@
         "FloSports 05 - French Top 14: Stade Francais vs RC Vannes - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 04 - French Top 14: Bayonne vs Castres - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 03 - French Top 14: La Rochelle vs Perpignan - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
-        "FloSports 02 - French Top 14: Racing 92 vs Pau - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT"
+        "FloSports 02 - French Top 14: Racing 92 vs Pau - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 06 - French Top 14: Lyon vs Toulouse - 28 Nov 20:00 UK / 15:00 ET / 12:00 PT"
       ],
       "sections": [],
       "events": []
@@ -777,7 +766,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 4 - LIVE: SS: NSW v Queensland D3 - 23:25 23/11/2026",
+        "Sky Sport 4 - LIVE: SS: NSW v Queensland D3 - 23:15 23/11/2026",
         "Sky Sport 5 - LIVE: SS: S Australia v Victoria D1 - 23:55 23/11/2026",
         "Sky Sport 6 - LIVE: SS: W Australia v Tasmania D2 - 02:25 24/11/2026",
         "Sky Sport 1 - LIVE: Australia v England: 2nd T20 - 07:30 24/11/2026",
@@ -833,15 +822,15 @@
         "Sky Sport 1 UHD - LIVE: ALM: Mariners v Auckland FC - 08:00 28/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Thunder v Sixers - 08:10 28/11/2026",
         "Sky Sport Select - LIVE: FIA Formula 2: Rd13 Qualifying - 10:30 28/11/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 1: Qatar P3 - 12:00 28/11/2026",
         "Sky Sport 3 - LIVE: SVNS: Dubai Day 1 - 12:40 28/11/2026",
+        "Sky Sport 5 - LIVE: Players Champ: Day 2 Aft Session - 13:00 28/11/2026",
         "Sky Sport 1 - LIVE: NC: Wales v Japan 9th Playoff - 13:00 28/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Wales v Japan 9th Playoff - 13:00 28/11/2026",
-        "Sky Sport 5 - LIVE: Players Champ: Day 2 Aft Session - 13:00 28/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Qatar P3 - 14:15 28/11/2026",
         "Sky Sport 1 - LIVE: NC: England v All Blacks 3rd PO - 15:45 28/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks 3rd PO - 15:45 28/11/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 2: Rd13 Sprint Race - 16:15 28/11/2026",
-        "Sky Sport 2 - LIVE: FIA Formula 1: Qatar Qual - 17:30 28/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 2: Rd13 Sprint Race - 16:10 28/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Qatar Qual - 17:15 28/11/2026",
         "Sky Sport 6 - LIVE: Mosconi Cup: Day 2 - 18:00 28/11/2026",
         "Sky Sport 3 - LIVE: PWR: Trailfinders v Harlequins - 18:55 28/11/2026",
         "Sky Sport 4 - LIVE: Players Champ: Day 2 Eve Session - 19:00 28/11/2026",
@@ -854,7 +843,24 @@
         "Sky Sport 3 - LIVE: Rapid League: Whai v Kahu - 01:00 29/11/2026",
         "Sky Sport 3 - LIVE: Tauihi: Whai v Kahu - 02:00 29/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Strikers v Hurricanes - 04:30 29/11/2026",
-        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 06:40 29/11/2026"
+        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 06:40 29/11/2026",
+        "Sky Sport 1 - LIVE: Australia v England: 4th T20 - 07:30 29/11/2026",
+        "Sky Sport 1 UHD - LIVE: Australia v England: 4th T20 - 07:30 29/11/2026",
+        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 09:05 29/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 2: Rd13 Feature Race - 11:55 29/11/2026",
+        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 12:40 29/11/2026",
+        "Sky Sport 1 - LIVE: NC: Scotland v Argentina 7th PO - 13:00 29/11/2026",
+        "Sky Sport 1 UHD - LIVE: NC: Scotland v Argentina 7th PO - 13:00 29/11/2026",
+        "Sky Sport 4 - LIVE: Players Champ: Day 3 Aft Session - 13:00 29/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Qatar Pre Race - 14:30 29/11/2026",
+        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 14:30 29/11/2026",
+        "Sky Sport 2 - LIVE:FIA Formula 1: Qatar Grand Prix - 15:55 29/11/2026",
+        "Sky Sport 1 - LIVE: NC: France v South Africa Final - 16:30 29/11/2026",
+        "Sky Sport 1 UHD - LIVE: NC: France v South Africa Final - 16:30 29/11/2026",
+        "Sky Sport 5 - LIVE: Mosconi Cup: Day 3 - 18:00 29/11/2026",
+        "Sky Sport 2 - LIVE: FIA Formula 1: Chequered Flag - 18:00 29/11/2026",
+        "Sky Sport 2 - LIVE: Ted's Notebook: Qatar - 19:00 29/11/2026",
+        "Sky Sport 3 - LIVE: Players Champ: Day 3 Eve Session - 19:00 29/11/2026"
       ],
       "sections": [],
       "events": []
@@ -898,8 +904,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Nov. 23 - Mon 23/11 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Nov. 23 - Mon 23/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 23 - Mon 23/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 23 - Mon 23/11 11:00pm",
         "Sportsnet 03 : Calgary @ Ottawa - Tue 24/11 12:00am",
@@ -922,7 +926,9 @@
         "Sportsnet 03 : Detroit @ Orlando - Wed 25/11 12:00am",
         "Sportsnet 04 : Vegas @ Edmonton - Wed 25/11 1:00am",
         "Sportsnet 01 : Dallas @ Denver - Wed 25/11 3:00am",
-        "Sportsnet 01 : Sportsnet Central: Nov. 24 - Wed 25/11 10:00am"
+        "Sportsnet 01 : Sportsnet Central: Nov. 24 - Wed 25/11 10:00am",
+        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 25 - Wed 25/11 2:00pm",
+        "Sportsnet 02 : The Raptors Show: Nov. 25 - Wed 25/11 4:00pm"
       ],
       "sections": [],
       "events": []
@@ -1012,9 +1018,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : Pat McAfee Show - Mon 23/11 5:00pm",
-        "TSN 01 : Rich Eisen Show - Mon 23/11 5:00pm",
-        "TSN 03 : LaLiga: Levante vs. Elche - Mon 23/11 7:48pm",
         "TSN 01 : Monday Night Football with Peyton and Eli: Bengals vs. Commanders - Tue 24/11 1:15am"
       ],
       "sections": [],
