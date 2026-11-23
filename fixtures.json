@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-23T12:00:54.694732+00:00",
+  "scraped_at": "2026-11-23T18:00:50.726770+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -12,29 +12,32 @@
           "section": "Sports Scene",
           "entries": [
             {
-              "type": "fixture",
-              "text": "SPORTS SCENE 12 : Machineseeker German Masters 2027 Qualifiers - Stream 1"
+              "type": "date",
+              "text": "Monday 23 November 2026"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 13 : Machineseeker German Masters 2027 Qualifiers - Stream 2"
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - EPL: Brentford vs Everton 1080p"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 14 : Machineseeker German Masters 2027 Qualifiers - Stream 3"
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - EPL: Brentford vs Everton 720p"
+            },
+            {
+              "type": "date",
+              "text": "Tuesday 24 November 2026"
             },
             {
               "type": "fixture",
-              "text": "SPORTS SCENE 15 : Machineseeker German Masters 2027 Qualifiers - Stream 4"
-            }
-          ]
-        },
-        {
-          "section": "Live Events",
-          "entries": [
+              "text": "SPORTS SCENE 05 - 01:00-04:00 - WWE Monday Night RAW 1080p"
+            },
             {
               "type": "fixture",
-              "text": "THE BELOW ARE ONLINE DURING ACTIVE SESSIONS ONLY"
+              "text": "SPORTS SCENE 03 - 01:15-04:30 - NFL: Cincinnati Bengals at Washington Commanders 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Cincinnati Bengals at Washington Commanders 1080p"
             }
           ]
         }
@@ -56,7 +59,11 @@
         "EVENT 03 - 24-Nov 05:40PM-07:55PM - Galatasaray vs Aston Villa - MD5 UEFA Champions League 2026/27 [SG]",
         "EVENT 01 - 24-Nov 07:55PM-10:00PM - Arsenal vs Dortmund - MD5 UEFA Champions League 2026/27 [SG]",
         "EVENT 04 - 24-Nov 07:55PM-10:00PM - Man City vs Napoli - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 05 - 24-Nov 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs PSV - MD5 [SG]"
+        "EVENT 05 - 24-Nov 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs PSV - MD5 [SG]",
+        "EVENT 01 - 25-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Sporting vs Man United - MD5 [SG]",
+        "EVENT 02 - 25-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: PSG vs Roma - MD5 [SG]",
+        "EVENT 02 - 25-Nov 05:40PM-07:55PM - Slavia Prague vs Villarreal - MD5 UEFA Champions League 2026/27 [SG]",
+        "EVENT 03 - 25-Nov 05:40PM-07:55PM - UEFA Champions League 2026/27: Sabah FK vs Barcelona - MD5 [SG]"
       ],
       "sections": [],
       "events": []
@@ -233,18 +240,6 @@
               "name": "TSN 1",
               "category": "SPORT | USA & CANADA"
             },
-            {
-              "name": "TSN 3",
-              "category": "SPORT | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "13:00",
-          "name": "JAPAN U17 - SERBIA U17",
-          "datetime": "2026-11-24 13:00:00",
-          "channels": [
             {
               "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
@@ -478,7 +473,6 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: BBC Weather Live - 23/11/2026 06:49 - 23:26",
         "BBC Events 02 - no_brand_title: NHS Launches World's Largest AI Breast Cancer Screening Trial - 23/11/2026 05:23 - 01:59",
-        "BBC Events 04 - Women's Super League: Arsenal v West Ham United - 23/11/2026 11:00 - 13:24",
         "BBC Events 05 - no_brand_title: Confederation of British Industry Annual Conference - 23/11/2026 09:21 - 08:52"
       ],
       "sections": [],
@@ -753,7 +747,13 @@
       "type": "plain",
       "last_updated": "Last updated: Mon 23 Nov 2026 05:00:04 UK",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "FloSports 01 - French Top 14: Bordeaux-Begles vs Montpellier - 28 Nov 13:30 UK / 08:30 ET / 05:30 PT",
+        "FloSports 05 - French Top 14: Stade Francais vs RC Vannes - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 04 - French Top 14: Bayonne vs Castres - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 03 - French Top 14: La Rochelle vs Perpignan - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
+        "FloSports 02 - French Top 14: Racing 92 vs Pau - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT"
+      ],
       "sections": [],
       "events": []
     },
@@ -763,8 +763,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: PGA Tour: Round 4 - 15:00 23/11/2026",
-        "Sky Sport 1 UHD - LIVE: PGA Tour: Round 4 - 15:00 23/11/2026",
         "Sky Sport 4 - LIVE: SS: NSW v Queensland D3 - 23:25 23/11/2026",
         "Sky Sport 5 - LIVE: SS: S Australia v Victoria D1 - 23:55 23/11/2026",
         "Sky Sport 6 - LIVE: SS: W Australia v Tasmania D2 - 02:25 24/11/2026",
@@ -886,8 +884,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 23 - Mon 23/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 23 - Mon 23/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 23 - Mon 23/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 23 - Mon 23/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 23 - Mon 23/11 9:00pm",
@@ -909,7 +905,8 @@
         "Sportsnet 01 : Frankly Hockey: Nov. 24 - Tue 24/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 24 - Tue 24/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 24 - Tue 24/11 11:00pm",
-        "Sportsnet 03 : Detroit @ Orlando - Wed 25/11 12:00am"
+        "Sportsnet 03 : Detroit @ Orlando - Wed 25/11 12:00am",
+        "Sportsnet 04 : Vegas @ Edmonton - Wed 25/11 1:00am"
       ],
       "sections": [],
       "events": []
