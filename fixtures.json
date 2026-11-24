@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-24T03:10:12.483702+00:00",
+  "scraped_at": "2026-11-24T08:15:37.465320+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,29 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Tuesday 24 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 01:00-04:00 - WWE Monday Night RAW 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 01:15-04:30 - NFL: Cincinnati Bengals at Washington Commanders 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 01:15-04:30 - NFL: Cincinnati Bengals at Washington Commanders 1080p"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -250,6 +228,18 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "22:00",
+          "name": "ARIZONA - PROVIDENCE",
+          "datetime": "2026-11-24 22:00:00",
+          "channels": [
+            {
+              "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "22:30",
           "name": "IOWA STATE - SAN DIEGO STATE",
           "datetime": "2026-11-24 22:30:00",
@@ -393,11 +383,11 @@
         {
           "sport": "BASKETBALL",
           "time": "01:00",
-          "name": "TBD - CLEMSON",
+          "name": "UCONN - SOUTH CAROLINA",
           "datetime": "2026-11-25 01:00:00",
           "channels": [
             {
-              "name": "ESPNU",
+              "name": "FOX SPORTS 1",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -405,11 +395,11 @@
         {
           "sport": "BASKETBALL",
           "time": "01:00",
-          "name": "UCONN - SOUTH CAROLINA",
+          "name": "WASHINGTON - CLEMSON",
           "datetime": "2026-11-25 01:00:00",
           "channels": [
             {
-              "name": "FOX SPORTS 1",
+              "name": "ESPNU",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -449,11 +439,11 @@
         {
           "sport": "BASKETBALL",
           "time": "03:30",
-          "name": "ST. JOHN'S - OREGON",
+          "name": "COLORADO STATE - VCU",
           "datetime": "2026-11-25 03:30:00",
           "channels": [
             {
-              "name": "ESPN",
+              "name": "ESPNU",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -461,11 +451,11 @@
         {
           "sport": "BASKETBALL",
           "time": "03:30",
-          "name": "TBD - TBD",
+          "name": "ST. JOHN'S - OREGON",
           "datetime": "2026-11-25 03:30:00",
           "channels": [
             {
-              "name": "ESPNU",
+              "name": "ESPN",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -617,7 +607,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 04 - Autumnwatch: Autumn Calm - 24/11/2026 00:00 - 06:00",
+        "BBC Events 01 - Autumnwatch: Autumn Calm - 24/11/2026 06:00 - 12:00",
+        "BBC Events 02 - no_brand_title: Benefits Review to Suggest Quicker Payment for Some Disabled People - 24/11/2026 05:54 - 04:07",
+        "BBC Events 03 - no_brand_title: BBC Finds Dog Breeders Misleading with Welfare Ratings - 24/11/2026 06:56 - 04:44",
+        "BBC Events 04 - no_brand_title: BBC Weather Live - 24/11/2026 07:24 - 19:54",
         "BBC Events 05 - no_brand_title: Confederation of British Industry Annual Conference - 23/11/2026 09:21 - 08:52"
       ],
       "sections": [],
@@ -655,10 +648,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 05 - 24/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: Tennessee Titans vs. Dallas Cowboys",
-        "ESPN Event 05 - 24/11/2026 - 01:15 UK / 20:15 ET - Football - NFL: Cincinnati Bengals vs. Washington Commanders",
-        "ESPN Event 06 - 24/11/2026 - 01:15 UK / 20:15 ET - Football - NFL: MNF with Peyton and Eli-Cincinnati Bengals vs. Washington Commanders",
-        "ESPN Event 01 - 24/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 11 Cincinnati Bengals vs. Washington Commanders",
         "ESPN Event 01 - 24/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: NFL Football: 2026 Week 11 Cincinnati Bengals vs. Washington Commanders",
         "ESPN Event 01 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Western Michigan",
         "ESPN Event 02 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Kent State vs. Eastern Michigan",
@@ -727,7 +716,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "MLS 01 : St. Louis vs. LAFC (MLS) - Tue 24/11 01:10am",
         "MLS 01 : San Jose vs. Houston (MLS) - Wed 25/11 03:10am"
       ],
       "sections": [],
@@ -739,19 +727,18 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Grizzlies at Hornets - Tue 24/11 12:00am",
-        "Trail Blazers at 76ers - Tue 24/11 12:00am",
-        "Thunder at Pacers - Tue 24/11 12:30am",
-        "Bucks at Raptors - Tue 24/11 12:30am",
-        "Nets at Timberwolves - Tue 24/11 12:30am",
-        "Cavaliers at Bulls - Tue 24/11 01:00am",
-        "Suns at Pelicans - Tue 24/11 01:00am",
-        "Clippers at Rockets - Tue 24/11 01:30am",
-        "Jazz at Lakers - Tue 24/11 03:00am",
-        "Spurs at Kings - Tue 24/11 03:00am",
         "Pistons at Magic - Wed 25/11 12:00am",
         "Celtics at Wizards - Wed 25/11 01:00am",
-        "Mavericks at Nuggets - Wed 25/11 03:00am"
+        "Mavericks at Nuggets - Wed 25/11 03:00am",
+        "Heat at 76ers - Wed 25/11 10:00pm",
+        "Bulls at Hornets - Thu 26/11 12:00am",
+        "Cavaliers at Knicks - Thu 26/11 12:30am",
+        "Timberwolves at Thunder - Thu 26/11 12:30am",
+        "Clippers at Grizzlies - Thu 26/11 01:00am",
+        "Nets at Bucks - Thu 26/11 01:00am",
+        "Suns at Rockets - Thu 26/11 01:30am",
+        "Kings at Warriors - Thu 26/11 03:00am",
+        "Spurs at Trail Blazers - Thu 26/11 03:00am"
       ],
       "sections": [],
       "events": []
@@ -771,13 +758,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Columbus Blue Jackets at New Jersey Devils - Tue 24/11 12:00am",
-        "Calgary Flames at Ottawa Senators - Tue 24/11 12:30am",
-        "Los Angeles Kings at Montreal Canadiens - Tue 24/11 12:30am",
-        "Toronto Maple Leafs at New York Islanders - Tue 24/11 12:30am",
-        "Utah Mammoth at Winnipeg Jets - Tue 24/11 12:30am",
-        "Anaheim Ducks at Seattle Kraken - Tue 24/11 02:40am",
-        "Minnesota Wild at San Jose Sharks - Tue 24/11 03:00am",
         "Vegas Golden Knights at Edmonton Oilers - Wed 25/11 01:00am",
         "Calgary Flames at Pittsburgh Penguins - Thu 26/11 12:00am",
         "Carolina Hurricanes at Tampa Bay Lightning - Thu 26/11 12:00am",
@@ -790,7 +770,14 @@
         "Vancouver Canucks at Detroit Red Wings - Thu 26/11 12:30am",
         "Nashville Predators at Dallas Stars - Thu 26/11 01:00am",
         "Utah Mammoth at Minnesota Wild - Thu 26/11 01:00am",
-        "Montreal Canadiens at Colorado Avalanche - Thu 26/11 02:30am"
+        "Montreal Canadiens at Colorado Avalanche - Thu 26/11 02:30am",
+        "Chicago Blackhawks at Seattle Kraken - Thu 26/11 02:40am",
+        "San Jose Sharks at Anaheim Ducks - Thu 26/11 03:00am",
+        "Calgary Flames at New Jersey Devils - Fri 27/11 06:00pm",
+        "Toronto Maple Leafs at Boston Bruins - Fri 27/11 06:00pm",
+        "Utah Mammoth at Nashville Predators - Fri 27/11 06:00pm",
+        "Dallas Stars at St. Louis Blues - Fri 27/11 07:00pm",
+        "Detroit Red Wings at Columbus Blue Jackets - Fri 27/11 08:00pm"
       ],
       "sections": [],
       "events": []
@@ -891,15 +878,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : Nets vs. Timberwolves (NBA) - Tue 24/11 12:00am",
-        "Peacock 2 : Performance View: BKN vs. MIN (NBA) - Tue 24/11 12:00am",
-        "Peacock 3 : Courtside View (NBA) - Tue 24/11 12:30am",
-        "Peacock 4 : Star Cam A (NBA) - Tue 24/11 12:30am",
-        "Peacock 5 : Star Cam B (NBA) - Tue 24/11 12:30am",
-        "Peacock 6 : Courtside View (NBA) - Tue 24/11 12:30am",
-        "Peacock 7 : Star Cam A (NBA) - Tue 24/11 12:30am",
-        "Peacock 8 : Star Cam B (NBA) - Tue 24/11 12:30am",
-        "Peacock 9 : Action Cams: BKN vs. MIN (NBA) - Tue 24/11 12:30am",
         "Peacock 1 : UCLA vs. St. John's (Basketball) - Tue 24/11 9:30pm",
         "Peacock 2 : Sun FC v. Trinity FC (Soccer) - Tue 24/11 11:00pm",
         "Peacock 3 : Bowling Green vs. Notre Dame (Hockey) - Tue 24/11 11:30pm",
@@ -922,7 +900,14 @@
         "Peacock 1 : Chiefs vs. Bills (NFL) - Fri 27/11 12:00am",
         "Peacock 2 : Rhythm Dance (Figure Skating) - Fri 27/11 3:35am",
         "Peacock 1 : Pairs Short Program (Figure Skating) - Fri 27/11 5:35am",
-        "Peacock 1 : Women's Short Program (Figure Skating) - Fri 27/11 7:15am"
+        "Peacock 1 : Women's Short Program (Figure Skating) - Fri 27/11 7:15am",
+        "Peacock 1 : Men's Short Program (Figure Skating) - Fri 27/11 10:00am",
+        "Peacock 1 : Boston College vs. Notre Dame (Hockey) - Fri 27/11 8:00pm",
+        "Peacock 1 : Minnesota vs. Wisconsin (Football) - Sat 28/11 12:00am",
+        "Peacock 2 : Free Dance (Figure Skating) - Sat 28/11 3:00am",
+        "Peacock 1 : Pairs Free Skate (Figure Skating) - Sat 28/11 5:00am",
+        "Peacock 2 : ST World Tour: Shanghai 1 (Short Track) - Sat 28/11 6:00am",
+        "Peacock 1 : Women's Free Skate (Figure Skating) - Sat 28/11 7:30am"
       ],
       "sections": [],
       "events": []
@@ -930,7 +915,7 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "Last updated: Mon 23 Nov 2026 05:00:04 UK",
+      "last_updated": "Last updated: Tue 24 Nov 2026 05:00:05 UK",
       "status": "ok",
       "fixtures": [
         "FloSports 01 - French Top 14: Bordeaux-Begles vs Montpellier - 28 Nov 13:30 UK / 08:30 ET / 05:30 PT",
@@ -949,8 +934,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 1 - LIVE: Australia v England: 2nd T20 - 07:30 24/11/2026",
-        "Sky Sport 1 UHD - LIVE: Australia v England: 2nd T20 - 07:30 24/11/2026",
         "Sky Sport 4 - LIVE: SS: NSW v Queensland D4 - 23:25 24/11/2026",
         "Sky Sport 5 - LIVE: SS: S Australia v Victoria D2 - 23:55 24/11/2026",
         "Sky Sport 6 - LIVE: SS: W Australia v Tasmania D3 - 02:25 25/11/2026",
@@ -1084,14 +1067,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Calgary @ Ottawa - Tue 24/11 12:00am",
-        "Sportsnet 04 : Columbus @ New Jersey - Tue 24/11 12:00am",
-        "Sportsnet 08 : Los Angeles @ Montreal - Tue 24/11 12:00am",
-        "Sportsnet 09 : Toronto @ New York Islanders - Tue 24/11 12:00am",
-        "Sportsnet 07 : Utah @ Winnipeg - Tue 24/11 12:00am",
-        "Sportsnet 02 : Anaheim @ Seattle - Tue 24/11 2:40am",
-        "Sportsnet 10 : Minnesota @ San Jose - Tue 24/11 3:00am",
-        "Sportsnet 01 : Utah @ Los Angeles Lakers - Tue 24/11 3:00am",
         "Sportsnet 01 : Sportsnet Central: Nov. 23 - Tue 24/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 24 - Tue 24/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 24 - Tue 24/11 4:00pm",
@@ -1107,7 +1082,16 @@
         "Sportsnet 02 : The Raptors Show: Nov. 25 - Wed 25/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 25 - Wed 25/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 25 - Wed 25/11 7:00pm",
-        "Sportsnet 02 : Real Kyper & Bourne: Nov. 25 - Wed 25/11 9:00pm"
+        "Sportsnet 02 : Real Kyper & Bourne: Nov. 25 - Wed 25/11 9:00pm",
+        "Sportsnet 03 : Miami @ Philadelphia - Wed 25/11 10:00pm",
+        "Sportsnet 01 : The FAN Pregame: Nov. 25 - Wed 25/11 11:00pm",
+        "Sportsnet 09 : Calgary @ Pittsburgh - Thu 26/11 12:00am",
+        "Sportsnet 07 : Carolina @ Tampa Bay - Thu 26/11 12:00am",
+        "Sportsnet 04 : Chicago @ Charlotte - Thu 26/11 12:00am",
+        "Sportsnet 10 : French Language Broadcast: Ottawa @ Florida - Thu 26/11 12:00am",
+        "Sportsnet 06 : New Jersey @ Columbus - Thu 26/11 12:00am",
+        "Sportsnet 05 : New York Rangers @ Buffalo - Thu 26/11 12:00am",
+        "Sportsnet 08 : Ottawa @ Florida - Thu 26/11 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1197,7 +1181,19 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : Monday Night Football with Peyton and Eli: Bengals vs. Commanders - Tue 24/11 1:15am"
+        "TSN 01 : NCAA Women's Hockey: Delaware vs. Princeton - Tue 24/11 3:30pm",
+        "TSN 03 : Pat McAfee Show - Tue 24/11 5:00pm",
+        "TSN 02 : Rich Eisen Show - Tue 24/11 5:00pm",
+        "TSN 05 : NCAA Men's Basketball: Miami vs. TCU - Tue 24/11 8:00pm",
+        "TSN 04 : NCAA Men's Basketball: Tennessee vs. Maryland - Tue 24/11 8:00pm",
+        "TSN 01 : NCAA Men's Basketball: Creighton vs. Michigan - Tue 24/11 10:30pm",
+        "TSN 06 : NCAA Men's Basketball: San Diego State vs. Iowa State - Tue 24/11 10:30pm",
+        "TSN 02 : NCAA Men's Hockey: Bentley vs. Harvard - Wed 25/11 12:00am",
+        "TSN 03 : CFP Rankings Show - Wed 25/11 12:30am",
+        "TSN 04 : NCAA Men's Basketball: Texas Tech vs. Louisville - Wed 25/11 1:00am",
+        "TSN 05 : NCAA Men's Basketball: Baylor vs. Alabama - Wed 25/11 3:00am",
+        "TSN 01 : NCAA Men's Basketball: Oregon vs. St. John's - Wed 25/11 3:30am",
+        "TSN 02 : NCAA Men's Basketball: Gonzaga vs. Kansas State - Wed 25/11 5:30am"
       ],
       "sections": [],
       "events": []
@@ -1208,7 +1204,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "INKA MMA 63 - Thu 26/11 4:00am"
+        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"},{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1762992906000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1768420889000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
+        "INKA MMA 63 - Thu 26/11 4:00am",
+        "CAGE WARRIORS 214: UNPLUGGED - Fri 27/11 8:00pm"
       ],
       "sections": [],
       "events": []
