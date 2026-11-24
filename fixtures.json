@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-24T18:32:58.358387+00:00",
+  "scraped_at": "2026-11-24T20:58:42.420025+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -14,18 +14,6 @@
             {
               "type": "date",
               "text": "Tuesday 24 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Galatasaray vs Aston Villa 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 17:45-19:45 - UCL: Bodø / Glimt vs LASK Linz 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Galatasaray vs Aston Villa 720p"
             },
             {
               "type": "fixture",
@@ -62,11 +50,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 24-Nov 05:40PM-07:55PM - Bodo/Glimt vs LASK - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 02 - 24-Nov 05:40PM-07:55PM - Galatasaray vs Aston Villa - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 03 - 24-Nov 07:55PM-10:00PM - Arsenal vs Dortmund - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 04 - 24-Nov 07:55PM-10:00PM - Man City vs Napoli - MD5 UEFA Champions League 2026/27 [SG]",
-        "EVENT 05 - 24-Nov 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs PSV - MD5 [SG]",
+        "EVENT 01 - 24-Nov 07:55PM-10:00PM - Arsenal vs Dortmund - MD5 UEFA Champions League 2026/27 [SG]",
+        "EVENT 02 - 24-Nov 07:55PM-10:00PM - Man City vs Napoli - MD5 UEFA Champions League 2026/27 [SG]",
+        "EVENT 03 - 24-Nov 07:55PM-10:00PM - UEFA Champions League 2026/27: Real Madrid vs PSV - MD5 [SG]",
         "EVENT 01 - 25-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Sporting vs Man United - MD5 [SG]",
         "EVENT 02 - 25-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: PSG vs Roma - MD5 [SG]",
         "EVENT 02 - 25-Nov 05:40PM-07:55PM - Slavia Prague vs Villarreal - MD5 UEFA Champions League 2026/27 [SG]",
@@ -77,7 +63,10 @@
         "EVENT 01 - 26-Nov 03:25PM-05:40PM - UEFA Conference League 2026/27: Kairat vs Mjallby - MD4 [SG]",
         "EVENT 02 - 26-Nov 05:40PM-07:55PM - Brighton vs Craiova - MD4 UEFA Conference League 2026/27 [SG]",
         "EVENT 03 - 26-Nov 05:40PM-07:55PM - Celta Vigo vs Bournemouth - MD5 UEFA Europa League 2026/27 [SG]",
-        "EVENT 04 - 26-Nov 05:40PM-07:55PM - Olympiacos vs Milan - MD5 UEFA Europa League 2026/27 [SG]"
+        "EVENT 04 - 26-Nov 05:40PM-07:55PM - Olympiacos vs Milan - MD5 UEFA Europa League 2026/27 [SG]",
+        "EVENT 01 - 26-Nov 07:55PM-10:00PM - Crystal Palace vs Real Sociedad - MD5 UEFA Europa League 2026/27 [SG]",
+        "EVENT 05 - 26-Nov 07:55PM-10:00PM - Juventus vs Omonoia - MD5 UEFA Europa League 2026/27 [SG]",
+        "EVENT 06 - 26-Nov 07:55PM-10:00PM - Sunderland vs Jagiellonia Bialystok - MD5 UEFA Europa League 2026/27 [SG]"
       ],
       "sections": [],
       "events": []
@@ -246,6 +235,18 @@
           "channels": [
             {
               "name": "NESN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "19:30",
+          "name": "BYU - MISSISSIPPI",
+          "datetime": "2026-11-24 19:30:00",
+          "channels": [
+            {
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -655,12 +656,11 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 24/11/2026 18:00 - 19:00",
         "BBC Events 02 - no_brand_title: Benefits Review to Suggest Quicker Payment for Some Disabled People - 24/11/2026 05:54 - 04:07",
         "BBC Events 03 - no_brand_title: BBC Finds Dog Breeders Misleading with Welfare Ratings - 24/11/2026 06:56 - 04:44",
-        "BBC Events 04 - no_brand_title: BBC Weather Live - 24/11/2026 07:24 - 19:54",
         "BBC Events 05 - no_brand_title: BBC Radio London - tube strike - 24/11/2026 10:13 - 10:12",
-        "BBC Events 06 - no_brand_title: BBC News - 24/11/2026 10:41 - 10:40"
+        "BBC Events 06 - no_brand_title: BBC News - 24/11/2026 10:41 - 10:40",
+        "BBC Events 07 - UEFA Champions League: 24/11/2026 - 24/11/2026 19:00 - 22:29"
       ],
       "sections": [],
       "events": []
@@ -870,16 +870,16 @@
       "fixtures": [
         "Paramount+ Event 01 - 16:30 - UEFA Champions League: Bodø/Glimt vs. LASK",
         "Paramount+ Event 02 - 16:30 - UEFA Champions League: Galatasaray vs. Aston Villa",
-        "Paramount+ Event 03 - 18:30 - UEFA Champions League: Arsenal vs. Dortmund",
-        "Paramount+ Event 04 - 18:30 - UEFA Champions League: Feyenoord vs. Porto",
-        "Paramount+ Event 05 - 18:30 - UEFA Champions League: RB Leipzig vs. Lens",
-        "Paramount+ Event 06 - 18:30 - UEFA Champions League: Slovan Bratislava vs. Real Betis",
+        "Paramount+ Event 04 - 18:30 - UEFA Champions League: Como vs. AEK Athens",
+        "Paramount+ Event 05 - 18:30 - UEFA Champions League: Man. City vs. Napoli",
+        "Paramount+ Event 06 - 18:30 - UEFA Champions League: RB Leipzig vs. Lens",
         "Paramount+ Event 07 - 18:30 - UEFA Champions League: Real Madrid vs. PSV",
-        "Paramount+ Event 08 - 18:30 - UEFA Champions League: Man. City vs. Napoli",
-        "Paramount+ Event 09 - 18:30 - UEFA Champions League: Como vs. AEK Athens",
-        "Paramount+ Event 11 - 19:05 - English Football League: Portsmouth vs. West Ham United",
-        "Paramount+ Event 12 - 19:05 - English Football League: Bristol City vs. Wrexham",
-        "Paramount+ Event 13 - 19:05 - English Football League: Crawley Town vs. Barnet",
+        "Paramount+ Event 08 - 18:30 - UEFA Champions League: Arsenal vs. Dortmund",
+        "Paramount+ Event 09 - 18:30 - UEFA Champions League: Slovan Bratislava vs. Real Betis",
+        "Paramount+ Event 10 - 18:30 - UEFA Champions League: Feyenoord vs. Porto",
+        "Paramount+ Event 11 - 19:05 - English Football League: Bristol City vs. Wrexham",
+        "Paramount+ Event 12 - 19:05 - English Football League: Crawley Town vs. Barnet",
+        "Paramount+ Event 13 - 19:05 - English Football League: Portsmouth vs. West Ham United",
         "Paramount+ Event 14 - 19:20 - English Football League: Wolves vs. Derby County",
         "Paramount+ Event 15 - 19:25 - Scottish Professional Football League: Rangers vs. Aberdeen",
         "Paramount+ Event 01 - 16:30 - Uefa Champions League: Slavia Praha vs. Villarreal",
@@ -985,7 +985,8 @@
         "FloSports 04 - French Top 14: Bayonne vs Castres - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 03 - French Top 14: La Rochelle vs Perpignan - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
         "FloSports 02 - French Top 14: Racing 92 vs Pau - 28 Nov 15:35 UK / 10:35 ET / 07:35 PT",
-        "FloSports 06 - French Top 14: Lyon vs Toulouse - 28 Nov 20:00 UK / 15:00 ET / 12:00 PT"
+        "FloSports 06 - French Top 14: Lyon vs Toulouse - 28 Nov 20:00 UK / 15:00 ET / 12:00 PT",
+        "FloSports 01 - French Top 14: Clermont vs Toulon - 29 Nov 20:05 UK / 15:05 ET / 12:05 PT"
       ],
       "sections": [],
       "events": []
@@ -1126,8 +1127,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : The FAN Hockey Show: Nov. 24 - Tue 24/11 5:00pm",
-        "Sportsnet 01 : Frankly Hockey: Nov. 24 - Tue 24/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 24 - Tue 24/11 9:00pm",
         "Sportsnet 01 : The FAN Pregame: Nov. 24 - Tue 24/11 11:00pm",
         "Sportsnet 03 : Detroit @ Orlando - Wed 25/11 12:00am",
@@ -1161,8 +1160,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Bodø / Glimt v LASK - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 5:41pm",
-        "Stan 01 : Galatasaray v Aston Villa - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 5:41pm",
+        "Stan 02 : Bodø / Glimt v LASK - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 5:39pm",
+        "Stan 01 : Galatasaray v Aston Villa - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 5:39pm",
         "Stan 03 : Football Zone: MD5 Wednesday - UEFA Champions League 2026/27 - Tue 24/11 7:41pm",
         "Stan 04 : Arsenal v Borussia Dortmund - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm",
         "Stan 10 : Como v AEK Athens - UEFA Champions League Matchday 5 2026/2027 - Tue 24/11 7:56pm",
@@ -1241,7 +1240,6 @@
       "status": "ok",
       "fixtures": [
         "TSN 03 : Pat McAfee Show - Tue 24/11 5:00pm",
-        "TSN 02 : Rich Eisen Show - Tue 24/11 5:00pm",
         "TSN 05 : NCAA Men's Basketball: Miami vs. TCU - Tue 24/11 8:00pm",
         "TSN 04 : NCAA Men's Basketball: Tennessee vs. Maryland - Tue 24/11 8:00pm",
         "TSN 01 : NCAA Men's Basketball: Creighton vs. Michigan - Tue 24/11 10:30pm",
