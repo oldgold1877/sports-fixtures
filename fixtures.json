@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-25T12:00:54.614014+00:00",
+  "scraped_at": "2026-11-25T17:44:39.143725+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -11,6 +11,50 @@
         {
           "section": "Sports Scene",
           "entries": [
+            {
+              "type": "date",
+              "text": "Wednesday 25 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UCL: Sabah vs Barcelona 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 17:45-19:45 - UCL: Slavia Praha vs Villarreal 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UCL: Sabah vs Barcelona 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 20:00-22:00 - UCL: Internazionale vs Stuttgart 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UCL: Sporting CP vs Manchester United 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UCL: Club Brugge vs Liverpool 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UCL: Lille vs Bayern München 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UCL: PSG vs Roma 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UCL: Sporting CP vs Manchester United 720p"
+            },
+            {
+              "type": "date",
+              "text": "Additional"
+            },
             {
               "type": "fixture",
               "text": "SPORTS SCENE 12 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 1 - Wed 25/11"
@@ -28,6 +72,47 @@
               "text": "SPORTS SCENE 15 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 4 - Wed 25/11"
             }
           ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 1 - Sabah FK vs Barcelona 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 2 - Slavia Prague vs Villarreal 10:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 3 - Atlético vs Viking 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 4 - Club Brugge vs Liverpool 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 5 - Inter Milan vs Stuttgart 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 6 - Lille vs Bayern Munich 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 7 - Paris SG vs Roma 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 8 - Shakhtar D vs Fenerbahçe 1:00am"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 9 - Sporting vs Man Utd 1:00am"
+            }
+          ]
         }
       ],
       "events": []
@@ -38,8 +123,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "EVENT 01 - 25-Nov 12:55PM-02:55PM - UEFA Youth League 2026/27: Sporting vs Man United - MD5 [SG]",
-        "EVENT 02 - 25-Nov 02:55PM-05:00PM - UEFA Youth League 2026/27: PSG vs Roma - MD5 [SG]",
         "EVENT 02 - 25-Nov 05:40PM-07:55PM - Slavia Prague vs Villarreal - MD5 UEFA Champions League 2026/27 [SG]",
         "EVENT 03 - 25-Nov 05:40PM-07:55PM - UEFA Champions League 2026/27: Sabah FK vs Barcelona - MD5 [SG]",
         "EVENT 01 - 25-Nov 07:55PM-10:00PM - Club Brugge vs Liverpool - MD5 UEFA Champions League 2026/27 [SG]",
@@ -52,7 +135,9 @@
         "EVENT 01 - 26-Nov 07:55PM-10:00PM - Crystal Palace vs Real Sociedad - MD5 UEFA Europa League 2026/27 [SG]",
         "EVENT 05 - 26-Nov 07:55PM-10:00PM - Juventus vs Omonoia - MD5 UEFA Europa League 2026/27 [SG]",
         "EVENT 06 - 26-Nov 07:55PM-10:00PM - Sunderland vs Jagiellonia Bialystok - MD5 UEFA Europa League 2026/27 [SG]",
-        "EVENT 01 - 27-Nov 11:20AM-01:30PM - Singapore Premier League 2026/27 Geylang International FC vs Tanjong Pagar United FC [SG]"
+        "EVENT 01 - 27-Nov 11:20AM-01:30PM - Singapore Premier League 2026/27 Geylang International FC vs Tanjong Pagar United FC [SG]",
+        "EVENT 02 - 27-Nov 04:55PM-07:00PM - Super Lig 2026/27: Alanyaspor vs Konyaspor [SG]",
+        "EVENT 03 - 27-Nov 05:20PM-07:25PM - Bundesliga 2 2026/27: Heidenheim 1846 vs Nuremberg [SG]"
       ],
       "sections": [],
       "events": []
@@ -250,6 +335,14 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 1",
+              "category": "SPORT | USA & CANADA"
+            },
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
             }
           ]
         },
@@ -297,6 +390,18 @@
           "channels": [
             {
               "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "22:30",
+          "name": "PROVIDENCE - BYU",
+          "datetime": "2026-11-25 22:30:00",
+          "channels": [
+            {
+              "name": "TSN 2",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -766,6 +871,7 @@
         "BBC Events 01 - no_brand_title: BBC Weather Live - 25/11/2026 07:13 - 22:43",
         "BBC Events 02 - no_brand_title: Energy Price Cap Expected to Rise Significantly - 25/11/2026 05:27 - 03:41",
         "BBC Events 04 - no_brand_title: New Restrictions on NDAs Will Be Enforced From January - 25/11/2026 06:25 - 05:58",
+        "BBC Events 06 - Autumnwatch: Autumn Calm - 25/11/2026 12:00 - 18:00",
         "BBC Events 07 - no_brand_title: China's Shenzhou-24 Spacecraft Launch - 24/11/2026 23:58 - 23:46",
         "BBC Events 08 - no_brand_title: Energy Price Cap Rises Significantly - 25/11/2026 07:27 - 07:07",
         "BBC Events 11 - no_brand_title: BBC News - 25/11/2026 10:33 - 08:45"
@@ -1002,8 +1108,8 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 16:30 - Uefa Champions League: Slavia Praha vs. Villarreal",
-        "Paramount+ Event 02 - 16:30 - Uefa Champions League: Sabah vs. Barcelona",
+        "Paramount+ Event 01 - 16:30 - UEFA Champions League: Sabah vs. Barcelona",
+        "Paramount+ Event 02 - 16:30 - UEFA Champions League: Slavia Praha vs. Villarreal",
         "Paramount+ Event 03 - 18:30 - Uefa Champions League: Sporting CP vs. Man. United",
         "Paramount+ Event 04 - 18:30 - Uefa Champions League: PSG vs. Roma",
         "Paramount+ Event 05 - 18:30 - Uefa Champions League: Club Brugge vs. Liverpool",
@@ -1249,8 +1355,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 25 - Wed 25/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 25 - Wed 25/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 25 - Wed 25/11 5:00pm",
         "Sportsnet 01 : Frankly Hockey: Nov. 25 - Wed 25/11 7:00pm",
         "Sportsnet 02 : Real Kyper & Bourne: Nov. 25 - Wed 25/11 9:00pm",
@@ -1272,7 +1376,8 @@
         "Sportsnet 17 : Utah @ Minnesota - Thu 26/11 1:00am",
         "Sportsnet 18 : French Language Broadcast: Montreal @ Colorado - Thu 26/11 2:30am",
         "Sportsnet 02 : Montreal @ Colorado - Thu 26/11 2:30am",
-        "Sportsnet 19 : Chicago @ Seattle - Thu 26/11 2:40am"
+        "Sportsnet 19 : Chicago @ Seattle - Thu 26/11 2:40am",
+        "Sportsnet 01 : Sacramento @ Golden State - Thu 26/11 3:00am"
       ],
       "sections": [],
       "events": []
@@ -1283,10 +1388,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Stan 02 : Fagiano Okayama v Shimizu S-Pulse - J.League 2026 - Wed 25/11 9:55am",
-        "Stan 01 : Mito v Tokyo Verdy - J.League 2026 - Wed 25/11 9:55am",
-        "Stan 03 : Nagasaki v Kawasaki Frontale - J.League 2026 - Wed 25/11 9:55am",
-        "Stan 04 : Sporting CP U19 v Manchester United U19 - UEFA Youth League 2026/2027 - Wed 25/11 12:56pm",
         "Stan 01 : Sabah v Barcelona - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 5:41pm",
         "Stan 02 : Slavia Praha v Villarreal - UEFA Champions League Matchday 5 2026/2027 - Wed 25/11 5:41pm",
         "Stan 03 : Football Zone: MD5 Thursday - UEFA Champions League 2026/27 - Wed 25/11 7:41pm",
@@ -1342,7 +1443,10 @@
         "Stan 02 : Kyoto Sanga v Cerezo Osaka - J.League 2026 - Sat 28/11 4:56am",
         "Stan 01 : Seoul v Daejeon - K League 2026 - Sat 28/11 4:56am",
         "Stan 03 : Dubai • Day 1 (Session 1) - World Rugby Sevens Series 2026/27 - Sat 28/11 5:56am",
-        "Stan 04 : Kashiwa Reysol v Sanfrecce Hiroshima - J.League 2026 - Sat 28/11 6:56am"
+        "Stan 04 : Kashiwa Reysol v Sanfrecce Hiroshima - J.League 2026 - Sat 28/11 6:56am",
+        "Stan 05 : Pohang v Gwangju - K League 2026 - Sat 28/11 7:26am",
+        "Stan 01 : Dubai • Day 1 (Session 2) - World Rugby Sevens Series 2026/27 - Sat 28/11 12:41pm",
+        "Stan 02 : Wales v Japan - Nations Championship Final 2026 - Sat 28/11 1:01pm"
       ],
       "sections": [],
       "events": []
