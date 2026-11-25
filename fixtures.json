@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-25T01:15:31.119594+00:00",
+  "scraped_at": "2026-11-25T08:15:31.245254+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -221,7 +221,7 @@
         {
           "sport": "BASKETBALL",
           "time": "19:30",
-          "name": "TBD - MISSISSIPPI",
+          "name": "ARIZONA - MISSISSIPPI",
           "datetime": "2026-11-25 19:30:00",
           "channels": [
             {
@@ -490,6 +490,18 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "18:00",
+          "name": "MARYLAND - SAN DIEGO STATE",
+          "datetime": "2026-11-26 18:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "19:00",
           "name": "FLORIDA - DAVIDSON",
           "datetime": "2026-11-26 19:00:00",
@@ -692,12 +704,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - Autumnwatch: Autumn Calm - 25/11/2026 00:00 - 06:00",
-        "BBC Events 02 - no_brand_title: Benefits Review to Suggest Quicker Payment for Some Disabled People - 24/11/2026 05:54 - 04:07",
-        "BBC Events 03 - no_brand_title: BBC Finds Dog Breeders Misleading with Welfare Ratings - 24/11/2026 06:56 - 04:44",
+        "BBC Events 01 - no_brand_title: BBC Weather Live - 25/11/2026 07:13 - 22:43",
+        "BBC Events 02 - no_brand_title: Energy Price Cap Expected to Rise Significantly - 25/11/2026 05:27 - 03:41",
+        "BBC Events 03 - Autumnwatch: Autumn Calm - 25/11/2026 06:00 - 12:00",
+        "BBC Events 04 - no_brand_title: New Restrictions on NDAs Will Be Enforced From January - 25/11/2026 06:25 - 05:58",
         "BBC Events 05 - no_brand_title: BBC Radio London - tube strike - 24/11/2026 10:13 - 10:12",
         "BBC Events 06 - no_brand_title: BBC News - 24/11/2026 10:41 - 10:40",
-        "BBC Events 07 - no_brand_title: China's Shenzhou-24 Spacecraft Launch - 24/11/2026 23:58 - 23:46"
+        "BBC Events 07 - no_brand_title: China's Shenzhou-24 Spacecraft Launch - 24/11/2026 23:58 - 23:46",
+        "BBC Events 08 - no_brand_title: Energy Price Cap Rises Significantly - 25/11/2026 07:27 - 07:07"
       ],
       "sections": [],
       "events": []
@@ -734,14 +748,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Western Michigan",
-        "ESPN Event 02 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Miami (OH) vs. Western Michigan",
-        "ESPN Event 02 - 25/11/2026 - 00:00 UK / 19:00 ET - Football - NCAA Football: Kent State vs. Eastern Michigan",
-        "ESPN Event 01 - 25/11/2026 - 00:22 UK / 19:22 ET - Football - NCAA Football: Miami (OH) vs. Western Michigan",
-        "ESPN Event 03 - 25/11/2026 - 00:30 UK / 19:30 ET - Basketball - NBA G League: Osceola Magic vs. Laketown Squadron",
-        "ESPN Event 04 - 25/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: The Pulse: Texas A&M Football vs. Oklahoma - Episode 21",
-        "ESPN Event 06 - 25/11/2026 - 01:00 UK / 20:00 ET - Football - NFL: Jacksonville Jaguars vs. New York Giants",
-        "ESPN Event 04 - 25/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: The Pulse: Texas A&M Football vs. Oklahoma - Episode 21",
         "ESPN Event 01 - 25/11/2026 - 06:00 UK / 01:00 ET - Football - NFL: Las Vegas Raiders vs. Denver Broncos",
         "ESPN Event 01 - 25/11/2026 - 19:00 UK / 14:00 ET - Football - NFL: Tampa Bay Buccaneers vs. Detroit Lions",
         "ESPN Event 01 - 25/11/2026 - 22:00 UK / 17:00 ET - Basketball - NBA: Above the Rim: Miami Heat vs. Philadelphia 76ers",
@@ -764,7 +770,26 @@
         "ESPN Event 16 - 26/11/2026 - 03:05 UK / 22:05 ET - Basketball - NBA: San Antonio Spurs vs. Portland Trail Blazers",
         "ESPN Event 03 - 26/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 12 Green Bay Packers vs. Los Angeles Rams",
         "ESPN Event 01 - 26/11/2026 - 10:00 UK / 05:00 ET - Football - NFL: NFL Football: 2026 Week 12 Green Bay Packers vs. Los Angeles Rams",
-        "ESPN Event 01 - 27/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: TCU vs. #12 Texas Tech"
+        "ESPN Event 01 - 27/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: TCU vs. #12 Texas Tech",
+        "ESPN Event 01 - 27/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 12 Chicago Bears vs. Detroit Lions",
+        "ESPN Event 02 - 27/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Southern Hoiho (Round 10)",
+        "ESPN Event 03 - 27/11/2026 - 08:00 UK / 03:00 ET - Football - NFL: NFL Football: 2026 Week 12 Philadelphia Eagles vs. Dallas Cowboys",
+        "ESPN Event 04 - 27/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Macarthur FC vs. Melbourne City FC",
+        "ESPN Event 01 - 27/11/2026 - 10:30 UK / 05:30 ET - Football - NFL: NFL Football: 2026 Week 12 Kansas City Chiefs vs. Buffalo Bills",
+        "ESPN Event 02 - 27/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA: Levante UD vs. Racing Santander (Matchday #14)",
+        "ESPN Event 01 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Toledo vs. Ohio",
+        "ESPN Event 02 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - Mississippi State vs. Ole Miss",
+        "ESPN Event 03 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Mississippi State vs. #22 Ole Miss",
+        "ESPN Event 04 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Tulsa vs. UTSA",
+        "ESPN Event 05 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Toronto Maple Leafs vs. Boston Bruins",
+        "ESPN Event 06 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Utah Mammoth vs. Nashville Predators",
+        "ESPN Event 07 - 27/11/2026 - 18:00 UK / 13:00 ET - Hockey - NHL: Calgary Flames vs. New Jersey Devils",
+        "ESPN Event 08 - 27/11/2026 - 19:00 UK / 14:00 ET - Soccer - German 3. Liga: TSV Havelse vs. F.C. Hansa Rostock",
+        "ESPN Event 09 - 27/11/2026 - 19:30 UK / 14:30 ET - Hockey - NHL: Vancouver Canucks vs. Philadelphia Flyers",
+        "ESPN Event 10 - 27/11/2026 - 19:30 UK / 14:30 ET - Hockey - NHL: Detroit Red Wings vs. Columbus Blue Jackets",
+        "ESPN Event 11 - 27/11/2026 - 19:30 UK / 14:30 ET - Hockey - NHL: Florida Panthers vs. Washington Capitals",
+        "ESPN Event 12 - 27/11/2026 - 19:30 UK / 14:30 ET - Hockey - NHL: Ottawa Senators vs. Tampa Bay Lightning",
+        "ESPN Event 13 - 27/11/2026 - 20:00 UK / 15:00 ET - Football - NCAA Football: App State vs. South Alabama"
       ],
       "sections": [],
       "events": []
@@ -816,9 +841,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "MLS 01 : San Jose vs. Houston (MLS) - Wed 25/11 03:10am"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     },
@@ -828,9 +851,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Pistons at Magic - Wed 25/11 12:00am",
-        "Celtics at Wizards - Wed 25/11 01:00am",
-        "Mavericks at Nuggets - Wed 25/11 03:00am",
         "Heat at 76ers - Wed 25/11 10:00pm",
         "Bulls at Hornets - Thu 26/11 12:00am",
         "Cavaliers at Knicks - Thu 26/11 12:30am",
@@ -859,7 +879,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Vegas Golden Knights at Edmonton Oilers - Wed 25/11 01:00am",
         "Calgary Flames at Pittsburgh Penguins - Thu 26/11 12:00am",
         "Carolina Hurricanes at Tampa Bay Lightning - Thu 26/11 12:00am",
         "New Jersey Devils at Columbus Blue Jackets - Thu 26/11 12:00am",
@@ -878,7 +897,8 @@
         "Toronto Maple Leafs at Boston Bruins - Fri 27/11 06:00pm",
         "Utah Mammoth at Nashville Predators - Fri 27/11 06:00pm",
         "Dallas Stars at St. Louis Blues - Fri 27/11 07:00pm",
-        "Detroit Red Wings at Columbus Blue Jackets - Fri 27/11 08:00pm"
+        "Detroit Red Wings at Columbus Blue Jackets - Fri 27/11 08:00pm",
+        "Vancouver Canucks at Philadelphia Flyers - Fri 27/11 08:00pm"
       ],
       "sections": [],
       "events": []
@@ -973,21 +993,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : UCLA vs. St. John's (Basketball) - Tue 24/11 9:30pm",
-        "Peacock 2 : Sun FC v. Trinity FC (Soccer) - Tue 24/11 11:00pm",
-        "Peacock 3 : Bowling Green vs. Notre Dame (Hockey) - Tue 24/11 11:30pm",
-        "Peacock 1 : Celtics vs. Wizards (NBA) - Wed 25/11 12:00am",
-        "Peacock 4 : Performance View: BOS vs. WAS (NBA) - Wed 25/11 12:00am",
-        "Peacock 5 : Vanderbilt vs. Ohio State (Basketball) - Wed 25/11 12:00am",
-        "Peacock 6 : Star Cam B (NBA) - Wed 25/11 1:00am",
-        "Peacock 7 : Star Cam A (NBA) - Wed 25/11 1:00am",
-        "Peacock 8 : Courtside View (NBA) - Wed 25/11 1:00am",
-        "Peacock 9 : Courtside View (NBA) - Wed 25/11 1:00am",
-        "Peacock 10 : Action Cams: BOS vs. WAS (NBA) - Wed 25/11 1:00am",
-        "Peacock 11 : Star Cam A (NBA) - Wed 25/11 1:00am",
-        "Peacock 12 : Star Cam B (NBA) - Wed 25/11 1:00am",
-        "Peacock 2 : Performance View: DAL vs. DEN (NBA) - Wed 25/11 3:00am",
-        "Peacock 3 : Mavericks vs. Nuggets (NBA) - Wed 25/11 3:00am",
         "Peacock 1 : National Dog Show 2026 (Dog Shows) - Thu 26/11 5:00pm",
         "Peacock 2 : National Dog Show 2026 (Dog Shows) - Thu 26/11 6:00pm",
         "Peacock 1 : National Dog Show 2026 (Dog Shows) - Thu 26/11 7:00pm",
@@ -1002,7 +1007,21 @@
         "Peacock 2 : Free Dance (Figure Skating) - Sat 28/11 3:00am",
         "Peacock 1 : Pairs Free Skate (Figure Skating) - Sat 28/11 5:00am",
         "Peacock 2 : ST World Tour: Shanghai 1 (Short Track) - Sat 28/11 6:00am",
-        "Peacock 1 : Women's Free Skate (Figure Skating) - Sat 28/11 7:30am"
+        "Peacock 1 : Women's Free Skate (Figure Skating) - Sat 28/11 7:30am",
+        "Peacock 1 : Men's Free Skate (Figure Skating) - Sat 28/11 10:30am",
+        "Peacock 1 : Women's GS: Killington Run 1 (Alpine Skiing) - Sat 28/11 2:30pm",
+        "Peacock 2 : Performance View: MU v. BRE (Premier League) - Sat 28/11 2:50pm",
+        "Peacock 3 : Man United v. Brentford (Premier League) - Sat 28/11 2:50pm",
+        "Peacock 1 : Women's GS: Killington Run 2 (Alpine Skiing) - Sat 28/11 5:30pm",
+        "Peacock 2 : Men's Super-G: Copper (Alpine Skiing) - Sat 28/11 6:45pm",
+        "Peacock 1 : 2026 Bayou Classic (Football) - Sat 28/11 7:00pm",
+        "Peacock 1 : Brooklyn FC v. Lexington SC (Soccer) - Sat 28/11 11:00pm",
+        "Peacock 2 : Ascent FC v. Trinity FC (Soccer) - Sat 28/11 11:00pm",
+        "Peacock 3 : FTL United v. Power FC (Soccer) - Sat 28/11 11:00pm",
+        "Peacock 4 : Sun FC v. Sporting JAX (Soccer) - Sat 28/11 11:00pm",
+        "Peacock 5 : Washington vs. Oregon (Football) - Sun 29/11 12:00am",
+        "Peacock 1 : Exhibition Gala (Figure Skating) - Sun 29/11 4:05am",
+        "Peacock 2 : ST World Tour: Shanghai 2 (Short Track) - Sun 29/11 6:00am"
       ],
       "sections": [],
       "events": []
@@ -1010,7 +1029,7 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "Last updated: Tue 24 Nov 2026 05:00:05 UK",
+      "last_updated": "Last updated: Wed 25 Nov 2026 05:00:05 UK",
       "status": "ok",
       "fixtures": [
         "FloSports 01 - French Top 14: Bordeaux-Begles vs Montpellier - 28 Nov 13:30 UK / 08:30 ET / 05:30 PT",
@@ -1030,9 +1049,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 6 - LIVE: SS: W Australia v Tasmania D3 - 02:25 25/11/2026",
-        "Sky Sport 1 - LIVE: WBBL: Renegades v Heat - 07:30 25/11/2026",
-        "Sky Sport 1 UHD - LIVE: WBBL: Renegades v Heat - 07:30 25/11/2026",
         "Sky Sport 4 - LIVE: SS: S Australia v Victoria D3 - 23:55 25/11/2026",
         "Sky Sport 2 - LIVE: Australian PGA Champ Round 1 - 01:00 26/11/2026",
         "Sky Sport 5 - LIVE: SS: W Australia v Tasmania D4 - 02:25 26/11/2026",
@@ -1128,11 +1144,31 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
+        "Sky Sports+ 1 | Melbourne Renegades  vs  Brisbane Heat",
+        "Heat vs 76ers",
+        "Sydney Sixers  vs  Melbourne Stars",
+        "Lincoln vs Wolves",
+        "L Orient vs Peterborough",
         "Burnley vs Birmingham",
+        "Blackburn vs Charlton",
+        "Barnsley vs Wycombe",
+        "Bolton vs West Brom",
         "Mk Dons vs Notts",
+        "Blackpool vs Luton",
+        "Watford vs Blackburn",
         "Peterborough vs Cambridge U",
+        "Bradford vs Mk Dons",
+        "Burton vs Wigan",
+        "Cambridge U vs Leicester",
         "Bristol R vs Tranmere",
-        "Exeter vs Crawley"
+        "Accrington vs Crewe",
+        "Exeter vs Crawley",
+        "Barnet vs Rotherham",
+        "Cheltenham vs Rochdale",
+        "Chesterfield vs Exeter",
+        "Crawley vs Port Vale",
+        "Gillingham vs Swindon",
+        "Grimsby vs Colchester"
       ],
       "sections": [],
       "events": []
@@ -1143,9 +1179,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : Detroit @ Orlando - Wed 25/11 12:00am",
-        "Sportsnet 04 : Vegas @ Edmonton - Wed 25/11 1:00am",
-        "Sportsnet 01 : Dallas @ Denver - Wed 25/11 3:00am",
         "Sportsnet 01 : Sportsnet Central: Nov. 24 - Wed 25/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 25 - Wed 25/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 25 - Wed 25/11 4:00pm",
@@ -1165,7 +1198,12 @@
         "Sportsnet 13 : St. Louis @ New York Islanders - Thu 26/11 12:00am",
         "Sportsnet 12 : Winnipeg @ Boston - Thu 26/11 12:00am",
         "Sportsnet 15 : Cleveland @ New York - Thu 26/11 12:30am",
-        "Sportsnet 14 : Minnesota @ Oklahoma City - Thu 26/11 12:30am"
+        "Sportsnet 14 : Minnesota @ Oklahoma City - Thu 26/11 12:30am",
+        "Sportsnet 16 : Nashville @ Dallas - Thu 26/11 1:00am",
+        "Sportsnet 17 : Utah @ Minnesota - Thu 26/11 1:00am",
+        "Sportsnet 18 : French Language Broadcast: Montreal @ Colorado - Thu 26/11 2:30am",
+        "Sportsnet 02 : Montreal @ Colorado - Thu 26/11 2:30am",
+        "Sportsnet 19 : Chicago @ Seattle - Thu 26/11 2:40am"
       ],
       "sections": [],
       "events": []
@@ -1232,7 +1270,10 @@
         "Stan 04 : Nottingham Forest v Chelsea - Premier League Matchweek 12 2026/2027 - Fri 27/11 7:31pm",
         "Stan 05 : 4K • Nottingham Forest v Chelsea - Premier League Matchweek 12 2026/2027 - Fri 27/11 7:51pm",
         "Stan 06 : Ireland v Australia - Nations Championship Final 2026 - Fri 27/11 8:01pm",
-        "Stan 01 : Seoul v Daejeon - K League 2026 - Sat 28/11 4:56am"
+        "Stan 02 : Kyoto Sanga v Cerezo Osaka - J.League 2026 - Sat 28/11 4:56am",
+        "Stan 01 : Seoul v Daejeon - K League 2026 - Sat 28/11 4:56am",
+        "Stan 03 : Dubai • Day 1 (Session 1) - World Rugby Sevens Series 2026/27 - Sat 28/11 5:56am",
+        "Stan 04 : Kashiwa Reysol v Sanfrecce Hiroshima - J.League 2026 - Sat 28/11 6:56am"
       ],
       "sections": [],
       "events": []
@@ -1252,11 +1293,9 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 02 : NCAA Men's Hockey: Bentley vs. Harvard - Wed 25/11 12:00am",
-        "TSN 04 : NCAA Men's Basketball: Texas Tech vs. Louisville - Wed 25/11 1:00am",
-        "TSN 05 : NCAA Men's Basketball: Baylor vs. Alabama - Wed 25/11 3:00am",
-        "TSN 01 : NCAA Men's Basketball: Oregon vs. St. John's - Wed 25/11 3:30am",
-        "TSN 02 : NCAA Men's Basketball: Gonzaga vs. Kansas State - Wed 25/11 5:30am"
+        "TSN 01 : 2026 Davis Cup Finals: Quarterfinals - Day #2 - Wed 25/11 3:00pm",
+        "TSN 02 : Rich Eisen Show - Wed 25/11 5:00pm",
+        "TSN 03 : NCAA Men's Basketball: Texas A&M vs. Xavier - Wed 25/11 7:30pm"
       ],
       "sections": [],
       "events": []
@@ -1266,10 +1305,7 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [
-        "INKA MMA 63 - Thu 26/11 4:00am",
-        "CAGE WARRIORS 214: UNPLUGGED - Fri 27/11 8:00pm"
-      ],
+      "fixtures": [],
       "sections": [],
       "events": []
     }
