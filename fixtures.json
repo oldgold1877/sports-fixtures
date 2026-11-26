@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-26T12:01:00.683405+00:00",
+  "scraped_at": "2026-11-26T17:28:20.037579+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,7 +7,218 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [],
+      "sections": [
+        {
+          "section": "Sports Scene",
+          "entries": [
+            {
+              "type": "date",
+              "text": "Thursday 26 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 17:45-19:45 - UEL: Olympiakos Piraeus vs Milan 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 17:45-19:45 - UEL: Celta de Vigo vs AFC Bournemouth 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 17:45-19:45 - UEL: Dinamo Zagreb vs Bayer Leverkusen 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 17:45-19:45 - UECL: Brighton & Hove Albion vs CSU Craiova 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 17:45-19:45 - UEL: Olympiakos Piraeus vs Milan 720p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 05 - 20:00-22:00 - UEL:  Crystal Palace vs Real Sociedad 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 06 - 20:00-22:00 - UEL: Sunderland vs Jagiellonia Bialystok 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 08 - 20:00-22:00 - UEL:  Juventus vs Omonia Nicosia 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 20:00-22:00 - UEL: Torreense vs Celtic 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 11 - 20:00-22:00 - UEL:  Crystal Palace vs Real Sociedad 720p"
+            },
+            {
+              "type": "date",
+              "text": "Friday 27 November 2026"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 03 - 01:20-04:30 - NFL: Kansas City Chiefs at Buffalo Bills 1080p"
+            },
+            {
+              "type": "fixture",
+              "text": "SPORTS SCENE 09 - 01:20-04:30 - NFL: Kansas City Chiefs at Buffalo Bills 1080p"
+            }
+          ]
+        },
+        {
+          "section": "Live Events",
+          "entries": [
+            {
+              "type": "fixture",
+              "text": "UEFA | 01 - Beşiktaş vs Hapoel Be'er Sheva 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 02 - Celta Vigo vs Bournemouth 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 03 - Dinamo Zagreb vs Bayer 04 Leverkusen 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 04 - Marseille vs Levski Sofia 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 05 - Olympiakos vs AC Milan 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 06 - Red Bull Salzburg vs Ararat-Armenia 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 07 - Union Saint-Gilloise vs Lech Poznań 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 08 - Viktoria Plzeň vs Benfica 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 09 - Crystal Palace vs Real Sociedad 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 10 - Ferencváros vs Celje 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 11 - Hoffenheim vs Sturm Graz 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 12 - Juventus vs Omonia Nicosia 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 13 - NEC Nijmegen vs Rennes 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 14 - OFI Crete vs Anderlecht 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 15 - Olympique Lyonnais vs Lillestrøm 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 16 - Sparta Prague vs AZ Alkmaar 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 17 - Sunderland vs Jagiellonia Białystok 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 18 - Torreense vs Celtic 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 19 - Kairat vs Mjällby 15:30pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 20 - Ajax vs Thun 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 21 - Brann vs AGF 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 22 - Brighton & Hove Albion vs Universitatea Craiova 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 23 - Egnatia Rrogozhinë vs Lincoln Red Imps 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 24 - Heart of Midlothian vs Monaco 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 25 - Iberia 1999 vs Getafe 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 26 - Jablonec vs Lugano 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 27 - Kauno Žalgiris vs Riga 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 28 - Pafos vs Midtjylland 17:45pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 29 - Borac Banja Luka vs Atalanta 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 30 - CSKA Sofia vs Trabzonspor 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 31 - Freiburg vs Twente 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 32 - Gent vs Red Star Belgrade 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 33 - Hajduk Split vs Sint-Truiden 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 34 - Inter Club d'Escaldes vs Copenhagen 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 35 - Nordsjælland vs Panathinaikos 20:00pm"
+            },
+            {
+              "type": "fixture",
+              "text": "UEFA | 36 - Sporting Braga vs KuPS 20:00pm"
+            }
+          ]
+        }
+      ],
       "events": []
     },
     {
@@ -47,7 +258,16 @@
         "EVENT 02 - 28-Nov 11:15AM-11:37AM - HSBC SVNS Series 2027: Fiji vs France  - Dubai Day 1, Men [SG]",
         "EVENT 04 - 28-Nov 11:20AM-01:30PM - Singapore Premier League 2026/27 Balestier Khalsa FC vs Hougang United FC - Balestier Khalsa FC vs Hougang United FC [SG]",
         "EVENT 03 - 28-Nov 11:37AM-12:00PM - HSBC SVNS Series 2027: New Zealand vs Spain  - Dubai Day 1, Men [SG]",
-        "EVENT 01 - 28-Nov 12:00PM-02:00PM - Bundesliga 2 2026/27 (Join in Progress): Hertha vs Karlsruher [SG]"
+        "EVENT 01 - 28-Nov 12:00PM-02:00PM - Bundesliga 2 2026/27 (Join in Progress): Hertha vs Karlsruher [SG]",
+        "EVENT 02 - 28-Nov 12:55PM-03:10PM - LaLiga 2026/27: Real Betis vs Rayo Vallecano [SG]",
+        "EVENT 01 - 28-Nov 02:20PM-04:30PM - Bundesliga 2026/27: Hamburg vs Bayern [SG]",
+        "EVENT 05 - 28-Nov 02:50PM-05:00PM - Leeds United vs Coventry City (MW12) - Premier League 2026/27 [SG]",
+        "EVENT 06 - 28-Nov 02:50PM-05:20PM - Manchester United v Brentford (MW12) [SG]",
+        "EVENT 07 - 28-Nov 02:50PM-05:00PM - Manchester United vs Brentford (MW12) - Premier League 2026/27 [SG]",
+        "EVENT 03 - 28-Nov 03:10PM-05:25PM - LaLiga 2026/27: Malaga vs Athletic Bilbao [SG]",
+        "EVENT 01 - 28-Nov 05:20PM-07:25PM - Bundesliga 2026/27: Stuttgart vs Frankfurt [SG]",
+        "EVENT 02 - 28-Nov 05:20PM-07:30PM - Ipswich Town v Aston Villa (MW12) [SG]",
+        "EVENT 04 - 28-Nov 05:25PM-07:40PM - LaLiga 2026/27: Elche vs Atletico Madrid [SG]"
       ],
       "sections": [],
       "events": []
@@ -885,9 +1105,9 @@
         "BBC Events 01 - no_brand_title: New UK-EU treaties Have 10-year Termination Clause, BBC understands - 26/11/2026 07:59 - 07:29",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 26/11/2026 04:59 - 20:00",
         "BBC Events 03 - no_brand_title: BBC News - 26/11/2026 10:17 - 07:49",
-        "BBC Events 04 - Davis Cup: Great Britain v Germany  - 26/11/2026 09:00 - 15:59",
+        "BBC Events 04 - Autumnwatch: Autumn Calm - 26/11/2026 16:40 - 18:00",
         "BBC Events 05 - no_brand_title: Stalking Laws Shake-Up - 26/11/2026 09:02 - 08:03",
-        "BBC Events 06 - no_brand_title: UK Net Migration Falls to Lowest Since 1997, Outside Pandemic - 26/11/2026 11:13 - 16:58"
+        "BBC Events 07 - no_brand_title: UK Seasons Changing - 26/11/2026 11:56 - 11:23"
       ],
       "sections": [],
       "events": []
@@ -1132,24 +1352,24 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Paramount+ Event 01 - 14:50 - Uefa Europa Conference League: Kairat Almaty vs. Mjällby",
-        "Paramount+ Event 03 - 16:30 - Uefa Europa League: Marseille vs. Levski Sofia",
-        "Paramount+ Event 04 - 16:30 - Uefa Europa League: Beşiktaş vs. Hapoel Beer-Sheva",
-        "Paramount+ Event 05 - 16:30 - Uefa Europa League: Union Saint-Gilloise vs. Lech Poznań",
-        "Paramount+ Event 06 - 16:30 - Uefa Europa League: Celta Vigo vs. AFC Bournemouth",
-        "Paramount+ Event 07 - 16:30 - Uefa Europa League: Viktoria Plzeň vs. Benfica",
-        "Paramount+ Event 08 - 16:30 - Uefa Europa League: RB Salzburg vs. Ararat-Armenia",
-        "Paramount+ Event 09 - 16:30 - Uefa Europa League: Dinamo Zagreb vs. Bayer Leverkusen",
-        "Paramount+ Event 10 - 16:30 - Uefa Europa League: Olympiacos vs. Milan",
-        "Paramount+ Event 11 - 16:30 - Uefa Europa Conference League: Heart of Midlothian vs. Monaco",
-        "Paramount+ Event 12 - 16:30 - Uefa Europa Conference League: Kauno Žalgiris vs. Riga FC",
-        "Paramount+ Event 13 - 16:30 - Uefa Europa Conference League: Egnatia vs. L. Red Imps",
-        "Paramount+ Event 14 - 16:30 - Uefa Europa Conference League: Ajax vs. FC Thun",
-        "Paramount+ Event 15 - 16:30 - Uefa Europa Conference League: Brann vs. AGF Aarhus",
-        "Paramount+ Event 16 - 16:30 - Uefa Europa Conference League: FC Iberia Tbilisi vs. Getafe",
-        "Paramount+ Event 17 - 16:30 - Uefa Europa Conference League: Pafos vs. FC Midtjylland",
-        "Paramount+ Event 18 - 16:30 - Uefa Europa Conference League: Brighton vs. Craiova",
-        "Paramount+ Event 19 - 16:30 - Uefa Europa Conference League: Jablonec vs. FC Lugano",
+        "Paramount+ Event 01 - 14:50 - UEFA Europa Conference League: Kairat Almaty vs. Mjällby",
+        "Paramount+ Event 03 - 16:30 - UEFA Europa League: Marseille vs. Levski Sofia",
+        "Paramount+ Event 04 - 16:30 - UEFA Europa League: Beşiktaş vs. Hapoel Beer-Sheva",
+        "Paramount+ Event 05 - 16:30 - UEFA Europa League: Union Saint-Gilloise vs. Lech Poznań",
+        "Paramount+ Event 06 - 16:30 - UEFA Europa League: Celta Vigo vs. AFC Bournemouth",
+        "Paramount+ Event 07 - 16:30 - UEFA Europa League: Viktoria Plzeň vs. Benfica",
+        "Paramount+ Event 08 - 16:30 - UEFA Europa League: RB Salzburg vs. Ararat-Armenia",
+        "Paramount+ Event 09 - 16:30 - UEFA Europa League: Dinamo Zagreb vs. Bayer Leverkusen",
+        "Paramount+ Event 10 - 16:30 - UEFA Europa League: Olympiacos vs. Milan",
+        "Paramount+ Event 11 - 16:30 - UEFA Europa Conference League: Heart of Midlothian vs. Monaco",
+        "Paramount+ Event 12 - 16:30 - UEFA Europa Conference League: Kauno Žalgiris vs. Riga FC",
+        "Paramount+ Event 13 - 16:30 - UEFA Europa Conference League: Egnatia vs. L. Red Imps",
+        "Paramount+ Event 14 - 16:30 - UEFA Europa Conference League: Ajax vs. FC Thun",
+        "Paramount+ Event 15 - 16:30 - UEFA Europa Conference League: Brann vs. AGF Aarhus",
+        "Paramount+ Event 16 - 16:30 - UEFA Europa Conference League: FC Iberia Tbilisi vs. Getafe",
+        "Paramount+ Event 17 - 16:30 - UEFA Europa Conference League: Pafos vs. FC Midtjylland",
+        "Paramount+ Event 18 - 16:30 - UEFA Europa Conference League: Brighton vs. Craiova",
+        "Paramount+ Event 19 - 16:30 - UEFA Europa Conference League: Jablonec vs. FC Lugano",
         "Paramount+ Event 20 - 19:20 - Uefa Europa League: Torreense vs. Celtic",
         "Paramount+ Event 21 - 19:20 - Uefa Europa League: Sparta Praha vs. AZ Alkmaar",
         "Paramount+ Event 22 - 19:20 - Uefa Europa League: Sunderland vs. Jagiellonia Białystok",
@@ -1317,8 +1537,8 @@
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd Test D3 - 21:30 28/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd Test D3 - 21:30 28/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Heat v Scorchers - 00:30 29/11/2026",
-        "Sky Sport 5 - LIVE: Australian PGA Champ Round 4 - 01:00 29/11/2026",
         "Sky Sport 3 - LIVE: Rapid League: Whai v Kahu - 01:00 29/11/2026",
+        "Sky Sport 5 - LIVE: Australian PGA Champ Round 4 - 01:00 29/11/2026",
         "Sky Sport 3 - LIVE: Tauihi: Whai v Kahu - 02:00 29/11/2026",
         "Sky Sport 4 - LIVE: WBBL: Strikers v Hurricanes - 04:30 29/11/2026",
         "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 06:40 29/11/2026",
@@ -1327,23 +1547,26 @@
         "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 09:05 29/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 2: Rd13 Feature Race - 11:55 29/11/2026",
         "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 12:40 29/11/2026",
+        "Sky Sport 4 - LIVE: Players Champ: Day 3 Aft Session - 13:00 29/11/2026",
         "Sky Sport 1 - LIVE: NC: Scotland v Argentina 7th PO - 13:00 29/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Scotland v Argentina 7th PO - 13:00 29/11/2026",
-        "Sky Sport 4 - LIVE: Players Champ: Day 3 Aft Session - 13:00 29/11/2026",
-        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 14:30 29/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Qatar Pre Race - 14:30 29/11/2026",
+        "Sky Sport 3 - LIVE: SVNS: Dubai Day 2 - 14:30 29/11/2026",
         "Sky Sport 2 - LIVE:FIA Formula 1: Qatar Grand Prix - 15:55 29/11/2026",
         "Sky Sport 1 - LIVE: NC: France v South Africa Final - 16:30 29/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: France v South Africa Final - 16:30 29/11/2026",
-        "Sky Sport 5 - LIVE: Mosconi Cup: Day 3 - 18:00 29/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Chequered Flag - 18:00 29/11/2026",
-        "Sky Sport 3 - LIVE: Players Champ: Day 3 Eve Session - 19:00 29/11/2026",
+        "Sky Sport 5 - LIVE: Mosconi Cup: Day 3 - 18:00 29/11/2026",
         "Sky Sport 2 - LIVE: Ted's Notebook: Qatar - 19:00 29/11/2026",
+        "Sky Sport 3 - LIVE: Players Champ: Day 3 Eve Session - 19:00 29/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd Test D4 - 21:30 29/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd Test D4 - 21:30 29/11/2026",
+        "Sky Sport 2 - LIVE: World Darts Championship Draw - 16:30 30/11/2026",
         "Sky Sport 3 - LIVE: Mosconi Cup: Day 4 - 18:00 30/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd Test D5 - 21:30 30/11/2026",
-        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd Test D5 - 21:30 30/11/2026"
+        "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd Test D5 - 21:30 30/11/2026",
+        "Sky Sport 1 - LIVE: Australia v England: 5th T20 - 07:30 02/12/2026",
+        "Sky Sport 1 UHD - LIVE: Australia v England: 5th T20 - 07:30 02/12/2026"
       ],
       "sections": [],
       "events": []
@@ -1386,8 +1609,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : The JD Bunkis Podcast: Nov. 26 - Thu 26/11 2:00pm",
-        "Sportsnet 02 : The Raptors Show: Nov. 26 - Thu 26/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 26 - Thu 26/11 5:00pm",
         "Sportsnet 01 : Real Kyper & Bourne: Nov. 26 - Thu 26/11 9:00pm",
         "Sportsnet 02 : The FAN Pregame: Nov. 26 - Thu 26/11 11:00pm",
@@ -1409,7 +1630,8 @@
         "Sportsnet 12 : Los Angeles @ Anaheim - Fri 27/11 9:00pm",
         "Sportsnet 11 : Real Kyper & Bourne: Nov. 27 - Fri 27/11 9:00pm",
         "Sportsnet 14 : Vegas @ San Jose - Fri 27/11 9:00pm",
-        "Sportsnet 03 : New York Rangers @ Chicago - Fri 27/11 10:30pm"
+        "Sportsnet 03 : New York Rangers @ Chicago - Fri 27/11 10:30pm",
+        "Sportsnet 15 : The FAN Pregame: Nov. 27 - Fri 27/11 11:00pm"
       ],
       "sections": [],
       "events": []
