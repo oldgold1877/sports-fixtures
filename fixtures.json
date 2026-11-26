@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-26T08:15:31.907692+00:00",
+  "scraped_at": "2026-11-26T12:01:00.683405+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -7,29 +7,7 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [],
-      "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 12 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 1 - Wed 25/11"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 13 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 2 - Wed 25/11"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 14 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 3 - Wed 25/11"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 15 - WST JUDGEMENT DAY | Leasing Options UK Championship 2026 - Stream 4 - Wed 25/11"
-            }
-          ]
-        }
-      ],
+      "sections": [],
       "events": []
     },
     {
@@ -58,7 +36,18 @@
         "EVENT 04 - 28-Nov 07:04AM-07:28AM - HSBC SVNS Series 2027: New Zealand vs Japan - Dubai Day 1, Women [SG]",
         "EVENT 02 - 28-Nov 07:28AM-07:50AM - HSBC SVNS Series 2027: Australia vs USA - Dubai Day 1, Men [SG]",
         "EVENT 03 - 28-Nov 07:50AM-08:12AM - HSBC SVNS Series 2027: South Africa vs Argentina - Dubai Day 1, Men [SG]",
-        "EVENT 02 - 28-Nov 08:12AM-08:34AM - HSBC SVNS Series 2027: Spain vs France  - Dubai Day 1, Men [SG]"
+        "EVENT 02 - 28-Nov 08:12AM-08:34AM - HSBC SVNS Series 2027: Spain vs France  - Dubai Day 1, Men [SG]",
+        "EVENT 03 - 28-Nov 08:34AM-08:58AM - HSBC SVNS Series 2027: New Zealand vs Fiji  - Dubai Day 1, Men [SG]",
+        "EVENT 02 - 28-Nov 08:58AM-09:20AM - HSBC SVNS Series 2027: France vs Spain - Dubai Day 1, Women [SG]",
+        "EVENT 01 - 28-Nov 09:20AM-09:42AM - HSBC SVNS Series 2027: Australia vs USA - Dubai Day 1, Women [SG]",
+        "EVENT 02 - 28-Nov 09:42AM-10:04AM - HSBC SVNS Series 2027: Japan vs Fiji - Dubai Day 1, Women [SG]",
+        "EVENT 03 - 28-Nov 10:04AM-10:31AM - HSBC SVNS Series 2027: New Zealand vs Canada - Dubai Day 1, Women [SG]",
+        "EVENT 02 - 28-Nov 10:31AM-10:53AM - HSBC SVNS Series 2027: Argentina vs USA  - Dubai Day 1, Men [SG]",
+        "EVENT 03 - 28-Nov 10:53AM-11:15AM - HSBC SVNS Series 2027: South Africa vs Australia  - Dubai Day 1, Men [SG]",
+        "EVENT 02 - 28-Nov 11:15AM-11:37AM - HSBC SVNS Series 2027: Fiji vs France  - Dubai Day 1, Men [SG]",
+        "EVENT 04 - 28-Nov 11:20AM-01:30PM - Singapore Premier League 2026/27 Balestier Khalsa FC vs Hougang United FC - Balestier Khalsa FC vs Hougang United FC [SG]",
+        "EVENT 03 - 28-Nov 11:37AM-12:00PM - HSBC SVNS Series 2027: New Zealand vs Spain  - Dubai Day 1, Men [SG]",
+        "EVENT 01 - 28-Nov 12:00PM-02:00PM - Bundesliga 2 2026/27 (Join in Progress): Hertha vs Karlsruher [SG]"
       ],
       "sections": [],
       "events": []
@@ -844,6 +833,18 @@
               "category": "SPORT | USA & CANADA"
             }
           ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "15:00",
+          "name": "ITALY - CZECH REPUBLIC",
+          "datetime": "2026-11-27 15:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
         }
       ]
     },
@@ -883,8 +884,10 @@
       "fixtures": [
         "BBC Events 01 - no_brand_title: New UK-EU treaties Have 10-year Termination Clause, BBC understands - 26/11/2026 07:59 - 07:29",
         "BBC Events 02 - no_brand_title: BBC Weather Live - 26/11/2026 04:59 - 20:00",
-        "BBC Events 03 - UEFA Champions League: Match of the Day: Matchday 5 - 26/11/2026 06:00 - 08:40",
-        "BBC Events 11 - no_brand_title: BBC News - 25/11/2026 10:33 - 08:45"
+        "BBC Events 03 - no_brand_title: BBC News - 26/11/2026 10:17 - 07:49",
+        "BBC Events 04 - Davis Cup: Great Britain v Germany  - 26/11/2026 09:00 - 15:59",
+        "BBC Events 05 - no_brand_title: Stalking Laws Shake-Up - 26/11/2026 09:02 - 08:03",
+        "BBC Events 06 - no_brand_title: UK Net Migration Falls to Lowest Since 1997, Outside Pandemic - 26/11/2026 11:13 - 16:58"
       ],
       "sections": [],
       "events": []
@@ -921,18 +924,15 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 03 - 26/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 12 Green Bay Packers vs. Los Angeles Rams",
         "ESPN Event 01 - 27/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: TCU vs. #11 Texas Tech",
         "ESPN Event 01 - 27/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 12 Chicago Bears vs. Detroit Lions",
         "ESPN Event 02 - 27/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Southern Hoiho (Round 10)",
         "ESPN Event 03 - 27/11/2026 - 08:00 UK / 03:00 ET - Football - NFL: NFL Football: 2026 Week 12 Philadelphia Eagles vs. Dallas Cowboys",
         "ESPN Event 04 - 27/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Macarthur FC vs. Melbourne City FC",
         "ESPN Event 01 - 27/11/2026 - 10:30 UK / 05:30 ET - Football - NFL: NFL Football: 2026 Week 12 Kansas City Chiefs vs. Buffalo Bills",
-        "ESPN Event 02 - 27/11/2026 - 12:50 UK / 07:50 ET - Soccer - Spanish LALIGA: Levante UD vs. Racing Santander (Matchday #14)",
         "ESPN Event 01 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Toledo vs. Ohio",
         "ESPN Event 02 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Tulsa vs. UTSA",
-        "ESPN Event 03 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast - Mississippi State vs. Ole Miss",
-        "ESPN Event 04 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Mississippi State vs. #22 Ole Miss",
+        "ESPN Event 03 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Mississippi State vs. #22 Ole Miss",
         "ESPN Event 05 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Toronto Maple Leafs vs. Boston Bruins",
         "ESPN Event 06 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Utah Mammoth vs. Nashville Predators",
         "ESPN Event 07 - 27/11/2026 - 18:00 UK / 13:00 ET - Hockey - NHL: Calgary Flames vs. New Jersey Devils",
@@ -947,7 +947,7 @@
         "ESPN Event 16 - 27/11/2026 - 20:30 UK / 15:30 ET - Hockey - NHL: Los Angeles Kings vs. Anaheim Ducks",
         "ESPN Event 17 - 27/11/2026 - 20:30 UK / 15:30 ET - Hockey - NHL: Vegas Golden Knights vs. San Jose Sharks",
         "ESPN Event 18 - 27/11/2026 - 20:30 UK / 15:30 ET - Hockey - NHL: Colorado Avalanche vs. Minnesota Wild",
-        "ESPN Event 19 - 27/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: SkyCast - Florida vs. Florida State",
+        "ESPN Event 19 - 27/11/2026 - 20:30 UK / 15:30 ET - Football - NCAA Football: SkyCast - #20 Florida vs. Florida State",
         "ESPN Event 20 - 27/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: #20 Florida vs. Florida State",
         "ESPN Event 21 - 27/11/2026 - 20:40 UK / 15:40 ET - Football - NCAA Football: En Español-#20 Florida vs. Florida State",
         "ESPN Event 01 - 27/11/2026 - 21:00 UK / 16:00 ET - Football - NFL: NFL Football: 2026 Week 12 Kansas City Chiefs vs. Buffalo Bills",
@@ -955,9 +955,8 @@
         "ESPN Event 03 - 28/11/2026 - 00:00 UK / 19:00 ET - Football - NFL: NFL Football: 2026 Week 12 Denver Broncos vs. Pittsburgh Steelers",
         "ESPN Event 04 - 28/11/2026 - 00:00 UK / 19:00 ET - Hockey - NHL: Winnipeg Jets vs. New York Islanders",
         "ESPN Event 05 - 28/11/2026 - 00:30 UK / 19:30 ET - Hockey - NHL: Seattle Kraken vs. Edmonton Oilers",
-        "ESPN Event 06 - 28/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: SkyCast - Texas vs. Texas A&M",
+        "ESPN Event 06 - 28/11/2026 - 00:30 UK / 19:30 ET - Football - NCAA Football: SkyCast - #3 Texas vs. Texas A&M",
         "ESPN Event 07 - 28/11/2026 - 00:37 UK / 19:37 ET - Football - NCAA Football: #3 Texas vs. Texas A&M",
-        "ESPN Event 08 - 28/11/2026 - 00:37 UK / 19:37 ET - Football - NCAA Football: En Español-#3 Texas vs. Texas A&M",
         "ESPN Event 01 - 28/11/2026 - 04:00 UK / 23:00 ET - Football - NFL: NFL Football: Prime Vision 2026 Week 12 Chicago Bears vs. Detroit Lions",
         "ESPN Event 02 - 28/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Tokomanawa Queens vs. Mainland Pouakai (Round 10)",
         "ESPN Event 01 - 28/11/2026 - 08:00 UK / 03:00 ET - Football - NFL: San Francisco 49ers vs. Seattle Seahawks",
@@ -1355,7 +1354,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sports+ 1 | Sydney Sixers vs Melbourne Stars",
         "Fulham vs Bournemouth",
         "L Orient vs Peterborough",
         "Crystal Palace vs Hull",
@@ -1388,7 +1386,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 01 : Sportsnet Central: Nov. 25 - Thu 26/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 26 - Thu 26/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 26 - Thu 26/11 4:00pm",
         "Sportsnet 03 : The FAN Hockey Show: Nov. 26 - Thu 26/11 5:00pm",
