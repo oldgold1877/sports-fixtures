@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-27T00:57:05.053554+00:00",
+  "scraped_at": "2026-11-27T08:15:35.635519+00:00",
   "categories": [
     {
       "name": "LIVE EVENTS",
@@ -8,23 +8,6 @@
       "status": "ok",
       "fixtures": [],
       "sections": [
-        {
-          "section": "Sports Scene",
-          "entries": [
-            {
-              "type": "date",
-              "text": "Friday 27 November 2026"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 03 - 01:20-04:30 - NFL: Kansas City Chiefs at Buffalo Bills 1080p"
-            },
-            {
-              "type": "fixture",
-              "text": "SPORTS SCENE 09 - 01:20-04:30 - NFL: Kansas City Chiefs at Buffalo Bills 1080p"
-            }
-          ]
-        },
         {
           "section": "Live Events",
           "entries": [
@@ -306,18 +289,6 @@
         {
           "sport": "FOOTBALL",
           "time": "17:00",
-          "name": "IOWA - NEBRASKA",
-          "datetime": "2026-11-27 17:00:00",
-          "channels": [
-            {
-              "name": "CBS",
-              "category": "TV | USA & CANADA"
-            }
-          ]
-        },
-        {
-          "sport": "FOOTBALL",
-          "time": "17:00",
           "name": "MISSISSIPPI - MISSISSIPPI STATE",
           "datetime": "2026-11-27 17:00:00",
           "channels": [
@@ -348,6 +319,18 @@
             {
               "name": "ESPN",
               "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "FOOTBALL",
+          "time": "17:08",
+          "name": "IOWA - NEBRASKA",
+          "datetime": "2026-11-27 17:08:00",
+          "channels": [
+            {
+              "name": "CBS",
+              "category": "TV | USA & CANADA"
             }
           ]
         },
@@ -473,6 +456,54 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "19:30",
+          "name": "UCLA - GEORGETOWN",
+          "datetime": "2026-11-27 19:30:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "20:30",
+          "name": "MARYLAND - TBD",
+          "datetime": "2026-11-27 20:30:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "22:00",
+          "name": "ST. MARY'S - TEXAS",
+          "datetime": "2026-11-27 22:00:00",
+          "channels": [
+            {
+              "name": "FOX",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "22:30",
+          "name": "KANSAS STATE - MICHIGAN",
+          "datetime": "2026-11-27 22:30:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "23:00",
           "name": "ILLINOIS - WESTERN KENTUCKY",
           "datetime": "2026-11-27 23:00:00",
@@ -579,6 +610,18 @@
           "channels": [
             {
               "name": "TSN 2",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "TENNIS",
+          "time": "15:00",
+          "name": "ITALY - CZECH REPUBLIC",
+          "datetime": "2026-11-27 15:00:00",
+          "channels": [
+            {
+              "name": "TSN 3",
               "category": "SPORT | USA & CANADA"
             }
           ]
@@ -1015,6 +1058,42 @@
         },
         {
           "sport": "BASKETBALL",
+          "time": "01:30",
+          "name": "ALABAMA - MIAMI",
+          "datetime": "2026-11-28 01:30:00",
+          "channels": [
+            {
+              "name": "ESPNU",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "02:00",
+          "name": "LOUISVILLE - TENNESSEE",
+          "datetime": "2026-11-28 02:00:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
+          "time": "04:30",
+          "name": "SAN DIEGO STATE - TBD",
+          "datetime": "2026-11-28 04:30:00",
+          "channels": [
+            {
+              "name": "ESPN",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "BASKETBALL",
           "time": "18:00",
           "name": "NORTHEASTERN - MERRIMACK",
           "datetime": "2026-11-28 18:00:00",
@@ -1170,10 +1249,34 @@
           ]
         },
         {
+          "sport": "TENNIS",
+          "time": "11:00",
+          "name": "GREAT BRITAIN - SPAIN",
+          "datetime": "2026-11-28 11:00:00",
+          "channels": [
+            {
+              "name": "TSN 4",
+              "category": "SPORT | USA & CANADA"
+            }
+          ]
+        },
+        {
           "sport": "WINTERSPORTS",
           "time": "17:30",
           "name": "GIANT SLALOM (WOMEN) - RACE 2",
           "datetime": "2026-11-28 17:30:00",
+          "channels": [
+            {
+              "name": "NBC",
+              "category": "TV | USA & CANADA"
+            }
+          ]
+        },
+        {
+          "sport": "WINTERSPORTS",
+          "time": "18:45",
+          "name": "SUPER G (MEN)",
+          "datetime": "2026-11-28 18:45:00",
           "channels": [
             {
               "name": "NBC",
@@ -1217,11 +1320,10 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "BBC Events 01 - no_brand_title: New UK-EU treaties Have 10-year Termination Clause, BBC understands - 26/11/2026 07:59 - 07:29",
-        "BBC Events 02 - Autumnwatch: Autumn Calm - 27/11/2026 00:00 - 06:00",
-        "BBC Events 03 - no_brand_title: BBC News - 26/11/2026 10:17 - 07:49",
-        "BBC Events 05 - no_brand_title: Stalking Laws Shake-Up - 26/11/2026 09:02 - 08:03",
-        "BBC Events 07 - no_brand_title: UK Seasons Changing - 26/11/2026 11:56 - 11:23"
+        "BBC Events 04 - Autumnwatch: Autumn Calm - 27/11/2026 06:00 - 12:00",
+        "BBC Events 06 - no_brand_title: BBC Weather Live - 27/11/2026 06:01 - 20:00",
+        "BBC Events 07 - no_brand_title: UK Seasons Changing - 26/11/2026 11:56 - 11:23",
+        "BBC Events 08 - no_brand_title: Woman Praises Man Who Saved Her From Train Attacker - 27/11/2026 06:27 - 01:55"
       ],
       "sections": [],
       "events": []
@@ -1258,15 +1360,14 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "ESPN Event 01 - 27/11/2026 - 01:00 UK / 20:00 ET - Football - NCAA Football: TCU vs. #11 Texas Tech",
-        "ESPN Event 01 - 27/11/2026 - 05:30 UK / 00:30 ET - Football - NFL: NFL Football: 2026 Week 12 Chicago Bears vs. Detroit Lions",
         "ESPN Event 02 - 27/11/2026 - 06:30 UK / 01:30 ET - Basketball - Tauihi Basketball New Zealand: Northern Kahu vs. Southern Hoiho (Round 10)",
         "ESPN Event 03 - 27/11/2026 - 08:00 UK / 03:00 ET - Football - NFL: NFL Football: 2026 Week 12 Philadelphia Eagles vs. Dallas Cowboys",
         "ESPN Event 04 - 27/11/2026 - 08:35 UK / 03:35 ET - Soccer - Australian A-League Men: Macarthur FC vs. Melbourne City FC",
         "ESPN Event 01 - 27/11/2026 - 10:30 UK / 05:30 ET - Football - NFL: NFL Football: 2026 Week 12 Kansas City Chiefs vs. Buffalo Bills",
         "ESPN Event 01 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Toledo vs. Ohio",
         "ESPN Event 02 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Tulsa vs. UTSA",
-        "ESPN Event 03 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Mississippi State vs. #22 Ole Miss",
+        "ESPN Event 03 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: SkyCast+: Mississippi State vs. #22 Ole Miss",
+        "ESPN Event 04 - 27/11/2026 - 17:00 UK / 12:00 ET - Football - NCAA Football: Mississippi State vs. #22 Ole Miss",
         "ESPN Event 05 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Toronto Maple Leafs vs. Boston Bruins",
         "ESPN Event 06 - 27/11/2026 - 17:30 UK / 12:30 ET - Hockey - NHL: Utah Mammoth vs. Nashville Predators",
         "ESPN Event 07 - 27/11/2026 - 18:00 UK / 13:00 ET - Hockey - NHL: Calgary Flames vs. New Jersey Devils",
@@ -1394,7 +1495,12 @@
         "Lakers at Spurs - Sat 28/11 02:30am",
         "Nuggets at Jazz - Sat 28/11 02:30am",
         "Pelicans at Clippers - Sat 28/11 02:30am",
-        "Warriors at Trail Blazers - Sat 28/11 02:30am"
+        "Warriors at Trail Blazers - Sat 28/11 02:30am",
+        "Magic at Wizards - Sat 28/11 10:00pm",
+        "Nets at Hornets - Sat 28/11 11:00pm",
+        "Pacers at Bulls - Sun 29/11 01:00am",
+        "Thunder at Bucks - Sun 29/11 01:00am",
+        "76ers at Rockets - Sun 29/11 01:30am"
       ],
       "sections": [],
       "events": []
@@ -1501,13 +1607,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Peacock 1 : National Dog Show 2026 (Dog Shows) - Thu 26/11 5:00pm",
-        "Peacock 2 : National Dog Show 2026 (Dog Shows) - Thu 26/11 6:00pm",
-        "Peacock 1 : National Dog Show 2026 (Dog Shows) - Thu 26/11 7:00pm",
-        "Peacock 2 : National Dog Show 2026 (Dog Shows) - Thu 26/11 8:00pm",
-        "Peacock 1 : Chiefs vs. Bills (NFL) - Fri 27/11 12:00am",
-        "Peacock 2 : Rhythm Dance (Figure Skating) - Fri 27/11 3:35am",
-        "Peacock 1 : Pairs Short Program (Figure Skating) - Fri 27/11 5:35am",
         "Peacock 1 : Women's Short Program (Figure Skating) - Fri 27/11 7:15am",
         "Peacock 1 : Men's Short Program (Figure Skating) - Fri 27/11 10:00am",
         "Peacock 1 : Boston College vs. Notre Dame (Hockey) - Fri 27/11 8:00pm",
@@ -1540,7 +1639,9 @@
         "Peacock 1 : Men's GS: Copper Run 2 (Alpine Skiing) - Sun 29/11 8:00pm",
         "Peacock 1 : 2026 National Championship Final (Competition) - Sun 29/11 10:00pm",
         "Peacock 1 : Raiders vs. Browns (NFL) - Mon 30/11 12:00am",
-        "Peacock 2 : Sunday Night Football Final (NFL) - Mon 30/11 4:30am"
+        "Peacock 2 : Sunday Night Football Final (NFL) - Mon 30/11 4:30am",
+        "Peacock 1 : Performance View: LAL vs. HOU (NBA) - Tue 01/12 12:00am",
+        "Peacock 2 : Lakers vs. Rockets (NBA) - Tue 01/12 12:00am"
       ],
       "sections": [],
       "events": []
@@ -1548,7 +1649,7 @@
     {
       "name": "RUGBY EVENTS",
       "type": "plain",
-      "last_updated": "Last updated: Thu 26 Nov 2026 05:00:06 UK",
+      "last_updated": "Last updated: Fri 27 Nov 2026 05:00:04 UK",
       "status": "ok",
       "fixtures": [
         "FloSports 01 - French Top 14: Bordeaux-Begles vs Montpellier - 28 Nov 13:30 UK / 08:30 ET / 05:30 PT",
@@ -1568,12 +1669,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sky Sport 3 - LIVE: Australian PGA Champ Round 2 - 01:00 27/11/2026",
-        "Sky Sport 6 - LIVE: AO Asia-Pacific Wildcard: SF - 03:00 27/11/2026",
-        "Sky Sport 4 - LIVE: Rapid League: Hoiho v Kahu - 05:30 27/11/2026",
-        "Sky Sport 4 - LIVE: Tauihi: Hoiho v Kahu - 06:30 27/11/2026",
-        "Sky Sport 1 - LIVE: Australia v England: 3rd T20 - 07:30 27/11/2026",
-        "Sky Sport 1 UHD - LIVE: Australia v England: 3rd T20 - 07:30 27/11/2026",
         "Sky Sport 4 - LIVE: ALM: Macarthur v Melbourne Victory - 08:30 27/11/2026",
         "Sky Sport 3 - LIVE: WBBL: Scorchers v Hurricanes - 10:05 27/11/2026",
         "Sky Sport 5 - LIVE: FIA Formula 2: Rd13 Practice - 10:55 27/11/2026",
@@ -1602,16 +1697,16 @@
         "Sky Sport 4 - LIVE: WBBL: Thunder v Sixers - 08:10 28/11/2026",
         "Sky Sport Select - LIVE: FIA Formula 2: Rd13 Qualifying - 10:30 28/11/2026",
         "Sky Sport 3 - LIVE: SVNS: Dubai Day 1 - 12:40 28/11/2026",
-        "Sky Sport 5 - LIVE: Players Champ: Day 2 Aft Session - 13:00 28/11/2026",
         "Sky Sport 1 - LIVE: NC: Wales v Japan 9th Playoff - 13:00 28/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: Wales v Japan 9th Playoff - 13:00 28/11/2026",
+        "Sky Sport 5 - LIVE: Players Champ: Day 2 Aft Session - 13:00 28/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Qatar P3 - 14:15 28/11/2026",
         "Sky Sport 1 - LIVE: NC: England v All Blacks 3rd PO - 15:45 28/11/2026",
         "Sky Sport 1 UHD - LIVE: NC: England v All Blacks 3rd PO - 15:45 28/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 2: Rd13 Sprint Race - 16:10 28/11/2026",
         "Sky Sport 2 - LIVE: FIA Formula 1: Qatar Qual - 17:15 28/11/2026",
         "Sky Sport 6 - LIVE: Mosconi Cup: Day 2 - 18:00 28/11/2026",
-        "Sky Sport 3 - LIVE: PWR: Trailfinders v Harlequins - 18:55 28/11/2026",
+        "Sky Sport Select - LIVE: PWR: Trailfinders v Harlequins - 18:55 28/11/2026",
         "Sky Sport 4 - LIVE: Players Champ: Day 2 Eve Session - 19:00 28/11/2026",
         "Sky Sport 2 - LIVE: Ted's Notebook: Qatar Quali - 20:00 28/11/2026",
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd Test D3 - 21:30 28/11/2026",
@@ -1646,7 +1741,12 @@
         "Sky Sport 1 - LIVE: BLACKCAPS v India: 2nd Test D5 - 21:30 30/11/2026",
         "Sky Sport 1 UHD - LIVE: BLACKCAPS v India: 2nd Test D5 - 21:30 30/11/2026",
         "Sky Sport 1 - LIVE: Australia v England: 5th T20 - 07:30 02/12/2026",
-        "Sky Sport 1 UHD - LIVE: Australia v England: 5th T20 - 07:30 02/12/2026"
+        "Sky Sport 1 UHD - LIVE: Australia v England: 5th T20 - 07:30 02/12/2026",
+        "Sky Sport 4 - LIVE: SS: NSW v W Australia D1 - 23:25 02/12/2026",
+        "Sky Sport 5 - LIVE: SS: Victoria v Queensland D1 - 23:25 02/12/2026",
+        "Sky Sport 6 - LIVE: SS: S Australia v Tasmania D1 - 23:55 02/12/2026",
+        "Sky Sport 1 - LIVE: Golf: Australian Open Round 1 - 01:00 03/12/2026",
+        "Sky Sport 1 UHD - LIVE: Golf: Australian Open Round 1 - 01:00 03/12/2026"
       ],
       "sections": [],
       "events": []
@@ -1663,17 +1763,20 @@
         "Barnsley vs Wycombe",
         "Sunderland vs Spurs",
         "Blackpool vs Luton",
+        "Perth Scorchers  vs  Hobart Hurricanes",
+        "Forest vs Chelsea",
         "Lincoln vs Wolves",
         "Bradford vs Mk Dons",
         "Blackburn vs Charlton",
         "Burton vs Wigan",
-        "Mk Dons vs Notts",
+        "Bristol R vs Tranmere",
         "Cambridge U vs Leicester",
+        "Mk Dons vs Notts",
+        "Huddersfield vs Stevenage",
         "Peterborough vs Cambridge U",
         "Accrington vs Crewe",
-        "Bristol R vs Tranmere",
-        "Barnet vs Rotherham",
         "Exeter vs Crawley",
+        "Barnet vs Rotherham",
         "Cheltenham vs Rochdale",
         "Chesterfield vs Exeter",
         "Crawley vs Port Vale",
@@ -1689,7 +1792,6 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "Sportsnet 03 : TNA iMPACT! - Fri 27/11 1:00am",
         "Sportsnet 01 : Sportsnet Central: Nov. 26 - Fri 27/11 10:00am",
         "Sportsnet 01 : The JD Bunkis Podcast: Nov. 27 - Fri 27/11 2:00pm",
         "Sportsnet 02 : The Raptors Show: Nov. 27 - Fri 27/11 4:00pm",
@@ -1711,7 +1813,10 @@
         "Sportsnet 15 : The FAN Pregame: Nov. 27 - Fri 27/11 11:00pm",
         "Sportsnet 16 : Philadelphia @ Indiana - Sat 28/11 12:30am",
         "Sportsnet 17 : Winnipeg @ New York Islanders - Sat 28/11 12:30am",
-        "Sportsnet 18 : Winnipeg @ New York Islanders - Sat 28/11 12:30am"
+        "Sportsnet 18 : Winnipeg @ New York Islanders - Sat 28/11 12:30am",
+        "Sportsnet 04 : Pittsburgh @ Buffalo - Sat 28/11 1:00am",
+        "Sportsnet 05 : Seattle @ Edmonton - Sat 28/11 1:00am",
+        "Sportsnet 01 : Sportsnet Central: Nov. 27 - Sat 28/11 10:00am"
       ],
       "sections": [],
       "events": []
@@ -1773,7 +1878,17 @@
         "Stan 03 : Liverpool v Sunderland - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:01pm",
         "Stan 07 : Manchester City v Leeds United - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:01pm",
         "Stan 02 : Newcastle United v Manchester United - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:01pm",
-        "Stan 05 : Tottenham Hotspur v Fulham - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:01pm"
+        "Stan 05 : Tottenham Hotspur v Fulham - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:01pm",
+        "Stan 09 : Chelsea v Crystal Palace - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:21pm",
+        "Stan 10 : Hull City v Nottingham Forest - Premier League Matchweek 13 2026/2027 - Wed 02/12 7:21pm",
+        "Stan 01 : 4K •Tottenham Hotspur v Fulham - Premier League Matchweek 13 2026/2027 - Thu 03/12 7:51pm",
+        "Stan 01 : FC Tokyo v Kawasaki Frontale - J.League 2026 - Fri 04/12 9:26am",
+        "Stan 01 : Wimborne Town v Bradford City - FA Cup 2026/2027 - Fri 04/12 7:21pm",
+        "Stan 02 : Bath v Bristol - PREM Rugby Round 6 2026/27 - Fri 04/12 7:41pm",
+        "Stan 03 : Anyang v Gwangju - K League 2026 - Sat 05/12 4:56am",
+        "Stan 02 : Jeju v Bucheon - K League 2026 - Sat 05/12 4:56am",
+        "Stan 01 : Urawa Red Diamonds v Nagoya Grampus - J.League 2026 - Sat 05/12 4:56am",
+        "Stan 04 : Cape Town • Day 1 (Session 1) - World Rugby Sevens Series 2026/27 - Sat 05/12 8:26am"
       ],
       "sections": [],
       "events": []
@@ -1793,9 +1908,35 @@
       "last_updated": "",
       "status": "ok",
       "fixtures": [
-        "TSN 01 : 2026 Davis Cup Finals: Quarterfinals - Day #3 - Thu 26/11 9:00am",
-        "TSN 03 : NCAA Men's Basketball: Louisville vs. St. John's - Fri 27/11 2:00am",
-        "TSN 01 : NCAA Men's Basketball: Baylor vs. Gonzaga - Fri 27/11 4:30am"
+        "TSN 02 : HSBC Rugby SVNS 3 Dubai: Day 1 - Pool Play - Fri 27/11 7:56am",
+        "TSN 04 : Formula 1 Driver Tracker - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 05 : Formula 1 Mixed On-Board Camera - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 06 : Formula 1 On-Board Camera: Lance Stroll - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 01 : Formula 1 On-Board Camera: Lando Norris - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 07 : Formula 1 On-Board Camera: Max Verstappen - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 08 : Formula 1 Pit Lane - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 03 : Formula 1 Timing Channel - Qatar Grand Prix Practice #1 - Fri 27/11 1:20pm",
+        "TSN 09 : Formula 2 Qualifying: Lusail - Fri 27/11 2:55pm",
+        "TSN 11 : Formula 1 Driver Tracker - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 12 : Formula 1 Mixed On-Board Camera - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 16 : Formula 1 On-Board Camera: Lance Stroll - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 14 : Formula 1 On-Board Camera: Lando Norris - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 13 : Formula 1 On-Board Camera: Max Verstappen - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 10 : Formula 1 Pit Lane - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 15 : Formula 1 Timing Channel - Qatar Grand Prix Practice #2 - Fri 27/11 4:50pm",
+        "TSN 19 : NCAA Football: Mississippi State vs. Ole Miss - Fri 27/11 5:00pm",
+        "TSN 18 : NCAA Football: Tulsa vs. UTSA - Fri 27/11 5:00pm",
+        "TSN 17 : Rich Eisen Show - Fri 27/11 5:00pm",
+        "TSN 01 : NCAA Men's Basketball: TBD vs. TBD - Fri 27/11 6:00pm",
+        "TSN 02 : LaLiga: Levante vs. Racing Santander - Fri 27/11 7:48pm",
+        "TSN 03 : NCAA Men's Basketball: TBD vs. TBD - Fri 27/11 8:00pm",
+        "TSN 04 : NCAA Women's Hockey: Yale vs. Quinnipiac - Fri 27/11 8:00pm",
+        "TSN 05 : NCAA Football: Temple vs. Memphis - Fri 27/11 8:30pm",
+        "TSN 01 : NCAA Men's Hockey: Ohio State vs. Union - Sat 28/11 12:00am",
+        "TSN 02 : NCAA Men's Basketball: TBD vs. TBD - Sat 28/11 2:00am",
+        "TSN 03 : NBA on TSN: Nuggets vs. Jazz - Sat 28/11 2:30am",
+        "TSN 04 : NCAA Men's Basketball: TBD vs. TBD - Sat 28/11 4:00am",
+        "TSN 01 : HSBC Rugby SVNS Dubai: Day 1 - Pool Play - Sat 28/11 5:55am"
       ],
       "sections": [],
       "events": []
@@ -1805,7 +1946,15 @@
       "type": "plain",
       "last_updated": "",
       "status": "ok",
-      "fixtures": [],
+      "fixtures": [
+        "ION\",\"minimumBillingPeriods\":0,\"minimumCommitmentSchedule\":[],\"cancellationNoticePeriodDays\":0,\"subscriptionPeriod\":\"P2M\",\"subscriptionMarketingPricePeriod\":\"P1M\"},\"amounts\":[{\"id\":5610,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_X9kON16uUEKLcFBioqMF_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1669627439000,\"default\":true},{\"id\":9387,\"currency\":\"MXN\",\"scale\":2,\"amount\":18800,\"taxInclusive\":true,\"sku\":\"ufc_NNsVSPngsuLR6V6q4YTG_MXN\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":2194,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":314,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":9400,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":114367,\"currency\":\"MXN\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1768420889000,\"default\":false},{\"id\":5613,\"currency\":\"USD\",\"scale\":2,\"amount\":999,\"taxInclusive\":true,\"sku\":\"ufc_qHnO4gwEdWTVbJ9Co0iU_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":17,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":117,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":6078,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":500,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762819134000,\"default\":false},{\"id\":5607,\"currency\":\"GBP\",\"scale\":2,\"amount\":899,\"taxInclusive\":true,\"sku\":\"ufc_GM6qsbLBCRWTggE8F1f8_GBP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":450,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":5469,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":105,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":15,\"currency\":\"GBP\",\"scale\":2},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5609,\"currency\":\"EUR\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_crITQgbVVlMgjNBqLCcH_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":9119,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":175,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":25,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":750,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5612,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_0raPtct2Yy57Ed7AfZAw_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5615,\"currency\":\"USD\",\"scale\":2,\"amount\":1499,\"taxInclusive\":true,\"sku\":\"ufc_wH5sweqzRwP912tsPfLx_USD\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":750,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":25,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":175,\"currency\":\"USD\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":9119,\"currency\":\"USD\",\"scale\":2},\"period\":\"P1Y\"}],\"effectiveFrom\":1762993074000,\"default\":false},{\"id\":5614,\"currency\":\"EUR\",\"scale\":2,\"amount\":1199,\"taxInclusive\":true,\"sku\":\"ufc_h4OYUffz4ueG1X6fumf0_EUR\",\"local\":true,\"periodAmounts\":[{\"amount\":{\"amount\":7294,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":20,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":140,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"},{\"amount\":{\"amount\":600,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"}],\"effectiveFrom\":1762993029000,\"default\":false},{\"id\":5608,\"currency\":\"EUR\",\"scale\":2,\"amount\":1350,\"taxInclusive\":true,\"sku\":\"ufc_hatIZOcAsQsiU864kmw3_EUR\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":675,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":8213,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":23,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":158,\"currency\":\"EUR\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5616,\"currency\":\"JPY\",\"scale\":0,\"amount\":1820,\"taxInclusive\":true,\"sku\":\"ufc_YyfuKpcwhNA5zvKZ4R5L_JPY\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":11072,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1Y\"},{\"amount\":{\"amount\":213,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P7D\"},{\"amount\":{\"amount\":910,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1M\"},{\"amount\":{\"amount\":31,\"currency\":\"JPY\",\"scale\":0},\"period\":\"P1D\"}],\"effectiveFrom\":1669627439000,\"default\":false},{\"id\":5611,\"currency\":\"PHP\",\"scale\":2,\"amount\":51500,\"taxInclusive\":true,\"sku\":\"ufc_CCeGN1NiEWD1ozMlFvZh_PHP\",\"local\":false,\"periodAmounts\":[{\"amount\":{\"amount\":313292,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1Y\"},{\"amount\":{\"amount\":25750,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1M\"},{\"amount\":{\"amount\":859,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P1D\"},{\"amount\":{\"amount\":6009,\"currency\":\"PHP\",\"scale\":2},\"period\":\"P7D\"}],\"effectiveFrom\":1762992906000,\"default\":false}],\"pauseConfiguration\":{\"status\":\"DISABLED\",\"periodOptions\":[]},\"androidIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"androidIapProductCodes\":[{\"productId\":\"dce.ufc.family.3.2month.subscription\"}],\"rokuIAPCodes\":[],\"amazonIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"microsoftIAPCodes\":[],\"samsungIAPCodes\":[],\"vizioIAPCodes\":[],\"trialDetails\":{\"period\":\"P0D\"},\"devicePlatforms\":[],\"defaultMarketingPricePeriod\":\"P1M\",\"licenceDisplayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"iOSIAPCodes\":[\"dce.ufc.family.3.2month.subscription\"],\"iOSIAPCode\":\"dce.ufc.family.3.2month.subscription\",\"androidIAPCode\":\"dce.ufc.family.3.2month.subscription\"},\"licenceStatus\":{\"status\":\"INACTIVE\",\"autoRenewingStatus\":\"UNKNOWN_RENEWING\",\"pauseState\":\"NOT_ALLOWED\"},\"displayStyle\":{\"highlighted\":false,\"styleableSize\":\"NORMAL\",\"titleDisplayMode\":\"TEXT\",\"monthlyBreakdown\":\"HIDE\"},\"status\":\"INACTIVE\",\"appliedDiscountStatus\":\"NOT_APPLICABLE\"},{\"licence\":{\"type\":\"STANDARD\",\"rokuIapCode\":\"dce.ufc.family.3.fightpass.annual.subscription.v2\",\"id\":3863,\"name\":\"Annual\",\"description\":\"- Everything included in Monthly subscription\\n- Save over 50% vs monthly subscription \\n- Offline viewing w/ downloads\\n\\n\",\"cta\":\"\",\"ctaControl\":\"BUTTON\",\"permitGuestAccess\":true,\"permitVpnAccess\":true,\"contentDownload\":{\"permission\":\"ALLOWED\",\"allowance\":10,\"period\":\"P14D\"},\"metaFields\":{},\"licenceRid\":3863,\"maxConcurrency\":1,\"maxAutoPlayConcurrency\":1,\"family\":30,\"rank\":39,\"licenceFamilyExid\":\"llf_30\",\"iapProductFamily\":{},\"purchaseStrategy\":{\"type\":\"SUBSCRIPT",
+        "CAGE WARRIORS 214: UNPLUGGED - Fri 27/11 6:00pm",
+        "ETERNAL MMA 113 - Sat 28/11 8:00am",
+        "CAGE WARRIORS 215 PRELIMS - Sat 28/11 6:00pm",
+        "CAGE WARRIORS 215: DAVIES VS VUCENIC - Sat 28/11 8:30pm",
+        "(ESPAÑOL) MMA MEXICO 10 - Sun 29/11 3:00am",
+        "MMA MEXICO 10 - Sun 29/11 3:00am"
+      ],
       "sections": [],
       "events": []
     }
